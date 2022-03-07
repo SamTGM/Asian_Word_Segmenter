@@ -1,0 +1,320 @@
+@UTF8
+@PID:	11312/c-00009729-1
+@Color words:	*CHI: 1 65535 0 0 *MOT: 1 0 32896 16448
+@Begin
+@Languages:	jpn
+@Participants:	CHI Ikuko Target_Child, MOT Mother, OBS Investigator
+@ID:	jpn|Okayama|CHI|4;02.|female|||Target_Child|||
+@ID:	jpn|Okayama|MOT||female|||Mother|||
+@ID:	jpn|Okayama|OBS||female|||Investigator|||
+@Comment:	4-18 female 4;2. name: I.M. siblings: older sister 7;
+	younger sister 1;
+@G:	page730
+@Types:	cross, toyplay, TD
+*CHI:	ohayoo .
+%ort:	おはよう.
+%com:	gyuunyuu o tori ni iku 牛乳を取りに行く
+%tim:	7:36
+*MOT:	ohayoo .
+%ort:	おはよう.
+*MOT:	moo okita no ?
+%ort:	もう起きたの?
+*CHI:	tsumetai no nomu ?
+%ort:	冷たいの飲む?
+*MOT:	Ikukosan wa kao o arawanai no ?
+%ort:	郁子さんは顔を洗わないの?
+%com:	ko wa saki ni semmen o sumasete iru 子は先に 洗面を済ませている
+*MOT:	Ikuko ‡ doozo koko [= semmenjo ] ga aita yo .
+%ort:	郁子 どうぞここ [洗面所] があいたよ.
+*CHI:	nani o ?
+%ort:	何を?
+*MOT:	kyoo wa arawanai no ?
+%ort:	きょうは洗わないの?
+*CHI:	moo aratta no .
+%ort:	もう洗ったの.
+%com:	tokuige ni 得意気に
+*MOT:	Ikuko gyuunyuu nomu no ?
+%ort:	郁子牛乳飲むの?
+*CHI:	Ikukochan ne sutoroo no koto soomen dashichatta .
+%ort:	郁子ちゃんね ストローのこと そうめん出しちゃった.
+*MOT:	Ikukochan yoku nomu ne „ gyuunyuu .
+%ort:	郁子ちゃん よく飲むね牛乳.
+*MOT:	yuube ha ga itakute gohan taberarenakatta kara ne .
+%ort:	夕べ歯が痛くてごはん食べられなかったからね.
+*MOT:	Ikukochan ‡ Yumichan ga totte kureta yo .
+%ort:	郁子ちゃん 由美ちゃんがとってくれたよ.
+*MOT:	gokigen ga warui ne „ ha ga itai kara .
+%ort:	ご機嫌が悪いね 歯が痛いから.
+*CHI:	Ikukochan no marui no .
+%ort:	郁子ちゃんの 丸いの
+*CHI:	sankaku iya .
+%ort:	三角イヤ.
+%com:	omusubi no koto おむずびのこと
+*MOT:	maru ga ii no ?
+%ort:	丸がいいの.
+*CHI:	ne: Mama ‡ ohana nai no .
+%ort:	ねえ ママ お花ないの.
+*MOT:	ohana doo suru no ?
+%ort:	お花どうするの.
+*CHI:	anoo ne choocho ni mitsu yaru no .
+%ort:	あのね ちょうちょに蜜やるの.
+*MOT:	ohana nanka saitenai wa ne .
+%ort:	お花なんか咲いてないわね.
+*MOT:	ano choocho ki no shiru suu no yo .
+%ort:	あのちょうちょ木の汁吸うのよ.
+*CHI:	areq konna marui no .
+%ort:	あれ こんな丸いの.
+%com:	shabondama o katazuke nagara omusubi o sashite シャボン玉を片付けながらおむすびを指して
+*MOT:	shabondama dekimasu ka , Ikuko ‡ ?
+%ort:	シャボン玉できますか郁子?
+*CHI:	dekiru yo .
+%ort:	できるよ.
+*CHI:	dekita [/] dekita .
+%ort:	できた できた
+*CHI:	ne: Mama ‡ dekiru yo .
+%ort:	ねえ ママ できるよ.
+*MOT:	aq , futatsu hittsuita n ga dekita ne .
+%ort:	あっ 二つひっついたんができたね.
+*CHI:	waq kirekatta@n [: kiree datta] [* m] !
+%ort:	わっ きれかった!
+%com:	kiree datta no i きれいだった
+*MOT:	kiree no ga dekita ?
+%ort:	きれいのができた?
+*MOT:	dekita [/] dekita .
+%ort:	できた できた.
+*CHI:	dekita [/] dekita .
+%ort:	できた できた.
+*CHI:	omusubi no naka nanimo haittenai no ?
+%ort:	おむすびの中 何も入ってないの?
+*MOT:	nanika Ikuko no ii mon irete ageyoo ka ?
+%ort:	何か郁子のいいもん入れてあげようか.
+@G:	page731
+*MOT:	nani ga ii ?
+%ort:	何がいい?
+*CHI:	kombu .
+%ort:	こんぶ!
+*MOT:	kinoo no kombu ?
+%ort:	きのうのこんぶ?
+*MOT:	ocha hiyasana akan ne .
+%ort:	お茶冷やさなあかんね.
+*CHI:	ocha moo shooshoo shika nai yo .
+%ort:	お茶もう少々しかないよ.
+*MOT:	shooshoo shika nai &=laugh ?
+%ort:	少々しかない? (笑)
+*MOT:	0 .
+%com:	shimai sannin de asonde iru tokoro e hahaoya ga kuru
+	姉妹3人で遊んでいるところへ母親が来る
+*CHI:	ne: Mama ‡ Ikukochan to oneechan no dotchi ga kiree ?
+%ort:	ねえ ママ 郁子ちゃんとお姉ちゃんのどっちがきれい?
+%com:	iroempitsu o misete 色鉛筆を見せて
+*MOT:	Ikukochan no hoo ga kiree yo .
+%ort:	郁子ちゃんの方がきれいよ.
+*CHI:	Ikukochan no hon wa ?
+%ort:	郁子ちゃんの本は?
+*MOT:	mukoo ni nai ?
+%ort:	むこうにない?
+*CHI:	nai yo .
+%ort:	ないよ.
+*MOT:	Ikuchan ‡ kami yutte ageyoo ne .
+%ort:	郁ちゃん 髪結ってあげようね.
+*CHI:	un .
+%ort:	うん.
+*MOT:	kawa e ikahen no ?
+%ort:	川へ行へんの?
+*CHI:	iku: .
+%ort:	行くう.
+%com:	11:00 - 14:30 made chichi to kotachi to kawa e itte iru AM11:00
+	からPM2:30 まで父と子達と川へ行っている
+*MOT:	Ikuko ‡ doko e iku no ?
+%ort:	郁子どこへ行くの?
+%tim:	14:30
+*CHI:	honyasan .
+%ort:	本屋さん!
+*MOT:	Ikuko ‡ sore Mama no omiyage ?
+%ort:	郁子 それ ママのおみやげ?
+*CHI:	chigau yo .
+%ort:	違うよ
+*CHI:	Ikuko no yo .
+%ort:	郁子のよ.
+%com:	origami o miseru 折紙を見せる
+*MOT:	Mama ni choodai .
+%ort:	ママにちょうだい.
+*CHI:	dame .
+%ort:	だめ!
+*MOT:	ofuro ga waita yo .
+%ort:	お風呂がわいたよ
+*MOT:	minna hairinasai .
+%ort:	皆入りなさい.
+*MOT:	Ikukochan ‡ nani otteru no ?
+%ort:	郁子ちゃん 何折ってるの?
+*CHI:	minna ga Ikukochan ni otte kureru no .
+%ort:	皆が郁子ちゃんに折ってくれるの.
+*CHI:	tsuru .
+%ort:	ツル
+*CHI:	tanuki .
+%ort:	タヌキ
+*CHI:	semi .
+%ort:	セミ
+*CHI:	chiritori desho(o) .
+%ort:	ちりとりでしょ.
+*MOT:	Ikuchan wa nani otta no ?
+%ort:	郁ちゃんは何折ったの?
+*MOT:	konna no yoo oreru desho „ yakkosan .
+%ort:	こんなのよう折れるでしょ やっこさん.
+*CHI:	un , ott(e) ageyoo ka ?
+%ort:	うん 折ったげようか.
+*MOT:	Ikuko ‡ Yumichan no haite kiteru wa .
+%ort:	郁子 由美ちゃんのはいてきてるわ.
+%com:	kawa de koronde pantsu o hakikaete kita 川で転んでパンツをはきかえてきた
+*CHI:	datte Papa ga machigatte bakkari da mon .
+%ort:	だって パパがまちがってばっかりだもん.
+*MOT:	jibun no kurai oboet(e) oki yo .
+%ort:	自分のくらい覚えときよ.
+*CHI:	un .
+%ort:	うん.
+@G:	page732
+*MOT:	hayaku otte goran .
+%ort:	早く折ってごらん.
+*CHI:	un .
+%ort:	うん.
+*CHI:	Mama ‡ Ikukochan no mizu mitai na fukuro shiran ?
+%ort:	ママ 郁子ちゃんの水みたいな袋知らん?
+%com:	biniiru no fukuro no koto ビニールの袋のこと
+*MOT:	mizu mitai na fukuro ?
+%ort:	水みたいな袋?
+*CHI:	Ikuchan ozen no ue ni oit(e) oita yo .
+%ort:	郁ちゃん お膳の上に置いといたよ.
+*MOT:	kore ?
+%ort:	これ?
+*CHI:	chigau .
+%ort:	違う.
+*MOT:	ofuro ni hairinasai yo .
+%ort:	お風呂に入りなさいよ.
+*CHI:	hasami orechatta .
+%ort:	はさみ 折れちゃった.
+%com:	hasami wa purasuchikkusee no mono はさみはプラスチック製のもの
+*MOT:	nanka kitte itara ?
+%ort:	何か切っていたら?
+*MOT:	moo akan ne .
+%ort:	もうあかんね.
+*MOT:	ofuro ni hairinasai .
+%ort:	お風呂に入りなさい
+*MOT:	garigari shit(e) ageyo(o) .
+%ort:	ガリガリしたげよ.
+%com:	karada o kosuru koto 体をこすること
+*MOT:	seroteepu de hatte kita n ?
+%ort:	セロテープではってきたん?
+*CHI:	tsuburechatta .
+%ort:	つぶれちゃった.
+%com:	nikai de hirune o suru 2階で昼寝をする
+%tim:	17:20
+*CHI:	oneechan ga ashi funda .
+%ort:	お姉ちゃんが足ふんだ.
+%com:	guzuru ぐずる
+*MOT:	Oneechan ‡ ayamarinasai .
+%ort:	お姉ちゃん あやまりなさい.
+%com:	ane ni mukatte iu 姉に向かって言う
+*MOT:	nete ita no ?
+%ort:	寝ていたの?
+%com:	kaidan de nete ita no o okoshite 階段で寝ていたのを起こして
+*MOT:	usone ya ne .
+%ort:	うそ寝やね.
+%tim:	18:10
+*CHI:	0 .
+%com:	yuushoku ga hajimaru
+%ort:	夕食がはじまる
+*MOT:	tabena akan nen yo .
+%ort:	食べなあかんねんよ.
+*CHI:	iran .
+%ort:	いらん!
+*MOT:	ha mada itai no ?
+%ort:	歯まだ痛いの?
+*CHI:	0 .
+%ort:	返事無し
+*CHI:	Mama ‡ ashi ni kata tsuita yo .
+%ort:	ママ 足に型ついたよ.
+*MOT:	doko ?
+%ort:	どこ
+*MOT:	sonna no daijoobu yo .
+%ort:	そんなの大丈夫よ.
+*MOT:	kore taberu ?
+%ort:	これ食べる?
+*CHI:	iran .
+%ort:	いらん.
+*CHI:	yawarakai oniku .
+%ort:	やわらかいお肉.
+*MOT:	sakki iran iuta [: yutta] kara tabeta yo .
+%ort:	さっき いらん言うたから食べたよ.
+*MOT:	tomato ageyo(o) ka .
+%ort:	トマトあげよか.
+*CHI:	tomato janai yo .
+%ort:	トマトじゃないよ
+*CHI:	shiroi no .
+%ort:	白いの.
+*MOT:	kore ?
+%ort:	これ?
+*CHI:	chigau .
+%ort:	ちがう .
+@G:	page733
+*MOT:	kore ?
+%ort:	これ?
+*CHI:	un .
+%ort:	うん.
+*MOT:	kore amai yo .
+%ort:	これ甘いよ.
+*MOT:	ha ga itaku naru yo .
+%ort:	歯が痛くなるよ.
+*MOT:	gohan tabete kara ni shinasai yo .
+%ort:	ごはん食べてからにしなさいよ.
+*CHI:	reezooko e ireru .
+%ort:	冷蔵庫へ入れる.
+*MOT:	dashit(e) oite ii no ?
+%ort:	出しといていいの.
+*CHI:	tsumetaku nakunaru yo .
+%ort:	冷たくなくなるよ.
+*MOT:	soo , kondo wa amakunakute yawarakai no tsukutte ageyo(o) ne .
+%ort:	そう 今度は甘くなくてやわらかいの作ってあげよね.
+*CHI:	ne: Mama ‡ kingyo yoko ni natteru yo .
+%ort:	ねえ ママ 金魚横になってるよ.
+*MOT:	shinden [: shinderu] nen wa .
+%ort:	死んでんねんわ
+*MOT:	moo sugu tengoku ni iku wa .
+%ort:	もうすぐ天国に行くわ.
+*MOT:	sanrinsha Yumichan ni mo kashite agenasai .
+%ort:	三輪車 由美ちゃんにも貸してあげなさい.
+*CHI:	iya .
+%ort:	いや.
+*CHI:	Yumichan hetakuso ya mon .
+%ort:	由美ちゃん へたくそやもん.
+*MOT:	Yumichan joozu yo .
+%ort:	由美ちゃん じょうずよ.
+*CHI:	heta yo .
+%ort:	へたよ!
+*MOT:	joozu yo .
+%ort:	じょうずよ.
+*CHI:	heta .
+%ort:	へた!
+*CHI:	ne: Mama ‡ choocho ni satoomizu ne iret(e) oite .
+%ort:	ねえ ママ ちょうちょにさとう水ね 入れといて.
+*MOT:	eq .
+%ort:	えっ.
+*CHI:	satoomizu ne suu n da yo .
+%ort:	さとう水ね 吸うんだよ.
+*MOT:	0 .
+%com:	hahaoya nikai de toko o toru 母親 二階で床をとる
+*MOT:	Ikuko ‡ sonnani futon kite itara atsui yaro .
+%ort:	郁子 そんなにふとんきていたら暑いやろ.
+*MOT:	sore denakute mo ase ga deru noni .
+%ort:	それでなくても汗がでるのに.
+*MOT:	kotchi no taoruketto kinasai .
+%ort:	こっちのタオルケット着なさい.
+*CHI:	atsui mon .
+%ort:	暑いもん
+*CHI:	atsui:.
+%ort:	暑いー.
+%tim:	20:20
+*MOT:	nemaki nuginasai .
+%ort:	寝間着脱ぎなさい.
+%com:	nemaki o nugase , ko ga nemutte kara kisete yatte ita 寝間着を脱がせ
+	子が眠ってから着せてやっていた
+@End

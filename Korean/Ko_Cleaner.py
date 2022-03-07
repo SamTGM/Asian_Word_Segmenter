@@ -22,16 +22,17 @@ def tokenize_syllables():
                 list.append(lines)
 
         for a,b in zip(before, list):
-            after.append(a+"    "+b)
+            after.append(a+"\t"+b)
 
         for e in after:
             print(e)
 
 def generate_file():
-    f = open("Ko_08_2_A0P01M_gold.txt","x")
+    f = open("Ko_08_2_A0P01M_gold.txt","w")
     for e in after:
         f.write(e+"\n")
 
 if __name__ == "__main__":
     tokenize_syllables()
+    generate_file()
     

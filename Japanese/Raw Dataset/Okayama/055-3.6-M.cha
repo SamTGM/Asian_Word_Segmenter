@@ -1,0 +1,738 @@
+@UTF8
+@PID:	11312/c-00009677-1
+@Color words:	*CHI: 1 65535 0 0 *MOT: 1 0 32896 16448
+@Begin
+@Languages:	jpn
+@Participants:	CHI Hiroshikun Target_Child, MOT Mother, OBS Investigator
+@ID:	jpn|Okayama|CHI|3;06.|male|||Target_Child|||
+@ID:	jpn|Okayama|MOT||female|||Mother|||
+@ID:	jpn|Okayama|OBS||female|||Investigator|||
+@Comment:	3-10 male 3;6. name: H.S. siblings: older brother 6;
+@G:	page154
+@Types:	cross, toyplay, TD
+*MOT:	ohayoo [/] ohayoo .
+%ort:	おはよう おはよう
+*MOT:	Oneechan ni ohayoo te iinasai ne !
+%ort:	お姉ちゃんに おはようて言なさいね.
+*CHI:	ohayoo .
+%ort:	おはよう.
+*MOT:	Hiroshikun ‡ chotto noite goran !
+%ort:	浩君ちょっとのいてごらん
+*MOT:	koko katazukeyo(o) ne .
+%ort:	ここかたづけよね.
+%com:	futon ふとん
+*MOT:	Hiroshikun ‡ kusuri [= mizugusuri] nomu yo .
+%ort:	浩君 薬飲むよ (= 水薬)
+*MOT:	sutoro ageyo(o) ka .
+%ort:	ストロあげよか.
+*CHI:	un .
+%ort:	うん.
+*MOT:	moo chotto nominasai yo „ koko made !
+%ort:	もうちょっと 飲みなさいよ ここまで.
+*CHI:	moo ii .
+%ort:	もういい.
+*MOT:	futa shimet(e) okinasai !
+%ort:	ふたしめときなさい.
+%com:	kusuribin 薬びん
+*CHI:	doko ?
+%ort:	どこ.
+*MOT:	Hiroshikun ga futa aketa noni .
+%ort:	浩君がふたあけたのに
+*MOT:	a: koko ni aru wa .
+%ort:	あー ここにあるわ
+*MOT:	Hiroshikun ‡ pajama nuginasai .
+%ort:	浩君パジャマぬぎなさい
+*MOT:	hitori de dekiru yaroo .
+%ort:	一人でできるやろう.
+*MOT:	sassa to shinasai !
+%ort:	さっさとしなさい.
+*CHI:	Okaachan ‡ oshikko .
+%ort:	お母ちゃん おしっこ.
+*MOT:	kotchi kinasai .
+%ort:	こっち来なさい
+%com:	toire ni hairu トイレに入る
+*CHI:	Okaachan ‡ Oniichan doko iku no ?
+%ort:	お母ちゃん お兄ちゃんどこ行くの.
+*MOT:	doko e mo iken ?
+%ort:	どこへもいけん.
+*CHI:	Oneechan to eega iku yutotta yan ka .
+%ort:	お姉ちゃんと映画行くいうとったやんか.
+*MOT:	Oniichan ga natsuyasumi ni natte kara oneechan to Shirayukihime mi
+	ni iku no .
+%ort:	お兄ちゃんが 夏休みになってから お姉ちゃんと白雪姫 見に行くの
+*MOT:	Hiroshikun mo issho ni iku ?
+%ort:	浩君もいっしょに行く?
+*CHI:	un .
+%ort:	うん.
+*MOT:	kitanai .
+%ort:	きたない
+*MOT:	Hiroshikun ‡ koko e suwattara akan .
+%ort:	浩君 ここへすわったらあかん.
+%com:	yogorete iru tokoro ni suwaroo to suru よごれているところにすわろうとする
+*MOT:	Hiroshikun ‡ gohan taberu n yo .
+%ort:	浩君 ごはん食べるんよ
+*MOT:	Hiroshikun ‡ nani shiteru no ?
+%ort:	浩君なにしてるの.
+*MOT:	hayo kotchi kinasai !
+%ort:	はよこっちきなさい.
+*CHI:	oneechan wa ?
+%ort:	お姉ちゃんは.
+*MOT:	oneechan mo issho .
+%ort:	おねえちゃんもいっしょ.
+*MOT:	suwarinasai !
+%ort:	すわりなさい
+*MOT:	Hiroshikun ‡ gohan yo .
+%ort:	浩君ごはんよ.
+*CHI:	boku pan .
+%ort:	ぼく パン .
+*MOT:	ohiru sandoitchi ni shiyoo ne .
+%ort:	お昼 サンドイッチにしようね
+*MOT:	sore wa oneechan no o .
+%ort:	それはおねえちゃんのを.
+%com:	OBS no hoshigatta toki ni haha ga iu
+@G:	page155
+*CHI:	sore ga ii .
+%ort:	それがいい.
+%com:	OBS no o sashite itta OBSのをさして言った
+*MOT:	minna issho ya noni .
+%ort:	みんないっしょやのに
+*MOT:	chanto osuwari shite !
+%ort:	ちゃんと おすわりして
+*MOT:	oneechan waratteru yo .
+%ort:	お姉ちゃん笑ってるよ.
+*CHI:	boku koko iya: .
+%ort:	ぼくここいやー.
+*MOT:	sonnara yamet(e) okinasai !
+%ort:	そんなら やめときなさい
+*MOT:	Oniichan to hitotsu zutsu suru no yo .
+%ort:	お兄ちゃんと 1つずつするのよ
+%com:	pan o sashite パンをさして
+*CHI:	kore .
+%ort:	これ .
+%com:	pan o sashite パンをさして
+*CHI:	boku karupisu nomitai .
+%ort:	ぼく カルピス 飲みたい.
+*MOT:	damatte tabenasai !
+%ort:	だまって たべなさい
+*MOT:	Hiroshikun ‡ hana deteru .
+%ort:	浩君はなでてる
+*MOT:	kotchi kinasai !
+%ort:	こっちきなさい
+*MOT:	kore de kaminasai !
+%ort:	これでかみなさい.
+*CHI:	Okaachan ‡ kono pan yaite !
+%ort:	お母ちゃん このパン焼いて.
+*MOT:	gohan iran no ?
+%ort:	ごはんいらんの.
+*CHI:	un pan yaite !
+%ort:	うん パン焼いて.
+*CHI:	boku ga suru .
+%ort:	ぼくがする.
+%com:	toosutaa de jibun de yaroo to suru トースターで自分でやろうとする
+*MOT:	koboreru yanai no .
+%ort:	こぼれるやないの.
+%com:	yoko ni atta nomimono o kobosoo to suru 横にあった飲物をこぼそうとする
+*MOT:	tabesasete ageru kara motto kotchi ni kinasai !
+%ort:	たべさせてあげるから もっとこっちにきなさい.
+*MOT:	Hiroshikun ‡ chotto netsu aru ne .
+%ort:	浩君ちょっと熱あるね .
+%com:	haha ga ko no hitai ni te o ateru 母が子の額に手をあてる
+*CHI:	netsu toreta yo .
+%ort:	熱とれたよ.
+*MOT:	Okaachan no otete de Hiroshikun no netsu ga toreru no .
+%ort:	お母ちゃんのおててで 浩君の熱がとれるの
+*MOT:	Hiroshikun ‡ mata ohana fun@o ii [= IMP] .
+%ort:	浩君 またおはなふんいい.
+%com:	hana o kamaseru はなをかませる
+*CHI:	Kaachan ‡ Oniichan kat:e [: datte] kon [: kore] nake [: dake] mo
+	nokotte iru.
+%ort:	母ちゃん お兄ちゃんかってこんなけも残って.
+*MOT:	Hiroshikun ‡ okuchi akete .
+%ort:	浩君 お口あけて.
+*CHI:	one(e)chan mada [/] mada oru no ?
+%ort:	おねちゃん まだまだおるの?
+%com:	OBS ni mukatte kiku OBSにむかって聞く
+*MOT:	zutto oru yo .
+%ort:	ずーとおるよ.
+*MOT:	Hiroshikun ‡ kyoo nenne suru n ya t(t)e .
+%ort:	浩君 今日 ねんねするんゃて .
+*CHI:	Okaachan ‡ sentakuki tomatta .
+%ort:	お母ちゃん 洗濯機とまった.
+*MOT:	soo .
+%ort:	そう
+*MOT:	Hiroshikun ‡ Oniichan moo owatta yo .
+%ort:	浩君 お兄ちゃんもうおわったよ .
+%com:	shokuji ga 食事が
+*MOT:	Hiroshikun mo ato chotto okuchi akete !
+%ort:	浩君もあとちょっと お口あけて.
+*CHI:	moo ii yan .
+%ort:	もういいやん.
+%com:	shuuryou o imi suru 終了を意味する
+*MOT:	kono tama to tabete kara oshimai ni shiyoo .
+%ort:	このたまとたべてから おしまいにしょう.
+@G:	page156
+*CHI:	moo ii: .
+%ort:	もういい-.
+*MOT:	Okaachan Oniichan no tetsudai shite agen to ikan noni .
+%ort:	お母ちゃん お兄ちゃんの手伝い してあげん といかんのに.
+*MOT:	Hiroshikun ‡ guzuguzu sen to .
+%ort:	浩君 ぐずぐずせんと .
+*MOT:	hai yoroshii yo .
+%ort:	はい よろしいよ .
+*MOT:	ohana kamu kara chotto machinasai !
+%ort:	おはなかむから ちょっとまちなさい .
+*CHI:	Okaachan ‡ osoto itte ii .
+%ort:	お母ちゃん お外いっていい.
+*MOT:	akan yo .
+%ort:	あかんよ.
+*CHI:	nande ?
+%ort:	なんで.
+*MOT:	Hiroshikun ‡ netsu ga aru yanai no .
+%ort:	浩君 熱があるやないの.
+*CHI:	iya: .
+%ort:	いやー.
+%com:	kutsu o hakoo to suru くつをはこうとする
+*MOT:	sonnara ikinasai !
+%ort:	そんならいきなさい
+*MOT:	zutto kaette kinasanna [: ki nasaruna] !
+%ort:	ずーと帰ってきなさんな.
+*CHI:	chotto dake .
+%ort:	ちょっとだけ.
+@Comment:	soto ni dete itta 外に出ていった
+*MOT:	Hiroshikun ‡ ashi kitanai no to chigau .
+%ort:	浩君 足きたないのとちがう
+*MOT:	osoto kara kaettara te to ashi o arainasai te itteru deshoo.
+%ort:	お外から帰ったら 手と足を洗いなさいていってるでしょう
+*MOT:	kotchi kinasai !
+%ort:	こっちきなさい .
+*CHI:	boku hitori de arau .
+%ort:	ぼく1人であらう.
+%com:	niwa de 庭で
+*MOT:	Hiroshikun ‡ omizu de asondara ikemasen .
+%ort:	浩君 お水であそんだら いけません.
+*CHI:	atama kai [: kayui] .
+%ort:	頭かい.
+%com:	atama o kakitagaru 頭をかきたがる
+*MOT:	Hiroshikun wa kaze o hiite ofuro ni hairarehen kara yo .
+%ort:	浩君は カゼをひいてお風呂に入られへんからよ.
+*CHI:	atama kai [: kayui] .
+%ort:	頭かい.
+%com:	atama o kakitagaru 頭をかきたがる
+*MOT:	kiree ni fuit(e) ageteru noni .
+%ort:	きれいに ふいたげてるのに .
+%com:	atama o 頭を
+*MOT:	kyoo ofuro iret(e) ageru wa .
+%ort:	今日 お風呂入れたげるわ
+*MOT:	suwarinasai !
+%ort:	すわりなさい
+*MOT:	fuit(e) ageyoo .
+%ort:	ふいたげよう .
+*MOT:	Hiroshikun ‡ boozu ni shite shimaoo ka &=laugh .
+%ort:	浩君 ぼうずにしてしまおうか (笑) .
+*MOT:	Hiroshikun ‡ omocha no baketsu motte kaetta ?
+%ort:	浩君 おもちゃのバケツもってかえった?
+%com:	soto e motte deta omocha no baketsu 外へもって出たおもちゃのバケツ
+*CHI:	osoto .
+%ort:	お外.
+%com:	soto ni aru 外にある
+*MOT:	chanto katazukenasai !
+%ort:	ちゃんとかたづけなさい.
+*CHI:	motte kuru .
+%ort:	もってくる.
+%com:	soto ni deru 外に出る
+*CHI:	motte kita yo .
+%ort:	もってきたよ .
+*MOT:	naoshit(e) okinasai !
+%ort:	なおしときなさい.
+*CHI:	koko .
+%ort:	ここ.
+%com:	omochabako o sasu おもちゃ箱をさす
+*MOT:	naka ni ireru n yo .
+%ort:	中に入れるんよ
+*MOT:	otete kiree ?
+%ort:	おててきれい.
+%com:	soto kara kaette mada te o aratte inai yoosu 外から帰ってまだ手をあらっていない様子
+@G:	page157
+*MOT:	kusuri no jikan ya wa , Hiroshikun ‡ .
+%ort:	薬の時間やわ 浩君.
+*MOT:	Hiroshikun ‡ sakki Maakochan no obachan ga ne Hiroshikun ni okashi
+	motte kite kureta wa .
+%ort:	浩君さっき マー子ちゃんのおばちゃんがね 浩君におかしもってきてくれ たわ.
+*CHI:	donna n ?
+%ort:	どんなん.
+*MOT:	ato de obachan ni arigatoo tte iinasai yo !
+%ort:	あとでおばちゃんに ありがとうていいなさいよ.
+*CHI:	itsu ?
+%ort:	いつ.
+*MOT:	ato de Hiroshikun ‡ Okaachan otsukai ni iku kara oneechan to iru ?
+%ort:	あとで浩君 お母ちゃんおつかいにいくから お姉ちゃんといる?
+*CHI:	doko ni iku no ?
+%ort:	どこにいくの.
+*MOT:	sugu ni kaette kuru .
+%ort:	すぐに帰ってくる
+*MOT:	Hiroshikun ‡ oneechan ga honyasan ni iku kara issho ni ikinasai !
+%ort:	浩君 お姉ちゃんが 本屋さんにいくからいっしょに行き なさい .
+*CHI:	boku oneechan to iku .
+%ort:	ぼく お姉ちゃんといく.
+*MOT:	surippa sakasama yanai no .
+%ort:	スリッパ さかさまやないの.
+@Comment:	soto ni deru 外に出る
+*MOT:	Hiroshikun ‡ no hoo ga hayakatta n ya ne .
+%ort:	浩君の方が はやかったんやね.
+*CHI:	Okaachan ‡ kore nani ?
+%ort:	お母ちゃん これなに.
+%com:	kaimonokago o nozoite 買物かごをのぞいて
+*MOT:	karashi .
+%ort:	からし.
+*CHI:	kore wa .
+%ort:	これは.
+*MOT:	retasu .
+%ort:	レタス.
+*CHI:	osoto ni iku .
+%ort:	お外にいく.
+*MOT:	ammari osoto ni ittara akan noni .
+%ort:	あんまり お外にいったら あかんのに.
+*CHI:	koko de .
+%ort:	ここで.
+%com:	genkan de asobu 玄関で遊ぶ
+*MOT:	Hiroshikun ‡ doronko wa ikan yo .
+%ort:	ひろし君 どろんこはいかんよ.
+%com:	shibaraku hitori de asobu しばらく1人で遊ぶ
+*MOT:	mata yogoshite .
+%ort:	又 よごして.
+*CHI:	Okaachan ‡ te arau .
+%ort:	お母ちゃん 手あらう.
+*MOT:	Hiroshikun ‡ kinoo okorareta bakari ya noni moo wasureta n .
+%ort:	浩君 昨日おこられたばかりやのに もう忘れたん.
+*CHI:	Okaachan ‡ kore mott(e) oite !
+%ort:	お母ちゃん これもっといて.
+%com:	omocha おもちゃ
+*MOT:	Hiroshikun ‡ asoko ni mo omocha ga oite aru yo .
+%ort:	浩君 あそこにも おもちゃがおいてあるよ.
+*CHI:	doko .
+%ort:	どこ.
+*MOT:	soko kichinto katazukenasai .
+%ort:	そこ きちんと かたづけなさい
+*MOT:	omizu nondara ikan .
+%ort:	お水 飲んだらいかん.
+@G:	page158
+*MOT:	Hiroshikun ‡ moo ohiru yo .
+%ort:	浩君 もうお昼よ.
+*MOT:	omocha katazuketa ?
+%ort:	おもちゃ かたづけた.
+*CHI:	boku hitori de suru no .
+%ort:	ぽく 1人でするの.
+*MOT:	Hiroshikun ga dashita noni hitori de katazukeru n yo .
+%ort:	浩君が出したのに 1人でかたづけるんよ
+*MOT:	Oniichan wa chanto suru yo .
+%ort:	お兄ちゃんは ちゃんとするよ
+*MOT:	Hiroshikun mo orikoosan ya kara kichin to katazukerareru yo ne .
+%ort:	浩君もおりこうさんやから きちんとかたづけられるよね .
+%com:	kodomo ni mukatte iu 子供にむかって言う
+*CHI:	boku shindoi mon .
+%ort:	ぼく しんどいもん.
+*MOT:	orikoosan ni sen to ii mono agehen yo .
+%ort:	おりこうさんにせんと いいものあげへんよ.
+*CHI:	nani ?
+%ort:	なに.
+%com:	hahaoya ni kiku 母親にきく
+*MOT:	Oneechan no omiyage ga aru n yo .
+%ort:	お姉ちゃんの おみやげがあるんよ.
+*CHI:	hoshii .
+%ort:	ほしい
+*CHI:	choodai !
+%ort:	ちょうだい.
+*MOT:	kichin to katazuketara ohiru tabete kara ageru yo .
+%ort:	きちんとかたづけたら お昼たべてからあげるよ
+*MOT:	Hiroshikun ‡ mayoneezu totte choodai !
+%ort:	浩君 マヨネーズ とって ちょうだい.
+*CHI:	nani suru no ?
+%ort:	なにするの.
+*MOT:	sandoitchi .
+%ort:	サンドイッチ.
+*CHI:	boku mo suru .
+%ort:	ぽくもする.
+*MOT:	Oneechan toko ni itt(e) okinasai !
+%ort:	お姉ちゃんとこに いっときなさい
+*MOT:	Oniichan kaette kita kara ohiru ni shiyo(o) ne .
+%ort:	お兄ちゃん 帰ってきたから お昼にしょね.
+*MOT:	otete arainasai !
+%ort:	おててあらいなさい.
+*CHI:	omizu detenai mon .
+%ort:	お水 でてないもん.
+*MOT:	Oniichan ni akete morainasai !
+%ort:	お兄ちゃんに あけてもらいなさい.
+%com:	te ga todokanai tame 手がとどかないため
+*MOT:	itsu made aratteru no .
+%ort:	いつまで あらってるの.
+*CHI:	moo chotto .
+%ort:	もうちょっと.
+*MOT:	Hiroshi ‡ yamenasai !
+%ort:	浩 やめなさい.
+%tim:	12:20
+*CHI:	moo tabete ii .
+%ort:	もう食べていい.
+*MOT:	oagarinasai !
+%ort:	おあがりなさい.
+*CHI:	boku no inu no koppu .
+%ort:	ぽくの 犬のコッブ.
+%com:	itsumo tsukatte iru koppu いつも使っているコップ.
+*MOT:	chotto machinasai „ miruku ireru kara !
+%ort:	ちょっとまちなさい ミルク入れるから.
+*CHI:	boku mirukukoohii koboshita .
+%ort:	ぼく ミルクコーヒーこぼした.
+%com:	soko de mirukukoohii o kobosu そこでミルクコーヒーをこほす
+*MOT:	fuit(e) ageru kara tabenasai !
+%ort:	ふいたげるから たべなさい
+*CHI:	Okaachan ‡ sore nani tsukete aru no ?
+%ort:	お母ちゃん それなにつけてあるの.
+%com:	sandoitchi o sashite iu サンドイッチをさしていう
+*MOT:	Okaachan no wa yoogarashi .
+%ort:	お母ちゃんのは洋がらし
+*MOT:	chanto osuwari shite !
+%ort:	ちゃんとおすわりして.
+@G:	page159
+*CHI:	atsui mon .
+%ort:	あついもん.
+%com:	kion ga takai tame 気温が高いため
+*MOT:	moo ii no ?
+%ort:	もういいの?
+*MOT:	kyoo wa amari tabenai ne .
+%ort:	今日はあまりたべないね.
+%com:	shokuji 食事
+*CHI:	moo iran .
+%ort:	もういらん.
+*MOT:	mada shindoi no ?
+%ort:	まだ しんどいの.
+*CHI:	Okaachan sakki no ii mono choodai !
+%ort:	お母ちゃん さっきのいいもの ちょうだい.
+*MOT:	Oniichan to hambun zutsu yo .
+%ort:	お兄ちゃんと 半分ずつよ.
+*CHI:	akete !
+%ort:	あけて.
+*MOT:	Oniichan ga aket(e) ageru tte .
+%ort:	お兄ちゃんが あけたげるて.
+%com:	kyoodai de shibaraku asobu 兄弟でしばらく遊ぶ
+%tim:	14:00
+*MOT:	Hiroshikun ‡ ohirune shoo [: shiyoo] ka ?
+%ort:	浩君 お昼寝しょうか.
+*CHI:	iya: .
+%ort:	いやー.
+*MOT:	dooshite ?
+%ort:	どうして.
+*CHI:	iya: .
+%ort:	いやー.
+*MOT:	minna nenne suru n yo .
+%ort:	みんな ねんねするんよ.
+*CHI:	Oniichan mo oneechan mo .
+%ort:	お兄ちゃんも お姉ちゃんも.
+*MOT:	minna oshaberi yamenasai !
+%ort:	みんなおしゃべり やめなさい.
+*MOT:	mata ohana dete kita .
+%ort:	又 おはなでてきた .
+%com:	hirune 昼寝
+%tim:	16:30
+*MOT:	Hiroshikun ‡ yoo neta ne .
+%ort:	浩君 ようねたね.
+*CHI:	oneechan iru ?
+%ort:	お姉ちゃんいる?
+%com:	heya no naka o sagasu 部屋の中をさがす
+*MOT:	iru yo .
+%ort:	いるよ.
+*MOT:	koorikaki shoo [: shiyoo] ka ?
+%ort:	氷かき しょうか.
+%com:	kodomo ni taishite 子供に対して
+*CHI:	boku shitai .
+%ort:	ぼくしたい.
+%com:	koorikaki o shitagaru 氷かきをしたがる
+*MOT:	Oniichan ga shite ageru tte .
+%ort:	お兄ちゃんが してあげるて.
+*CHI:	boku ni mo sasete !
+%ort:	ぼくにもさせて.
+*MOT:	Oneechan ni mitsu kakete morai „ Hiroshikun okusuri noman to .
+%ort:	お姉ちゃんに 蜜かけてもらい浩君 お薬 飲まんと.
+*CHI:	sutoroo choodai !
+%ort:	ストローちょうだい.
+*MOT:	hai .
+%ort:	はい.
+%com:	sutoroo o watasu ストローをわたす
+*CHI:	moo iine .
+%ort:	もういいね.
+%com:	kusuri o nomioete 楽を飲みおえて
+*MOT:	ii yo .
+%ort:	いいよ.
+%com:	kusuribin o kodomo kara toru 薬びんを子供からとる
+*MOT:	Hiroshikun ‡ omocha no baketsu ni namae kakoo ka .
+%ort:	浩君 おもちゃのパケツに名前かこうか .
+%com:	hahaoya ga omocha no baketsu o sashite iu 母親がおもちゃのバケツをさして言う
+*CHI:	un .
+%ort:	うん.
+@G:	page160
+*MOT:	kon [: kore] de ii .
+%ort:	こんでいい
+%com:	baketsu no namae バケツの名前
+*CHI:	motto ippai kaite !
+%ort:	もっと いっばいかいて
+%com:	namae o 名前を
+*MOT:	doko ni kakoo ka ?
+%ort:	どこに かこうか.
+*CHI:	koko .
+%ort:	ここ
+%com:	baketsu o sashite パケツをさして
+*CHI:	boku kore ni doro no odango ireru .
+%ort:	ぼくこれに どろのおだんと入れる.
+*MOT:	ikan yo .
+%ort:	いかんよ
+*MOT:	tooku ni ittara ikan yo .
+%ort:	遠くにいったら いかんよ.
+*MOT:	Oniichan to iku n yo .
+%ort:	お兄ちゃんと いくんよ .
+*CHI:	Okaachan ‡ are boku non [: no] ya .
+%ort:	お母ちゃん あれぽくのんや.
+*MOT:	dore ?
+%ort:	どれ.
+*CHI:	boku non [: no] .
+%ort:	ぽくのん.
+%com:	kinjo no kodomo ga motte iru omocha 近所の子供がもっているおもちゃ
+*MOT:	chigau yo .
+%ort:	ちがうよ
+*MOT:	boku no wa ouchi ni aru yanai no .
+%ort:	ほくのはおうちにあるやないの浩君
+*MOT:	Hiroshikun ‡ hana kamo(o) ne .
+%ort:	はなかもね.
+*MOT:	ouchi ni agarinasai !
+%ort:	おうちに 上がりなさい.
+*CHI:	iya .
+%ort:	いや.
+%com:	shibaraku kinjo no kodomo to asobu しばらく 近所の子供と遊ぶ
+%tim:	17:40
+*MOT:	Hiroshikun ‡ kaette kinasai !
+%ort:	浩君帰ってきなさい
+*MOT:	otete to ashi aratte !
+%ort:	おててと 足あらって.
+*MOT:	zubon mo nuide ne !
+%ort:	ズボンもぬいでね.
+*CHI:	Okaachan fuku minna nugu no ?
+%ort:	お母ちゃん服みんなぬぐの?
+*MOT:	minna nuidara akan yo .
+%ort:	みんなぬいだらあかんよ
+*MOT:	zubon dake Hiroshikun ‡ .
+%ort:	ズボンだけ浩君
+*MOT:	tansu kara zubon dashite !
+%ort:	タンスからズボン出して.
+*CHI:	un Okaachan ‡ kore motte kita .
+%com:	zubon o うんお母ちゃん これ もってきた [%: ズボンを].
+*MOT:	hai .
+%ort:	はい
+*MOT:	hai Hiroshikun ‡ Otoochan ni shimbun motte itte !
+%ort:	はい浩君 お父ちゃんに新聞もっていって.
+*CHI:	buchan [: obuuchan] choodai !
+%ort:	ぶちゃんちょううだい.
+%com:	ocha o sashite iu お茶をさして言う
+*CHI:	boku ireru .
+%ort:	ぼく入れる.
+*MOT:	ikemasen .
+%ort:	いけません お母ちゃんが入れたげるなおしなさい .
+*MOT:	Okaachan ga iret(e) ageru naoshinasai !
+%ort:	お母ちゃんが入れたげるなおしなさい .
+%com:	omocha おもちゃ
+*CHI:	itadakimasu .
+%ort:	いただきます.
+*CHI:	Okaachan ‡ kore atsui .
+%ort:	お母ちゃん これあつい .
+%com:	okazu おかず
+*MOT:	moo samete iru deshoo .
+%ort:	もう さめているでしょう .
+%com:	okazu おかず
+*CHI:	< kore mo > [/] kore mo .
+%ort:	これも これも.
+%com:	okazu o sashite iu おかずをさして言う
+*MOT:	Hiroshikun ‡ damatte oagari !
+%ort:	浩君 だまっておあがり.
+*CHI:	Okaachan ‡ kore iran .
+%ort:	お母ちゃん これいらん.
+%com:	okazu o sashite iu おかずをさして言う
+@G:	page161
+*MOT:	oit(e) okinasai !
+%ort:	おいときなさい
+*MOT:	Hiroshikun ‡ nani shiteru no ?
+%ort:	浩君 なにしてるの.
+%com:	tabe nagara asonde iru 食べながら遊んでいる
+*MOT:	asonde tabete itara okoru yo .
+%ort:	あそんでたべていたら おこるよ .
+*CHI:	kono niku mo iran .
+%ort:	この肉もいらん.
+*MOT:	tabehenkattara Hiroshikun kobito ni naru yo .
+%ort:	食べへんかったら浩君 こびとになるよ.
+%com:	gohan o sashite iu ごはんをさして言う
+*MOT:	Hiroshikun ‡ ogyoogi yoku tabeteru ?
+%ort:	浩君 おぎょうぎよくたべてる?
+*CHI:	ochazuke shite !
+%ort:	おちゃづけして.
+*MOT:	kore tabete goran !
+%ort:	これ たべてごらん
+%com:	kore wa okazu o sashite iu これはおかずをさして言う
+*MOT:	kore wa .
+%ort:	これは
+%com:	okazu o sashite おかずをさして
+*CHI:	okooko [= takuan] choodai ?
+%ort:	おこうこちょうだい.
+*MOT:	sonna no tabetetara ikan yanai no .
+%ort:	そんなのたべてたら いかんやないの.
+*CHI:	iya .
+%ort:	いや.
+*MOT:	nani o itteru no ?
+%ort:	なにをいってるの.
+*CHI:	boku kore .
+%ort:	ぽくこれ.
+%com:	otsukemono o sashite itte iru おつけものをさしていっている
+*MOT:	Hiroshikun ‡ ogyoogi warui ne .
+%ort:	浩君 おぎょうぎ悪いね.
+*CHI:	chanto taberu .
+%ort:	ちゃんとたべる.
+*CHI:	moo ii .
+%ort:	もういい.
+%com:	shokuji o shuuryou o negau 食事を終了を願う
+*MOT:	ii .
+%ort:	いい.
+%com:	shokuji o owatte mo ii 食事をおわってもいい
+*CHI:	gochisoosama .
+%ort:	ごちそうさま.
+*CHI:	boku asobu .
+%ort:	ぼくあそぶ.
+*MOT:	shizuka ni shinasai yo !
+%ort:	静かにしなさいよ.
+*CHI:	Okaachan ‡ Oneechan boku to nenne suru no .
+%ort:	お母ちゃん お姉ちゃん ぽくとねんねするの.
+*MOT:	Hiroshikun ga orikoo yattara nenne suru tte .
+%ort:	浩君がおりこうやったら ねんねするって
+*MOT:	Hiroshikun ‡ obebe nuidara ikan .
+%ort:	ひろしくんおべべぬいだら いかん.
+%com:	kodomo ga fuku o nugoo to suru 子供が服をぬこうとする
+*CHI:	dooshite ?
+%ort:	どうして.
+*MOT:	kaze hiiteru n deshoo .
+%ort:	かぜひいてるんでしょう
+*MOT:	a soo [/] soo .
+%ort:	あ そうそう
+*MOT:	Hiroshikun ‡ okusuri nomu n yo .
+%ort:	浩君お薬飲むんよ.
+*CHI:	un .
+%ort:	うん.
+*MOT:	Hiroshikun ‡ sore furimawashitara ikan .
+%ort:	浩君 それふりまわしたらいかん.
+%com:	omocha no katana おもちゃのかたな
+*MOT:	omeme tsubureru yo .
+%ort:	お目目 つぶれるよ.
+%com:	omocha o furimawasu no de chuui suru おもちゃをふりまわすので注意する
+*CHI:	atarehen [: atarahen] yan .
+%ort:	あたれへんやん.
+%com:	omocha ga jibun jishin ni おもちゃが自分自身に
+*MOT:	moo yamenasai !
+%ort:	もうやめなさい.
+@G:	page162
+*MOT:	ofuro hairoo ne .
+%ort:	おふろ入ろうね.
+*CHI:	un .
+%ort:	うん.
+*MOT:	soko katazukete ne !
+%ort:	そこ かたづけてね.
+*CHI:	katazukete !
+%ort:	かたつけて.
+%com:	hahaoya ni katazukete hoshii to iu 母親にかたづけてほしいという
+*MOT:	Hiroshikun ‡ Okaachan no kao mite goran !
+%ort:	浩君 お母ちゃんの 顔みてごらん.
+%com:	okotta kao o shite miseru おこった顔をしてみせる
+*MOT:	Hiroshikun ‡ Oneechan ni fuku nugashite morainasai !
+%ort:	浩君 お姉ちゃんに 服ぬがしてもらいなさい.
+*CHI:	ofuro hairu no .
+%ort:	お風呂 入るの.
+*MOT:	Okaachan sugu hairu kara saki ni hairinasai !
+%ort:	お母ちゃん すぐ入るから 先に入りなさい.
+%com:	nyuuyoku 入浴
+*CHI:	Okaachan ‡ tsumetai no choodai !
+%ort:	お母ちゃん つめたいのちょうだい.
+%com:	furo kara agaru 風呂からあがる
+*MOT:	gyuunyuu ga ii ne .
+%ort:	牛乳かいいね.
+*CHI:	boku gyuunyuu iya .
+%ort:	ぼく 牛乳いや
+*CHI:	karupisu .
+%ort:	カルピス.
+*MOT:	chotto machinasai .
+%ort:	ちょっとまちなさい
+*MOT:	Oniichan ni nani ga ii ka kiite kite !
+%ort:	お兄ちゃんに 何がいいかきいてきて.
+*CHI:	Oniichan gyuunyuu .
+%ort:	お兄ちゃん 牛乳.
+%com:	ani ni kiite kaette kuru 兄に間いて帰って来る
+*MOT:	koboshitara ikan yo .
+%ort:	こぼしたら いかんよ.
+%com:	karupisu o watashite iu カルピスをわたして言う
+*MOT:	isu ni chanto osuwari shite !
+%ort:	いすに ちゃんとおすわりして.
+*MOT:	Hiroshikun ‡ sore nondara nenne shoo [: shiyoo] ne .
+%ort:	浩君 それ飲んだら ねんねしょうね.
+*CHI:	iya:n .
+%ort:	いやーん
+*CHI:	moo chotto .
+%ort:	もうちょっと.
+*MOT:	Hiroshikun ‡ oneechan shindoi tte .
+%ort:	浩君 お姉ちゃん しんどいって.
+*CHI:	iya:n .
+%ort:	いやーん.
+*MOT:	soshitara moo chotto dake .
+%ort:	そしたら もうちょっとだけ.
+*CHI:	Okaachan ‡ nanka choodai !
+%ort:	お母ちゃん なにかちょうだい.
+%com:	karupisu o nomioete カルピスをのみおえて
+*MOT:	nani ga ii no ?
+%ort:	何が いいの.
+*CHI:	boku okaki choodai !
+%ort:	ぽく おかきちょうだい.
+*MOT:	moo okaki ikan .
+%ort:	もう おかきいかん
+*MOT:	momo muit(e) ageru .
+%ort:	ももむいたげる.
+*CHI:	momo de mo ii .
+%ort:	ももでもいい.
+*MOT:	okuchi ni chanto irete !
+%ort:	お口に ちゃんと入れて.
+%com:	hahaoya ga momo o muite watasu 母親が桃をむいてわたす
+*MOT:	koboreru yo oshiru tsuitara kitanai yo .
+%ort:	こぼれるよ おしるついたらきたないよ.
+*CHI:	gochisoosama .
+%ort:	ごちそうさま.
+*MOT:	nenne shoo [: shiyoo] ne .
+%ort:	ねんねしょうね.
+@G:	page163
+*MOT:	saa kotchi kinasai !
+%ort:	さあ こっちきなさい.
+%com:	toire hairu トイレ入る
+*MOT:	okuchi guchuguchu shite !
+%ort:	お口 ぐちゅ ぐちゅして.
+%com:	semmenjo de 洗面場で
+*CHI:	Otoochan ‡ oyasumi .
+%ort:	お父ちゃんおやすみ
+*CHI:	oneechan boku to nenne suru .
+%ort:	お姉ちゃん ぼくとねんねする.
+*MOT:	Hiroshikun ‡ oneechan sugu kuru tte .
+%ort:	浩君 お姉ちゃん すぐくるて.
+*CHI:	oneechan ‡ hayoo .
+%ort:	お姉ちゃん はよー.
+%com:	futon no naka kara yobu ふとんの中からよぶ
+*MOT:	Hiroshikun ‡ moo oshaberi yamete !
+%ort:	浩君 もうおしゃべりやめて.
+*MOT:	Hiroshikun ‡ omeme o tojimashita yo .
+%ort:	浩君おめめをとじましたよ
+%com:	itte kikaseru 言ってきかせる
+*MOT:	dandan nemuku natte kimasu .
+%ort:	だんだんねむくなってきます.
+*MOT:	nemuku natta deshoo .
+%ort:	ねむぐなったでしょう
+*MOT:	nemui desu yo .
+%ort:	ねむいですよ.
+*MOT:	nemui desu yo .
+%ort:	ねむいですよ (.) .
+%com:	nete shimatta ねてしまった
+@End

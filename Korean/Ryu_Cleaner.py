@@ -7,11 +7,11 @@ pindex = -1;
 def tokenize_syllables():
     with open("/Users/SamuelHu/Desktop/Computational_Linguistics_Research/DataCleaner/Korean/Raw Dataset/Ryu/Jong/010308.cha") as data:
         for lines in data:
-            if lines.startswith("*MOT"):
+            if lines.startswith("*MOT") and lines.find('[/]') == -1:
                 lines = lines.replace("*MOT:\t","")
                 for charac in lines:
                     if(charac == ','):
-                        lines = lines.replace(' , ','|')
+                        lines = lines.replace(' , ',' ')
                         continue
                     pindex = lines.find('\u0015')
                 lines = lines[:pindex-3]
@@ -22,15 +22,13 @@ def tokenize_syllables():
                 list.append(lines)
 
         for a,b in zip(before, list):
-            after.append(a+"    "+b)
-        
-        for e in after:
-            print(e)
+            after.append(a+"\t"+b)
 
 def generate_file():
-    f = open("Jiwon_020020_gold.txt","x")
+    f = open("Ryu_Jong_010308_gold.txt","w")
     for e in after:
         f.write(e+"\n")
 
 if __name__ == "__main__":
     tokenize_syllables()
+    generate_file()

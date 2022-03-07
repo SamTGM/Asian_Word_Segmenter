@@ -1,0 +1,370 @@
+@UTF8
+@PID:	11312/c-00009674-1
+@Color words:	*CHI: 1 65535 0 0 *MOT: 1 0 32896 16448 
+@Begin
+@Languages:	jpn
+@Participants:	CHI Akichan Target_Child, MOT Mother, OBS Investigator, TOY
+	Toy Media
+@ID:	jpn|Okayama|CHI|3;04.|female|||Target_Child|||
+@ID:	jpn|Okayama|MOT||female|||Mother|||
+@ID:	jpn|Okayama|OBS||female|||Investigator|||
+@ID:	jpn|Okayama|TOY|||||Media|||
+@Comment:	3-40 female 3;4. name: A.O. siblings: older brother 13;
+	older sister 10;
+@G:	page: 718
+@Types:	cross, toyplay, TD
+*CHI:	Okaasan ‡ ohayoo .
+%ort:	おかあさん おはよう.
+*MOT:	Akichan ‡ ohayoo .
+%ort:	晶ちゃん おはよう.
+*CHI:	Akichan gohan taberu no .
+%ort:	晶ちゃん ご飯食べるの.
+*MOT:	hai [/] hai tabenasai yo .
+%ort:	はい はい 食べなさいよ
+*MOT:	otete aratte (i)rasshai .
+%ort:	おてて 洗ってらっしゃい.
+%com:	kodomo semmenjo e iku; 子供 洗面所へいく
+*CHI:	Akichan otete aratta yo .
+%ort:	晶ちゃん おてて 洗ったよ.
+*MOT:	hai orikoosan ne .
+%ort:	はい おりこうさんね
+*MOT:	hai gohan ni shimashoo ne .
+%ort:	はい ご飯にしましょうね.
+*CHI:	un .
+%ort:	うん.
+%com:	tabe hajimeru; 食べ始める
+*CHI:	ocha choodai .
+%ort:	お茶 ちょうだい.
+*MOT:	okoocha ga ii no Akichan ‡ ?
+%ort:	お紅茶がいいの 晶ちゃん.
+*CHI:	soo yo .
+%ort:	そうよ
+*CHI:	Akichan okoocha .
+%ort:	晶ちゃん お紅茶.
+*MOT:	hai pan mo tabemashoo ne .
+%ort:	はい パンも食べましょうね.
+*CHI:	Akichan pan taberu yo .
+%ort:	晶ちゃん パン食べるよ.
+@Comment:	gozen; 午前
+*CHI:	gochisoosama .
+%ort:	ごちそうさま.
+*MOT:	hai gochisoosama .
+%ort:	はい ごちそうさま
+*MOT:	oishikatta .
+%ort:	おいしかった.
+*CHI:	oishikatta .
+%ort:	おいしかった.
+*CHI:	achikochi [/] achikochi shite ageru ne .
+%ort:	あちこち あちこち してあげるね.
+@Comment:	heya no naka o hashirimawaru; 部屋の中を走り回る
+*MOT:	achikochi [/] achikochi ya ne: .
+%ort:	あちこち あちこち やねえ.
+%com:	shingoo no hanashi; 信号の話
+*CHI:	ano(o) ne aka wa dame yo .
+%ort:	あのね 赤は ダメヨ.
+*MOT:	aka wa dame na no ?
+%ort:	赤はダメなの
+*MOT:	dooshite dame na no ?
+%ort:	どうしてダメなの?
+*CHI:	shiro yo .
+%ort:	白よ
+*CHI:	shiro ga ii no yo .
+%ort:	白がいいのよ.
+*MOT:	soo ?
+%ort:	そう
+*MOT:	shiro ga ii no ?
+%ort:	白かいいの?
+*MOT:	soo kanaa ?
+%ort:	そうかな?
+*CHI:	soo yo .
+%ort:	そうよ
+*CHI:	anoo ne shiro wa abunakunai no yo .
+%ort:	あのね 白はあぶなくないのよ.
+*MOT:	Akichan ‡ shiro janakute ao deshoo ?
+%ort:	晶ちゃん 白じゃなくて 青でしょう?
+*MOT:	ao ga abunakunai no yo .
+%ort:	青が あぶなく ないのよ.
+*CHI:	< soo yo > [/] soo yo .
+%ort:	そうよ そうよ
+*CHI:	Akichan machigaechatta .
+%ort:	晶ちやん まちがえちゃった
+*CHI:	iya:ne: .
+%ort:	いやあねえ.
+*CHI:	kiiro abunai yo .
+%ort:	黄色 あふないよ.
+*MOT:	ja: Akichan ‡ kiiro wa .
+%ort:	じゃあ 晶ちゃん 黄色は.
+*CHI:	kiiro abunai yo.
+%ort:	黄色 あぶないよ.
+*MOT:	soo ne .
+%ort:	そうね
+*MOT:	yoku shitte iru ne .
+%ort:	よく 知つているね.
+@G:	page: 719
+@Comment:	kodomo hon o motte kuru; kangaruu no hanashi; kangaruu ga
+	maigo ni natte iru; 子供 本を持ってくる; カンガルーの話 カンガルーが迷子になっている
+*CHI:	“mama ga inai yo:” to itteru no yo .
+%ort:	“ママがいないよう”といってるのよ
+*CHI:	“a:n a:n mama ga inai yo:” .
+%ort:	“あーんあーんママがいないよう”.
+@Comment:	sorekara nanika isshookemmee ohanashi shite iru; hon o mi
+	nagara ; soko e ane (10sai) ga kaette kuru ;
+	それから何か一生懸命お話している本を見ながら; そこへ 姉(10歳) が帰ってくる .
+*MOT:	Akichan ‡ Oneechan yo .
+%ort:	晶ちゃんおねえちゃんよ
+*MOT:	okaerinasai .
+%ort:	おかえりなさい.
+*CHI:	okaerinasai .
+%ort:	おかえりなさい.
+*MOT:	Akichan ‡ oneechan to asonde ne .
+%ort:	晶ちゃん おねえちゃんと あそんでね
+*MOT:	Okaasan chotto otsukai ni itte kuru kara ne .
+%ort:	おかあさん ちょっと お使いに行って来るからね.
+*MOT:	orikoo ni shitenasai yo .
+%ort:	おりこうに してなさいよ .
+*CHI:	Akichan mo iku .
+%ort:	晶ちゃんも 行く.
+*MOT:	sugu kaette kuru kara ne .
+%ort:	すぐ 帰ってくるからね
+*MOT:	Tsuyukoneechan [= OBS ] mo iru kara ii deshoo .
+%ort:	郁子ねえちゃん [%: OBS] もいるからいいでしょう.
+*MOT:	Akichan no ohirugohan katte kuru kara ne .
+%ort:	晶ちゃんの お昼ごはん 買ってくるからね.
+@Comment:	oku kara ane ga”Akichan” to yobu; 奥から姉が”晶ちゃん”と呼ぶ
+*MOT:	hora oneechan ga yonderu yo .
+%ort:	ほら おねえちゃんが 読んでるよ
+*MOT:	ja ittekimasu .
+%ort:	じゃ 行って来ます.
+*CHI:	itterasshai .
+%ort:	いってらっしゃい.
+@Comment:	mesomeso suru; メソメソする
+*MOT:	tadaima .
+%ort:	ただいま.
+*CHI:	okaerinasai .
+%ort:	おかえりなさい.
+*MOT:	doo shita no ?
+%ort:	どうしたの
+*MOT:	naita no ?
+%ort:	泣いたの.
+*CHI:	“mama ga inai yo:” tte itta no .
+%ort:	“ママが いないよう”って 言ったの.
+*MOT:	maa [/] maa kangaruu no akachan mitai ne .
+%ort:	まあ まあ カンガルーの赤ちゃんみたいね.
+@Comment:	hiru; 昼; 11:30-12:30
+*MOT:	saa ohiru ni shimashoo .
+%ort:	さあ お昼にしましょう
+*MOT:	gohan desu yo .
+%ort:	ご飯ですよ.
+*CHI:	Akichan dore ?
+%ort:	晶ちゃん どれ.
+*MOT:	Akichan no wa kore desu yo .
+%ort:	晶ちゃんのは これですよ.
+*CHI:	itadakimasu .
+%ort:	いただきます.
+*MOT:	otete aratta no ?
+%ort:	おてて 洗ったの.
+*CHI:	un aratta yo ne: oneechan ‡ .
+%ort:	うん 洗ったよねえ お姉ちゃん.
+*MOT:	hai ja oagari nasai .
+%ort:	はい じゃ おあがりなさい.
+@G:	page: 720
+*CHI:	itadakimasu .
+%ort:	いただきます.
+*CHI:	Akichan kore kirai yo.
+%ort:	晶ちゃん これ 嫌いよ.
+*MOT:	kabocha yo .
+%ort:	かぼちゃよ
+*MOT:	tabenasai .
+%ort:	食べなさい.
+*CHI:	kirai yo.
+%ort:	嫌いよ.
+*MOT:	ja chigau no kara tabenasai .
+%ort:	じゃ ちがうのから 食べなさい
+*MOT:	dooshite kirai na no kashira .
+%ort:	どうして 嫌いなのかしら
+*MOT:	komatta wa ne .
+%ort:	困ったわね.
+*CHI:	kore dame ?
+%ort:	これ ダメ?
+*MOT:	sore wa Akichan wa dame yo .
+%ort:	それは 晶ちゃんはダメよ
+*MOT:	kotchi no agemashoo .
+%ort:	こっちのあげましょう.
+*CHI:	oishii .
+%ort:	おいしい.
+*MOT:	yokatta wa .
+%ort:	良かったわ.
+*CHI:	gochisoosama .
+%ort:	ごちそうさま.
+*MOT:	hai gochisoosama .
+%ort:	はい ごちそうさま
+*MOT:	atchi no oheya de asonde ne „ katazukeru aida .
+%ort:	あっちの お部屋で 遊んでね, かたずける あいだ .
+*CHI:	Oneechan ‡ ikimashoo .
+%ort:	おねえちゃん 行きましょう.
+@Comment:	shibaraku ane to asobu ga, ane ga tomodachi no ie e itte
+	shimau; oningyoogokko; gogo; しばらく 姉と遊ぶが 姉が友達の家へ行ってしまう
+	お人形ごっこ; 午後 ; 14:00-15:00
+*CHI:	Maagarettochan shiyoo .
+%ort:	マーガレットちゃん しよう.
+%com:	お話する人形; ohanashi suru ningyoo
+*MOT:	ja moo hitori no Maagarettochan o kashite choodai .
+%ort:	じゃ もう1人の マーガレットちゃんを 貸してちょうだい.
+*MOT:	kono ko wa nan tte namae datta ?
+%ort:	この子は 何て 名前だった.
+*CHI:	sore wa ne eeto Ririichan .
+%ort:	それはね えーと リリーちゃん.
+*MOT:	Ririichan .
+%ort:	リリーちゃん
+*MOT:	Ririichan oyoofuku kitenai no ?
+%ort:	リリーちゃん お洋服 きてないの?
+*CHI:	oyoofuku aru yo .
+%ort:	お洋服 あるよ
+*CHI:	hai kore kisete choodai .
+%ort:	はい これ 着せてちょうだい.
+*MOT:	hai arigatoo .
+%ort:	はい ありがとう.
+*CHI:	Maagarettochan no botan mata ato de tsukete ne .
+%ort:	マーガレットちゃんの ボタン また あとで つけてね.
+*MOT:	hai tsukete ageru yo .
+%ort:	はい つけてあげるよ
+*TOY:	Maagarettochan asobimasho .
+%ort:	“マーガレットちゃん 遊びましょ”.
+*TOY:	ha:i doobutsuen e ikimashoo .
+%ort:	“はーい 動物園へ行きましょう”.
+*TOY:	itterasshai .
+%ort:	“いってらっしゃい”.
+*TOY:	ittekima:su .
+%ort:	“いってきまあす”.
+*CHI:	Akichan piano e itte kimasu .
+%ort:	晶ちゃん ピアノへ 行ってきます.
+@G:	page: 721
+*MOT:	hai itterasshai .
+%ort:	はい いってらっしゃい.
+*CHI:	hayaku kaette kite ne .
+%ort:	早く帰ってきてね.
+*CHI:	Akkochan .
+%ort:	アッコちゃん .
+%com:	himitsu no Akkochan no uta; ひみつのアッコちゃんの歌
+*MOT:	maa joozu na outa ga kikoete kuru wa .
+%ort:	まあ じょうずな おうたが聞こえてくるわ.
+*MOT:	Akichan ohirune shimashoo .
+%ort:	晶ちゃん お昼寝しましょう.
+@Comment:	nemukatta no de sugu neru; 眠かったかったので すぐ寝る
+*MOT:	okita no ?
+%ort:	起きたの?
+*CHI:	Otoosan wa ?
+%ort:	おとうさんは?
+*MOT:	kaetterassharu yo .
+%ort:	帰ってらっしゃるよ
+*MOT:	issho ni ofuro ni hairinasai ne .
+%ort:	いっしょに おふろに 入りなさいね.
+*CHI:	Otoosan ‡ okaerinasai .
+%ort:	おとうさん お帰りなさい.
+*MOT:	Otoochan ofuro ni haitte choodai „ Akichan mo ne .
+%ort:	おとうちゃん おふろに入ってちょうだい晶ちゃんもね.
+%com:	shibaraku chichi to hanashite iru; chichi ofuro ni hairu; shibaraku
+	shite;しばらく 父と話している父 おふろに 入る しばらくして
+*MOT:	Otoosan ga yonderu yo.
+%ort:	おとうさんが 呼んでるよ
+*MOT:	saa hairimashoo .
+%ort:	さあ はいりましょう.
+*MOT:	oyoofuku nuide choodai .
+%ort:	お洋服 ぬいで ちょうだい.
+*MOT:	saa haitte (i)rasshai .
+%ort:	さあ はいってらっしゃい.
+*CHI:	rarara@wp .
+%ort:	ラララー.
+%com:	wake no wakaranai uta; わけのわからない歌
+*CHI:	ohimesama yo .
+%ort:	お姫様よ.
+%com:	basutaoru o karada ni maite; バスタオルを体にまいて
+*CHI:	Akichan ohimesama ni natchatta .
+%ort:	晶ちゃん お姫様になっちゃった .
+*MOT:	maa [/] maa kawaii ohimesama desu ne: .
+%ort:	まあ まあ かわいいお姫様ですねェ
+*MOT:	saa onemaki kit(e) okimashoo .
+%ort:	さあ おねまき 着ときましょう.
+@Comment:	yuugata; 夕方
+*MOT:	oniichan to oneechan ni “gohan ni shimashoo” tte itte kite choodai
+	.
+%ort:	おにいちゃんと おねえちゃんに ご飯にしましょうって 言ってきてちょうだい.
+*CHI:	oniichan ‡ gohan desu yo .
+%ort:	おにいちゃん お飯ですよ
+*CHI:	oneechan ‡ gohan desu yo .
+%ort:	おねえちゃん お飯ですよ.
+*CHI:	Akichan onaka suichatta .
+%ort:	晶ちゃん おなかすいちゃった.
+*MOT:	hai gohan ni chimashoo [: shimashoo] .
+%ort:	はい ご飯にちましょう
+*MOT:	Akichan osuwari shite ne .
+%ort:	晶ちゃん おすわりしてね.
+*CHI:	hai .
+%ort:	はい.
+*CHI:	itadakimasu .
+%ort:	いただきます.
+*MOT:	itadakimasu .
+%ort:	いただきます.
+*CHI:	Akichan kore tabetara dame ne ?
+%ort:	晶ちゃん これ食べたら ダメね?
+@G:	page: 722
+*MOT:	ii no yo .
+%ort:	いいのよ
+*MOT:	tabenasai .
+%ort:	食べなさい.
+*CHI:	gee yo .
+%ort:	ゲーよ.
+%com:	ageru koto byooki; あげること 病気
+*MOT:	moo byooki naotta deshoo .
+%ort:	もう 病気 直ったでしょう
+*MOT:	dakara ii no .
+%ort:	だからいいの
+*MOT:	tabenasai .
+%ort:	食べなさい.
+@Comment:	yuugata; 夕方
+*CHI:	Akichan ochuusha shita no .
+%ort:	晶ちゃん お注射したの.
+*MOT:	soo ne .
+%ort:	そうね
+*MOT:	orikoosan ni shitetara sugu naotta desho .
+%ort:	おりこうさんにしてたらすぐ直ったでしょ.
+*CHI:	un moo gee shinai yo.
+%ort:	うんもう ゲーしないよ.
+*MOT:	soo ne .
+%ort:	そうね.
+%com:	perapera shaberu; kazoku to; ぺらぺらしゃべる 家族と
+*CHI:	gochisoosama .
+%ort:	ごちそうさま.
+*MOT:	hai gochisoosama.
+%ort:	はい ごちそうさま.
+@Comment:	niwa de chichi to funsui o mite iru; 庭で父と 噴水をみている
+*CHI:	Okaasan ‡ chotto kite .
+%ort:	おかあさん ちょっと来て.
+*MOT:	chotto matte „ okatazuke shiteru kara .
+%ort:	ちょっと 待っておかたづけしてるから.
+@Comment:	yoru; 夜; 19:30-8:30
+*CHI:	Okaasan ‡ kite yo .
+%ort:	おかあさん 来てよ.
+*MOT:	hai [/] hai na:ni ?
+%ort:	はいはいなあに.
+*MOT:	kiree ne: .
+%ort:	きれいねえ.
+@Comment:	haha, daidokoro e modoru; terebi o miru; 台所へもどる; テレビをみる
+*MOT:	Akichan ‡ saa .
+%ort:	晶ちゃん さあ!!
+*MOT:	oshikko ni itte nemashoo .
+%ort:	おしっこに 行って 寝ましょう.
+*CHI:	oyasuminasai .
+%ort:	おやすみなさい.
+@Comment:	shibaraku hitori de futon no naka ni haitte iru; しばらく ひとりで
+	ふとんの中に入っている
+*CHI:	ohanashi shite .
+%ort:	お話して.
+%com:	okite kuru; おきて来る
+*MOT:	hai [/] hai .
+%ort:	はい はい
+*MOT:	saa ikimashoo .
+%ort:	さあ いきましょう.
+*MOT:	damatte onenne suru no yo .
+%ort:	だまって おねんねするのよ.
+@End

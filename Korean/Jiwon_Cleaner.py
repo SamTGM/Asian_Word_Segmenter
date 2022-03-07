@@ -11,7 +11,7 @@ def tokenize_syllables():
                 lines = lines.replace("*MOT:\t","")
                 for charac in lines:
                     if(charac == ','):
-                        lines = lines.replace(' , ','|')
+                        lines = lines.replace(' , ',' ')
                         continue
                     if(charac in string.punctuation):
                         pindex = lines.index(charac)
@@ -24,7 +24,8 @@ def tokenize_syllables():
                 list.append(lines)
 
         for a,b in zip(before, list):
-            after.append(a+"    "+b)
+            after.append(a+"\t"+b)
+        
 
 def generate_file():
     f = open("Jiwon_020020_gold.txt","w")
@@ -33,4 +34,4 @@ def generate_file():
 
 if __name__ == "__main__":
     tokenize_syllables()
-    generate_file();
+    #generate_file();
