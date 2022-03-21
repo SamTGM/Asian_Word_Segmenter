@@ -78,6 +78,7 @@ def get_bestmatch(matchedwords, lexicon):
     first = list(matchedwords)[0]
     for words in matchedwords:
         if words in lexicon.keys():
+            #print(words)
             if lexicon.get(words)>lexicon.get(first):
                 max = words
             elif lexicon.get(words)==lexicon.get(first):
@@ -122,6 +123,7 @@ def get_segpoints(lexicon, utts):
     ulist = []
     slist = []
     for utt in utts:
+        #print(utt)
         ulist.append(get_utt_segpoints(lexicon, utt)[0])
         slist.append(get_utt_segpoints(lexicon, utt)[1])
     return ulist, slist
@@ -139,7 +141,9 @@ def build_lexicon_recursive(utts):
 
 def main():
     train_utts = data.read_file("Jiwon_020020_unseg.txt")
-    lexicon = build_lexicon(train_utts[:])
+    print("144")
+    lexicon = build_lexicon(train_utts[:]) # <- ERROR HAPPEN HERE
+    print("146")
 
     test_utts = data.read_file("Erbaugh_Kang_01_unseg.txt")
     goldsegs_train = data.get_goldsegs("Jiwon_020020_gold.txt")

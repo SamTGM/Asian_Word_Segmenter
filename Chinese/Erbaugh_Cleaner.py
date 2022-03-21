@@ -1,16 +1,35 @@
+from cmath import pi
+import numbers
+from operator import indexOf
 import string
+import re
 
 list= []
 before = []
 after = []
-pindex = -1;
+
+
 def tokenize_syllables():
     with open("/Users/SamuelHu/Desktop/Computational_Linguistics_Research/DataCleaner/Chinese/Erbaugh/Kang/02.cha") as data:
         for lines in data:
-            if lines.startswith("%mor") and lines.find('[/]') == -1:
+            if lines.startswith("%mor") and lines.find('[/]') == -1 and lines.find('&DIM') == -1:
                 lines = lines.replace("%mor:\t","")
                 lines = lines.replace(' \u2021 ',' ')
-                print(lines)
+                pindex = 0
+                for charac in lines:
+                    strings = ''
+                    if charac.isdigit():
+                        strings = strings + lines[lines.find('|',pindex)+1:lines.find('=',pindex+1)]
+                        pindex = lines.find('=')
+                        
+                    if strings != '':
+                        before.append(strings)
+                    # list = lines.split()
+                    # for word in list:
+                    #     for cha in word:
+                    #         if cha.isdigit():
+                    #             after.append(word)
+        print(before)
         #         for charac in lines:
         #             if(charac == ',' or charac == '„'):
         #                 lines = lines.replace(' , ',' ')
