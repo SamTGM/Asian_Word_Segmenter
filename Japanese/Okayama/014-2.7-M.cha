@@ -1,0 +1,799 @@
+@UTF8
+@PID:	11312/c-00009636-1
+@Color words:	*CHI: 1 65535 0 0 *MOT: 1 0 32896 16448
+@Begin
+@Languages:	jpn
+@Participants:	CHI Hidekichan Target_Child, MOT Mother, OBS Investigator
+@ID:	jpn|Okayama|CHI|2;07.|male|||Target_Child|||
+@ID:	jpn|Okayama|MOT||female|||Mother|||
+@ID:	jpn|Okayama|OBS||female|||Investigator|||
+@Comment:	2-06 male 2;7. name: E.T. siblings: younger sister 7.
+@G:	page052
+@Types:	cross, toyplay, TD
+*MOT:	moo okita no ?
+%ort:	もう おきたの?
+%tim:	7:00
+*MOT:	shiishii suru ?
+%ort:	しーしーする?
+*CHI:	un , shiishii suru .
+%ort:	うん しーしーする.
+*CHI:	boku , jitensha ni noru kara nema [?] agete .
+%ort:	ボク 自転車に乗るからねまあげて.
+*MOT:	ja , matte ne .
+%ort:	じゃ まってね.
+*CHI:	Dadii , okiteru ?
+%ort:	ダディー おきてる?
+*MOT:	boku ‡ pajama o nuide oyoofuku kimasho(o) .
+%ort:	ボク パジャマをぬいでお洋服きましょ.
+*CHI:	itai yo: .
+%ort:	いたいよ-.
+*MOT:	doko ga itai no .
+%ort:	どこがいたいの.
+*CHI:	itakunai .
+%ort:	いたくない.
+*CHI:	itai .
+%ort:	いたい.
+*MOT:	onaka ga itai no .
+%ort:	おなかがいたいの.
+*CHI:	< chigau yo > [/] chigau yo .
+%ort:	ちがうよ ちがうよ.
+*MOT:	doko ga itai no ?
+%ort:	どこがいたいの?
+*CHI:	< itai yo: > [/] itai yo: .
+%ort:	いたいよ- いたいよ-.
+*MOT:	kore taberu ?
+%ort:	これ食べる?
+*CHI:	taberu „ kore .
+%ort:	食べるこれ.
+*CHI:	boku da yo: .
+%ort:	ボクだよ-.
+*MOT:	hai [/] hai , kore ne .
+%ort:	はいはい これね.
+*MOT:	oishii ?
+%ort:	おいしい?
+*CHI:	oichii@u [: oishii] .
+%ort:	おいちい.
+*MOT:	Kyookochan , koko ni suwatte kudasai tte ieru kanaa ?
+%ort:	京子ちゃん ここにすわって下さいって言えるかな?
+*CHI:	Kyookochan , chuwatte@u [: suwatte ] kudasai .
+%ort:	京子ちゃん ちゅわって下さい.
+*MOT:	Obaachan , nani ni notte kita n daro(o) .
+%ort:	おばあちゃん 何にのってきたんだろ.
+*CHI:	nani ?
+%ort:	何?
+*CHI:	boku ?
+%ort:	ボク?
+*MOT:	Obaachan .
+%ort:	おばあちゃん.
+*CHI:	chootokkyuu .
+%ort:	超特急.
+*MOT:	chootokkyuu da ne .
+%ort:	超特急だね.
+*MOT:	chootokkyuu de kita n da ne .
+%ort:	超特急できたんだね.
+*MOT:	iya da .
+%ort:	いやだ.
+*MOT:	< boku wa > [//] boku dooshite tabenai no ?
+%ort:	ボクは ボク どうして食べないの?
+*MOT:	boku ‡ kore chumetai [: tsumetai] yo .
+%ort:	ボク これちゅめたいよ.
+*MOT:	dooshite nomanai no .
+%ort:	どうして飲まないの.
+*CHI:	boku kore nomu .
+%ort:	ボク これ飲む.
+@G:	page053
+*CHI:	Mama: ‡ .
+%ort:	ママ-.
+*MOT:	ureshii ne .
+%ort:	うれしいね.
+*MOT:	boku kashikoku shiteta kara Kyookochan to Obaachan ga kite kureta
+	no kanaa.
+%ort:	ボク かしこくしてたから 京子ちゃんとおばあちゃんがきてくれたのかな
+*CHI:	kore .
+%ort:	これ.
+*MOT:	hamu no mi dake .
+%ort:	ハムの身だけ.
+*CHI:	iya da yo: .
+%ort:	いやだよ-.
+*CHI:	oishii .
+%ort:	おいしい.
+*MOT:	shiroi no ga ii ?
+%ort:	白いのがいい?
+*CHI:	ii .
+%ort:	いい.
+*MOT:	oishii ?
+%ort:	おいしい?
+*CHI:	oichii@u [: oishii] .
+%ort:	おいちい.
+*MOT:	un to ittara dame ne .
+%ort:	うんといったらダメね.
+*MOT:	hai desho .
+%ort:	はいでしょ.
+*CHI:	un to iwanaide hai .
+%ort:	うんといわないではい.
+*CHI:	iranai .
+%ort:	いらない.
+*CHI:	boku taberu „ kore .
+%ort:	ボク食べる これ.
+*MOT:	taberu no ?
+%ort:	食べるの?
+*CHI:	un .
+%ort:	うん.
+*CHI:	Dadii mieru kanaa .
+%ort:	ダディー見えるかな.
+*MOT:	mieru kanaa ?
+%ort:	見えるかな?
+*MOT:	mienai ne .
+%ort:	見えないね.
+*MOT:	boku ga nomu ?
+%ort:	ボクが飲む?
+*CHI:	un .
+%ort:	うん.
+*CHI:	Mama ‡ < kore dare no > [/] kore dare no: .
+%ort:	ママ これだれの これだれの-.
+*MOT:	boku no yo .
+%ort:	ボクのよ.
+*MOT:	kore ga ii ?
+%ort:	これがいい?
+*CHI:	un .
+%ort:	うん.
+*MOT:	owachatta ne .
+%ort:	おわちゃったね.
+*MOT:	mata , sanjuugofun kara hajimaru kanaa .
+%ort:	また 35分からはじまるかな.
+*MOT:	boku , channeru kaet(e) agete .
+%ort:	ボク チャンネルかえたげて.
+*CHI:	dame .
+%ort:	だめ.
+%com:	imooto ga roketto ni sawatta no de 妹がロケットにさわったので
+*MOT:	dooshite ?
+%ort:	どうして?
+*CHI:	boku kore ga ii yo .
+%ort:	ボク これがいいよ.
+@G:	page054
+*CHI:	boku , kore oit(e) oku .
+%ort:	ボク これ おいとく.
+*MOT:	un , mata ato de tabeyoo ne .
+%ort:	うん またあとで食べようね.
+*CHI:	un .
+%ort:	うん.
+*CHI:	boku , kore zembu tabeta yo .
+%ort:	ボク これ全部食べたよ.
+*MOT:	pakku doo suru no ?
+%ort:	パックどうするの?
+*CHI:	koko ni mawatte asoko ni mawatte hidari ni mawatte Obaachan no hoo
+	ni mawatte Kyookochan no hoo ni mawatte hon de bakku shite , honde
+	ushiro zu:(t)to iku n da .
+%ort:	ここにまわって あそこにまわって 左にまわっておはあちゃんの 方にま わって 京子ちゃんの方にまわって ほんでバックして
+	ほんでうしろず-と 行くんだ
+*CHI:	cheen wa doko da .
+%ort:	チェーンはどこだ.
+*MOT:	cheen wa doko daro(o) .
+%ort:	チェーンはどこだろ.
+%com:	hiru 昼 12:00 すぎ
+*CHI:	boku shiitake taberu .
+%ort:	ボク しいたけ食べる.
+*MOT:	boku ‡ gohan yo .
+%ort:	ボク ごはんよ.
+*CHI:	boku kashiwamochi taberu .
+%ort:	ボク かしわもち食べる.
+*CHI:	boku udon taberu .
+%ort:	ボク うどん食べる.
+*MOT:	un .
+%ort:	うん.
+*MOT:	Obaachan ‡ gohan tabemacho [: tabemashoo] tte .
+%ort:	おばあちゃん ごはん食べまちょって.
+*CHI:	Obaachan ‡ gohan tabemacho@u [: tabemashoo] .
+%ort:	おばあちゃん ごはん食べまちょ.
+*CHI:	boku kashiwamochi taberu .
+%ort:	ボク かしわもち食べる.
+*CHI:	boku kashiwamochi motte konakya .
+%ort:	ボク かしわもち持ってこなきゃ.
+*CHI:	boku otsuyu no toko ga ii .
+%ort:	ボク おつゆのとこがいい.
+*MOT:	otsuyu ga ii ?
+%ort:	おつゆがいい?
+*CHI:	oudon ga ii yo .
+%ort:	おうどんがいいよ.
+*CHI:	achui@u [: atsui] .
+%ort:	あちゅい.
+*MOT:	boku jibun de tabenakya .
+%ort:	ボク 自分で食べなきゃ.
+*MOT:	jibun de taberareru desho „ boku .
+%ort:	自分で食べられるでしょ ボク.
+*CHI:	kashiwamochi , taberu yo .
+%ort:	かしわもち 食べるよ.
+*CHI:	boku [/] boku mo taberu .
+%ort:	ボク ボクも食べる.
+*MOT:	hamu ?
+%ort:	ハム?
+*CHI:	un kore ga ii yo .
+%ort:	うん これがいいよ.
+*MOT:	kore ?
+%ort:	これ?
+*CHI:	un .
+%ort:	うん.
+*CHI:	un gohan o tsukete taberu yo .
+%ort:	うん ごはんをつけて食べるよ.
+@G:	page055
+*CHI:	kashiwamochi taberu .
+%ort:	かしわもち食べる.
+*CHI:	nnya@i [/] nnya@i .
+%ort:	ンニャ ンニャ.
+*MOT:	boku ‡ oudon tabenakya .
+%ort:	ボク おうどん食べなきゃ.
+*MOT:	boku ‡ hitori de tabenakya .
+%ort:	ボク 1人で食べなきゃ.
+*CHI:	hitori de taberu .
+%ort:	1人で食べる.
+*MOT:	boku ‡ jibun de tabete goran .
+%ort:	ボク 自分で食べてごらん.
+*MOT:	Oneechan mitete kureru yo .
+%ort:	お姉ちゃんみててくれるよ.
+*MOT:	kore [/] kore .
+%ort:	これこれ.
+*MOT:	Hidekichan ‡ gohan mada yo .
+%ort:	英樹ちゃん ごはんまだよ.
+*CHI:	boku basu ni notte yoochien ni iku n da .
+%ort:	ボク バスに乗って幼稚園に行くんだ.
+*MOT:	un .
+%ort:	うん.
+*CHI:	boku basu ni notte yoochien ni iku n da yo .
+%ort:	ボク バスに乗って幼稚園に行くんだよ.
+*MOT:	hai .
+%ort:	はい.
+*MOT:	dare to issho ni iku no ?
+%ort:	だれと一緒にいくの?
+*CHI:	boku bubujuke@f [: ochazuke] suru .
+%ort:	ボク ぶぶじゅけする.
+%com:	ochazuke suru no i お茶漬するの意
+%tim:	13:00
+*MOT:	boku ‡ banana ga hitotsu arimashita .
+%ort:	ボク バナナが1つありました.
+*CHI:	boku taberu .
+%ort:	ボク食べる.
+*CHI:	itanderu ?
+%ort:	いたんでる?
+*MOT:	Mama ga sakitcho dake tott(e) ageru wa ne .
+%ort:	ママがさきっちょだけとったげるわね.
+*CHI:	kore dare no megane ?
+%ort:	これ だれのメガネ?
+*MOT:	dare no kanaa ?
+%ort:	だれのかな?
+*MOT:	Dadii ga tsuketeta no kanaa .
+%ort:	ダディーがつけてたのかな.
+*MOT:	boku no .
+%ort:	ボクの.
+*MOT:	boku no megane .
+%ort:	ボクのメガネ.
+*CHI:	un .
+%ort:	うん.
+*CHI:	kore boku no megane .
+%ort:	これボクのメガネ.
+*CHI:	kore boku no megane .
+%ort:	これボクのメガネ.
+*MOT:	soo .
+%ort:	そう.
+*CHI:	kore boku no megane da tte .
+%ort:	これボクのメガネだって.
+*MOT:	boku ‡ megane shite goran .
+%ort:	ボク メガネしてごらん.
+*CHI:	dekinai .
+%ort:	できない.
+*CHI:	Mama ga yatte mite .
+%ort:	ママがやってみて.
+*MOT:	boku shite goran .
+%ort:	ボク してごらん.
+*CHI:	Kyookochan yatte .
+%ort:	京子ちゃんやって.
+*CHI:	Baabaachan yatte .
+%ort:	バーバーちゃんやって.
+@G:	page056
+*CHI:	kondo Mama ga shite .
+%ort:	今度 ママがして.
+*MOT:	boku shite goran .
+%ort:	ボク してごらん.
+*MOT:	miemasu ka .
+%ort:	見えますか.
+*MOT:	boku ‡ kyoo Oneechan to nani shite asonda no ?
+%ort:	ボク きょう お姉ちゃんと何して遊んだの?
+*MOT:	Hideki ‡ kyoo wa boku no ie no okyakusan nannin ?
+%ort:	英樹 きょうはボクの家のお客さん何人?
+*CHI:	kore dake .
+%ort:	これだけ.
+*MOT:	soo , futari ya ne .
+%ort:	そう 2人やね.
+%com:	ko , hirune suru 子 昼寝する
+%tim:	17:15
+*CHI:	Mama: ‡ .
+%ort:	ママ-.
+*MOT:	nani ?
+%ort:	なに?
+*MOT:	doo shita no ?
+%ort:	どうしたの?
+*MOT:	naitara Kyookochan ni warawarechau .
+%ort:	泣いたら 京子ちゃんにわらわれちゃう.
+*MOT:	oshikko suru ?
+%ort:	おしっこする?
+*CHI:	u: .
+%ort:	う-.
+*MOT:	oshikko desho .
+%ort:	おしっこでしょ.
+*MOT:	hayaku oko(o) .
+%ort:	はやく行こ.
+*CHI:	oshikko janai yo .
+%ort:	おしっこじゃないよ.
+*MOT:	boku ga guzuguzu ittetara , Kyookochan kaette shimau yo .
+%ort:	ボクがぐずぐずいってたら 京子ちゃん帰ってしまうよ.
+*MOT:	iya desho .
+%ort:	いやでしょ.
+*MOT:	boku , ofune mite goran .
+%ort:	ボク お船みてごらん.
+*MOT:	hata ippai kaketeru .
+%ort:	旗いっぱいかけてる.
+*MOT:	daijoobu ?
+%ort:	大丈夫?
+*CHI:	daijoobu da yo .
+%ort:	大丈夫だよ.
+*MOT:	Hideki wa saki ni gohan tabeyo(o) ka ?
+%ort:	英樹は 先に ごはん食べよか?
+*MOT:	Hideki wa onaka suiteru ?
+%ort:	英樹は おなかすいてる?
+*CHI:	u: ?
+%ort:	う-?
+*MOT:	onaka suiteru ?
+%ort:	おなかすいてる?
+*CHI:	chigau .
+%ort:	ちがう.
+*MOT:	boku saki tabeyoo ka .
+%ort:	ボク 先食べようか.
+*CHI:	un .
+%ort:	うん.
+*MOT:	boku saki gohan tabeyoo ka , un ?
+%ort:	ボク 先ごはん食べようか うん?
+*CHI:	< kore na:ni > [/] kore na:ni .
+%ort:	これな-に これな-に.
+*MOT:	kore nan daro(o) .
+%ort:	これなんだろ.
+*MOT:	kore kugi .
+%ort:	これくぎ.
+@G:	page057
+*CHI:	kore .
+%ort:	これ.
+*CHI:	supootsukaa no kugi .
+%ort:	スポーツカーのくぎ.
+*MOT:	Kyookochan no handobakku ni tsuiteta n janai ?
+%ort:	京子ちゃんのハンドバックについてたんじゃない?
+*CHI:	Kyookochan no handobakku ni tsuiteta n ?
+%ort:	京子ちゃんのハンドパックについてたん?
+*OBS:	chigau .
+%ort:	ちがう.
+*CHI:	chigau tte .
+%ort:	ちがうって.
+*CHI:	kore supootsukaa no kugi ?
+%ort:	これスポーツカーのくぎ?
+*CHI:	kore supootsukaa no kugi .
+%ort:	これスポーツカーのくぎ.
+*CHI:	kore [/] kore [/] kore ni tsuiteta yo .
+%ort:	これ これ これについてたよ.
+*MOT:	a soo .
+%ort:	あ そ-.
+*CHI:	un .
+%ort:	うん.
+%tim:	18:00
+*MOT:	hai , boku ‡ .
+%ort:	はい ボク.
+*MOT:	hai , boku ‡ .
+%ort:	はい ボク.
+%com:	koppu o watasu コップをわたす
+*MOT:	sono kawari nukumorimasho(o) .
+%ort:	そのかわりぬくもりましょ.
+*MOT:	chiisai koppu to ookina koppu da ne .
+%ort:	小さいコップと大きなコップだね.
+*MOT:	sore de nani suru no ?
+%ort:	それでなにするの?
+*MOT:	chuurippu no uta donna datta kanaa .
+%ort:	チューリップの歌 どんなだったかな.
+*MOT:	hai , boku ‡ tete araimasho(o) .
+%ort:	はい ボク ててあらいましょ.
+*MOT:	boku ‡ senaka chanto arawanakya .
+%ort:	ボク 背中ちゃんとあらわなきゃ.
+*CHI:	iya da yo: .
+%ort:	いやだよ-.
+*MOT:	muimui ga ippai tsuiteru yo .
+%ort:	むいむいがいっぱいついてるよ.
+*MOT:	Kyookochan ni ii toko misenakya .
+%ort:	京子ちゃんに いいとこみせなきゃ.
+*CHI:	un .
+%ort:	うん.
+*MOT:	boku wa popai mitai ni tsuyoku naru n da .
+%ort:	ボクはポパイみたいに強くなるんだ.
+*MOT:	ukanda ne .
+%ort:	うかんだね.
+*MOT:	fune mitai ya .
+%ort:	船みたいや.
+*MOT:	chinchin no tokoro kiree ni shinakya muimui ga ippai tsuiteru desho
+	.
+%ort:	ちんちんのところきれいにしなきゃ むいむいがいっぱいついてるでしょ.
+*MOT:	onaka mo pompon mo kiree da .
+%ort:	おなかもポンポンもきれいだ.
+*MOT:	hai , kiree .
+%ort:	はい きれい.
+*MOT:	kiree shite ne .
+%ort:	きれいしてね.
+*CHI:	atsui yo: .
+%ort:	あついよ-.
+*MOT:	moo chotto nurui no ga ii ?
+%ort:	もうちょっとぬるいのがいい?
+*MOT:	moo chotto nurui no ga ii no ?
+%ort:	もうちょっとぬるいのがいいの?
+*MOT:	gomennachai [: gomennasai].
+%ort:	ごめんなちゃい.
+*MOT:	atsusugita ?
+%ort:	あつすぎた?
+*CHI:	un .
+%ort:	うん.
+*MOT:	hai , chotto mattete .
+%ort:	はい ちょっと待ってて.
+*MOT:	kondo , Mama da .
+%ort:	今度 ママだ.
+@G:	page058
+*MOT:	Hidekikun [/] Hidekikun wa , wampakufurippaa motteta ne .
+%ort:	英樹くん 英樹くんは わんぱくフリッパー持ってたね.
+*MOT:	motte kitara yokatta ne .
+%ort:	持ってきたらよかったね.
+*MOT:	Oneechan ni miset(e) agetara yokatta ne .
+%ort:	お姉ちゃんにみせたげたらよかったね.
+*MOT:	doo shite ugoku no ?
+%ort:	どうして動くの?
+*CHI:	koo shite .
+%ort:	こうして.
+*MOT:	shindoi n da naa „ Hidekikun wa .
+%ort:	しんどいんだな 英樹くんは.
+*MOT:	shindokunai .
+%ort:	しんどくない.
+*MOT:	Hidekikun ‡ chotto kotchi muite goran .
+%ort:	英樹くん ちょっとこっちむいてごらん.
+*MOT:	okao kireekiree shinakya .
+%ort:	お顔 きれいきれいしなきゃ.
+*CHI:	0 .
+%ort:	0.
+%com:	naku 泣く
+*MOT:	iya: .
+%ort:	いやー
+*MOT:	Kyookoneechan miteru n da .
+%ort:	京子姉ちゃん みてるんだ.
+*MOT:	kashikoi .
+%ort:	かしこい.
+*MOT:	boku wa , popai mitai ni tsuyoi n da .
+%ort:	ボクは ポパイみたいに強いんだ.
+*MOT:	naiteru to Oneechan ni warawareru kanaa .
+%ort:	泣ないてると お姉ちゃんに笑われるかな.
+*MOT:	Obaachan hitori de samishii: tte itteru kanaa .
+%ort:	おばあちゃん 1人でさみしいーていってるかな.
+*MOT:	boku ‡ hayaku .
+%ort:	ボク はやく.
+*MOT:	kashikoku shite .
+%ort:	かしこくして.
+*MOT:	naitetara , warawareru yo .
+%ort:	泣いてたら 笑われるよ.
+*CHI:	kireekiree shite .
+%ort:	きれいきれいして.
+*MOT:	doko o kireekiree suru no .
+%ort:	どこをきれいきれいするの.
+*MOT:	koko ?
+%ort:	ここ?
+*MOT:	hai , kiree [?] mizu ga haittemasu yo .
+%ort:	はい きれい水がはいってますよ.
+*CHI:	&=laugh .
+%ort:	ウフフン.
+*MOT:	nani shiten [: shiteru] no .
+%ort:	何してんの.
+*MOT:	boku wa nani shiten [: shiteru] no ?
+%ort:	ボクは何してんの?
+*MOT:	boku , hitori de nukumoreru kanaa .
+%ort:	ボク 1人でぬくもれるかな.
+*MOT:	soo [/] soo , Oneechan ni miset(e) agete „ boku ga hitori de
+	nukumoreru tokoro .
+%ort:	そうそう お姉ちゃんに見せたげて ボクが1人でぬくもれるところ.
+*MOT:	jaboon to hairu n da ne .
+%ort:	ジャボーンとはいるんだね.
+*MOT:	Mama to issho ni nukumotte „ boku .
+%ort:	ママといっしょにぬくもって ボク
+*MOT:	nukumotte goran .
+%ort:	ぬくもってごらん.
+*MOT:	boku , hitori de nukumoreru ne .
+%ort:	ボク 1人でぬくもれるね.
+*MOT:	nukumotte miru ?
+%ort:	ぬくもってみる?
+*MOT:	boku ‡ hitori de nukumotte miru ?
+%ort:	ボク 1人でぬくもってみる?
+*MOT:	nukumotte miyoo yo .
+%ort:	ぬくもってみようよ.
+*MOT:	ne .
+%ort:	ね.
+*MOT:	nukumotte miyoo yo .
+%ort:	めくもってみようよ.
+*MOT:	ne , Hidekikun ‡ .
+%ort:	ね 英樹くん.
+*MOT:	biiru mitai na jampu shite goran .
+%ort:	ビールみたいなジャンプしてごらん.
+*CHI:	un .
+%ort:	うん.
+@G:	page059
+*MOT:	boku , biiru mitai na jampu wa ?
+%ort:	ボク ビールみたいなジャンプは?
+*CHI:	suru .
+%ort:	する.
+*MOT:	shii suru ?
+%ort:	シーする?
+*CHI:	atsui yo: .
+%ort:	あついよ-.
+*MOT:	atsukatta ?
+%ort:	あつかった?
+*MOT:	honnara mattete ne .
+%ort:	ほんなら待っててね.
+*MOT:	Mama wakashisugita kanaa .
+%ort:	ママわかしすぎたかな.
+*MOT:	boku ‡ Kyookochan to issho ni nukumotte juu kazoetara agaru no ne .
+%ort:	ボク 京子ちゃんといっしょにぬくもって 10かぞえたらあがるのね.
+*CHI:	un .
+%ort:	うん.
+*CHI:	hai .
+%ort:	はい.
+*CHI:	shampuu no jidoosha wa ?
+%ort:	シャンプーの自動車は?
+*MOT:	nikai ni aru desho .
+%ort:	2階にあるでしょ.
+*CHI:	boku nikai ni iku .
+%ort:	ボク 2階に行く.
+*MOT:	un .
+%ort:	うん .
+*CHI:	boku nikai ni itte shampuu sagashite kuru .
+%ort:	ボク 2階に行ってシャンプーさがしてくる.
+%com:	yuugata 夕方
+*CHI:	kore boku taberu .
+%ort:	これ ボク食べる.
+*MOT:	boku ‡ gohan da .
+%ort:	ボク ごはんだ.
+*CHI:	boku kore taberu .
+%ort:	ボク これ食べる.
+*CHI:	Obaachan .
+%ort:	おば-ちゃん.
+*MOT:	un hitotsu dake .
+%ort:	うん 1つだけ.
+*MOT:	ato gohan taberu no yo .
+%ort:	あと ごはん食べるのよ.
+*CHI:	boku kore [/] kore dake taberu yo .
+%ort:	ボク これ これだけ食べるよ.
+*CHI:	Mama ‡ moo hitotsu dake yo .
+%ort:	ママ もう1つだけよ.
+*CHI:	moo hitotsu dake .
+%ort:	もう1つだけ.
+*MOT:	boku ‡ hayaku tabeyo(o) .
+%ort:	ボク 早く食べよ.
+*CHI:	ato hitotsu .
+%ort:	あと1つ.
+*CHI:	ato hitotsu dake .
+%ort:	あと1つだけ.
+*MOT:	boku ‡ Kyookochan ni doozo suwatte kudasai tte .
+%ort:	ボク 京子ちゃんにどうぞすわって下さいって.
+*CHI:	Kyookochan , doozo suwatte kudasai .
+%ort:	京子ちゃん どうぞすわって下さい.
+*MOT:	issho ni tabemasho(o) tte .
+%ort:	いっしょに食べましょって.
+*CHI:	issho ni tabemasho(o) .
+%ort:	いっしょに食べましょ.
+*MOT:	boku mo yo .
+%ort:	ボクもよ.
+*CHI:	< moo hitotsu dake > [/] moo hitotsu dake .
+%ort:	もう1つだけ もう1つだけ.
+*CHI:	kore boku no ?
+%ort:	これ ぼくの?
+@G:	page060
+*CHI:	kore ?
+%ort:	これ?
+*CHI:	kore taberu .
+%ort:	これ食べる.
+*CHI:	boku kore taberu .
+%ort:	ボク これ食べる.
+*CHI:	taberu n da tte .
+%ort:	食べるん だって.
+*CHI:	boku karupisu ga ii yo .
+%ort:	ボク カルピスがいいよ.
+*CHI:	karupisu da yo .
+%ort:	カルピスだよ.
+*CHI:	karupisu .
+%ort:	カルピス.
+*MOT:	karupisu ga ii no ?
+%ort:	カルピスがいいの?
+*CHI:	katai [/] katai yo: .
+%ort:	かたい かたいよ-.
+*MOT:	katai ?
+%ort:	かたい?
+*CHI:	kore mo .
+%ort:	これも.
+*CHI:	moo chotto zembu kakete .
+%ort:	もう ちょっと 全部かけて.
+*MOT:	boku ‡ itsuka ookina mama iretara , yoo tabenakatta desho .
+%ort:	ボク いつか大きなままいれたら よう食べなかったでしょ.
+*CHI:	a: boku , < kore ga ii > [/] kore ga ii yo: .
+%ort:	ああ ボク これがいい これがいいよ-.
+*CHI:	boku kore .
+%ort:	ボク これ.
+*MOT:	Hideki ‡ kotchi ni chotto kite goran .
+%ort:	英樹 こっちに ちょっときてごらん.
+*MOT:	moo chotto tabete goran .
+%ort:	もうちょっと食べてごらん.
+*MOT:	boku ‡ kore chotto tabete goran .
+%ort:	ボク これちょっと食べてごらん.
+*MOT:	oishii n da yo .
+%ort:	おいしいんだよ.
+*CHI:	kore dake da yo .
+%ort:	これだけだよ.
+*CHI:	Mama ‡ Erichan dakko shitara iya .
+%ort:	ママ エリちゃんだっこしたらいや.
+*MOT:	Obaachan no ohiza ni dakko shite morainasai .
+%ort:	おばあちゃんのおひざにだっこしてもらいなさい.
+*CHI:	chigau .
+%ort:	ちがう.
+*MOT:	nani ga chigau no ?
+%ort:	なにがちがうの?
+*MOT:	Obaachan ni senaka sasutte morainasai .
+%ort:	おばあちゃんに背中さすってもらいなさい.
+*CHI:	nenne shite ?
+%ort:	ねんねして?
+*MOT:	un .
+%ort:	うん.
+*MOT:	Mama: ‡ .
+%ort:	ママ-.
+*MOT:	hai , nani ?
+%ort:	はい 何?
+*MOT:	nenne shitai ?
+%ort:	ねんねしたい?
+*CHI:	hai tte itte yo .
+%ort:	はいて言ってよ.
+*MOT:	hai tte itta yo .
+%ort:	はいて言ったよ.
+@G:	page061
+*CHI:	hai .
+%ort:	はい.
+%com:	megane o watasu メガネをわたす
+*CHI:	Mama: ‡ .
+%ort:	ママ-.
+*MOT:	un .
+%ort:	うん.
+*CHI:	boku ne .
+%ort:	ボクね.
+*MOT:	Hideki ‡ moo ii no „ boku wa .
+%ort:	英樹 もういいの ボクは.
+*CHI:	Mama: ‡ .
+%ort:	ママ-.
+*CHI:	boku asoko de taberu .
+%ort:	ボク あそこで食べる.
+*MOT:	doko de taberu no .
+%ort:	どこで食べるの.
+*CHI:	boku .
+%ort:	ボク.
+*CHI:	boku mo .
+%ort:	ボクも.
+*MOT:	boku ‡ kore tabete goran .
+%ort:	ボク これ食べてごらん.
+*CHI:	iranai .
+%ort:	いらない.
+*MOT:	hanakusho [: hanakuso] ga tsuichatta .
+%ort:	はなくしょがついちゃった.
+*MOT:	peq .
+%ort:	ペッ.
+*MOT:	peq .
+%ort:	ペッ.
+*MOT:	hawayuu@g .
+%ort:	ハワユ-.
+*CHI:	gudii@g .
+%ort:	グディ.
+*MOT:	a: hirainasai .
+%ort:	ああ ひらいなさい.
+*MOT:	Hideki ‡ hirainasai .
+%ort:	英樹 ひらいなさい.
+*MOT:	kore [/] kore .
+%ort:	これこれ.
+*CHI:	datte .
+%ort:	だって.
+*MOT:	boku .
+%ort:	ボク.
+*MOT:	saki hiratte .
+%ort:	先ひらって.
+*MOT:	sorekara dakko shit(e) ageru .
+%ort:	それから だっこしたげる.
+*MOT:	hiratte [/] hiratte .
+%ort:	ひらって ひらって.
+*MOT:	kashikoi naa „ hiratte .
+%ort:	かしこいな ひらって.
+*CHI:	&=laugh .
+%ort:	えへ えへ.
+*CHI:	gudii:@g .
+%ort:	グディ.
+*MOT:	arigatoo .
+%ort:	ありがとう.
+*CHI:	&=laugh .
+%ort:	えへ-.
+*MOT:	dakko shit(e) ageyo(o) .
+%ort:	だっこしたげよ.
+*MOT:	nenne suru ?
+%ort:	ねんねする?
+@G:	page062
+*CHI:	nenne suru .
+%ort:	ねんねする.
+*MOT:	unchi ga shitai no ?
+%ort:	うんちがしたいの?
+*MOT:	guuguu itteru yo .
+%ort:	グーグーいってるよ.
+*CHI:	&=laugh +...
+%ort:	ウフフフ.
+*CHI:	Mama .
+%ort:	ママ.
+*CHI:	boku Dadi toko itte ne Baabaachan toko itte ne.
+%ort:	ボク ダディとこいってね バーバーちゃんとこいってね.
+*CHI:	Mama: ‡ kore nani ?
+%ort:	ママ-これ何?
+*MOT:	momo .
+%ort:	桃.
+*CHI:	kore momo ?
+%ort:	これ桃?
+*MOT:	soo yo .
+%ort:	そうよ.
+*MOT:	mukimuki shit(e) ageru kara ne .
+%ort:	むきむきしたげるからね.
+*CHI:	kore boku no ?
+%ort:	これボクの?
+*CHI:	kore minna boku no da tte .
+%ort:	これ みんなボクのだって.
+*CHI:	kore boku no .
+%ort:	これボクの.
+*CHI:	kore tabete ii ?
+%ort:	これ食べていい?
+*CHI:	kore tabete ii ?
+%ort:	これ食べていい?
+*CHI:	akete: .
+%ort:	あけて-.
+*CHI:	kore akete: .
+%ort:	これ あけて-.
+*CHI:	boku Mama: ‡ hoshibudoo taberu .
+%ort:	ボク ママー 干ぶどう食べる.
+*MOT:	tabenasai .
+%ort:	食べなさい.
+*MOT:	nani tabeten [: tabeteru] no ?
+%ort:	何 食べてんの?
+*CHI:	hoshibudoo .
+%ort:	干ぶどう.
+*MOT:	oishii ?
+%ort:	おいしい?
+*CHI:	un .
+%ort:	うん.
+*CHI:	motto hoshii „ hoshibudoo .
+%ort:	もっとほしい 干ぶどう.
+*CHI:	hoshibudoo taberu .
+%ort:	干ぶどう食べる.
+*MOT:	doozo .
+%ort:	どうぞ.
+%tim:	21:00
+*CHI:	Mama: ‡ .
+%ort:	ママ-.
+*CHI:	me ga itai yo: .
+%ort:	目がいたいよ-.
+*MOT:	oyachuminasai [: oyasuminasai ] wa ?
+%ort:	おやちゅみなさいは?
+@G:	page063
+*CHI:	oyachuminasai@u [: oyasuminasai ] .
+%ort:	おやちゅみなさい.
+*MOT:	Baabaachan ni mo oyachuminasai [: oyasuminasai ] wa ?
+%ort:	バーバーちゃんにも おやちゅみなさいは?
+*CHI:	oyachuminasai [: oyasuminasai] .
+%ort:	おやちゅみなさい.
+*MOT:	boku ‡ katorisenkoo motte nikai e iku no ne .
+%ort:	ボク かとりせんこう持って2階へ行くのね.
+*CHI:	boku tsukeru .
+%ort:	ボク つける.
+*MOT:	soo ne .
+%ort:	そうね.
+@End

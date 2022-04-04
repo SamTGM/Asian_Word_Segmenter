@@ -1,0 +1,539 @@
+@UTF8
+@PID:	11312/c-00009728-1
+@Color words:	*CHI: 1 65535 0 0 *MOT: 1 0 32896 16448
+@Begin
+@Languages:	jpn
+@Participants:	CHI Ako Target_Child, MOT Mother, OBS Investigator
+@ID:	jpn|Okayama|CHI|4;02.|female|||Target_Child|||
+@ID:	jpn|Okayama|MOT||female|||Mother|||
+@ID:	jpn|Okayama|OBS||female|||Investigator|||
+@Comment:	4-17 female 4;2. name: A.M. siblings: none
+@G:	page722
+@Types:	cross, toyplay, TD
+*MOT:	Akikochan ‡ moo asa yo .
+%ort:	あき子ちゃん もう朝よ.
+%tim:	7:30
+*CHI:	0 .
+%com:	mada nete iru まだ寝ている
+*MOT:	Akikochan ‡ oneechan kiteharu .
+%ort:	あき子ちゃん お姉ちゃん来てはる.
+%com:	OBS no koto OBSのこと
+*CHI:	u:n .
+%ort:	ウウン
+%com:	hakkiri me ga samete inai はっきり目がさめていない
+*MOT:	Akiko ‡ okinasai .
+%ort:	あき子起きなさい.
+*MOT:	yoochien iku n deshoo .
+%ort:	幼稚園行くんでしょう.
+*CHI:	0 .
+%com:	futon no naka de guzutte iru ふとんの中でぐずっている
+*MOT:	soshitara yoochien yasumu ?
+%ort:	そしたら 幼稚園休む?
+*MOT:	doo suru ?
+%ort:	どうする?
+*CHI:	iku .
+%ort:	行く.
+%com:	odoroita yoosu 驚いた様子
+*MOT:	hayo okki shite fuku kinasai .
+%ort:	はよ起っきして服着なさい.
+%com:	fuku o kisete morau 服を着せてもらう
+*MOT:	oneechan ni ohayoo wa ?
+%ort:	お姉ちゃんに“おはよう”は?
+*CHI:	oneechan , ohayoo .
+%ort:	お姉ちゃん おはよう.
+*CHI:	itsu kita no ?
+%ort:	いつ来たの?
+*OBS:	Akikochan ga okiru mae ni kita no yo .
+%ort:	あき子ちゃんが起きる前に来たのよ.
+*MOT:	saasaa okao aratte .
+*MOT:	hayaku shinasai yo .
+%ort:	さあさあお顔洗って (.) 早くしなさいよ.
+*CHI:	Akochan no taoru nai yo .
+%ort:	アコちゃんのタオルないよ.
+%com:	kao o aratte 顔を洗って
+*MOT:	dore de mo ii n da kara hayaku fukinasai .
+%ort:	どれでもいいんだから早くふきなさい.
+*CHI:	Akochan no taoru .
+%ort:	アコちゃんのタオル (.) .
+%com:	hahaoya ni kao o fuite morau 母親に顔をふいてもらう
+*MOT:	Akochan , gohan yo .
+%ort:	アコちゃん ごはんよ.
+*CHI:	ha:i .
+%ort:	ハーイ.
+%com:	terebi o tsuke ni iku テレビをつけに行く
+*MOT:	terebi mite mo ii kara gohan tabenakya iya yo .
+%ort:	テレビ見てもいいからごはん食べなきゃいやよ.
+*CHI:	a nyuusu desu yo .
+%ort:	あ ニュースですよ.
+*MOT:	soo ya ne .
+%ort:	そうやね.
+*MOT:	hora chanto shite .
+%ort:	ほら ちゃんとして.
+*MOT:	oneechan waratteharu yo .
+%ort:	お姉ちゃん 笑ってはるよ.
+*MOT:	hontoo ni taberu no ga yukkuri ya kara .
+%ort:	ほんとうに食べるのがゆっくりやから.
+*CHI:	oneechan mo taberu no ?
+%ort:	お姉ちゃんも食べるの?
+*MOT:	oneechan wa ouchi de chanto tabetekihatta no .
+%ort:	お姉ちゃんはお家でちゃんと食べてきはったの.
+%tim:	8:00
+*CHI:	aq pimpompan .
+%ort:	あっ ピンポンパン.
+%com:	terebi no bangumi テレビの番組
+*CHI:	pimpompan [=! utau] .
+%ort:	ピンポンパン (歌)
+*MOT:	hai [/] hai moo sunda no ?
+%ort:	はいはいもうすんだの?
+*MOT:	gochisoosama wa ?
+%ort:	ごちそうさまは?
+*CHI:	gochisoosama.
+%ort:	ごちそうさま.
+*MOT:	okuchi no mawari ippai tsukete +...
+%ort:	お口のまわり いっぱいつけて +...
+*CHI:	ochikko [: oshikko] .
+%ort:	おちっこ.
+@G:	page723
+*MOT:	hai [/] hai oshikko shit(e) okoo ne .
+%ort:	はいはい おしっこしとこうね.
+*MOT:	Akko , kyoo wa puuru no hi ya ne .
+%ort:	あっこ きょうはプールの日やね.
+%com:	yoochien de 幼稚園で
+*CHI:	un .
+%ort:	ウン.
+*MOT:	kyoo wa atsui kara Akochan ii ne .
+%ort:	きょうは暑いからアコちゃんいいね.
+*MOT:	saa Akochan , obooshi kabutte .
+%ort:	さあ アコちゃん お帽子かぶって.
+*CHI:	itte kima:su .
+%ort:	行ってきまーす.
+*MOT:	itterassha:i .
+%ort:	行ってらっしゃーい.
+*CHI:	0 .
+%com:	yoochien e iku 幼稚園へ行く
+*MOT:	okaennasai .
+%ort:	おかえんなさい.
+%tim:	15:30
+*CHI:	tadaima .
+%ort:	ただいま.
+*MOT:	atsukatta ne , Akochan .
+%ort:	暑かったねアコちゃん.
+*MOT:	kyoo wa yoochien de nani shita no ?
+%ort:	きょうは幼稚園で何したの?
+*CHI:	puuru .
+%ort:	プール.
+*MOT:	soo ya ne .
+*CHI:	kyoo wa puuru no hi yatta ne .
+%ort:	そうやね きょうはプールの日やったね.
+*MOT:	omoshirokatta ?
+%ort:	おもしろかった?
+*CHI:	anoo ne , Akochan , jabujabu shiten [: shiteru] .
+%ort:	あのね アコちゃん ジャブジャブしてん.
+*MOT:	Akochan , kaban atchi e oit(e) oite choodai .
+%ort:	アコちゃん カバンあっちへ置いといてちょうだい.
+*CHI:	0 .
+%com:	ko wa yoochien no kaban o yoosaidai no ue ni oite ita
+	子は幼稚園のカバンを洋裁台の上に置いていた
+*MOT:	kyoo wa Hiroshikun kiteta ?
+%ort:	きょうは ひろし君来てた?
+*CHI:	un , Hiroshikun mo Ogawakun mo kiteta .
+%ort:	ウン ひろし君も小川君も来てた.
+*MOT:	soo ?
+%ort:	そう.
+*CHI:	Mama: ‡ oyatsu .
+%ort:	ママー おやつ.
+*MOT:	saki ni otete arainasai .
+%ort:	先にお手々洗いなさい.
+*CHI:	Mama ‡ oyatsu doko ?
+%ort:	ママ おやつどこ?
+*MOT:	itsumo no tokoro ni aru desho .
+%ort:	いつものところにあるでしょ.
+*CHI:	atta .
+%ort:	あった.
+*MOT:	aaqa , Atsuko , dooshite okaban katazukenai no ?
+%ort:	あーあ アツコ どうしておカバン片付けないの.
+*MOT:	iya na ko ne .
+%ort:	いやな子ね.
+*CHI:	0 .
+%com:	ko wa oyatsu o taberu 子はおやつを食べる
+*MOT:	sakki Kazuchan ga asoboo tte kiteta yo .
+%ort:	さっき かずちゃんが遊ぼうって来てたよ.
+*CHI:	Kazuchan ga ?
+%ort:	かずちゃんが?
+*MOT:	soo yo .
+%ort:	そうよ.
+*MOT:	takoyakigokko shimashoo tte .
+%ort:	たこやきごっこしましょうって.
+*MOT:	osoto itte (i)rasshai .
+%ort:	お外行ってらっしゃい.
+*CHI:	Mama ‡ kore na:ni ?
+%ort:	ママ これなあに?
+%com:	atarashii nunoji no katarogu o mitsukeru 新しい布地のカタログを見つける
+@G:	page724
+*MOT:	a: sonna n sawatcha dame .
+%ort:	ああ そんなん さわっちゃダメ.
+*CHI:	Mama ‡ < ne: juuen > [/] ne: juuen .
+%ort:	ママ ネエー10円 ネエー10円.
+*MOT:	juuen ga doo shita no yo ?
+%ort:	10円がどうしたのよ .
+*CHI:	juuen choodai .
+%ort:	10円ちょうだい.
+*MOT:	Akochan no osaifu ni haittemasu yo .
+%ort:	アコちゃんのお財布に入ってますよ.
+%com:	mainichi juuen irete moratte iru 毎日10円入れてもらっている
+*CHI:	nai yo .
+*CHI:	Akochan no osaifu nai mon .
+%ort:	ないよ アコちゃんのお財布ないもん.
+*MOT:	dooshite ?
+%ort:	どうして.
+*MOT:	otsukue no ue ni aru desho .
+%ort:	お机の上にあるでしょ.
+*CHI:	0 .
+%com:	sagashi ni iku 探しに行く
+*MOT:	Akochan no omeme chitchai n ya ne .
+%ort:	アコちゃんのお目々ちっちゃいんやね.
+*MOT:	doko ni tsuiten [: tsuiteru] no yaro ?
+%ort:	どこについてんのやろ.
+*CHI:	aq atta .
+%ort:	あっ あった.
+%com:	hahaoya kara uketoru 母親から受け取る
+*MOT:	soto e iku no ?
+%ort:	外へ行くの?
+*CHI:	ha:i .
+%ort:	ハーイ.
+*MOT:	Akochan , bisuketto no kan o chanto shimete kara ikinasai .
+%ort:	アコちゃん ビスケットのかんをちゃんとしめてから行きなさい.
+*CHI:	iya , iku mon .
+%ort:	いや 行くもん.
+*MOT:	shikette shimau desho .
+%ort:	湿ってしまうでしょ.
+*CHI:	uun .
+%ort:	ウーン.
+*MOT:	Akochan , mata ato de bisuketto hoshii n desho .
+%ort:	アコちゃん またあとでビスケットほしいんでしょ.
+*MOT:	dattara chanto shinasai .
+%ort:	だったら ちゃんとしなさい.
+*CHI:	0 .
+%com:	ko wa bisuketto no futa o shimete soto e iku 子はビスケットのふたをしめて外へ行く
+*CHI:	tadaima .
+%ort:	ただいま.
+*MOT:	okaeri .
+%ort:	おかえり.
+*MOT:	nani shiteta no ?
+%ort:	何してたの.
+*CHI:	Kazuyakun to asonden [: asonderu] .
+%ort:	かずやくんと遊んでん.
+%tim:	16:30
+*MOT:	ima juusu tsukutte ageru kara ne .
+%ort:	今 ジュース作ってあげるからね.
+*MOT:	otete aratte (i)rasshai .
+%ort:	お手々洗ってらっしゃい.
+*CHI:	ha:i .
+%ort:	ハーイ.
+*MOT:	oneechan mo issho ni juusu nomimashoo ne .
+%ort:	お姉ちゃんも いっしょにジュース飲みましょうね.
+*CHI:	oneechan to Mama to Akochan ?
+%ort:	お姉ちゃんとママとアコちゃん?
+%com:	ureshisoo うれしそう
+*MOT:	Akochan , kyoo wa orikoo ne .
+%ort:	アコちゃん きょうはおりこうね.
+*MOT:	Akochan , oneechan ni ehon miset(e) agete .
+%ort:	アコちゃん お姉ちゃんに絵本見せたげて.
+*CHI:	hai [/] hai .
+%ort:	ハイハイ.
+*MOT:	Akochan , nansatsu motte kita no ?
+%ort:	アコちゃん 何さつ持って来たの.
+*CHI:	hai [/] hai gosatsu desu .
+%ort:	ハイハイ5さつです.
+@G:	page725
+*MOT:	oneechan ni doozo tte .
+%ort:	お姉ちゃんに“どうぞ”って.
+*CHI:	zoozo [: doozo] &=laugh .
+%ort:	ぞぉぞ (笑)
+*MOT:	Akikochan , itsumo ehon yondemorau no ne .
+%ort:	あきこちゃん いつも絵本読んでもらうのね.
+*CHI:	Mama ‡ kore nani ?
+%ort:	ママ これ何?
+*MOT:	www .
+%com:	ehon o yonde , ohanashi o shite yaru 絵本を読んで お話をしてやる
+*CHI:	fuun .
+%ort:	フーン.
+*MOT:	Akochan ‡ ehon okatazuke shite choodai .
+%ort:	アコちゃん 絵本お片付けしてちょうだい.
+*CHI:	hai [/] hai .
+%ort:	ハイハイ.
+*MOT:	ara Akochan ‡ mada nokottemasu yo .
+%ort:	あらアコちゃん まだ残ってますよ.
+*CHI:	are maa .
+%ort:	あれ まあ .
+%com:	omase na hyoogen o suru おませな表現をする
+*CHI:	Mama: ‡ shashin miru no .
+%ort:	ママー 写真見るの.
+%com:	arubamu アルバム
+*MOT:	dame [/] dame .
+%ort:	ダメダメ
+*MOT:	takai tokoro ni nokkete aru kara dasu no taihen na no yo .
+%ort:	高いところにのっけてあるから出すの大変なのよ.
+*CHI:	totte [/] totte .
+%ort:	取って取って.
+*MOT:	dooshite ?
+%ort:	どうして.
+*MOT:	Mama iya yo .
+%ort:	ママ いやよ.
+*CHI:	oneechan ni miset(e) ageru:.
+%ort:	お姉ちゃんに見せたげるー.
+%com:	nakisoo 泣きそう
+*MOT:	Akochan shashin bakkari mitagaru n da kara .
+%ort:	アコちゃん 写真ばっかり見たがるんだから.
+%com:	totte yaru とってやる
+*MOT:	Akochan ‡ kono hito dare ?
+%ort:	アコちゃん この人誰?
+%com:	shashin o misete 写真を見せて
+*CHI:	Kayokochan .
+%ort:	カヨ子ちゃん.
+*MOT:	kono hito wa ?
+%ort:	この人は?
+*CHI:	Akochan &=laugh .
+%ort:	アコちゃん (笑)
+*MOT:	Akochan t(t)e dono hito ?
+%ort:	アコちゃんて どの人?
+*CHI:	hai , M Akiko desu .
+%ort:	ハイ M あきこです.
+*MOT:	soo ne .
+%ort:	そうね.
+*MOT:	Akochan no akachan no toki yo „ kore .
+%ort:	アコちゃんの赤ちゃんのときよ これ.
+*CHI:	akachan ?
+%ort:	赤ちゃん?
+*MOT:	soo yo .
+%ort:	そうよ
+*MOT:	Akochan ga umareta toki na no yo .
+%ort:	アコちゃんが生まれたときなのよ.
+*MOT:	saa , Akochan ‡ moo oneechan ni misete ageta desho .
+%ort:	さあ アコちゃん もうお姉ちゃんに見せてあげたでしょ.
+*CHI:	un .
+%ort:	ウン.
+*MOT:	ichiba iku wa „ Mama .
+%ort:	市場行くわ ママ.
+*MOT:	Ako ouchi ni iru ?
+%ort:	アコお家にいる?
+@G:	page726
+*CHI:	iku: .
+%ort:	行くー.
+*MOT:	nan de mo tsuite kite hoshigaru n da kara .
+%ort:	何でもついてきて欲しがるんだから.
+*MOT:	soshitara oneechan ni orusuban shite moraoo ka .
+%ort:	そしたらお姉ちゃんにお留守番してもらおうか.
+*CHI:	oneechan mo iku mon .
+%ort:	お姉ちゃんも行くもん.
+*MOT:	kyoo wa Ako oneechan no soba ga ii no ne .
+%ort:	きょうはアコお姉ちゃんのそばがいいのね.
+%com:	Akiko hazukashisoo ni terete warau あき子 はずかしそうに照れて笑う
+*MOT:	ja: Akochan orusuban shitete yo .
+%ort:	じゃあ アコちゃんお留守番しててよ.
+*CHI:	oneechan to ?
+%ort:	お姉ちゃんと?
+*MOT:	Ako no suki na mono o katte kite ageru kara ne .
+%ort:	アコの好きなものを買って来てあげるからね.
+%com:	hahaoya ichiba e kaimono ni iku 母親 市場へ買い物に行く
+%tim:	17:30
+*MOT:	tadaima , Akochan ‡ .
+%ort:	ただいま アコちゃん.
+*CHI:	Mama: ‡ .
+%ort:	ママー.
+*MOT:	Akochan ii mono katte kita wa yo .
+%ort:	アコちゃん いいもの買って来たわよ.
+*CHI:	mishite .
+%ort:	見して.
+*MOT:	hai , kore .
+%ort:	ハイ これ.
+%com:	manga Sasuke no eiri no sandaru まんが“サスケ”の絵入りのサンダル
+*CHI:	waai , Sasuke no zoori .
+%ort:	わあい サスケのぞうり.
+*MOT:	Kazuyakun mo motteta desho .
+%ort:	かずやくんも持ってたでしょ.
+*CHI:	chigau mon .
+%ort:	ちがうもん
+*CHI:	Akochan no akai mon .
+%ort:	アコちゃんの赤いもん.
+*MOT:	soo ya ne .
+%ort:	そうやね
+*MOT:	irochigai yatta kanaa .
+%ort:	色ちがいやったかな.
+*MOT:	Atsuko , kore ga hoshikatta n desho .
+%ort:	アツコ これが欲しかったんでしょ.
+*CHI:	un , Sasuke no zoori .
+%ort:	ウン サスケのぞうり.
+*MOT:	Ako ‡ soshitara Mama gohan suru kara mattete ne .
+%ort:	アコ そしたら ママ ごはんするから待っててね.
+*CHI:	ha:i .
+%ort:	ハーイ.
+%com:	hijoo ni yorokonde iru 非常に喜んでいる
+%tim:	18:20
+*MOT:	Akochan ‡ gohan desu yo .
+%ort:	アコちゃん ごはんですよ.
+*CHI:	ha:i .
+%ort:	ハーイ.
+*MOT:	iyan , Akochan ‡ ozoori wa atchi ni oit(e) oite yo .
+%ort:	いやん アコちゃん おぞうりはあっちに置いといてよ.
+%com:	teeburu no ue ni sandaru o motte kite iru テーブルの上にサンダルを持って来ている
+*CHI:	ii mon .
+%ort:	いいもん.
+*MOT:	dame yo .
+%ort:	ダメよ.
+*MOT:	gohan taberu noni zoori iranai no .
+%ort:	ごはん食べるのにぞうりいらないの.
+*CHI:	koko .
+%ort:	ここ.
+%com:	isu no ue ni oku 椅子の上に置く
+*MOT:	moo soko ni dattara ii wa .
+%ort:	もう そこにだったらいいわ.
+@G:	page727
+*MOT:	saa gohan yo .
+%ort:	さあ ごはんよ
+*MOT:	otete aratta ?
+%ort:	お手々洗った?
+*CHI:	mada desu .
+%ort:	まだです.
+*MOT:	hora , hayaku [/] hayaku .
+%ort:	ホラ 早く早く.
+*CHI:	itadakimasu .
+%ort:	いただきます.
+*MOT:	hai , itadakimasu .
+%ort:	はい いただきます.
+*MOT:	Akochan osushi suki ne .
+%ort:	アコちゃん おすし好きね.
+*CHI:	un .
+%ort:	ウン.
+*MOT:	Akochan ‡ oishii ?
+%ort:	アコちゃん おいしい?
+*CHI:	oishii yo .
+%ort:	おいしいよ.
+*MOT:	soo , arigato .
+%ort:	そう ありがと.
+*MOT:	Akochan ‡ shirasuboshi mo tabete yo .
+%ort:	アコちゃん しらすぼしも食べてよ.
+*CHI:	kore ugoku yo .
+%ort:	これ動くよ.
+*MOT:	ugokanai wa yo .
+%ort:	動かないわよ.
+*MOT:	sore tabenakya ookiku naranai wa yo .
+%ort:	それ食べなきゃ大きくならないわよ.
+*CHI:	Akochan ookiku natta ?
+%ort:	アコちゃん大きくなった?
+%com:	tabeta ato , tatte senobi o shite iru たべたあと 立って背のびをしている
+*MOT:	sonnani sugu ni ookiku naranai kedo .
+%ort:	そんなにすぐに大きくならないけど.
+*MOT:	nan de mo tabemashoo ne .
+%ort:	何でも食べましょうね.
+*CHI:	Akochan nan de mo taberu mon .
+%ort:	アコちゃん 何でも食べるもん.
+*MOT:	Akochan moo ii no ?
+%ort:	アコちゃんもういいの?
+*CHI:	un .
+%ort:	ウン.
+*MOT:	chanto gochisoosama shite kara yo .
+%ort:	ちゃんと ごちそうさましてからよ.
+*CHI:	gochisoosama .
+%ort:	ごちそうさま.
+*MOT:	dai no ue ni oite aru kara sawaranaide ne .
+%ort:	台の上においてあるからさわらないでね.
+*MOT:	Mama no taisetsu na mono da kara .
+%ort:	ママの大切なものだから.
+*CHI:	ha:i .
+%ort:	ハーイ.
+*CHI:	osoto de Sasuke no zoori haite mo ii ?
+%ort:	お外でサスケのぞうり はいてもいい?
+*MOT:	ii wa yo .
+%ort:	いいわよ.
+%com:	ko wa ie no mae de hashirimawatte iru 子は家の前で走りまわっている
+*CHI:	Mama ‡ oshikko .
+%ort:	ママ おしっこ.
+*MOT:	kotchi kinasai .
+%ort:	こっち来なさい.
+*MOT:	Akochan ‡ oneechan ni e kaite agete .
+%ort:	アコちゃん お姉ちゃんに絵 描いてあげて.
+*CHI:	e kaku no .
+%ort:	絵描くの.
+*MOT:	Ako joozu desho .
+%ort:	アコ じょうずでしょ.
+*MOT:	oneechan mitai tte .
+%ort:	お姉ちゃん 見たいって.
+*CHI:	un .
+%ort:	ウン.
+@G:	page728
+*MOT:	hai , kami to empitsu yo .
+%ort:	ハイ 紙と鉛筆よ.
+*CHI:	Akochan ookina maru kaku no yo .
+%ort:	アコちゃん 大きな丸 描くのよ.
+*MOT:	Akochan ookina maru ne .
+%ort:	アコちゃん 大きな丸ね.
+*MOT:	kyoo wa na:ni ?
+%ort:	今日はなあに?
+*CHI:	hai [/] hai kondo wa chiisana maru desu.
+%ort:	ハイ ハイ 今度は小さな丸です.
+*MOT:	Ako ‡ sore marukunai wa .
+%ort:	アコ それ丸くないわ
+*MOT:	hosonagai wa yo .
+%ort:	細長いわよ.
+*CHI:	0 .
+%com:	kyakkyaq to warau キヤツキャツと笑う
+*CHI:	aq onabe mitai ni natchatta .
+%ort:	あっ お鍋みたいになっちゃった.
+*MOT:	onabe dattara futa ga iru desho .
+%ort:	お鍋だったらふたが要るでしょ.
+*CHI:	hai [/] hai .
+%ort:	ハイハイ.
+*MOT:	arigatoo Akochan ‡ .
+%ort:	ありがとうアコちゃん
+*MOT:	Akochan wa empitsu motsu to gokigen ne .
+%ort:	アコちゃんは鉛筆持つとごきげんね.
+*MOT:	saa , Akochan ‡ ofuro hairimashoo .
+%ort:	さあ アコちゃん お風呂入りましょう.
+*CHI:	ofuro iya:n .
+%ort:	お風呂いやーん.
+%com:	nigemawaru 逃げまわる
+*MOT:	ofuro hairanai ko kirai .
+%ort:	お風呂入らない子 嫌い.
+*CHI:	Akochan ofuro hairu .
+%ort:	アコちゃん お風呂入る.
+*MOT:	hayo oide .
+%ort:	早よ おいで.
+*MOT:	kiree ni shiyoo ne .
+%ort:	きれいにしようね.
+%com:	ofuro kara agatte お風呂から上がって
+*MOT:	Akochan ‡ chanto shite kiru no .
+%ort:	アコちゃん ちゃんとして着るの.
+*CHI:	ha:i .
+%ort:	ハーイ.
+*MOT:	Akochan ‡ sempuuki tsukete yo .
+%ort:	アコちゃん 扇風機つけてよ.
+*CHI:	ha:i .
+%ort:	ハーイ.
+*MOT:	aq ichi de ii wa „ san da to kitsui kara .
+%ort:	あっ 1でいいわ 3だときついから.
+*CHI:	machigaeta .
+%ort:	まちがえた.
+*MOT:	Ak:o ‡ moo nenne shiyoo yo .
+%ort:	アツコ もうねんねしようよ.
+%com:	pajama o kiseru パジャマを着せる
+*CHI:	iya:n .
+%ort:	いやーん.
+*CHI:	Akochan okiteru .
+%ort:	アコちゃん起きてる.
+*MOT:	kyoo wa ichinichi orikoo datta noni dooshite onenne dekinai no ?
+%ort:	きょうは 1日おりこうだったのに どうしておねんねできないの.
+*CHI:	oneechan kaeru no ?
+%ort:	お姉ちゃん帰るの?
+*MOT:	soo yo .
+%ort:	そうよ
+*MOT:	ouchi e kaette onenne suru no yo .
+%ort:	お家へ帰っておねんねするのよ.
+*MOT:	saa Akochan nemui n da kara nenasai .
+%ort:	さあ アコちゃん 眠いんだから寝なさい.
+*CHI:	Mama ‡ oyasumi .
+%ort:	ママ おやすみ.
+%tim:	20:30
+*MOT:	hai oyasumi .
+%ort:	はい おやすみ.
+@End

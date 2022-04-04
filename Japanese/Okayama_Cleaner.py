@@ -11,6 +11,10 @@ def tokenize_syllables():
             if lines.startswith("*MOT:") and lines.find('[/]') == -1 and lines.find('[+') == -1 and lines.find('(') == -1 and lines.find('[:') == -1:
                 lines = lines.replace("*MOT:\t","")
                 lines = lines.replace(' \u2021 ',' ')
+                lines = lines.replace('mb','nb')
+                lines = lines.replace('mp','np')
+                lines = lines.replace('“','')
+                lines = lines.replace('”','')
                 for charac in lines:
                     lines = lines.replace(' „ ', ' ')
                     if(charac == ','):
@@ -20,9 +24,7 @@ def tokenize_syllables():
                         pindex = lines.find(charac)
                 lines = lines[:pindex]
                 lines = lines[:lines.find(':')]
-                for c1, c2 in zip(lines, lines[1:]):
-                    if c1 == c2:
-                        lines = lines.replace(c1+c2,c1.capitalize())
+                
         
                 before.append(lines)
 
@@ -31,6 +33,13 @@ def tokenize_syllables():
                 if lines[-1] == '.':
                     lines = lines[:-1]
                 lines = lines.replace(".|","|")
+
+                c1index = 0
+                for c1, c2 in zip(lines, lines[2:]):
+                    if c1 == c2 and (c1 in vowel or c2 in vowel) and c1index != len(lines)-1:
+                        #print('executed')
+                        lines = lines.replace(c1+'.'+c2, c1+c2)
+            
                 index = 0
                 for e in lines:
                     if(e == 'n' and index!=0 and lines[index-1]=='.'):
@@ -42,13 +51,6 @@ def tokenize_syllables():
                    # print(lines[-1])
                     index +=1
                 
-                # nindex = 0
-                # for e in lines:
-                #     if(e in vowel and lines[nindex] != lines[-2] and lines[nindex] != lines[-1]):
-                #         if(lines[nindex+1] == '.' and lines[nindex+2] in vowel):
-                #             lines = lines[:nindex]+lines[nindex+2:]
-                #     nindex +=1
-
                 
                 list.append(lines)
 
@@ -60,7 +62,7 @@ def tokenize_syllables():
         
 
 def generate_file():
-    f = open("Jiwon_020020_gold.txt","w")
+    f = open("Okayama_gold.txt","w")
     for e in after:
         f.write(e+"\n")
 

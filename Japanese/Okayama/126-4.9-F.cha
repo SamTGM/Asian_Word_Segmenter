@@ -1,0 +1,203 @@
+@UTF8
+@PID:	11312/c-00009748-1
+@Color words:	%xmor 1 34952 34952 34952 *MOT 1 6168 8738 52685 *CHI 1 60909 6168 7710
+@Begin
+@Languages:	jpn
+@Participants:	CHI Miyokochan Target_Child, MOT Mother, OBS Investigator
+@ID:	jpn|Okayama|CHI|4;09.|male|||Target_Child|||
+@ID:	jpn|Okayama|MOT||female|||Mother|||
+@ID:	jpn|Okayama|OBS||female|||Investigator|||
+@Comment:	4-29 female 4;9. name: M.O. siblings: none
+@G:	page: 920
+@Comment:	7:00
+@Types:	cross, toyplay, TD
+*CHI:	Mama ‡ okiyoo .
+%ort:	ママ 起きよう.
+*MOT:	moo sukoshi nenasai .
+%ort:	もう少し寝なさい.
+*CHI:	kakkookakkoo@o dodododoo@o .
+%ort:	カッコーカッコー, ドドドドー.
+%com:	utai nagara hashagi , orugan o hiku; 歌いながら はしゃぎ, オルガンをひく
+*MOT:	Miyokochan ‡ okao arainasai .
+%ort:	美代子ちゃん, お顔洗いなさい.
+%com:	asa no shitaku o suru; 朝の仕度をする
+*CHI:	ha:i .
+%ort:	ハーイ.
+%com:	hitori de fuku o ki , sengan o shite kara OBS no yoko ni bettari to
+	tsuku; ひとりで服を着, 洗顔をしてからOBSの横にべったりとつく
+*MOT:	gohan desu yo .
+%ort:	ごはんですよ.
+*CHI:	ha:i .
+%ort:	ハーイ.
+*MOT:	Miyokochan ‡ osuwari shite .
+%ort:	美代子ちゃんおすわりして.
+*CHI:	itadakima:su .
+%ort:	いただきまーす.
+*MOT:	Miyokochan ‡ pan ni hachimitsu nuru ?
+%ort:	美代子ちゃん, パンに蜂蜜ぬる?
+*CHI:	un .
+%ort:	ウン.
+*MOT:	hamu nokosanaide zembu tabenasai yo .
+%ort:	ハム残さないで, 全部食べなさいよ.
+*CHI:	gochisoosama .
+%ort:	ゴチソウサマ.
+%com:	ko wa jibun no heya e iki zukan o motte kuru; 子は自分の部屋へ行き図鑑を持って来る
+*CHI:	Miyoko zukan miru no .
+%ort:	美代子 図鑑見るの.
+*CHI:	aq bora .
+%ort:	ア!ボラ!
+*MOT:	dore [/] dore ?
+%ort:	どれどれ.
+*CHI:	kore [/] kore .
+%ort:	これこれ.
+%com:	tonari no otokonoko ga “tombo o tsukamaeta” to iu yainaya tonari
+	e tonde itta; となりの男の子が“トンボをつかまえた”というやいなや隣へ飛んでいった
+*CHI:	tadaima .
+%ort:	ただいま.
+%tim:	8:40
+*MOT:	Daichan [= tonari no ko ] moo ikihan [: kiharu] nen yaro .
+%ort:	ダイちゃん [隣の子] もう行きはんねんやろ.
+%com:	tonari no Daichan wa hoikusho e itte iru; 隣りのダイちゃんは保育所へ行っている
+*CHI:	kikoeteta n ?
+%ort:	聞こえてたん?
+*CHI:	nodo ga kawaita .
+%ort:	のどがかわいた.
+*CHI:	karupisu choodai .
+%ort:	カルピスちょうだい.
+*MOT:	reezooko kara dashite kite .
+%ort:	冷蔵庫から出して来て.
+*CHI:	ha:i .
+%ort:	ハーイ.
+*MOT:	dekita yo .
+%ort:	出来たよ.
+%com:	ko wa karupisu o nomioeru to jibun no heya ni hairi hitoriasobi o
+	hajimeru; denwa ga kakatte kite , hahaoya wa tonari e iki gofun go
+	ni kaette kuru; 子はカルピスを飲み終えると自分の部屋に入り; ひとり遊びを始める ; 電話がかかって来て ,
+	母親は隣へ行き5分後に帰って来る
+@G:	page: 921
+*MOT:	tadaima .
+%ort:	ただいま.
+*MOT:	Miyokochan ‡ nani shiteru no .
+%ort:	美代子ちゃん何してるの.
+*CHI:	0 .
+%com:	isshookemmee tsukue ni mukatte e o egaite iru; 一生懸命机に向かって絵を描いている
+*CHI:	< onaka hetta > [/] onaka hetta .
+%ort:	お腹へった, お腹へった.
+*MOT:	soshitara shokuji no yooi shiyoo kana .
+%ort:	そしたら, 食事の用意しようかな.
+%com:	hahaoya wa daidokoro de shokuji no shitaku o suru; 母親は台所で食事のしたくをする;
+	11:50
+*MOT:	Miyokochan ‡ gohan yo .
+%ort:	美代子ちゃん, ご飯よ.
+*CHI:	ha:i .
+%ort:	ハーイ.
+*MOT:	osuwari shite .
+%ort:	おすわりして.
+*CHI:	itadakima:su .
+%ort:	いただきまーす.
+*MOT:	Miyoko ‡ zembu tabenasai yo .
+%ort:	美代子 全部食べなさいよ.
+*CHI:	un .
+%ort:	ウン.
+*CHI:	budoo tabete mo ii ?
+%ort:	ブドウ, 食べてもいい.
+*MOT:	jibun de reezooko kara motte kinasai .
+%ort:	自分で冷蔵庫から持って来なさい.
+*CHI:	ha:i .
+%ort:	ハーイ.
+%com:	awatete osara o waru; あわてて お皿を割る
+*MOT:	Miyoko ‡ motto ochitsukinasai .
+%ort:	美代子, もっと落ちつきなさい.
+*CHI:	gomennasai [/] gomennasai .
+%ort:	ごめんなさい, ごめんなさい.
+*MOT:	warete shimatta mono shikata ga nai deshoo .
+%ort:	割れてしまったもの しかたがないでしょう.
+*MOT:	korekara kiotsukenasai ne .
+%ort:	これから気をつけなさいね.
+%com:	soojiki de garasu no hahen o katazukeru; 掃除機でガラスの破片をかたづける
+*MOT:	dakara Papa ni “Miyoko wa Mama ni nite sosokkashii” to iwareru n
+	janai .
+%ort:	だからパパに“美代子はママに似てそそっかしい”と 言われるんじゃない.
+@Comment:	ko wa budoo o motte jibun no heya e iki , shibaraku hitori
+	de asobu; 子はブドウを持って自分の部屋へ行き, しばらくひとりで遊ぶ; 13:10
+*MOT:	Miyokochan ‡ ohirune shiyoo ka .
+%ort:	美代子ちゃん, お昼寝しようか.
+@Comment:	haha , ko hirune ; 母, 子 昼寝 13:00から15:00
+*CHI:	Daichan kaette kite kara asobi ni iku .
+%ort:	ダイちゃん, 帰って来てから遊びに行く.
+%com:	sanjuppun hodo asonde ita; 30分ほど遊んでいた
+*CHI:	Mama ‡ banana choodai .
+%ort:	ママ, バナナちょうだい.
+*MOT:	takusan taberu to bangohan ga taberarenai kara ippon dake yo .
+%ort:	たくさん食べると晩ごはんが食べられないから 1本だけよ.
+*CHI:	ha:i .
+%ort:	ハーイ.
+%com:	mata asobi ni iku; また遊びに行く
+@G:	page: 922
+*CHI:	tadaima: .
+%ort:	ただいまー.
+%tim:	17:20
+*CHI:	gohan [/] gohan .
+%ort:	ごはん, ごはん.
+%com:	onaka ga suku made asobi ni itte ite , hayaku hoshii to hannaki;
+	お腹がすくまで遊びに行っていて 早くほしいと半泣き
+*MOT:	moo gohan ni shiyoo ne .
+%ort:	もうごはんにしようね.
+*MOT:	kyoo Papa osoi kamoshirenai ne .
+%ort:	きょう, パパ遅いかもしれないネ.
+*CHI:	<budoo choodai> [/] budoo choodai .
+%ort:	ブドウちょうだい, ブドウちょうだい.
+*MOT:	saki gohan ni shiyoo ne .
+%ort:	先, 御飯にしようね.
+*MOT:	Papa hitori hotte oko(o) ne .
+%ort:	パパひとりほっておこね.
+*MOT:	Miyoko ‡ otete aratte kinasai .
+%ort:	美代子, お手手洗ってきなさい.
+*CHI:	ha:i .
+%ort:	ハーイ.
+*MOT:	osuwari shite itadakimasu@q wa .
+%ort:	おすわりしていただきますは.
+%tim:	18:00
+*CHI:	itadakima:su .
+%ort:	いただきまーす.
+*MOT:	ippai [/] ippai tabete hayaku ookiku naroo ne .
+%ort:	一杯, 一杯食べて早く大きくなろうね.
+*CHI:	Miyoko ippai tabete ookiku naru nen .
+%ort:	美代子 いっぱい食べておおきくなるねん.
+*MOT:	ookiku naroo ne .
+%ort:	大きくなろうね.
+*MOT:	okawari wa ?
+%ort:	おかわりは.
+*CHI:	ii .
+%ort:	いい.
+*CHI:	gochisoosama .
+%ort:	ごちそうさま.
+*CHI:	terebi mite mo ii ?
+%ort:	テレビ見てもいい.
+*MOT:	jibun de irenasai ne .
+%ort:	自分で入れなさいね.
+@Comment:	ko terebi o miru , manga chuushin ; 子 テレビを見る, マンガ中心.
+*MOT:	Miyokochan ‡ ofuro hairoo ka ?
+%ort:	美代子ちゃん お風呂入ろうか?
+*CHI:	un .
+%ort:	ウン.
+@Comment:	haha , ko ofuro e hairu; ofuro kara agatte kuru; 母, 子
+	お風呂へ入る; お風呂から上がってくる
+*CHI:	karupisu .
+%ort:	カルピス.
+*MOT:	tsukutte ageyoo ne , Miyokochan ‡ .
+%ort:	作ってあげようね, 美代子ちゃん.
+*MOT:	reezooko kara budoo totte kite ne .
+%ort:	冷蔵庫からブドウ取って来てね.
+%com:	karupisu o nomi , budoo o tabeoeru to otearai ni iku; カルピスを飲み,
+	ブドウを食べ終えるとお手洗いに行く
+*MOT:	Miyokochan ‡ ofuton hikoo ne .
+%ort:	美代子ちゃん, おふとんひこうね.
+*CHI:	un , hiku .
+%ort:	うん, ひく.
+%tim:	20:00
+*MOT:	Miyokochan ‡ neyoo ne .
+%ort:	美代子ちゃん寝ようね.
+@Comment:	hahaoya ni uchiwa de aogare nagara ko wa neru;
+	母親にうちわであおがれながら子は寝る
+@End

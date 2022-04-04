@@ -1,0 +1,395 @@
+@UTF8
+@PID:	11312/c-00009690-1
+@Color words:	*CHI: 1 65535 0 0 *MOT: 1 0 32896 16448
+@Begin
+@Languages:	jpn
+@Participants:	CHI Mamiko Target_Child, MOT Mother, OBS Investigator
+@ID:	jpn|Okayama|CHI|3;07.|female|||Target_Child|||
+@ID:	jpn|Okayama|MOT||female|||Mother|||
+@ID:	jpn|Okayama|OBS||female|||Investigator|||
+@Comment:	3-49 female 3;7. name: M.H. siblings: younger brother 0;7.
+@G:	page: 862
+@Comment:	asa; 朝; 7:20
+@Types:	cross, toyplay, TD
+*CHI:	Okaasa:n ‡ .
+%ort:	おかあさーん.
+%com:	隣の部屋からふすまごしに母の存在を確認するために
+*MOT:	ohayoo .
+%ort:	おはよう.
+*CHI:	ohayoo .
+%ort:	おはよう
+*CHI:	oimo Mamichan omochiroi [: omoshiroi] deshoo .
+%ort:	おいも まみちゃん おもちろいでしょう.
+%com:	neoki no hitorigoto o dare ni to mo naku itte iru; 寝起きの
+	独言を誰にともなく言っている
+*MOT:	na:ni ?
+%ort:	なーに
+*MOT:	Mamichan ‡ omimi ga doo shita no ?
+%ort:	まみちゃんおみみがどうしたの.
+%com:	Mamichan no itte iru kotoba ga hakkiri to kikitorenakatta;
+	まみちゃんの言っている言葉が はっきりと聞きとれなかった
+*CHI:	omimi no koto ?
+%ort:	おみみのこと?
+*CHI:	Mamichan.
+%ort:	まみちゃん.
+%com:	neoki ni yoku pompon to wake no wakaranai koto o iu rashii; 寝起きによく
+	ポンポンとわけのわからないことを言うらしい
+*MOT:	Mamichan kinoo naiteta no ?
+%ort:	まみちゃん きのうないてたの?
+*CHI:	0.
+%ort:	[返事無し].
+*MOT:	wasurechatta ?
+%ort:	忘れちゃった?
+*MOT:	a: annani naiteta noni .
+%ort:	ああ あんなに泣いてたのに .
+*CHI:	Mamichan wakaranai wa .
+%ort:	まみちゃん わからないわ
+*CHI:	Mamichan nemui yo: tte naita no .
+%ort:	まみちゃんねむいよーて泣いたの.
+*CHI:	kawaisoodatta deshoo .
+%ort:	かわいそうだったでしょう.
+*CHI:	Otoochan doko iku no ?
+%ort:	おとうちゃん どこいくの?
+%com:	chichi ga heya e haitte iku no o mite; 父が部屋へ入って行くのを見て
+*MOT:	doko ni mo ikanai wa yo .
+%ort:	どこにも行かないわよ.
+*CHI:	dooshite Mamiko oite ikanai no .
+%ort:	どうしてまみ子置いていかないの.
+*MOT:	Mamiko o oite nanka ikanai wa yo .
+%ort:	まみ子をおいてなんか いかないわよ.
+*CHI:	dooshite ?
+%ort:	どうして?
+*MOT:	kawaii mono .
+%ort:	かわいいもの.
+@Comment:	soba de nete iru akamboo no ashi o sawattari shite iru;
+	そばで寝ている赤ん坊の足をさわったりしている
+*MOT:	ozashiki itte gohan tabeyoo ka ?
+%ort:	お座敷行ってごはん食べようか.
+*MOT:	oshikko wa ?
+%ort:	おしっこは?
+*MOT:	oshikko wa nai no ?
+%ort:	おしっこはないの?
+*CHI:	Mamichan no moofu ?
+%ort:	まみちゃんの毛布?
+%com:	ashimoto ni oite aru moofu o mitsukete; 足元に置いてある毛布を見つけて
+@G:	page: 863
+@Comment:	asa; 朝
+*MOT:	shimatte okoo ne .
+%ort:	しまっておこうね.
+*CHI:	dooshite ?
+%ort:	どうして?
+*MOT:	moo iranai desho .
+%ort:	もういらないでしょ.
+*CHI:	doko ni atta no „ moofu ?
+%ort:	どこにあったの 毛布 .
+*MOT:	koko ni atta no yo .
+%ort:	ここにあったのよ.
+*MOT:	saa oyoofuku kimashoo ka .
+%ort:	さあ お洋服着ましょうか.
+*CHI:	kyoo donna oyoofuku kiru no ?
+%ort:	今日 どんなお洋服着るの?
+*MOT:	kono oyoofuku kimashoo ka .
+%ort:	このお洋服着ましょうか.
+*CHI:	kawaii naa .
+%ort:	かわいいなあ
+*CHI:	Mamichan onnanoko da kara ?
+%ort:	まみちゃん 女の子だから?
+*MOT:	soo yo .
+%ort:	そうよ
+*MOT:	onnanoko da kara yo saa oyoofuku kimashoo .
+%ort:	女の子だからよさあ お洋服きましょう.
+*MOT:	saa Mamichan ‡ .
+%ort:	さあ まみちゃん .
+@Comment:	akamboo no soba kara nakanaka hanareyoo to sezu kagamikonde
+	akamboo no kao o nozoitari shite iru; 赤ん坊のそばから
+	なかなか離れようとせずかがみこんで赤ん坊の顔をのぞいたりしている .
+*MOT:	atsui wa ne: „ kyoo mo .
+%ort:	あついわねー今日も.
+*MOT:	saa kimashoo .
+%ort:	さあ 着ましょう.
+*MOT:	oshikko wa ?
+%ort:	おしっこは?
+*CHI:	Tetchan arukeru yoo ni natta ne ookiku natta ne: .
+%ort:	哲っちゃん 歩けるようになったね大きくなったねー.
+%com:	akamboo no namae = Tetchan; 赤ん坊の名前=哲っちゃん
+*MOT:	soo ne: .
+%ort:	そうねー.
+*CHI:	Mamichan oneesan yo .
+%ort:	まみちゃん お姉さんよ.
+*MOT:	soo yo .
+%ort:	そうよ
+*MOT:	oneesan ne .
+%ort:	お姉さんね.
+*CHI:	a: butasan yo .
+%ort:	あーブタさんよ.
+%com:	terebi no hoo o mite; テレビの方を見て
+*MOT:	soo yo .
+%ort:	そうよ
+*MOT:	butasan yo .
+%ort:	ブタさんよ
+*MOT:	butasan wa ii ne: .
+%ort:	ブタさんはいいねー.
+*MOT:	shippo ga kuruq to mawatteru .
+%ort:	しっぽがくるっと回ってる .
+*CHI:	Mamichan inusan mo mita yo: .
+%ort:	まみちゃん犬さんもみたよー.
+*MOT:	soo: ?
+%ort:	そうー.
+*CHI:	ookina inu .
+%ort:	大きな犬.
+*MOT:	saa okuchi araimashoo ka .
+%ort:	さあ お口洗いましょうか.
+*CHI:	Okaasan ‡ Mamichan no ashi mite .
+%ort:	おかあさんまみちゃんの足見て.
+*CHI:	ookii deshoo: .
+%ort:	おおきいでしょーう.
+*MOT:	ookiku natta ne: .
+%ort:	おおきくなったねー
+*MOT:	nan de mo tabete ookiku naranai to ne .
+%ort:	何でも食べておおきくならないとね.
+@G:	page: 864
+@Comment:	asa; 朝
+*CHI:	kinoo no yoru mo takusan tabeta deshoo .
+%ort:	きのうの夜もたくさん食べたでしょう.
+*MOT:	soo ne: .
+%ort:	そうねー
+*MOT:	sonnani tabetenakatta wa yo .
+%ort:	そんなに食べてなかったわよ.
+%tim:	7:38
+*CHI:	ohayoo [/] ohayoo [/] ohayoo .
+%ort:	おはよう おはよう おはよう .
+%com:	semmen o shimatta chichi e mukatte; chichi to no kaiwa ga sukoshi
+	atte; 洗面を終った父へ向って; 父との会話が少しあって
+*CHI:	Mamichan oshikko shita no .
+%ort:	まみちゃん おしっこしたの.
+%com:	haha e mukatte; 母へ向って
+*MOT:	a: oshikko shita no ?
+%ort:	ああ おしっこしたの
+*MOT:	orikoo datta ne .
+%ort:	おりこうだったね.
+*CHI:	hitori de shita no .
+%ort:	一人でしたの.
+*MOT:	hitori de shita no ?
+%ort:	一人でしたの
+*MOT:	yokatta ne .
+%ort:	良かったね.
+@Comment:	chichi haha shokutaku ni suwatte; 父 母 食卓に座って
+*CHI:	kore Mamichan no ?
+%ort:	これまみちゃんの?
+%com:	fooku o motte; フォークを持って
+*MOT:	soo .
+%ort:	そう
+*MOT:	Mamichan no saa .
+%ort:	まみちやんのさあ
+*MOT:	Mamichan kotchi e suwatte .
+%ort:	まみちゃん こっちへ座って.
+@Comment:	chichi, haha, Mamiko sannin shokutaku e tsuku; 父 母 まみ子
+	三人食卓へつく
+*MOT:	a: Mamichan ‡ mite goran .
+%ort:	あーまみちゃん 見て ごらん
+*MOT:	omatsuri yo .
+%ort:	おまつりよ.
+@Comment:	terebi mi nagara; Mamiko terebi e shisen o yaru ; damatte
+	mite iru; haha , awatete daidokoro e iku ; テレビ見ながら;
+	まみ子テレビヘ視線をやる だまって見ている; 母, あわてて台所へ行く
+*MOT:	pan makkuro ni natchatta .
+%ort:	パン まっくろになちゃった.
+*CHI:	kuroku natchatta ne .
+%ort:	黒くなちゃったね.
+*MOT:	saa gohan tabemashoo ka .
+%ort:	さあ こはん食べましょうか.
+*CHI:	Mamichan chitchai pan hoshii naa: .
+%ort:	まみちゃん ちっちゃいパンほしいなあー.
+*MOT:	chitchai pan ?
+%ort:	ちっちゃいパン?
+*MOT:	are Otoosan no yo .
+%ort:	あれ お父さんのよ .
+*MOT:	makkuro koge ni natchatta no .
+%ort:	まっくろこげになっちゃったの.
+@Comment:	Mamiko wa OBS no koto ga ki ni naru no ka; nakanaka gohan e
+	te o tsukenai; まみ子は OBSの事が気になるのか なかなかごはんへ手をつけない
+*MOT:	Mamichan ‡ gohan tabenai to dame yo .
+%ort:	まみちゃん ごはん食べないとだめよ.
+*MOT:	gyuunyuu nonde ookina ko ni naranakereba dame yo: .
+%ort:	牛乳飲んでおおきな子にならなければだめよー.
+@Comment:	shibaraku no aida OBS no hoo o jitto mite iru; しばらくの間
+	OBSの方をじっと見ている
+*CHI:	itadakimasu: .
+%ort:	いただきますー
+*CHI:	Otoosan ‡ itadakimasu@q wa ?
+%ort:	お父さん“いただきます”は?
+@G:	page: 865
+@Comment:	asa; chichi wa damatte mokumokuto tabete iru; sore o mite
+	togameru yoo ni; 朝; 父はだまってもくもくと食べている それを見て とがめるように
+*CHI:	Mamichan chanto itta wa ne: .
+%ort:	まみちゃん ちゃんと言ったわねー.
+*CHI:	chotto dareka fuku kashite kureru ?
+%ort:	ちょっとだれか服かしてくれる?
+%com:	dare e to mo naku hitorigoto; mada okite atama ga hakkiri shite
+	inai yoo dearu; 誰へともなく 独言 まだ起きて 頭がはっきりしていない様である
+*MOT:	dooshite ?
+%ort:	どうして
+*MOT:	Mamichan fuku kiteru janai no ?
+%ort:	まみちゃん服着てるじゃないの.
+*CHI:	chotto kiru no .
+%ort:	ちょっときるの.
+%com:	kiru no ka kiru no ka , hakkiri wakaranai; 着るのか 切るのか はっきりわからない
+*MOT:	dooshite ?
+%ort:	どうして?
+%com:	i no mama ni naranai no de tsumaranai no ka gohan o tabezu ni
+	tachiagatte, shokutaku no mawari o mawattari gosogoso shite iru;
+	意のままにならないので つまらないのか ごはんを食べずに立ちあがって 食卓の回りを回ったり ごそごそしている
+*CHI:	hon mitai .
+%ort:	本見たい.
+*MOT:	gohan wa ?
+%ort:	こはんは?
+*MOT:	tabete kara minasai ne .
+%ort:	食べてから見なさいね .
+*CHI:	ima miru: .
+%ort:	今見るー.
+*MOT:	ja: oneechan to mite (i)rasshai .
+%ort:	じゃあ お姉ちゃんと見てらっしゃい.
+%com:	OBS no tokoro e “shirayukihime” to “shinderera” no hon o motte kite
+	issho ni parapara mekuru; mekuri nagara “kore risusan” “kore wa
+	mahootsukai” to iroiro setsumee shite kureru; 8:30;
+	OBSの所へ“白雪姫”と“シンデレラ”の本を もってきて 一緒にパラパラめ くる めくりながら
+	“これがリスさん”“これは魔法使い”といろいろ説明したくれる; 8:30
+*MOT:	saa Mamichan ‡ gohan katazukete shimaimasu yo .
+%ort:	さあまみちゃんごはんかたずけてしまいますよ.
+*CHI:	aisukuriimu tabetai .
+%ort:	アイスクリーム食べたい.
+*MOT:	dame yo .
+%ort:	だめよ
+*MOT:	gohan tabete kara yo .
+%ort:	ごはん食べてからよ.
+%com:	haha no iu koto ni mimi o kasazu ni OBS no soba ni kite , motte ita
+	teepurekoodaa o sawattari; hon o mitari shitsu no naka o
+	tobimawattari shite iru ; nakanaka pan ni te o tsukeyoo to shinai;
+	teepurekoodaa no setsumee o suru to “Mamichan no koe ga kikitai” to
+	iu; zoosan no uta toka chuurippu ya ryuukooka o fukikonde wa sore o
+	kikasete agetari suru; gozen; 10:05; 母の言うことに耳をかさずに
+	OBSのそばに来て持っていたテープレコーダーをさわったり, 本を見たり 室の中を飛び回ったりしているなかなかパンに手をつけようと しない
+	, テープレコーダーの説明をすると“まみちゃんの声が聞きたい”と言うゾウ さんの歌とかチューリップや流行歌を吹き込んでは
+	それを聞かせてあげたりする; 午前; 10:05
+*CHI:	Mama ‡ okashi choodai .
+%ort:	ママおかしちょうだい.
+*MOT:	hai .
+%ort:	はい.
+@G:	page: 866
+@Comment:	gozen; 午前
+*CHI:	ne: [/] ne: .
+%ort:	ねえー ねえー
+*CHI:	choodai yo: „ hayaku .
+%ort:	ちょうだいよー はやく.
+*MOT:	hai [/] hai nodo ga kawaku wa ne: .
+%ort:	はい はいのどがかわくわねー.
+*CHI:	dooshite nodo kawaita no ?
+%ort:	どうしてのど かわいたの?
+*MOT:	atsui kara yo .
+%ort:	あついからよ.
+*MOT:	ocha iremashoo ka .
+%ort:	お茶いれましょうか.
+%add:	OBS
+%com:	OBS ni mukatte; OBSに向かって
+*CHI:	Mamichan ni mo choodai .
+%ort:	まみちゃんにもちょーだい
+*CHI:	okashi choodai .
+%ort:	おかしちょーだい.
+*MOT:	ja: ocha to okashi agemashoo .
+%ort:	じゃあ おちゃとおかしあげましょう.
+%com:	ocha to okashi o obon ni nosete hakoboo to suru;
+	お茶とお菓子をお盆にのせて運ぼうとする
+*CHI:	kore Mamichan no ?
+%ort:	これまみちゃんの?
+%com:	jibun no koppu o sashite; 自分のコップを指して
+*CHI:	Mamichan motte iku .
+%ort:	まみちゃん 持っていく .
+*MOT:	ii wa „ Okaasan ga motte iku kara .
+%ort:	いいわ おかあさんが持っていくから.
+*CHI:	oneechan no okashi wa ?
+%ort:	お姉ちゃんのお菓子は?
+*MOT:	ima motte iku wa .
+%ort:	今持って行くわ.
+@Comment:	Mamichan wa jibun no bun dake no okashi o chanto koppu ni
+	irete motte iru; まみちゃんは 自分のぶんだけのお菓子をちゃんとコップに入れて持っている
+*MOT:	areq takusan motteru no ne .
+%ort:	あれ たくさん持ってるのね.
+*CHI:	un .
+%ort:	うん.
+@Comment:	okashi o tabe nagara OBS to Okaasan wa iroiro sekembanashi
+	o shi, Mamichan wa akamboo o ayashite iru; haha ga fukisooji
+	o suru ;kaidan no fukisooji o shite iru to , ato kara mane
+	shite Mamiko o haiagatte yuku ; 11:30お菓子を食べながら OBSとお母さんは
+	いろいろ世間話をし まみちゃんは 赤ん坊をあやしている; 11:30; 母がふきそうじをする
+	階段のふきそうじをしていると 後からまねしてまみ子もはい上がってゆく
+*CHI:	kore Ponsukesan@u ?
+%ort:	これ ぽんすけさん?
+*CHI:	oponsan@u ?
+%ort:	おぽんさん?
+%com:	haha no kotoba no imi ga rikai dekinai no ka; 母の言葉の意味が理解出来ないのか
+*MOT:	ee soo yo .
+%ort:	ええそうよ
+*MOT:	Okaasan no ato kara nobotte kuru kara yo .
+%ort:	おかあさんの後から登ってくるからよ.
+%com:	Mamiko agatte yuku mane o yamete kondo wa shitsu no naka o
+	tobihanete OBS no mawari o guruguru mawattari, OBS to undoo asobi o
+	suru; sorekara terebi no “rompaaruumu” o mitari shite iru; まみ子
+	上がってゆくまねをやめて 今度は室の中を飛びはねて OBSの回りをぐるぐる回ったり OBSと運動遊びをする; それから
+	テレビの“ロンパールーム”を見たりしている
+@G:	page: 867
+@Comment:	hiru; sono aida ni shokuji no yooi o sumase chuushoku ni
+	naru 昼; その間に食事の用意をすませ 昼食になる; 12:30
+*MOT:	saa [/] saa dekimashita yo .
+%ort:	さあさあ できましたよ
+*MOT:	Mamichan ‡ itadakimasu shimashoo .
+%ort:	まみちゃん いただきますしましょう.
+*CHI:	itadakimasu .
+%ort:	いただきます.
+%com:	chuushoku wa attoiuma ni sumase soba ni oite atta ningyoo ni te o
+	nobasu; gogo; 昼食は あっという間にすませ そばにおいてあった人形に手をのばす; 午後
+*CHI:	oningyoo no kubi nuketa: .
+%ort:	お人形の首ぬけたー.
+*MOT:	maa oneechan [= CHI] sonna koto shite .
+%ort:	まあ おねえちゃん [まみのこと] そんなことして.
+@Comment:	sono mama ningyoo o hottarakashite nikai e iku; sukoshi
+	shite orite kite OBS no soba e kite issho ni hon o yomu;
+	mada ko ga yomenai no de damatte mite iru; そのまま
+	人形をほったらかして二階へ行く 少しして おりてきて OBSのそばへきて 一緒に本を読む; まだ児が読めないので
+	だまって見ている; 13:02
+*MOT:	Mamichan ‡ ofuro ni hairimashoo .
+%ort:	まみちゃん おふろにはいりましょう.
+*CHI:	un .
+%ort:	うん.
+@Comment:	niwa ni gomupuuru o oite sono naka de hitori de hitori de
+	mizuabi o shitari, kingyo no omocha to asondarishite iru;
+	OBS mo soba de te dake mizu ni tsukete shibaraku issho ni
+	asobu; 庭に ゴムプールを置いて その中で一人で一人で水浴びをしたり; 金魚のおもちゃと遊んだりしている;
+	OBSもそばで手だけ水につけて しばらく一緒に遊ぶ
+*CHI:	Omamichan Chatchan toko e itte kuru .
+%ort:	おまみちゃん ちゃっちゃんとこへ行ってくる.
+%com:	to itte sugu tonde iku; と言って すぐ飛んで行く
+@Comment:	sorekara sanji goro made mukai no ie de shi, gonin no ko to
+	puuru no naka de asonde ita; itsunomanika mina puuru kara
+	dete soto de kakekko o shitarishite iru; それから3時ごろまで向いの家で4,
+	5人の子とプールの中で遊んでいた; いつの間にか 皆プールから出て 外でかけっこをしたりしている
+@G:	page: 868
+@Comment:	gogo; sono aida ni OBS wa Mamichan no koto ya ie no koto
+	nani iroiro to tazunetari akamboo no omori o shitari shite
+	iru; hanashi ni yoru to Mamichan wa itsumo nitchuu ohirune o
+	sezu, yuugata goji koro kara suru no de yoru neru no ga
+	juuichiji koro ni naru to iu; jikan mo goji ni nari moo
+	kaette kuru ka to matte ita ga, ikko iu ni kaette konai;
+	yuugata; 17:30; nakigoe ga suru no de oya to omotte iru to
+	hana no shita o akaku shite wanwan naite iru; chichi ni
+	teate o shite moratte chichi no hiza no ue de neru; haha wa
+	daidokoro kara shimpai shite yoosu o mi ni kita ga, chichi
+	to futakoto sankoto o kawashite sugu yuushoku no yooi ni
+	daidokoro e hikkomu; kodomo wa yuushoku o tabesasezu ni sono
+	mama nekasete shimau koto ni natta; 午後; その間に OBSは
+	まみちゃんの事や家のことなどいろいろと たずねたり 赤ん坊のおもりをしたりしている; 話によると まみちゃんは
+	いつも日中お昼寝をせず, 夕方5時頃からするので 夜寝るのが11時頃になるという時間も5じになり
+	もう帰ってくるかと待っていたが, いっこいうに帰って来ない; 夕方; 泣き声がするので おやと思っていると
+	鼻の下を赤くして, ワンワン泣いている; 父に手当てをして貰って父の膝の上で寝る;
+	母は台所から心配して様子を見に来たが, 父と 二言三言 言葉を交してすぐ夕食の用意に台所へ引っこむ;
+	子どもは夕食を食べさせずに そのまま寝かせてしまうことになった
+@End

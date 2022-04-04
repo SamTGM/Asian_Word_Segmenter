@@ -1,0 +1,1809 @@
+@UTF8
+@PID:	11312/c-00009740-1
+@Color words:	%xmor 1 34952 34952 34952 *MOT 1 6168 8738 52685 *CHI 1 60909 6168 7710
+@Begin
+@Languages:	jpn
+@Participants:	CHI Kyoochan Target_Child, MOT Mother, OBS Investigator
+@ID:	jpn|Okayama|CHI|4;06.|female|||Target_Child|||
+@ID:	jpn|Okayama|MOT||female|||Mother|||
+@ID:	jpn|Okayama|OBS||female|||Investigator|||
+@Comment:	4-24 female 4;6. name: K.M. siblings: older brother 7;3.
+@G:	page: 813
+@Comment:	7:40
+@Types:	cross, toyplay, TD
+*MOT:	ohayoo.
+%ort:	おはよう.
+*CHI:	ohayoo.
+%ort:	おはよう.
+@Comment:	semmenjo e iku; 洗面所へ行く
+*MOT:	gohan , nani taberu ?
+%ort:	ごはん, 何 食べる?
+*CHI:	pan.
+%ort:	パン.
+*MOT:	hai , tabenasai.
+%ort:	はい, 食べなさい.
+@Comment:	terebi o mi nagara; テレビを見ながら
+*MOT:	pan ni nani tsukeru no ?
+%ort:	パンに何つけるの?
+*CHI:	nan:imo tsuken to.
+%ort:	なんにもつけんと.
+*CHI:	itadakimasu.
+%ort:	いただきます.
+*CHI:	itterasshai.
+%ort:	行ってらっしゃい.
+%add:	FAT, OBR
+%com:	chichi to ani; 父と兄
+*MOT:	moo , iran no ?
+%ort:	もう, いらんの?
+*CHI:	un.
+%ort:	うん.
+@Comment:	chooshokugo hitoriasobi; 朝食後 ひとり遊び; 8:55
+*MOT:	beranda yo „ usachan.
+%ort:	ベランダよ, うさちゃん.
+*CHI:	hee.
+%ort:	ヘエー.
+*MOT:	araoo to omotte.
+%ort:	洗おうと思って.
+*MOT:	kitanai yo.
+%ort:	きたないよ.
+*CHI:	hee.
+%ort:	ヘエー.
+*CHI:	kore morota [: moratta] .
+%ort:	これもろた.
+*MOT:	Kenjikun ga motte kita n ?
+%ort:	けんじ君が持って来たん?
+*MOT:	arigatoo iuta [: yutta] n ?
+%ort:	ありがとう言うたん?
+*CHI:	iuta [: yutta].
+%ort:	言うた.
+*MOT:	itai [/] itai Kyoochan ‡ .
+%ort:	痛い 痛い恭ちゃん.
+*CHI:	oyatsu choodai.
+%ort:	おやつ ちょうだい.
+*MOT:	sakki tabeta yan ka.
+%ort:	さっき食べたやんか.
+*MOT:	omikan taberu ka ?
+%ort:	おみかん食べるか?
+*MOT:	nani shiten [: shiteru] non [: no] Kyoochan ‡ .
+%ort:	何してんのん恭ちゃん.
+*MOT:	okaasan_to_issho wa mada ka ?
+%ort:	“お母さんと一緒”はまだか?
+%com:	terebi; テレビ
+*MOT:	areq ?
+%ort:	あれ
+*MOT:	nani ?
+%ort:	何
+*MOT:	nani ga hajimatten [: hajimatteru] no.
+%ort:	何が始まってんの?
+%com:	terebi; テレビ
+*CHI:	Makichan.
+%ort:	マキちゃん.
+*MOT:	Makichan.
+%ort:	マキっちゃん?
+*MOT:	hon fundara dame yo.
+%ort:	本ふんだらだめよ.
+*MOT:	sore itadakinasai yo.
+%ort:	それ いただきなさいよ.
+*MOT:	tabetai no ?
+%ort:	食べたいの?
+*CHI:	hai ageru.
+%ort:	はい あげる.
+*MOT:	hai , arigatoo.
+%ort:	はい, ありがとう.
+@G:	page: 814
+*MOT:	< moo ii no > [/] moo ii no.
+%ort:	もういいの, もういいの.
+*MOT:	atama toitenai no „ kyoo wa atama [= kami ] wa ?
+%ort:	頭といてないの きょうは頭 [髪] は?
+*CHI:	un.
+%ort:	うん?
+*MOT:	atama tokanai no ?
+%ort:	頭とかないの?
+*MOT:	itai yo „ sonna koto shitara.
+%ort:	痛いよ そんなことしたら.
+%com:	katatataki; 肩たたき
+*CHI:	moo ikkai.
+%ort:	もう一回.
+*MOT:	Kyoochan Makichan mitai na kao shiten [: shiteru ] ne.
+%ort:	恭ちゃん, マキちゃんみたいな顔してんね.
+*MOT:	un , chigau ?
+%ort:	うん, ちがう?
+*CHI:	&=laugh .
+%ort:	ウワハ.
+*CHI:	kyoo dare no tooban ya ?
+%ort:	きょう 誰の当番や.
+%com:	gomi tooban; ゴミ当番
+*MOT:	kyoo wa ne , kyoo wa Miyachan no obachan ya.
+%ort:	きょうはね, きょうはミヤちゃんのおばちゃんや.
+*MOT:	moo owatta n Kyoochan ‡ ?
+%ort:	もう終わったん恭ちゃん?
+%com:	terebi; テレビ
+*MOT:	keshit(e) okinasai.
+%ort:	消しときなさい.
+*MOT:	mata Okaasan to issho ni minasai ne.
+%ort:	またお母さんと一緒に見なさいね.
+*MOT:	oekaki suru no ?
+%ort:	お絵かきするの?
+*MOT:	oekaki.
+%ort:	お絵かき.
+*CHI:	un.
+%ort:	うん.
+*CHI:	kureyon [/] kureyon.
+%ort:	クレヨン, クレヨン.
+*MOT:	kureyon ima sagashiten [: sagashiteru] nen kedo nai wa.
+%ort:	クレヨン 今探してんねんけどないわ.
+*CHI:	hako ni haitteru.
+%ort:	箱に入ってる.
+*MOT:	hai.
+%ort:	はい.
+%com:	watasu; 渡す
+*CHI:	arigatoo.
+%ort:	ありがとう.
+*MOT:	nuru tokoro aru no ?
+%ort:	ぬるところあるの?
+*MOT:	kore nani kanaa ?
+%ort:	これ何かな,
+*MOT:	kore nan ya no ?
+%ort:	これ何やの?
+*CHI:	nezumiiro.
+%ort:	ネズミ色.
+*MOT:	isu kanaa .
+%ort:	椅子かな.
+*CHI:	isu.
+%ort:	椅子.
+*MOT:	Kyoochan ‡ hayo yoochien ikitai ne.
+%ort:	恭ちゃん, はよ 幼稚園行きたいね.
+*MOT:	Totchan yoochien itten [: itteru] nen tte.
+%ort:	とっちゃん 幼稚園行ってんねんて.
+*CHI:	shitteru.
+%ort:	知ってる.
+*MOT:	shitteru ?
+%ort:	知ってる?
+*CHI:	kore moraoo kanaa .
+%ort:	これ もらおうかな
+%com:	okashi; おかし
+*MOT:	hai , morainasai.
+%ort:	はい, もらいなさい.
+*MOT:	Kyooko mo neteru toki Oniichan ni fumareta n to chigau.
+%ort:	恭子も寝てるときお兄ちゃんにふまれたんとちがう.
+*MOT:	honde pechanko ya .
+%ort:	ほんでぺちゃんこや
+%com:	hana; 鼻
+*MOT:	Okaasan < takaku nare > [//] takaku nare tte koo shite ageru desho.
+%ort:	お母さん高くなれ, 高くなれてこうしてあげるでしょ.
+*MOT:	kyoo wa nani ga hajimaru no „ okaasan_to_issho de ?
+%ort:	きょうは何が始まるの, “お母さんと一緒”で.
+@G:	page: 815
+*CHI:	Tonchin_koboozu.
+%ort:	トンチン小坊主.
+*MOT:	Tonchin_koboozu.
+%ort:	トンチン小坊主?
+*MOT:	chigau yo .
+%ort:	ちがうよ,
+*MOT:	kyoo wa doyoobi ya kara te_o_tsunago .
+%ort:	きょうは土曜日やから“手をつなご”.
+*CHI:	ashita Tonchin_koboozu.
+%ort:	あした トンチン小坊主?
+*MOT:	ashita wa yasumi.
+%ort:	あしたは休み.
+*MOT:	dame .
+%ort:	ダメ,
+*MOT:	itai .
+%ort:	いたい,
+*MOT:	itai „ sonna koto shitara.
+%ort:	いたい そんなことしたら.
+*CHI:	pinku: .
+%ort:	ピンクウ.
+*MOT:	pinku: tte iu no ?
+%ort:	ピンクウて言うの?
+*MOT:	momoiro.
+%ort:	桃色.
+*CHI:	kore nani ?
+%ort:	これ何?
+*MOT:	haiiro.
+%ort:	灰色.
+*MOT:	kore wakarehendatta [: wakarahenkatta] ne.
+%ort:	これわかれへんだったね.
+*MOT:	kore donai iu no ?
+%ort:	これどない言うの?
+*CHI:	pinku.
+%ort:	ピンク.
+*MOT:	pinku iwan to.
+%ort:	ピンク言わんと.
+*MOT:	momoiro.
+%ort:	桃色.
+*MOT:	hai , yoku dekimashita.
+%ort:	はい, よくできました.
+*MOT:	moo yoochien ikeru kanaa .
+%ort:	もう幼稚園行けるかな.
+*CHI:	o:i manga da yo.
+%ort:	オーイ マンガだよ.
+*MOT:	aq okaasan_to_issho ya wa.
+%ort:	あっ, お母さんと一緒やわ.
+*CHI:	mada yan ka.
+%ort:	まだやんか.
+*MOT:	moo sugu yo .
+%ort:	もうすぐよ,
+*MOT:	tsuket(e) oite mo ii yo.
+%ort:	つけといてもいいよ.
+*CHI:	ano ato nyuusu yo.
+%ort:	あのあとニュースよ.
+*CHI:	sono ato okaasan_to_issho yo.
+%ort:	そのあとお母さんと一緒よ.
+*CHI:	kore ya tte , kore.
+%ort:	これやって, これ.
+%com:	tesuto; テスト
+*MOT:	kono naka de mizu no ue o hashiru no wa dore deshoo ?
+%ort:	この中で水の上を走るのはどれでしょう.
+*MOT:	dore ?
+%ort:	どれ?
+*CHI:	ofune .
+%ort:	お船,
+*CHI:	booto.
+%ort:	ボート.
+*MOT:	kore wa nan to iu doobutsu deshoo.
+%ort:	これは何と言う動物でしょう.
+*CHI:	buta .
+%ort:	豚,
+*CHI:	ushi .
+%ort:	牛,
+*CHI:	usagi.
+%ort:	うさぎ.
+*MOT:	maru o tsuken [: tsukeru] nen tte.
+%ort:	丸をつけんねんて.
+*CHI:	dore ?
+%ort:	どれ?
+*MOT:	hitotsu .
+%ort:	ひとつ,
+*MOT:	futatsu .
+%ort:	ふたつ,
+*MOT:	mittsu.
+%ort:	みっつ.
+*MOT:	mittsu tte dore dake ka shiran no ?
+%ort:	みっつってどれだけか知らんの?
+*CHI:	kon [: kore] dake.
+%ort:	こんだけ.
+*MOT:	hai , yoroshii.
+%ort:	はい, よろしい.
+*CHI:	kore to kore.
+%ort:	これと, これ.
+*MOT:	hai.
+%ort:	はい.
+*CHI:	kore yaru .
+%ort:	これやる,
+%com:	tesutoyoo ehon; テスト用絵本
+*CHI:	kore yatta:.
+%ort:	これやったー.
+@G:	page: 816
+*MOT:	wanage shiteharu desho .
+%ort:	輪なげしてはるでしょ,
+*MOT:	dono ko ga nagehatta to omou ?
+%ort:	どの子が投げはったと思う?
+*CHI:	&=point .
+*MOT:	so(o) ya ne.
+%ort:	そやね.
+%com:	ko ga seekai o sashita no de; 子が正解を指したので
+*CHI:	kore wa ?
+%ort:	これは?
+*MOT:	tokeesan.
+%ort:	とけいさん.
+*MOT:	sanji da yo .
+%ort:	3時だよ,
+*MOT:	wakaru ?
+%ort:	わかる?
+*MOT:	san to kaite aru tokoro .
+%ort:	3と書いてあるところ,
+*MOT:	kurukurun@o to shiteharu toko.
+%ort:	くるくるんとしてはるとこ.
+*CHI:	daruma ?
+%ort:	だるま?
+*MOT:	daruma to chigau.
+%ort:	だるまとちがう.
+*CHI:	kono naka de dore.
+%ort:	この中でどれ?
+*MOT:	kore ga san yo.
+%ort:	これが3よ.
+*MOT:	san no tokoro ni hari ga kiten [: kiteru] no dore ?
+%ort:	3のところに針がきてんのどれ?
+*CHI:	<kore kore kore > [/] kore:.
+%ort:	これ これこれこれー.
+*MOT:	iu kara oboet(e) oki ya.
+%ort:	言うから覚えときや.
+*MOT:	empitsu .
+%ort:	エンピツ,
+*MOT:	ahiru .
+%ort:	アヒル,
+*MOT:	kingyo .
+%ort:	キンギョ,
+*MOT:	dore iuta [: yutta] ?
+%ort:	どれ言うた?
+*CHI:	empitsu .
+%ort:	エンピツ,
+*CHI:	ahiru .
+%ort:	アヒル,
+*CHI:	kingyo.
+%ort:	キンギョ.
+*MOT:	soo ya ne.
+%ort:	そうやね.
+*MOT:	anyo ga yotsu aru no wa dore ?
+%ort:	アンヨが4つあるのはどれ?
+*CHI:	kame.
+%ort:	カメ.
+*MOT:	motto wa ?
+%ort:	もっとは.
+*CHI:	ushi.
+%ort:	牛.
+*MOT:	ichiban hayai no wa dore desu ka ?
+%ort:	一番速いのはどれですか.
+*CHI:	hikooki.
+%ort:	飛行機.
+*MOT:	ichiban osoi no wa „ kono naka de ?
+%ort:	一番遅いのは, この中で.
+*CHI:	jitensha.
+%ort:	自転車.
+*CHI:	kore [/] kore.
+%ort:	これこれ.
+*MOT:	koo [/] koo [/] koo.
+%ort:	こうこうこう.
+*MOT:	soo.
+%ort:	そう.
+*MOT:	kono naka de chigatte iru mono wa dore ?
+%ort:	この中でちがっているものはどれ?
+*CHI:	chigatte iru no kore .
+%ort:	違っているの, これ,
+*CHI:	kore .
+%ort:	これ,
+*CHI:	kore.
+%ort:	これ.
+*MOT:	sore wa issho desho.
+%ort:	それは一緒でしょ.
+*CHI:	kore to kore.
+%ort:	これとこれ.
+*MOT:	soo.
+%ort:	そう.
+*MOT:	moo owari kanaa .
+%ort:	もう終わりかな.
+*CHI:	koko yattenai.
+%ort:	ここやってない.
+*MOT:	doko ?
+%ort:	どこ.
+@G:	page: 817
+*MOT:	darumasan .
+%ort:	ダルマさん,
+*MOT:	dore to dore ga onaji ?
+%ort:	どれとどれが同じ?
+*CHI:	kore to kore.
+%ort:	これとこれ.
+*MOT:	soo.
+%ort:	そう.
+*CHI:	tsugi , koko [/] koko.
+%ort:	次ぎ, ここ, ここ.
+*MOT:	kore , tokeesan .
+%ort:	これ, 時計さん,
+*MOT:	Oniichan kaita n deshoo.
+%ort:	お兄ちゃん書いたんでしょう.
+*MOT:	ki ni naru mono wa nan deshoo.
+%ort:	木になるものは何でしょう.
+*CHI:	kore to kore.
+%ort:	これとこれ.
+*MOT:	daikonsan , ki ni natten [: natteru] no.
+%ort:	大根さん, 木になってんの?
+*CHI:	nattenai.
+%ort:	なってない.
+*MOT:	negi toka daikonsan wa doko ni iten [: iteru] no ?
+%ort:	ネギとか大根さんはどこにいてんの.
+*MOT:	hatake ni iten [: iteru] no yo.
+%ort:	畑にいてんのよ.
+*CHI:	hatake.
+%ort:	畑.
+*MOT:	kore to kore issho ka ne.
+%ort:	これとこれ一緒かね.
+*CHI:	maru.
+%ort:	まる.
+*MOT:	maru .
+%ort:	まる,
+*MOT:	sore sankaku .
+%ort:	それ三角,
+*MOT:	kore mo maru.
+%ort:	これも丸.
+*CHI:	koko mo ?
+%ort:	ここも?
+*MOT:	koko ka ?
+%ort:	ここか.
+*CHI:	koko ka ?
+%ort:	ここか.
+*MOT:	issho ka ?
+%ort:	一緒か?
+*CHI:	kore onaji.
+%ort:	これ同じ.
+*MOT:	kore chigau no ?
+%ort:	これちがうの,
+*MOT:	sonnara peke.
+%ort:	そんならペケ.
+*CHI:	hai.
+%ort:	はい.
+*MOT:	koko wa.
+%ort:	ここは.
+*CHI:	kore to kore to onaji.
+%ort:	これとこれと同じ.
+*MOT:	chigatte iru no aru desho.
+%ort:	ちがっているのあるでしょ.
+*CHI:	peke.
+%ort:	ペケ.
+*CHI:	kore mo kore mo onaji.
+%ort:	これもこれも同じ.
+*MOT:	un , maru.
+%ort:	うん, 丸.
+*MOT:	moo ii no?
+%ort:	もういいの.
+*MOT:	Okaasan_to_issho , hajimatte n no.
+%ort:	“お母さんと一緒”, 始まってんの?
+*CHI:	mada ya.
+%ort:	まだや.
+*MOT:	mite kite goran.
+%ort:	見てきてごらん.
+*CHI:	koko ni oit(e) okoo .
+%ort:	ここに置いとこ.
+*MOT:	Okaasan kore hatte shimau kara ne.
+%ort:	お母さん, これはってしまうからね.
+*MOT:	mite kinasai.
+%ort:	見てきなさい.
+@Comment:	10:10; terebi o miru; テレビを見る
+@G:	page: 819
+*MOT:	koko ni aru kono nori wa ?
+%ort:	ここにある このノリは?
+*CHI:	dame.
+%ort:	ダメ.
+*MOT:	nai kara Kyoochan ‡ kore tsuket(e) oitara doo ?
+%ort:	ないから恭ちゃんこれつけといたらどう?
+*CHI:	ue &=laugh .
+%ort:	ウエ [笑]
+*MOT:	Kyoochan ‡ okiwasureta n to chigau no ?
+%ort:	恭ちゃん, 置き忘れたんと違うの.
+*CHI:	un.
+%ort:	うん.
+*MOT:	nai wa ne .
+%ort:	ないわね,
+*MOT:	ii wa Kyoochan ‡.
+%ort:	いいわ恭ちゃん.
+*MOT:	naoshit(e) okinasai Kyoochan ‡.
+%ort:	直しときなさい恭ちゃん.
+*MOT:	Kyoochan ‡ moo ii kara naoshit(e) okinasai.
+%ort:	恭ちゃん もういいから直しときなさい.
+*CHI:	un.
+%ort:	うん.
+*MOT:	sonna toko kara shita no.
+%ort:	そんなとこからしたの.
+*MOT:	tansu ga hikkurikaette kuru wa.
+%ort:	タンスがひっくり返ってくるわ.
+*MOT:	hai moo terebi keshit(e) okinasai Kyoochan ‡.
+%ort:	はい もうテレビ消しときなさい恭ちゃん.
+*MOT:	kyoo keroyon ka ?
+%ort:	きょうケロヨンか.
+*CHI:	n ?
+%ort:	うん?
+*MOT:	keroyon ?
+%ort:	ケロヨン?
+*MOT:	shimbun motte kite goran „ mit(e) ageru kara.
+%ort:	新聞持ってきてごらん見たげるから.
+*CHI:	aru ?
+%ort:	ある?
+*MOT:	doo kanaa ?
+%ort:	どうかな.
+*MOT:	kyoo doyoobi ya kara nashi ya „ keroyon.
+%ort:	きょう土曜日やからなしや, ケロヨン.
+*MOT:	ne.
+%ort:	ネ.
+*MOT:	oneechan [= OBS] ni shashin miset(e) ageyoo ka.
+%ort:	お姉ちゃん [%: OBS] に写真見せたげようか.
+*CHI:	eq ?
+%ort:	え?
+*MOT:	shashin ?
+%ort:	写真?
+*CHI:	kon(o) naka ?
+%ort:	こん中?
+*MOT:	atchi.
+%ort:	あっち.
+*CHI:	akachan no toki ?
+%ort:	赤ちゃんのとき?
+*MOT:	hai.
+%ort:	はい.
+*CHI:	dare no ?
+%ort:	誰の?
+*MOT:	dotchimo.
+%ort:	どっちも.
+*MOT:	toreru ?
+%ort:	取れる?
+*CHI:	un.
+%ort:	うん.
+*MOT:	orugan tsuita n to chigau.
+%ort:	オルガンついたんとちがう?
+*MOT:	sore hatt(e) aru ka ?
+%ort:	それ はったるか.
+*CHI:	hatt(e) aru.
+%ort:	はったる.
+*MOT:	Kyoochan ‡ dame yo.
+%ort:	恭ちゃんダメよ.
+*MOT:	Kyoochan ‡ dame yo.
+%ort:	恭ちゃんダメよ.
+*MOT:	Kyoochan ‡ nani „ sonna no ?
+%ort:	恭ちゃん, 何, そんなの.
+@G:	page: 820
+*MOT:	ami naoshite kinasai.
+%ort:	網 直してきなさい.
+%com:	ko hochuuami o furimawasu; 子捕虫網をふりまわす
+*MOT:	ouchi no naka de ami nanka tsukootara [: tsukattara] dame yo.
+%ort:	おうちの中で網なんか使うったらダメよ.
+*MOT:	mada naoshitenai no ?
+%ort:	まだ直してないの,
+*MOT:	naoshite kinasai.
+%ort:	直して来なさい.
+*CHI:	hai yo.
+%ort:	はいよ.
+%tim:	12:10
+*MOT:	ohiru nani taberu ?
+%ort:	お昼 何食べる?
+*CHI:	pan.
+%ort:	パン.
+*MOT:	raamen shiyoo ka.
+%ort:	ラーメンしようか.
+*MOT:	pan koote [: katte] kitenai.
+%ort:	パン買うて来てない.
+*MOT:	raamen suki desho.
+%ort:	ラーメン好きでしょ.
+*CHI:	raamen kirai.
+%ort:	ラーメン嫌い.
+*MOT:	raamen ni shit(e) oko(o) .
+%ort:	ラーメンにしとこ.
+*MOT:	ichiba e itta toki koot(e) [: katte] ageru.
+%ort:	市場へ行ったとき買うたげる.
+*CHI:	raamen.
+%ort:	ラーメン.
+*CHI:	juusu choodai.
+%ort:	ジュースちょうだい.
+*MOT:	juusu dame .
+%ort:	ジュース ダメ,
+*MOT:	gohan tabete kara.
+%ort:	ごはん食べてから.
+*CHI:	juusu tte , kore no koto ya de.
+%ort:	ジュースて, これのことやで.
+*CHI:	kore dare no ?
+%ort:	これ誰の.
+*MOT:	ashita no yo .
+%ort:	明日のよ,
+*MOT:	futatsu kiteten [: kiteru ] .
+%ort:	二つきててん.
+*MOT:	reezooko mite goran.
+%ort:	冷倉庫, 見てごらん.
+*MOT:	Kyoochan ‡ nani shiten [: shiteru] no ?
+%ort:	恭ちゃん何してんの.
+*CHI:	kore.
+%ort:	これ.
+*CHI:	kore arooteten [: aratteru] .
+%ort:	これ洗うててん.
+*CHI:	omizu.
+%ort:	お水.
+*MOT:	onaji mizu ya iuteru [: yutteru] desho.
+%ort:	同じ水や言うてるでしょ.
+*CHI:	chotto dake.
+%ort:	ちょっとだけ.
+*MOT:	kakushiteru naa .
+%ort:	隠してるな,
+*MOT:	kashite.
+%ort:	かして.
+*MOT:	ichimai de mo nakunattara naishoku no ojisan okoraharu de.
+%ort:	一枚でもなくなったら内職のおじさんおこらはるで.
+*CHI:	nanimo nai.
+%ort:	何もない.
+*MOT:	usotsuki.
+%ort:	ウソつき.
+*CHI:	okaeri.
+%ort:	お帰り.
+%com:	ani kitaku; 兄 帰宅
+%tim:	12:40
+*MOT:	raamen tabemasho(o).
+%ort:	ラーメン食べましょ.
+*MOT:	itadakimasu.
+%ort:	いただきます.
+*MOT:	naniraamen ka shitteru ?
+%ort:	何ラーメンか知ってる?
+@G:	page: 821
+*CHI:	wantammen.
+%ort:	ワンタンメン.
+*CHI:	eesukokku no wantammen atsuaa [=! singing] . [+ bch]
+%ort:	エースコックのワンタンメン アツアー [歌]
+*MOT:	kitanai wa.
+%ort:	きたないわ.
+*MOT:	Kyoochan ‡ itsumo osoi ne.
+%ort:	恭ちゃんいつも遅いね.
+*MOT:	motto kiree ni taberarehen no , anta ‡ ?
+%ort:	もっときれいに食べられへんの, あんた.
+*MOT:	nokottemasu yo.
+%ort:	残ってますよ.
+*CHI:	gochisoosama.
+%ort:	ごちそうさま.
+*MOT:	hai.
+%ort:	はい.
+*MOT:	Okaasan no taitsu kawaiteru kanaa .
+%ort:	お母さんのタイツ乾いてるかな.
+%com:	hitorigoto; 独言
+@Comment:	ko , atama o utsu; 子, 頭を打つ
+*MOT:	nazet(e) [: nadete] (y)aro(o) ka , hora hoi [/] hoi [/] hoi@i .
+%ort:	なぜたろか, ホラホイホイホイ.
+*MOT:	sora naotta.
+%ort:	そら直った.
+*MOT:	kyoo wa doyoobi ya kara omoshiroi no nai ne „ terebi.
+%ort:	きょうは土曜日やからおもしろいのないね, テレビ.
+*CHI:	kyoo wa uchuu_enjin_gori .
+%ort:	きょうは “宇宙猿人ゴリ”.
+*MOT:	kore , nani desu ka ?
+%ort:	これ, 何ですか?
+%com:	ehon; 絵本
+*CHI:	bisuketto.
+%ort:	ビスケット.
+*MOT:	kore wa.
+%ort:	これは?
+*CHI:	keeki.
+%ort:	ケーキ.
+*MOT:	chigaimasu.
+%ort:	ちがいます.
+*CHI:	hottokeeki.
+%ort:	ホットケーキ.
+*MOT:	soo.
+%ort:	そう.
+*MOT:	omikan yokatta ne .
+%ort:	おみかん良かったね
+*MOT:	Kyooko suki ya mon ne.
+%ort:	恭子, 好きやもんね.
+*CHI:	un suki.
+%ort:	うん, 好き.
+*CHI:	Kyooko sarada suki.
+%ort:	恭子サラダ好き.
+*MOT:	sarada suki na no bijin ni naru no yo.
+%ort:	サラダ好きなの美人になるのよ.
+*MOT:	Kyoochan ichiban suki na mon nani ka ne.
+%ort:	恭ちゃん, 一番好きなもん何かね.
+*CHI:	sarada.
+%ort:	サラダ.
+*CHI:	moo hitotsu aru de .
+%ort:	もう一つあるで,
+*CHI:	pa@k to tsuku mon.
+%ort:	パとつくもん.
+*MOT:	pan.
+%ort:	パン?
+*MOT:	suki na n de mo , chittomo tabehen yanai no.
+%ort:	好きなんでも, ちっとも食べへんやないの.
+*MOT:	hottokeeki desho.
+%ort:	ホットケーキでしょ.
+*CHI:	soo .
+%ort:	そう,
+*CHI:	hottokeeki ya.
+%ort:	ホットケーキや.
+*MOT:	kyoo ofuro donai sho [: shiyoo] .
+%ort:	きょう お風呂, どないしょ.
+*CHI:	kore , itai kara.
+%ort:	これ, 痛いから.
+*MOT:	hairu ka ?
+%ort:	入るか?
+*CHI:	hairu „ ashi kitanai kara.
+%ort:	入る, 足きたないから.
+*MOT:	hairoo ka.
+%ort:	入ろか.
+*MOT:	kyoo Okaasan to haitte kiree ni arait(e) ageru wa ne.
+%ort:	きょうお母さんと入ってきれいに洗たげるわね.
+@G:	page: 822
+*CHI:	hitori de hairu.
+%ort:	ひとりで入る.
+*MOT:	hitori de haittara kiree ni araenai janai.
+%ort:	ひとりで入ったらきれいに洗えないじゃない.
+*MOT:	atama mo arau no ?
+%ort:	頭も洗うの?
+*CHI:	kakette morau dake.
+%ort:	かけてもらうだけ.
+*MOT:	hayo ue e agenasai yo.
+%ort:	はよ上へあげなさいよ.
+%com:	kutsushita; くつ下.
+*MOT:	eq ?
+%ort:	え.
+*CHI:	betabeta ya mon.
+%ort:	ベタベタやもん.
+*MOT:	honnara hakikaenasai.
+%ort:	ほんならはきかえなさい.
+*CHI:	otete ya.
+%ort:	お手々や.
+*MOT:	otete ka.
+%ort:	お手々か.
+*MOT:	ja , tabete kara otete aratte kinasai.
+%ort:	じゃ, 食べてからお手々洗ってきなさい.
+*MOT:	kyoo wa ichigo kaoo ka.
+%ort:	きょうは いちご買おうか.
+*CHI:	&=laugh .
+%ort:	えへへ.
+*MOT:	daisuki ya ne.
+%ort:	大好きやね.
+*CHI:	Oniichan ammari sukan.
+%ort:	お兄ちゃんあんまり好かん.
+*CHI:	chuugaku no hito aru [= iru] [* s] ?
+%ort:	中学の人ある.
+%com:	soto ni iru no i; 外にいるの意
+*MOT:	nani ?
+%ort:	何?
+%tim:	13:30
+*CHI:	chuugaku no hito aru [= iru] [* s] ?
+%ort:	中学の人ある?
+*MOT:	iteru to iu n desho.
+%ort:	いてると言うんでしょ.
+%com:	metalinguistic
+*CHI:	kinoo mo takusan kokoa irete nonden [: nonderu] .
+%ort:	きのうもたくさんココア入れてのんでん.
+*MOT:	eq ?
+%ort:	えっ?
+*CHI:	Oniichan dake ga naa , kokoa nonden [: nonderu] .
+%ort:	お兄ちゃんだけがな, ココア飲んでん.
+*MOT:	karaku naru deshoo .
+%ort:	辛くなるでしょ,
+*MOT:	obuu de tokasan to dame yo.
+%ort:	お湯でとかさんとダメよ.
+*CHI:	mata warusa ya de.
+%ort:	また悪さやで.
+%com:	ani; 兄
+*CHI:	hora mite.
+%ort:	ほら見て.
+*MOT:	doko ni agatten [: agatteru] no.
+%ort:	どこに上がってんの.
+*CHI:	fukuramasu de.
+%ort:	ふくらますで.
+%com:	gamu; ガム
+*MOT:	chichakatta ne.
+%ort:	小ちゃかったね.
+*CHI:	&=laugh .
+%com:	warau; 笑う
+*MOT:	boin@o wa dame yo.
+%ort:	ボインはダメよ.
+%com:	ashi de keru; 足でける
+*CHI:	Kyooko mo kokoa nomu .
+%ort:	恭子もココア飲む.
+*MOT:	nomu ka ?
+%ort:	飲むか.
+*CHI:	iresugi ya.
+%ort:	入れすぎや.
+*CHI:	supuun [/] supuun .
+%ort:	スプーン, スプーン,
+*CHI:	chiichai supuun.
+%ort:	小ちゃいスプーン.
+*MOT:	Kyoochan ‡ mattenasai.
+%ort:	恭ちゃん待ってなさい.
+*MOT:	supuun nanka nondara dame yo.
+%ort:	スプーンなんか飲んだらダメよ.
+@G:	page: 823
+*MOT:	moo atsukunai desho.
+%ort:	もう熱くないでしょ.
+*MOT:	koboreru desho.
+%ort:	こぼれるでしょ.
+*CHI:	koko ni oit(e) okoo .
+%ort:	ここに置いとこ.
+*MOT:	oit(e) okinasai.
+%ort:	置いときなさい.
+*CHI:	a: , oishii.
+%ort:	ああ, おいしい.
+*MOT:	oishii.
+%ort:	おいしい?
+*CHI:	un , oishii.
+%ort:	うん, おいしい.
+*CHI:	aji ga nakunaru wa.
+%ort:	味がなくなるわ.
+*MOT:	un.
+%ort:	うん.
+*MOT:	koocha yori kokoa no hoo ga oishii ne.
+%ort:	紅茶よりココアの方がおいしいネ.
+*CHI:	kuroi ?
+%ort:	黒い?
+*MOT:	gochisoosan.
+%ort:	ごちそうさん.
+*MOT:	konna n mottehan [: motteharu] nen yo .
+%ort:	こんなん持ってはんねんよ,
+%com:	ani no koto; 兄のこと
+*MOT:	kitanarashii.
+%ort:	きたならしい.
+*CHI:	&=laugh .
+%ort:	アハハハ.
+*MOT:	anta kate [: datte] okashii yo „ moo yoochien ikana naran noni.
+%ort:	あんたかておかしいよ, もう幼稚園行かなならんのに.
+*MOT:	makura wa kamahen kedo yubi wa kuwaenasanna [: kuwae nasaruna ] .
+%ort:	枕はかまへんけど指はくわえなさんな.
+*CHI:	koo ka.
+%ort:	こうか.
+%com:	neru mane; 寝る真似
+*CHI:	sonna n iu kara onaka itaku natta.
+%ort:	そんなん言うからおなか痛くなった.
+*MOT:	nani iuten [: yutteru] no .
+%ort:	何言うてんの,
+*MOT:	tabesugi ya.
+%ort:	食べすぎや.
+*MOT:	anta ohirune shitara doo ?
+%ort:	あんたお昼寝したらどう.
+*CHI:	iya.
+%ort:	いや.
+@Comment:	14:10; ani to asobu; 兄と遊ぶ
+*MOT:	nani shiteru no Kyoochan ‡.
+%ort:	何してるの恭ちゃん.
+*MOT:	chanto hakinasai.
+%ort:	ちゃんとはきなさい.
+%com:	kutsushita; くつ下
+*MOT:	chigau no hakikaeru ka ?
+%ort:	ちがうのはきかえるか.
+*CHI:	kono hoo ga ii.
+%ort:	この方がいい.
+*MOT:	juuchanneru tte nani ?
+%ort:	10チャンネルて何?
+*CHI:	ro@k ga tsuku.
+%ort:	ロがつく.
+*CHI:	robakun Kyooko to chau [: chigau] yaro.
+%ort:	ロバくん 恭子とちゃうやろ.
+*MOT:	dare kanaa ?
+%ort:	誰かな.
+*CHI:	Oniichan yaro.
+%ort:	お兄ちゃんやろ.
+*MOT:	kosobai [: kosobayui] wa Kyooko ‡ .
+%ort:	こそばいわ恭子.
+*MOT:	ohirune shiyoo ka.
+%ort:	お昼寝しようか.
+@G:	page: 824
+*MOT:	Okaachan mo issho ni oneechan [= OBS] to ohirune suru ka.
+%ort:	お母ちゃんも一緒に お姉ちゃん [OBS] とお昼寝するか.
+*MOT:	mukoo ofuton motte kite ageru yo „ Kyooko no oshikkobuton.
+%ort:	むこうおふとん持ってきてあげるよ, 恭子のおしっこぶとん.
+*CHI:	oshikko deten [: deteru] no to chigau de.
+%ort:	おしっこ出てんのとちがうで.
+*CHI:	hakushon [/] hakushon.
+%ort:	ハクション, ハクション.
+%com:	mane; 真似
+*MOT:	Kyoochan ‡ kitanai.
+%ort:	恭ちゃんきたない.
+*CHI:	kitara kora@q iutara [: yuttara] ii nen.
+%ort:	きたら コラー言うたらいいねん.
+%com:	inu ; 犬
+*MOT:	jibun yori ookina inu ya noni sonna n dame yo .
+%ort:	自分より大きな犬やのにそんなんダメよ0 .
+*CHI:	Kyooko naa , ojichan toko de Kyooko dake inu no ko tsurete itte
+	mooten [: shimatteru] .
+%ort:	恭子な, おじちゃんとこで恭子だけ犬のこ連れていってもうてん.
+*MOT:	Niichan neteru toki yan.
+%ort:	兄ちゃん寝てるときやん.
+*MOT:	Kyoochan nani naru no „ ookiku nattara.
+%ort:	恭ちゃん何なるの大きくなったら.
+*CHI:	saa ne.
+%ort:	さあね.
+*CHI:	Kyooko wa naa , Kyooko wa naa , buta.
+%ort:	恭子はな, 恭子はな, ブタ.
+*MOT:	oyomesan ni nattara ii nen.
+%ort:	お嫁さんになったらいいねん.
+*CHI:	chau [: chigau] .
+%ort:	ちゃう.
+*CHI:	kuruma kau wa .
+%ort:	車買うわ.
+*CHI:	akai kuruma .
+%ort:	赤い車.
+*MOT:	dare no kuruma ?
+%ort:	誰の車.
+*CHI:	ano(o) ne.
+%ort:	あのね.
+*MOT:	yappari koofun shite nerarehen no ka.
+%ort:	やっぱり興奮して寝られへんのか.
+@Comment:	e o kaite iru; 絵を書いている
+*MOT:	nan ya no „ sore.
+%ort:	何やの, それ.
+*CHI:	kaibutsu.
+%ort:	怪物.
+*CHI:	otete kai [: kayui] no.
+%ort:	お手々かいの.
+%com:	te ga kayui; 手がかゆい
+*MOT:	Kyoochan ‡ jibun no kami ni kakinasai.
+%ort:	恭ちゃん, 自分の紙に描きなさい.
+*MOT:	oshikko shite kinasai „ mojimojimojimoji@o .
+%ort:	おしっこしてきなさい, モジモジモジモジ.
+*MOT:	otete aroota [: aratta] no.
+%ort:	お手々洗うたの?
+*CHI:	mada ya.
+%ort:	まだや.
+*CHI:	hasshohassho@wp hasshoishoi@wp .
+%ort:	はっしょはっしょはっしょいしょい.
+*CHI:	kawa ya „ kore.
+%ort:	皮やこれ.
+%com:	yubi; 指
+*MOT:	un &do doo shita no ?
+%ort:	うん, ど, どうしたの.
+*MOT:	akachin tsuket(e) oide.
+%ort:	赤ちんつけといで.
+*MOT:	moo nareta mon ya.
+%ort:	もう慣れたもんや.
+*CHI:	fuu [/] fuu [/] fuu itai [/] itai.
+%ort:	フーフーフー痛い, 痛い.
+*MOT:	hora [/] hora nani yatten [: yatteru] no.
+%ort:	ほらほら何やってんの.
+@G:	page: 825
+*CHI:	ita: [: itai] .
+%ort:	いたー.
+*MOT:	ichiba e iko(o) ka.
+%ort:	市場へ行こか.
+*CHI:	un , honde oneechan ni nanka kaoo ka.
+%ort:	うん, ほんで お姉ちゃんに何か買おうか.
+*MOT:	Kyoochan ‡.
+%ort:	恭ちゃん!
+*MOT:	kyoo nani o tabeyoo kanaa .
+%ort:	きょう何を食べようかな.
+@Comment:	haha kaimono ni dekakeru; 母買い物にでかける; 16:05
+*MOT:	tadaima.
+%ort:	ただいま.
+*CHI:	oyatsu choodai.
+%ort:	おやつちょうだい.
+*MOT:	oyatsu koote [: katte] kiten kedo Katsumi ga mukoo ni iru kara
+	mukoo ni agete kiten [: kiteru] .
+%ort:	おやつ買うてきてんけどカツミがむこうにいるからむこうにあげてきてん.
+*MOT:	takoyaki kooten [: katteru] .
+%ort:	たこ焼き買うてん,
+*MOT:	chotto shika nai.
+%ort:	ちょっとしかない.
+*CHI:	wakeru yo.
+%ort:	分けるよ.
+*MOT:	un.
+%ort:	うん.
+*MOT:	atta ka ?
+%ort:	あったか?
+*MOT:	hai.
+%ort:	はい.
+%com:	fooku o watasu; フォークを渡す
+*CHI:	irete „ koko ni .
+%ort:	入れて, ここに,
+*CHI:	koko no ibo mo [?] . [+ threex]
+%ort:	ここのいぼも.
+*CHI:	< koko ni mo > [/] koko ni mo.
+%ort:	ここにも, ここにも.
+*CHI:	< osoto e iko(o) > [/] osoto e iko(o) .
+%ort:	お外へ行こ, お外へ行こ.
+*MOT:	abunai toro e ittara dame yo.
+%ort:	危ないとろへ行ったらダメよ.
+*MOT:	moo yuugata ya kara sugu kaennasai [: kaerinasai] ya.
+%ort:	もう夕方やからすぐ帰んなさいや.
+%com:	ushiro kara koe o kakeru; うしろから声をかける
+%tim:	16:50
+*CHI:	tadaima.
+%ort:	ただいま.
+*MOT:	okaeri.
+%ort:	お帰り.
+*MOT:	sawattara dame yo .
+%ort:	さわったらダメよ,
+*MOT:	wareru yo.
+%ort:	割れるよ.
+*MOT:	kore meekaa ga chigotara [: chigattara] hairahen no yaro(o) ka.
+%ort:	これメーカーがちごたら入らへんのやろか.
+*MOT:	nani nonden [: nonderu] no.
+%ort:	何のんでんの.
+*CHI:	omizu.
+%ort:	お水.
+*MOT:	omizu ka ?
+%ort:	お水か.
+*MOT:	waa: naka kara dete kita wa.
+%ort:	ワアアアー中から出てきたわ.
+*MOT:	mata sooji shinaoshi ya.
+%ort:	また掃除しなおしや.
+*MOT:	Kyoochan ‡ otetsudai shite.
+%ort:	恭ちゃんお手伝いして.
+*MOT:	kore mukoo ni motte itte kureru ?
+%ort:	これむこうに持っていってくれる?
+*MOT:	hai , arigato.
+%ort:	はい, ありがと.
+*MOT:	sashikonde , hai.
+%ort:	さしこんで, はい.
+*MOT:	ofuro hairarehen [: hairahen ] no to chigau Kyoochan ‡ ?
+%ort:	お風呂入られへんのとちがう恭ちゃん.
+*CHI:	nande ?
+%ort:	なんで.
+@G:	page: 826
+*MOT:	shiwabuki ga deru kara.
+%ort:	咳が出るから.
+*CHI:	hairu.
+%ort:	入る.
+*CHI:	osoto ga samukatta kara ya.
+%ort:	お外が寒かったからや.
+*MOT:	kyoo wa osoto samui ne.
+%ort:	きょうはお外寒いね.
+*MOT:	un , dore ?
+%ort:	うん, どれ.
+*CHI:	kore.
+%ort:	これ.
+*MOT:	Kyoochan ‡ kaita n ookii hoo ?
+%ort:	恭ちゃん書いたん大きい方?
+*CHI:	soo.
+%ort:	そう.
+*MOT:	oneechan ni ji , oshiete morote [: moratte] joozu ni natta n.
+%ort:	お姉ちゃんに字, 教えてもろて上手になったん.
+*CHI:	ichi .
+%ort:	1.
+*CHI:	ni .
+%ort:	2.
+*CHI:	san .
+%ort:	3.
+*CHI:	yon.
+%ort:	4.
+*CHI:	nijuuichi .
+%ort:	21,
+*CHI:	nijuuroku.
+%ort:	26.
+*MOT:	nijuuichi kara nijuuroku ya no.
+%ort:	21から26やの.
+*MOT:	nani ya no „ kono hachi.
+%ort:	何やのこの8.
+*CHI:	kait(e) (y)aroo ka.
+%ort:	書いたろか.
+*MOT:	joozu ne .
+%ort:	上手ね,
+*MOT:	obachan [//] oneechan to issho ya ne.
+%ort:	おばちゃん, お姉ちゃんと一緒やね.
+*MOT:	otete hantai ya.
+%ort:	お手々反対や.
+*MOT:	koo yatte ne , kurukuru [/] kurukuru.
+%ort:	こうやってね, クルクルクルクル.
+*MOT:	akan .
+%ort:	あかん,
+*MOT:	koo.
+%ort:	こう.
+*CHI:	wakatta yo.
+%ort:	わかったよ.
+*MOT:	chigau yo.
+%ort:	ちがうよ.
+*MOT:	nejin [: nejiru] nen „ koko de.
+%ort:	ねじんねん, ここで.
+%com:	hachi o kaite miseru; 8を書いてみせる
+*MOT:	soo [/] soo.
+%ort:	そうそう.
+*CHI:	&=laugh.
+%ort:	エヘヘン [笑]
+*MOT:	kore joozu yanai no „ roku to shichi.
+%ort:	これ上手やないの, 6と7.
+*MOT:	a , hachi joozu ni kaketa wa.
+%ort:	あ, 8 上手に書けたわ.
+*MOT:	un , Niichan yori joozu ya.
+%ort:	うん, 兄ちゃんより上手や.
+*CHI:	tsugi koko.
+%ort:	次ここ.
+*MOT:	kondo koko.
+%ort:	今度ここ.
+*MOT:	ichi kaite .
+%ort:	1書いて,
+*MOT:	hachi yanashini [: janakute] ichi.
+%ort:	8やなしに1.
+*CHI:	ichi.
+%ort:	1.
+*MOT:	ni wa ?
+%ort:	2は.
+*CHI:	ni ?
+%ort:	2?
+*MOT:	nani „ sore ?
+%ort:	何 それ.
+*CHI:	ni.
+%ort:	2.
+*MOT:	kotchi muku nen yan ka.
+%ort:	こっちむくねんやんか.
+*MOT:	nan ya .
+%ort:	何や
+*MOT:	anta kotchi muke yanai no.
+%ort:	あんたこっちむけやないの.
+*MOT:	soo [/] soo.
+%ort:	そうそう.
+*MOT:	san wa ?
+%ort:	3は.
+@G:	page: 827
+*CHI:	san ?
+%ort:	3?
+*MOT:	hai , yoroshii.
+%ort:	はい, よろしい.
+*MOT:	yon.
+%ort:	4.
+*CHI:	yon ?
+%ort:	4?
+*MOT:	yonchan [: yonchanneru] afutanuun desho.
+%ort:	4チャン, アフタヌーンでしょ.
+%com:	terebi; テレビ
+*MOT:	go.
+%ort:	5.
+*MOT:	te kaetara dame desho.
+%ort:	手かえたらダメでしょ.
+*CHI:	go.
+%ort:	5.
+*MOT:	roku.
+%ort:	6.
+*CHI:	kondo wa ura.
+%ort:	今度は裏.
+*MOT:	mata kaijuu kaiteta n.
+%ort:	また怪獣描いてたん.
+*CHI:	fun.
+%ort:	ふん.
+*MOT:	sankaku wa.
+%ort:	三角は.
+*CHI:	0 .
+%ort:	[返事無し]
+*MOT:	Kyoochan ‡ kutsushita hakikaenasai.
+%ort:	恭ちゃん くつ下はきかえなさい.
+*CHI:	iya.
+%ort:	いや.
+*CHI:	kore kako(o) .
+%ort:	これ書こ.
+*MOT:	Niichan no desho.
+%ort:	兄ちゃんのでしょ.
+*MOT:	Niichan okoraharu yo.
+%ort:	兄ちゃん怒らはるよ.
+*CHI:	ii yan .
+%ort:	いいやん,
+*CHI:	mi:hin mon.
+%ort:	見いひんもん.
+*MOT:	sankaku ka ?
+%ort:	三角か.
+*MOT:	nani ya „ sore wa ?
+%ort:	何やそれは,
+*MOT:	tenkiyohoo ka.
+%ort:	天気予報か.
+*CHI:	u:n.
+%ort:	うううん.
+*MOT:	maamaa onaji kurai no sen ni shitara ii noni.
+%ort:	まあまあ同じ位の線にしたらいいのに.
+*MOT:	futoi no ya .
+%ort:	太いのや,
+*MOT:	hosoi no ya.
+%ort:	細いのや.
+*CHI:	kaite.
+%ort:	かいて.
+*MOT:	kono chooshi yattara hayo neharu naa .
+%ort:	この調子やったら早よ寝はるな.
+*CHI:	ichi.
+%ort:	1.
+*MOT:	soko ni kakoo to omotta n ?
+%ort:	そこに書こうと思ったん?
+*CHI:	un.
+%ort:	うん.
+*CHI:	ni .
+%ort:	2.
+*CHI:	san .
+%ort:	3.
+*CHI:	yon .
+%ort:	4.
+*CHI:	go.
+%ort:	5.
+*CHI:	roku.
+%ort:	6.
+*MOT:	hachi wa ?
+%ort:	8は,
+*MOT:	hachi wasureta n chigau ?
+%ort:	8忘れたんちがう.
+*MOT:	te ga chigau de.
+%ort:	手がちがうで.
+%com:	hidarite ni motte iru; 左手に持っている
+*MOT:	soo.
+%ort:	そう.
+*CHI:	tsugi wa ?
+%ort:	次は.
+*MOT:	kyuu.
+%ort:	9.
+*MOT:	juu.
+%ort:	10.
+@G:	page: 828
+*CHI:	eq.
+%ort:	えっ?
+*MOT:	juuchan [: juuchanneru] .
+%ort:	10チャン.
+*MOT:	hai yoroshii.
+%ort:	はいよろしい.
+*CHI:	motto yaru.
+%ort:	もっとやる.
+*MOT:	onaji no motto kaite gorannasai ne.
+%ort:	同じのもっと書いてごらんなさいね.
+*MOT:	Okaasan ofuro keshite kuru.
+%ort:	お母さん, お風呂消してくる.
+*MOT:	nan ya .
+%ort:	何や
+*MOT:	denki toottehen.
+%ort:	電気通ってへん.
+%com:	kotatsu; コタツ
+*MOT:	Kyoochan ‡ denki tsukete.
+%ort:	恭ちゃん, 電気つけて.
+*MOT:	Okaasan joozu na noni maru tsuket(e) ageyoo ka.
+%ort:	お母さん, 上手なのに丸つけたげようか.
+*MOT:	kore wa chotto chigau ne.
+%ort:	これはちょっとちがうね.
+*CHI:	kore wa ?
+%ort:	これは.
+*MOT:	yoroshii [/] yoroshii.
+%ort:	よろしい, よろしい.
+*CHI:	kore peke tsukete.
+%ort:	これペケつけて.
+%par:	笑う
+*MOT:	peke moote [: moratte] yorokonde itara akan yan ka.
+%ort:	ペケもうて喜んでいたらあかんやんか.
+*MOT:	ja , M „ koko ni.
+%ort:	じゃ, まつうら, ここに.
+%com:	M to iu see o kaite goran no i; まつうらという姓を書いてごらんの意
+*CHI:	koko kara.
+%ort:	ここから.
+*MOT:	un.
+%ort:	うん.
+*CHI:	matte ya.
+%ort:	待ってや.
+*MOT:	a: sore o miten no kai naa .
+%ort:	ああ, それを見てんのかいな.
+*CHI:	empitsu doko e itta ?
+%ort:	エンピツどこへ行った.
+*MOT:	koko ya.
+%ort:	ここや.
+*MOT:	koko kaite aru janai no.
+%ort:	ここ書いてあるじゃないの.
+*CHI:	maru kako(o) .
+%ort:	丸, 書こ.
+*MOT:	peke mitai yanai no „ sono maru.
+%ort:	ペケみたいやないの その丸.
+*MOT:	maru tte maruku kakakan to.
+%ort:	丸って丸く書かかんと.
+*CHI:	Kyooko wa joozu ya .
+%ort:	恭子は上手や,
+*CHI:	mite ya.
+%ort:	見てや.
+*MOT:	un.
+%ort:	うん.
+*MOT:	kutsushita kitanai wa .
+%ort:	くつ下きたないわ,
+*MOT:	agenasai.
+%ort:	あげなさい.
+*MOT:	a: dame yo „ hashittara .
+%ort:	ああ, だめよ走ったら,
+*MOT:	obachan okoraharu.
+%ort:	おばちゃん怒らはる.
+*CHI:	kore mott(e) oite.
+%ort:	これ持っといて.
+*CHI:	kotchi kara yaro.
+%ort:	こっちからやろ.
+*MOT:	nani yo.
+%ort:	何よ.
+*MOT:	itai .
+%ort:	痛い
+*MOT:	itai moo.
+%ort:	痛いもう.
+*CHI:	hai.
+%ort:	はい.
+*CHI:	gutto yari ya.
+%ort:	ぐっとやりや.
+*CHI:	guruguru mawatt(e) oitara mawasen yoo ni yaru de.
+%ort:	ぐるぐる回っといたら回せんようにやるで.
+@G:	page: 829
+*MOT:	itai.
+%ort:	痛い.
+*CHI:	&=laugh.
+%ort:	エヘヘ [笑]
+*MOT:	moo yameta ?
+%ort:	もうやめた.
+*CHI:	moo yarehen kara.
+%ort:	もうやれへんから.
+*MOT:	bokushingu ka.
+%ort:	ボクシングか.
+*CHI:	un.
+%ort:	うん.
+*MOT:	shi: saa.
+%ort:	しいさ.
+*CHI:	&=laugh.
+%ort:	エヘヘヘヘ.
+*CHI:	hayo kondo mott(e) oite.
+%ort:	はよ今度, 持っといて.
+*MOT:	hai , moo yameta.
+%ort:	はい, もうやめた.
+*CHI:	kondo , jibun de.
+%ort:	今度, 自分で.
+*CHI:	ita &=laugh .
+%ort:	いた, あはは.
+*MOT:	a: ochite kuru .
+%ort:	ああ, 落ちてくる,
+*MOT:	akachan dame yo.
+%ort:	赤ちゃんダメよ.
+*MOT:	Otoosan no ocha ya tte.
+%ort:	お父さんのお茶やて.
+*CHI:	kimono ya.
+%ort:	着物や.
+*CHI:	itai.
+%ort:	痛い.
+*MOT:	botan hikakatteru n yanai no „ Okaasan no.
+%ort:	ボタンひかかってるんやないのお母さんの.
+*MOT:	donai sho [: shiyoo] .
+%ort:	どないしょ.
+%tim:	18:10
+*MOT:	Kyoochan ‡ yoo mieru hoo kara tabenasai „ yoo mieru hoo kara.
+%ort:	恭ちゃん よう見える方から食べなさい, よう見える方から.
+*MOT:	terebi yoku mieru hoo kara.
+%ort:	テレビよく見える方から.
+*MOT:	koko yattara yoo mieru yo.
+%ort:	ここやったらよう見えるよ.
+*MOT:	hai.
+%ort:	はい.
+*MOT:	kotchi [/] kotchi .
+%ort:	こっちこっち,
+*MOT:	kotchi de ii no.
+%ort:	こっちでいいの.
+*CHI:	mada:.
+%ort:	まだー.
+*MOT:	iranai no ?
+%ort:	いらないの.
+*MOT:	itadakima:su.
+%ort:	いただきまーす.
+*CHI:	kore ira:n.
+%ort:	これいらーん.
+*MOT:	nani ga iran no ?
+%ort:	何がいらんの.
+*MOT:	konna shite taberu Kyoochan ‡.
+%ort:	こんなして食べる恭ちゃん.
+*MOT:	eq ?
+%ort:	えっ?
+*CHI:	moo iran.
+%ort:	もういらん.
+*MOT:	kashiko [: kashikoku] tabetara ato de ii mono ageru.
+%ort:	かしこ食べたらあとでいいものあげる.
+@Comment:	uta o utau; 歌を歌う
+*CHI:	gochisoosama.
+%ort:	ごちそうさま.
+*MOT:	hai.
+%ort:	はい.
+@G:	page: 830
+*MOT:	mada janai .
+%ort:	まだじゃない,
+*MOT:	gohan tabetenai janai.
+%ort:	ごはん食べてないじゃない.
+*CHI:	u:n.
+%ort:	うーん.
+*MOT:	dooshite ?
+%ort:	どうして.
+*MOT:	zembu tabena akan yo.
+%ort:	全部食べなあかんよ.
+*MOT:	eq ?
+%ort:	えっ?
+*CHI:	ii mono.
+%ort:	いいもの.
+*MOT:	shuukuriimu ne.
+%ort:	シュークリームね.
+*CHI:	doko ?
+%ort:	どこ?
+*MOT:	nande anta taberarehen no.
+%ort:	なんで あんた食べられへんの?
+*MOT:	ne , itsumo gohan tabeteru janai.
+%ort:	ね, いつもごはん食べてるじゃない.
+*MOT:	tamago kaket(e) ageyoo ka ?
+%ort:	卵かけたげようか.
+*MOT:	eq ?
+%ort:	え?
+*MOT:	tamago taberu ?
+%ort:	卵食べる?
+*CHI:	0 .
+%ort:	[返事無し].
+*MOT:	henji shite.
+%ort:	返事して.
+*MOT:	eq ?
+%ort:	えっ?
+*CHI:	kuchi ga itai kara ii yo:.
+%ort:	口がいたいからいいよー.
+*MOT:	kuchi ga itai no ?
+%ort:	口が痛いの?
+*MOT:	sonnara taberarehen.
+%ort:	そんなら食べられへん.
+*MOT:	hitotsu dake tabenasai naa.
+%ort:	一つだけ食べなさいな.
+*MOT:	Kyoochan ‡ tamago kaken [: kakeru] no.
+%ort:	恭ちゃん, 卵かけんの?
+*CHI:	un.
+%ort:	うん.
+*MOT:	honto.
+%ort:	ホント!
+*MOT:	taberareru ne.
+%ort:	食べられるね!
+*MOT:	taben [: taberu] no.
+%ort:	食べんの?
+*CHI:	takusan hayamet(e) oite ya.
+%ort:	たくさんはやめといてや.
+*MOT:	hai [/] hai , sukoshi ni shi toit(e) ageru.
+%ort:	はいはい, 少しにしといたげる.
+*MOT:	hai [/] Kyoochan ‡ hai.
+%ort:	はい恭ちゃん, はい.
+*CHI:	Kyoochan ‡ nihai.
+%ort:	恭ちゃん2杯.
+*MOT:	eq ?
+%ort:	え?
+*CHI:	nihai.
+%ort:	2杯.
+*MOT:	nihai ?
+%ort:	2杯,
+*MOT:	nande nihai ya no ?
+%ort:	なんで2杯やの.
+*MOT:	omizu ?
+%ort:	お水?
+*MOT:	omizu okawari ?
+%ort:	お水お代わり?
+*CHI:	un.
+%ort:	うん.
+*MOT:	arimasu yo .
+%ort:	ありますよ,
+*MOT:	omizu nokotteru yo.
+%ort:	お水残ってるよ.
+*MOT:	Okaasan moo sugu ikimasu yo.
+%ort:	お母さん, もうすぐ行きますよ.
+*MOT:	sassato tabenasai.
+%ort:	さっさと食べなさい.
+@G:	page: 831
+*MOT:	hayaku [/] hayaku.
+%ort:	早く早く.
+*CHI:	Kyooko omizu ya noni.
+%ort:	恭子お水やのに.
+*MOT:	kon [: kore] dake de ii.
+%ort:	こんだけでいい?
+*CHI:	okazu nokoshite ii ?
+%ort:	おかず残していい?
+*MOT:	sonna koto iwan to.
+%ort:	そんなこと言わんと.
+*MOT:	kamaboko iran no ?
+%ort:	かまぼこいらんの?
+*MOT:	kamaboko anta suki ya noni.
+%ort:	かまぼこあんた好きやのに.
+*CHI:	Niichan kirai na no Kyoochan suki de , Kyooko suki na no , Niichan
+	kirai ya.
+%ort:	兄ちゃん嫌いなの, 恭ちゃん好きで, 恭子好きなの, 兄ちゃん嫌いや.
+*CHI:	nande tte „ Kyooko suki ya no ?
+%ort:	なんでって, 恭子好きやの.
+*MOT:	un.
+%ort:	うん.
+*CHI:	kore Niichan suki ya no.
+%ort:	これ兄ちゃん好きやの.
+*MOT:	un.
+%ort:	うん.
+*CHI:	Okaasan ‡ hiyoko mita koto atta kanaa ?
+%ort:	お母さんヒヨコ見たことあったかな.
+*MOT:	hai.
+%ort:	はい.
+*CHI:	hiyoko mita koto aru kedo naa .
+%ort:	ヒヨコ見たことあるけどな.
+*MOT:	hiyoko ?
+%ort:	ヒヨコ?
+*CHI:	un.
+%ort:	うん.
+*MOT:	Obaasan toko de.
+%ort:	おばあさんとこで.
+*CHI:	Kyooko no Obaasan toko de honde Shiki de.
+%ort:	恭子のおばあさんとこで, ほんで志紀で.
+*MOT:	oshikko ?
+%ort:	おしっこ?
+*CHI:	chigau.
+%ort:	ちがう.
+%com:	uta o utau; 歌を歌う
+*CHI:	Okaasan [/] Okaasan ‡ .
+%ort:	お母さん, お母さん,
+*CHI:	Okaasan ‡ tte.
+%ort:	お母さんて.
+*MOT:	hai.
+%ort:	はい.
+*CHI:	gakkoo itteharu hito mada iteharu wa.
+%ort:	学校行ってはる人, まだいてはるわ.
+*MOT:	haitteru yanai no.
+%ort:	入ってるやないの.
+%com:	mizu;
+*CHI:	hambun [* s] [= sambun] no ni.
+%ort:	半分の2.
+*MOT:	“hambun no ni” ?
+%ort:	半分の2?
+*MOT:	sambun no ni desho.
+%ort:	三分の2でしょ.
+*CHI:	un.
+%ort:	うん.
+*CHI:	Okaasa:n ‡ anoo naa < nanji goro > [//] < nanji ni > [//] nanji
+	kaette kuru no .
+%ort:	お母さーん, あのな, 何時頃, 何時に何時頃帰ってくるの.
+*MOT:	ichijikan kurai de .
+%ort:	1時間位で.
+*MOT:	Kyoochan ‡ hayaku .
+%ort:	恭ちゃん早く.
+*MOT:	Okaasan shichiji ni iku kara ne.
+%ort:	お母さん7時に行くからね.
+*CHI:	honde kaeru toki wa , goji ?
+%ort:	ほんで帰るときは, 5時,
+*CHI:	shichiji ?
+%ort:	7時?
+@G:	page: 832
+*MOT:	hachiji koro .
+%ort:	8時頃.
+*MOT:	Otoosan kaerahattara iut(e) [: yutte] oite ne , shuukaisho ni
+	ikahatta tte .
+%ort:	お父さん 帰らはったら言うといてね, 集会所に行かはったて.
+*MOT:	ne , Kyoochan ‡ .
+%ort:	ね, 恭ちゃん.
+*CHI:	un.
+%ort:	うん.
+*CHI:	honde Niichan gohan tabet(e) oko(o) .
+%ort:	ほんで兄ちゃん ごはん食べとこ.
+*MOT:	Kyoochan ‡ gochisoosama ?
+%ort:	恭ちゃん, ごちそうさま?
+*CHI:	gochisoosama.
+%ort:	ごちそうさま.
+*MOT:	sawattara dame yo.
+%ort:	さわったらダメよ.
+*CHI:	urutoraekkusu mitai naa.
+%ort:	ウルトラエックス見たいな.
+*CHI:	kyoo kojiki@u [: kojika] [* s] no bambi aru wa.
+%ort:	きょうこじき[子鹿] のバンビあるわ.
+*MOT:	saa Kyoochan ‡ neru no ?
+%ort:	さ, 恭ちゃん寝るの.
+*CHI:	nani „ kore ?
+%ort:	何, これ?
+*CHI:	shuukuriimu ya.
+%ort:	シュークリームや.
+*MOT:	oneechan no omiyage.
+%ort:	お姉ちゃんのおみやげ.
+*CHI:	Kyooko moo neru.
+%ort:	恭子もう寝る.
+*MOT:	neru ?
+%ort:	寝る.
+*CHI:	kore nani ?
+%ort:	これ何?
+*MOT:	otefuki desho.
+%ort:	お手ふきでしょ.
+*CHI:	kuchi fuku no.
+%ort:	くちふくの.
+*MOT:	itadakimasu.
+%ort:	いただきます.
+*CHI:	itadakima:su.
+%ort:	いただきまーす.
+*CHI:	choko ya „ choko.
+%ort:	チョコやチョコ.
+*MOT:	un.
+%ort:	うん.
+*MOT:	oishii ne.
+%ort:	おいしいね.
+*CHI:	un.
+%ort:	うん.
+*MOT:	moo shichiji ka.
+%ort:	もう7時か.
+*MOT:	otete arawanakya kitanai yo.
+%ort:	お手々洗わなきゃきたないよ0 .
+%tim:	19:00
+*CHI:	otete fuko.
+%ort:	お手々ふこ.
+*CHI:	hee: .
+%ort:	へええ.
+*CHI:	mada tsuiteru.
+%ort:	まだついてる.
+*MOT:	tsuiteruyo .
+%ort:	ついてるよ .
+*CHI:	fantachikku@wp .
+%ort:	ファンタチック.
+*MOT:	Kyoochan wa juusu.
+%ort:	恭ちゃんはジュース.
+*MOT:	soko no wa dame yo Kyoochan ‡.
+%ort:	そこのはだめよ恭ちゃん.
+*MOT:	sore Niichan no.
+%ort:	それ兄ちゃんの.
+*CHI:	roketto tsuiten [: tsuiteru] no.
+%ort:	ロケットついてんの.
+@G:	page: 833
+*MOT:	un.
+%ort:	うん.
+*CHI:	hai , kore akete.
+%ort:	はい, これあけて.
+*MOT:	tsumetakunai ne:.
+%ort:	冷たくないねー.
+*MOT:	moo shichiji ya wa.
+%ort:	もう7時やわ.
+*CHI:	oneechan toko itt(e) oko(o) ka.
+%ort:	お姉ちゃんとこ行っとこか.
+*MOT:	Kyooko ‡ ojichan itetara hazukashii no.
+%ort:	恭子, おじちゃんいてたらはずかしいの.
+*CHI:	Kyooko ne: .
+%ort:	恭子ねえ.
+*MOT:	akan de .
+%ort:	あかんで,
+*MOT:	sugu naku ko wa akan yo.
+%ort:	すぐ泣く子はあかんよ.
+%com:	ani ga sugu naku to itta no de; 兄がすぐ泣くと言ったので
+*MOT:	kyoo kate [: datte] , Mikichan sugu naiteta desho.
+%ort:	きょうかて, ミキちゃんすぐ泣いてたでしょ.
+*CHI:	un.
+%ort:	うん.
+*CHI:	konna yoru iku no , ne: .
+%ort:	こんな夜行くの, ねえ.
+*MOT:	soo.
+%ort:	そう.
+*CHI:	kowai yaro.
+%ort:	こわいやろ.
+*MOT:	kowakunai yo.
+%ort:	こわくないよ.
+*CHI:	nande ?
+%ort:	なんで,
+*CHI:	yuuree ga kuru de.
+%ort:	ゆうれいが来るで.
+*MOT:	denchi motte iku wa.
+%ort:	電池持って行くわ.
+*CHI:	kaijuudentoo@wp [: kaichuudentoo] [* s] ?
+%ort:	カイジュウデントウ?
+%com:	uta o utau; 歌を歌う
+*MOT:	ame.
+%ort:	雨.
+%com:	tenki yohoo; 天気予報
+*CHI:	ashita mo iya ya naa .
+%ort:	明日もいややなー.
+*CHI:	kaii [: kayui] wa.
+%ort:	かいいわ.
+*CHI:	kaite.
+%ort:	かいて.
+*MOT:	yoku kayui hito.
+%ort:	よくかゆい人.
+*MOT:	moo ii no ?
+%ort:	もういいの.
+*CHI:	datte mushi ga ippai kuru mon.
+%ort:	だって虫がいっぱいくるもん.
+*MOT:	hai.
+%ort:	はい.
+*MOT:	moo itte kuru wa ne.
+%ort:	もう行ってくるわね.
+*CHI:	itterasshai.
+%ort:	行ってらっしゃい.
+*MOT:	ittekima:su.
+%ort:	行ってきまーす.
+*MOT:	tadaima.
+%ort:	ただいま.
+*MOT:	Kyooko ‡ katazukete choodai.
+%ort:	恭子 片付けてちょうだい.
+*CHI:	Kyooko no origami [/] origami.
+%ort:	恭子の折紙, 折紙.
+%com:	amaete; 甘えて
+*MOT:	ageta janai no „ hito ni.
+%ort:	あげたじゃないの人に.
+*CHI:	uun.
+%ort:	ウーン.
+@G:	page: 834
+*MOT:	ashita koote [: katte] agemasu.
+%ort:	明日買うてあげます.
+*CHI:	Niichan ni kawant [: kawanaide] oki ya.
+%ort:	兄ちゃんに買わんときや.
+*MOT:	Mikichan to Totchan Hitoshikun to Yumikochan to.
+%ort:	ミキちゃんと とっちゃん ひとし君とゆみ子ちゃんと.
+*CHI:	Yotchan ni wa agetehen nen.
+%ort:	よっちゃんにはあげてへんねん.
+*MOT:	Yotchan , obachan to ouchi de orusuban shitehan [: shiteharu] nen
+	tte.
+%ort:	よっちゃん, おばちゃんとおうちでお留守番してはんねんて.
+*CHI:	a: soo.
+%ort:	あーそう.
+*CHI:	ne: origami.
+%ort:	ねー折紙.
+*MOT:	ichimai morainasai ne.
+%ort:	一枚もらいなさいね.
+%com:	ani kara; 兄から
+*CHI:	kiiro no hoo ga ii.
+%ort:	黄色の方がいい.
+*MOT:	kyoo nanji ni neru no ?
+%ort:	きょう何時に寝るの?
+*CHI:	rokuji.
+%ort:	6時.
+*MOT:	hachijihan ni nenasai.
+%ort:	8時半に寝なさい.
+%com:	ani ga hachijihan ni neru to iu; 兄が8時半に寝ると言う
+*CHI:	Kyooko kore yarakoi [: yawarakai] no.
+%ort:	恭子 これやらこいの.
+%com:	mikan; yawarakai; みかん; やわらかい
+*MOT:	mikan tabete hayo nenasai.
+%ort:	みかん食べて早よ寝なさい.
+*MOT:	oishikunai yo „ kono mikan.
+%ort:	おいしくないよ, このみかん.
+*CHI:	yarakoi [: yawarakai] no .
+%ort:	やらこいの,
+*CHI:	oishi:i.
+%ort:	おいしーい.
+*MOT:	ammari oishikunai desho.
+%ort:	あんまりおいしくないでしょ.
+*CHI:	un.
+%ort:	うん.
+*CHI:	Kyooko no yarakoi [: yawarakai] mon.
+%ort:	恭子のやらこいもん.
+*CHI:	Okaasan no katai ?
+%ort:	お母さんのかたい?
+*MOT:	yarakoi [: yawarakai] yo.
+%ort:	やらこいよ.
+*CHI:	Kyooko mikan motto hoshii.
+%ort:	恭子 みかんもっとほしい.
+*MOT:	ja mitsu zutsu.
+%ort:	じゃ, 3つずつ.
+*CHI:	kore tabete mi „ oishii de.
+%ort:	これ食べてみ, おいしいで.
+*MOT:	amai ne.
+%ort:	甘いね.
+*CHI:	kita „ dareka ?
+%ort:	来た, だれか.
+%com:	genkan no chaimu ga naru; 玄関のチャイムが鳴る
+*MOT:	oneechan ka ?
+%ort:	お姉ちゃんか?
+*CHI:	oneechan ya.
+%ort:	お姉ちゃんや.
+*MOT:	hai , moo kuji ni natta desho.
+%ort:	はい, もう9時になったでしょ.
+*MOT:	Kyoochan ‡ kigaenasai ya.
+%ort:	恭ちゃん, 着がえなさいや.
+*CHI:	Kyooko wa ichiban nemutakunai .
+%ort:	恭子は一番眠たくない0 .
+*MOT:	kuji ni wa mukoo e itte.
+%ort:	9時にはむこうへ行って.
+*MOT:	Kyoochan ‡ nokete.
+%ort:	恭ちゃん のけて.
+@G:	page: 835
+*MOT:	hai , kuji ni naru kara kigaenasai.
+%ort:	はい, 9時になるから着がえなさい.
+*CHI:	kigaeru yo:.
+%ort:	着がえるよー.
+*MOT:	kigaete choodai.
+%ort:	着がえてちょうだい.
+*CHI:	&=sing .
+%com:	kigae nagara uta o utau; 着がえながら歌を歌う
+*MOT:	&=laugh.
+%ort:	うふふ.
+*CHI:	eq?
+%ort:	えっ?
+*CHI:	nani o warooten [: waratteru] no ?
+%ort:	何を笑うてんの.
+*MOT:	okashii no.
+%ort:	おかしいの.
+*MOT:	moo ii kara hayaku nenasai.
+%ort:	もういいから早く寝なさい.
+*CHI:	oshiete.
+%ort:	教えて.
+*CHI:	kore kiree ni shite.
+%ort:	これきれいにして.
+%com:	fuku; 服
+*MOT:	Okaasan wa kuji kara terebi mimasu.
+%ort:	お母さんは9時からテレビ見ます.
+*MOT:	hayaku mukoo e itte kudasai yo.
+%ort:	早くむこうへ行って下さいよ.
+*CHI:	kiree ni shite.
+%ort:	きれいにして.
+*CHI:	kore mo taitsu mo mada ii ?
+%ort:	これもタイツもまだいい?
+*MOT:	taitsu wa mada ii.
+%ort:	タイツはまだいい.
+*MOT:	kore mo yoku yogoshita ne.
+%ort:	これもよくよごしたね.
+*CHI:	shiran &=laugh .
+%ort:	知らん [笑]
+*MOT:	hai doozo.
+%ort:	はいどうぞ.
+*CHI:	kashite.
+%ort:	かして.
+*CHI:	denki tsukete yo:.
+%ort:	電気つけてよー.
+*MOT:	ha migaku no ?
+%ort:	歯みがくの?
+*CHI:	un.
+%ort:	うん.
+*CHI:	Kyooko no.
+%ort:	恭子の.
+*CHI:	Okaasan kate [: datte] hamigaki:.
+%ort:	お母さんかて歯みがきー.
+*CHI:	totte „ kore.
+%ort:	取ってこれ.
+*CHI:	torehen „ Kyooko.
+%ort:	とれへん恭子.
+*CHI:	< hayoo neyoo > [/] hayoo neyoo .
+%ort:	早う寝よー, 早う寝よー.
+*MOT:	oyasumi.
+%ort:	おやすみ.
+*CHI:	denki kesaresen [: kesan] .
+%ort:	電気消されせん.
+*MOT:	hai.
+%ort:	はい.
+*CHI:	oyasumi.
+%ort:	おやすみ.
+*CHI:	kiree.
+%ort:	きれい?
+*MOT:	a: kiree ni natta .
+%ort:	ああ, きれいになった,
+*MOT:	kiree.
+%ort:	きれい.
+%tim:	21:10
+*MOT:	moo mushi ga kuimasen.
+%ort:	もう虫が食いません.
+@End
