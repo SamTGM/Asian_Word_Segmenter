@@ -55,14 +55,14 @@ def tokenize_syllables():
         for a,b in zip(before, list):
             after.append(a+"\t\t"+b)
 
-        for e in after:
-            print(e)
+        # for e in after:
+        #     print(e)
 
 def generate_file():
-    f = open("Tsay.txt","x")
+    f = open("Tsay_gold.txt","w")
     for e in after:
         f.write(e+"\n")
 
 if __name__ == "__main__":
     tokenize_syllables()
-    #generate_file()
+    generate_file()
