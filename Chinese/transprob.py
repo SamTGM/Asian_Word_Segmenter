@@ -97,12 +97,12 @@ def get_segpoints(tokenizeds, probdict):
 
 
 def main():
-    train_utts = data.read_file("Erbaugh_Kang_02_unseg.txt")
+    train_utts = data.read_file("Tsay/Tsay_train_unseg.txt")
     probdict = get_bigramprobdict(train_utts)
 
-    test_utts = data.read_file("Erbaugh_Kang_01_unseg.txt")
-    goldsegs_train = data.get_goldsegs("Erbaugh_Kang_02_gold.txt")
-    goldsegs_test = data.get_goldsegs("Erbaugh_Kang_01_gold.txt")
+    test_utts = data.read_file("Tsay/Tsay_test_unseg.txt")
+    goldsegs_train = data.get_goldsegs("Tsay/Tsay_train_gold.txt")
+    goldsegs_test = data.get_goldsegs("Tsay/Tsay_test_gold.txt")
 
     for utts, goldsegs, title in ((train_utts, goldsegs_train, "Training"), (test_utts, goldsegs_test, "Testing")):
         sylls = [data.tokenize_syllables(utt) for utt in utts]

@@ -1,17 +1,34 @@
-after = []
+import os
+my_dir = os.getcwd()
 
+train_list = []
+test_list = []
 def tokenize_syllables():
-    with open("/Users/SamuelHu/Desktop/Computational_Linguistics_Research/DataCleaner/Chinese/Erbaugh_Kang_02_gold.txt") as data:
-        for lines in data:
+    with open(os.path.join(my_dir,"Tsay/Tsay_train_gold.txt")) as train:
+        for lines in train:
             lines = lines.replace('|','.')
             lines = lines.replace('\n','')
-            after.append(lines)
+            train_list.append(lines)
+    
+    with open(os.path.join(my_dir,"Tsay/Tsay_test_gold.txt")) as test:
+        for lines in test:
+            lines = lines.replace('|','.')
+            lines = lines.replace('\n','')
+            test_list.append(lines)
 
-def generate_file():
-    f = open("Erbaugh_Kang_02_unseg.txt","w")
-    for e in after:
+
+def generate_train_file():
+    f = open("Tsay/Tsay_train_unseg.txt","w")
+    for e in train_list:
         f.write(e+"\n")
+
+
+def generate_test_file():
+    g = open("Tsay/Tsay_test_unseg.txt","w")
+    for e in test_list:
+        g.write(e+"\n")
 
 if __name__ == "__main__":
     tokenize_syllables()
-    generate_file()
+    generate_train_file()
+    generate_test_file()

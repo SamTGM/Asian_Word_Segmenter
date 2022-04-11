@@ -8,8 +8,15 @@ for subdir, dirs, files in os.walk(my_dir):
         with open(os.path.join(subdir,fname), "r", encoding='utf-8', errors='ignore') as fin:
             for line in fin:
                 line.strip()
-                if "%mor:" in line and "&DIM" not in line:
-                    lines.append(line)
+                in_MOT = False
+                for line in fin:
+                    if "*MOT:" in line:
+                        in_MOT = True
+                    elif in_MOT and "%mor:" in line and "&DIM" not in line:
+                        lines.append(line)
+                        in_MOT = False
+                    else:
+                        in_MOT = False
 
 # for e in lines:
 #     print(e)

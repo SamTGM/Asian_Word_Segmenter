@@ -138,12 +138,12 @@ def build_lexicon_recursive(utts):
 
 
 def main():
-    train_utts = data.read_file("Erbaugh_Kang_02_unseg.txt")
+    train_utts = data.read_file("Erbaugh/Erbaugh_train_unseg.txt")
     lexicon = build_lexicon(train_utts[:])
 
-    test_utts = data.read_file("Erbaugh_Kang_01_unseg.txt")
-    goldsegs_train = data.get_goldsegs("Erbaugh_Kang_02_gold.txt")
-    goldsegs_test = data.get_goldsegs("Erbaugh_Kang_01_gold.txt")
+    test_utts = data.read_file("Erbaugh/Erbaugh_test_unseg.txt")
+    goldsegs_train = data.get_goldsegs("Erbaugh/Erbaugh_train_gold.txt")
+    goldsegs_test = data.get_goldsegs("Erbaugh/Erbaugh_test_gold.txt")
 
     for utts, goldsegs, title in ((train_utts, goldsegs_train, "Training"), (test_utts, goldsegs_test, "Testing")):
         joineds, segs = get_segpoints(lexicon, utts)

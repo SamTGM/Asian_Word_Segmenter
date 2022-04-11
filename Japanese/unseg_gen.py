@@ -1,7 +1,7 @@
 import os
 my_dir = os.getcwd()
-train_list = []
 
+train_list = []
 test_list = []
 def tokenize_syllables():
     with open(os.path.join(my_dir,"Okayama/Okayama_train_gold.txt")) as train:

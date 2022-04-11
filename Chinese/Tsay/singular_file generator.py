@@ -1,6 +1,7 @@
 from fileinput import filename
 import os
 lines = []
+exclude = ['xxx','@','[/]','(','<','[','=','+','www']
 my_dir = os.getcwd()
 for subdir, dirs, files in os.walk(my_dir):
     print(subdir,files)
@@ -8,8 +9,15 @@ for subdir, dirs, files in os.walk(my_dir):
         with open(os.path.join(subdir,fname), "r", encoding='utf-8', errors='ignore') as fin:
             for line in fin:
                 line.strip()
-                if "%ort:" in line and "&DIM" not in line:
-                    lines.append(line)
+                in_MOT = False
+                for line in fin:
+                    if "*MOT:" in line:
+                        in_MOT = True
+                    elif in_MOT and "%ort:" in line and "&DIM" not in line and all(elem not in line for elem in exclude):
+                        lines.append(line)
+                        in_MOT = False
+                    else:
+                        in_MOT = False
 
 # for e in lines:
 #     print(e)

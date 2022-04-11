@@ -12,14 +12,10 @@ after = []
 
 
 def tokenize_syllables():
-    infname = os.path.join(my_dir,"Erbaugh/Erbaugh_test.txt")
+    infname = os.path.join(my_dir,"Erbaugh/Erbaugh_train.txt")
     with open(infname, "r") as fin:
-        in_MOT = False
         for line in fin:
-    #        print(line.strip())
-            if "*MOT:" in line:
-                in_MOT = True
-            elif in_MOT and "%mor:" in line and "&DIM" not in line:
+            if "%mor:" in line and "&DIM" not in line:
                 line = line.replace("%mor:\t","")
                 words = line.split()
                 cleanedline = []
@@ -41,12 +37,9 @@ def tokenize_syllables():
 
                 before.append(" ".join(cleanedline))
 
-                in_MOT = False
-
                 list.append("|".join(cleanedline1))
 
-            else:
-                in_MOT = False
+           
 
         for a,b in zip(before, list):
             after.append(a+"\t"+b)
@@ -55,7 +48,7 @@ def tokenize_syllables():
         #     print(e)
 
 def generate_file():
-    f = open("Erbaugh/Erbaugh_test_gold.txt","x")
+    f = open("Erbaugh/Erbaugh_train_gold.txt","w")
     for e in after:
         f.write(e+"\n")
 
