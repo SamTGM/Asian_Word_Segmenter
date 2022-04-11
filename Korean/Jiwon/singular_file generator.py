@@ -7,11 +7,19 @@ for subdir, dirs, files in os.walk(my_dir):
         with open(os.path.join(os.getcwd(),fname), "r", encoding='utf-8', errors='ignore') as fin:
             for line in fin:
                 line.strip()
-                lines.append(line)
+                if line.startswith("*MOT"):
+                    lines.append(line)
 
 # for e in lines:
 #     print(e)
-f = open("Jiwon.txt","x")
-for e in lines:
+f = open("Jiwon_train.txt","w")
+g = open("Jiwon_test.txt","w")
+
+eighty = (int)(len(lines)*0.8)
+
+for e in lines[:eighty]:
     f.write(e+"")
+
+for e in lines[eighty:]:
+    g.write(e+"")
 

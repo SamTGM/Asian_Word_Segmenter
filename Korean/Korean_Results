@@ -1,0 +1,46 @@
+[JIWON BASELINE]
+Training
+P: 33.17	R: 100.0		F1: 49.82
+
+Testing
+P: 33.79	R: 100.0		F1: 50.51
+
+
+[JIWON TRANSPROB]
+Training
+P: 73.78        R: 53.1         F1: 61.75
+
+Testing
+P: 74.3         R: 52.55         F1: 61.56
+
+*********************************************
+[RYU BASELINE]
+Training
+P: 35.23	R: 100.0		F1: 52.1
+
+Testing
+P: 33.48	R: 100.0		F1: 50.16
+
+
+[RYU TRANSPROB]
+Training
+P: 72.02        R: 60.04                F1: 65.48
+
+Testing
+P: 72.82        R: 62.33                F1: 67.17
+
+*********************************************
+[KO BASELINE]
+Training
+P: 34.79	R: 100.0		F1: 51.62
+
+Testing
+P: 35.5	R: 100.0		F1: 52.4
+
+
+[KO TRANSPROB]
+Training
+P: 75.38        R: 54.94                F1: 63.56
+
+Testing
+P: 73.64        R: 49.05                F1: 58.89

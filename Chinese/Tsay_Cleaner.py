@@ -3,6 +3,9 @@ import numbers
 from operator import indexOf
 import string
 import re
+import os
+
+my_dir = os.getcwd()
 
 list= []
 before = []
@@ -10,7 +13,7 @@ after = []
 
 
 def tokenize_syllables():
-    infname = "/Users/SamuelHu/Desktop/Computational_Linguistics_Research/DataCleaner/Chinese/Tsay/CEY/020127.cha"
+    infname = os.path.join(my_dir,"Tsay/Tsay_train.txt")
     with open(infname, "r") as fin:
         in_MOT = False
         for line in fin:
@@ -59,7 +62,7 @@ def tokenize_syllables():
         #     print(e)
 
 def generate_file():
-    f = open("Tsay_gold.txt","w")
+    f = open("Tsay/Tsay_gold.txt","w")
     for e in after:
         f.write(e+"\n")
 

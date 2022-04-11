@@ -8,11 +8,18 @@ for subdir, dirs, files in os.walk(my_dir):
         with open(os.path.join(subdir,fname), "r", encoding='utf-8', errors='ignore') as fin:
             for line in fin:
                 line.strip()
-                lines.append(line)
+                if "%mor:" in line and "&DIM" not in line:
+                    lines.append(line)
 
 # for e in lines:
 #     print(e)
-f = open("Erbaugh.txt","x")
-for e in lines:
+f = open("Erbaugh_train.txt","w")
+g = open("Erbaugh_test.txt","w")
+
+eighty = (int)(len(lines)*0.8)
+for e in lines[:eighty]:
     f.write(e+"")
+
+for e in lines[eighty:]:
+    g.write(e+"")
 

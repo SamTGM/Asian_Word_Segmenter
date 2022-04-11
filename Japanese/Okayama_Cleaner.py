@@ -6,7 +6,7 @@ after = []
 pindex = -1;
 vowel = ['a','e','i','o','u','A','E','I','O','U']
 def tokenize_syllables():
-    with open("/Users/SamuelHu/Desktop/Computational_Linguistics_Research/DataCleaner/Japanese/Okayama/Okayama.txt") as data:
+    with open("/Users/SamuelHu/Desktop/Computational_Linguistics_Research/DataCleaner/Japanese/Okayama/Okayama_train.txt") as data:
         for lines in data:
             # if 'wanwan' not in lines:
             #     continue
@@ -51,42 +51,42 @@ def tokenize_syllables():
                         if index < len(lines)-1 and lines[index+1]=='|':
                             lines = lines[:index-1]+lines[index:]
                             index -=1
-                            print("found1")
+                            #print("found1")
                             continue
                         elif index == len(lines)-1:
                             lines = lines[:index-1]+lines[index:]
-                            print("found2")
+                            #print("found2")
                             continue
                         elif (lines[index+1] not in vowel):
                             #print(lines[index]+ lines[index+1])
                             lines = lines[:index-1]+lines[index]+'.'+lines[index+1:]
-                            print("found3")
+                            #print("found3")
                             continue
                     # print(index,n, lines[index-1:index+2], lines)
                     # print(lines[-1])
                     index +=1
                  
                 list.append(lines)
-                print("something")
+                #print("something")
                 
                 
 
         for a,b in zip(before, list):
             after.append(a+"\t"+b)
 
-        for e in after:
-            print(e)
+        # for e in after:
+        #     print(e)
     #print(list)
         
 
 def generate_file():
-    f = open("Okayama_gold.txt","w")
+    f = open("Okayama_train_gold.txt","w")
     for e in after:
         f.write(e+"\n")
 
 if __name__ == "__main__":
     tokenize_syllables()
-    #generate_file();
+    generate_file();
 
 #Satchan tabesashite ageru kara hayaku tabenasai	Sa.tchan|ta.be.sa.shi.te|a.ge.ru|ka.ra|ha.ya.ku|ta.be.na.sa.i
 #dakara Okaasan itta desho tabete wa ikemasen to	da.ka.ra|O.kaa.san|i.tta|de.sho|ta.be.te|wa|i.ke.ma.se.n|to

@@ -1,9 +1,10 @@
-from cmath import pi
-from distutils.command.clean import clean
 import numbers
 from operator import indexOf
 import string
 import re
+import os
+
+my_dir = os.getcwd()
 
 list= []
 before = []
@@ -11,7 +12,7 @@ after = []
 
 
 def tokenize_syllables():
-    infname = "/Users/SamuelHu/Desktop/Computational_Linguistics_Research/DataCleaner/Chinese/Erbaugh/Kang/02.cha"
+    infname = os.path.join(my_dir,"Erbaugh/Erbaugh_test.txt")
     with open(infname, "r") as fin:
         in_MOT = False
         for line in fin:
@@ -48,13 +49,13 @@ def tokenize_syllables():
                 in_MOT = False
 
         for a,b in zip(before, list):
-            after.append(a+"\t\t"+b)
+            after.append(a+"\t"+b)
 
         # for e in after:
         #     print(e)
 
 def generate_file():
-    f = open("Erbaugh_Kang_02_gold.txt","x")
+    f = open("Erbaugh/Erbaugh_test_gold.txt","x")
     for e in after:
         f.write(e+"\n")
 

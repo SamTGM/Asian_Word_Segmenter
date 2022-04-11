@@ -1,11 +1,14 @@
 import string
+import os
+
+my_dir = os.getcwd()
 
 list= []
 before = []
 after = []
-pindex = -1;
+pindex = -1
 def tokenize_syllables():
-    with open("/Users/SamuelHu/Desktop/Computational_Linguistics_Research/DataCleaner/Korean/Raw Dataset/Ryu/Jong/010308.cha") as data:
+    with open(os.path.join(my_dir,"Ryu/Ryu_train.txt")) as data:
         for lines in data:
             if lines.startswith("*MOT") and lines.find('[/]') == -1:
                 lines = lines.replace("*MOT:\t","")
@@ -25,7 +28,7 @@ def tokenize_syllables():
             after.append(a+"\t"+b)
 
 def generate_file():
-    f = open("Ryu_Jong_010308_gold.txt","w")
+    f = open("Ryu/Ryu_train_gold.txt","w")
     for e in after:
         f.write(e+"\n")
 
