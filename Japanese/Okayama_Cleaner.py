@@ -5,6 +5,8 @@ before = []
 after = []
 pindex = -1;
 vowel = ['a','e','i','o','u','A','E','I','O','U']
+#lowercase all te capital letters
+
 def tokenize_syllables():
     with open("/Users/SamuelHu/Desktop/Computational_Linguistics_Research/DataCleaner/Japanese/Okayama/Okayama_train.txt") as data:
         for lines in data:
@@ -80,7 +82,7 @@ def tokenize_syllables():
         
 
 def generate_file():
-    f = open("Okayama_train_gold.txt","w")
+    f = open("Okayama/Okayama_train_gold.txt","w")
     for e in after:
         f.write(e+"\n")
 

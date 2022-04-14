@@ -1,3 +1,4 @@
+from math import remainder
 import data
 import re
 
@@ -8,6 +9,7 @@ def build_lexicon(utts):
         # Subtraction loop
         remainder = utt
         while remainder:
+            print(utt, remainder)
             # Get all the possible subtractions
             matchedwords = set()
             syllindices = [i for i, syllseg in enumerate(remainder) if syllseg == "."]
@@ -74,15 +76,28 @@ def get_bestmatch(matchedwords, lexicon):
                If two words are tied for best score, return the one with the fewest syllables"""
     # Instructor solved this in 16 lines including the return
 
-    max = ""
-    first = list(matchedwords)[0]
-    for words in matchedwords:
-        if words in lexicon.keys():
-            if lexicon.get(words)>lexicon.get(first):
-                max = words
-            elif lexicon.get(words)==lexicon.get(first):
-                max = words if words.count('.')<max.count('.') else first
-    return max
+    # max = ""
+    # first = list(matchedwords)[0]
+    # for words in matchedwords:
+    #     if words in lexicon.keys():
+    #         if lexicon.get(words)>lexicon.get(first):
+    #             max = words
+    #         elif lexicon.get(words)==lexicon.get(first):
+    #             max = words if words.count('.')<max.count('.') else first
+    # return max
+
+    bestscore = 0
+    bestword = ""
+    for word in matchedwords:
+        score  = lexicon[word]
+        if score > bestscore:
+            bestscore = score
+            bestword = word
+        elif score == bestscore:
+            if len(word.split(".")) < len(bestword.split(".")):
+                bestscore = score
+                bestword = word
+    return bestword
 
 
 
@@ -106,8 +121,12 @@ def subtract(beststartword, utt):
     return:
         (str): utterance with beststartword removed from the beginning. Remove any extra period or space from the ends"""
     # Instructor solved this in 3 lines including the return
-    new = re.sub("^"+beststartword+" . ", "",utt) if beststartword != utt else re.sub("^"+beststartword, "",utt)
-    return new
+    #new = re.sub("^"+beststartword+" . ", "",utt)# if beststartword != utt else re.sub("^"+beststartword, "",utt)
+    #return new
+
+    remove_rx = re.compile(r"^"+beststartword)
+    remainder = remove_rx.sub("", utt)
+    return remainder.strip()[1:].strip()
 
 
 def get_segpoints(lexicon, utts):
@@ -139,7 +158,9 @@ def build_lexicon_recursive(utts):
 
 def main():
     train_utts = data.read_file("Erbaugh/Erbaugh_train_unseg.txt")
+    print("before building")
     lexicon = build_lexicon(train_utts[:])
+    print("finished building")
 
     test_utts = data.read_file("Erbaugh/Erbaugh_test_unseg.txt")
     goldsegs_train = data.get_goldsegs("Erbaugh/Erbaugh_train_gold.txt")

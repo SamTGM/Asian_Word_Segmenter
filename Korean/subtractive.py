@@ -74,16 +74,29 @@ def get_bestmatch(matchedwords, lexicon):
                If two words are tied for best score, return the one with the fewest syllables"""
     # Instructor solved this in 16 lines including the return
 
-    max = ""
-    first = list(matchedwords)[0]
-    for words in matchedwords:
-        if words in lexicon.keys():
-            #print(words)
-            if lexicon.get(words)>lexicon.get(first):
-                max = words
-            elif lexicon.get(words)==lexicon.get(first):
-                max = words if words.count('.')<max.count('.') else first
-    return max
+    # max = ""
+    # first = list(matchedwords)[0]
+    # for words in matchedwords:
+    #     if words in lexicon.keys():
+    #         #print(words)
+    #         if lexicon.get(words)>lexicon.get(first):
+    #             max = words
+    #         elif lexicon.get(words)==lexicon.get(first):
+    #             max = words if words.count('.')<max.count('.') else first
+    # return max
+
+    bestscore = 0
+    bestword = ""
+    for word in matchedwords:
+        score  = lexicon[word]
+        if score > bestscore:
+            bestscore = score
+            bestword = word
+        elif score == bestscore:
+            if len(word.split(".")) < len(bestword.split(".")):
+                bestscore = score
+                bestword = word
+    return bestword
 
 
 
@@ -95,9 +108,12 @@ def update_lexicon(lexicon, word):
     return:
        (none): lexicon is updated by reference"""
     # Instructor solved this in 3 lines including the return
-    lexicon.update({word:lexicon.get(word)+1}) if word in lexicon.keys() else lexicon.update({word:1})
-    return 
+    # lexicon.update({word:lexicon.get(word)+1}) if word in lexicon.keys() else lexicon.update({word:1})
+    # return 
 
+    if word not in lexicon:
+        lexicon[word] = 0
+    lexicon[word] +=1
 
 def subtract(beststartword, utt):
     """Removes word from beginning of utterance. Returns the remainder. Remember to remove any extra periods or whitespace from the ends
@@ -107,8 +123,10 @@ def subtract(beststartword, utt):
     return:
         (str): utterance with beststartword removed from the beginning. Remove any extra period or space from the ends"""
     # Instructor solved this in 3 lines including the return
-    new = re.sub("^"+beststartword+" . ", "",utt) if beststartword != utt else re.sub("^"+beststartword, "",utt)
-    return new
+    print(beststartword)
+    remove_rx = re.compile(r"^"+beststartword)
+    remainder = remove_rx.sub("", utt)
+    return remainder.strip()[1:].strip()
 
 
 def get_segpoints(lexicon, utts):
@@ -140,14 +158,14 @@ def build_lexicon_recursive(utts):
 
 
 def main():
-    train_utts = data.read_file("Jiwon_020020_unseg.txt")
-    print("144")
-    lexicon = build_lexicon(train_utts[:]) # <- ERROR HAPPEN HERE
-    print("146")
+    train_utts = data.read_file("Jiwon/Jiwon_train_unseg.txt")
+    print("before building")
+    lexicon = build_lexicon(train_utts[:])
+    print("finished building")
 
-    test_utts = data.read_file("Erbaugh_Kang_01_unseg.txt")
-    goldsegs_train = data.get_goldsegs("Jiwon_020020_gold.txt")
-    goldsegs_test = data.get_goldsegs("Erbaugh_Kang_01_gold.txt")
+    test_utts = data.read_file("Jiwon/Jiwon_test_unseg.txt")
+    goldsegs_train = data.get_goldsegs("Jiwon/Jiwon_train_gold.txt")
+    goldsegs_test = data.get_goldsegs("Jiwon/Jiwon_test_gold.txt")
 
     for utts, goldsegs, title in ((train_utts, goldsegs_train, "Training"), (test_utts, goldsegs_test, "Testing")):
         joineds, segs = get_segpoints(lexicon, utts)
