@@ -113,7 +113,7 @@ def subtract(beststartword, utt):
     return:
         (str): utterance with beststartword removed from the beginning. Remove any extra period or space from the ends"""
     # Instructor solved this in 3 lines including the return
-    print(beststartword)
+    #print(beststartword)
     remove_rx = re.compile(r"^"+beststartword)
     remainder = remove_rx.sub("", utt)
     return remainder.strip()[1:].strip()
@@ -148,9 +148,9 @@ def build_lexicon_recursive(utts):
 
 def main():
     train_utts = data.read_file("Okayama/Okayama_train_unseg.txt")
-    print("before building")
+    #print("before building")
     lexicon = build_lexicon(train_utts[:])
-    print("finished building")
+    #print("finished building")
 
     test_utts = data.read_file("Okayama/Okayama_test_unseg.txt")
     goldsegs_train = data.get_goldsegs("Okayama/Okayama_train_gold.txt")

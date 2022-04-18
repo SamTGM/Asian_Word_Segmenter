@@ -9,7 +9,7 @@ def build_lexicon(utts):
         # Subtraction loop
         remainder = utt
         while remainder:
-            print(utt, remainder)
+            # print(utt, remainder)
             # Get all the possible subtractions
             matchedwords = set()
             syllindices = [i for i, syllseg in enumerate(remainder) if syllseg == "."]
@@ -157,14 +157,14 @@ def build_lexicon_recursive(utts):
 
 
 def main():
-    train_utts = data.read_file("Erbaugh/Erbaugh_train_unseg.txt")
+    train_utts = data.read_file("Tsay/Tsay_train_unseg.txt")
     print("before building")
     lexicon = build_lexicon(train_utts[:])
     print("finished building")
 
-    test_utts = data.read_file("Erbaugh/Erbaugh_test_unseg.txt")
-    goldsegs_train = data.get_goldsegs("Erbaugh/Erbaugh_train_gold.txt")
-    goldsegs_test = data.get_goldsegs("Erbaugh/Erbaugh_test_gold.txt")
+    test_utts = data.read_file("Tsay/Tsay_test_unseg.txt")
+    goldsegs_train = data.get_goldsegs("Tsay/Tsay_train_gold.txt")
+    goldsegs_test = data.get_goldsegs("Tsay/Tsay_test_gold.txt")
 
     for utts, goldsegs, title in ((train_utts, goldsegs_train, "Training"), (test_utts, goldsegs_test, "Testing")):
         joineds, segs = get_segpoints(lexicon, utts)

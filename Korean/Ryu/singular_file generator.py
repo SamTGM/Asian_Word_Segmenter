@@ -8,7 +8,7 @@ for subdir, dirs, files in os.walk(my_dir):
         with open(os.path.join(subdir,fname), "r", encoding='utf-8', errors='ignore') as fin:
             for line in fin:
                 line.strip()
-                if line.startswith("*MOT") and line.find('[/]') == -1:
+                if line.startswith("*MOT") and line.find('[/]') == -1 and line.find('(') == -1:
                     lines.append(line)
 
 # for e in lines:

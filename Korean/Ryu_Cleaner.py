@@ -26,11 +26,15 @@ def tokenize_syllables():
 
         for a,b in zip(before, list):
             after.append(a+"\t"+b)
+        
+        # for e in after:
+        #     print(e)
 
 def generate_file():
     f = open("Ryu/Ryu_train_gold.txt","w")
     for e in after:
-        f.write(e+"\n")
+        if e.strip():
+            f.write(e+"\n")
 
 if __name__ == "__main__":
     tokenize_syllables()

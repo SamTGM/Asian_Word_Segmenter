@@ -2,7 +2,7 @@ from fileinput import filename
 import os
 import string
 lines = []
-exclude = ['ads','@','[/]','(','x','<','[','=', "'"]
+exclude = ['ads','@','[/]','(','x','<','[','=', "'", '{']
 alpha = string.ascii_lowercase
 punc = '''!-{};:'"\./?@#$%^&*_~'''
 my_dir = os.getcwd()

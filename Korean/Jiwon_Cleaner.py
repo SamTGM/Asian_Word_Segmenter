@@ -8,7 +8,7 @@ before = []
 after = []
 pindex = -1
 def tokenize_syllables():
-    with open(os.path.join(my_dir,"Jiwon/Jiwon_train.txt")) as data:
+    with open(os.path.join(my_dir,"Jiwon/Jiwon_test.txt")) as data:
         for lines in data:
             if lines.startswith("*MOT"):
                 lines = lines.replace("*MOT:\t","")
@@ -31,7 +31,7 @@ def tokenize_syllables():
         
 
 def generate_file():
-    f = open("Jiwon/Jiwon_train_gold.txt","w")
+    f = open("Jiwon/Jiwon_test_gold.txt","w")
     for e in after:
         f.write(e+"\n")
 

@@ -14,16 +14,16 @@ def baseline_segs(tokenizeds):
     return list
 
 def main():
-    train_utts = data.read_file("Ko/Ko_train_unseg.txt")
+    train_utts = data.read_file("Korean_train_unseg.txt")
     train_tokenized = [data.tokenize_syllables(utt) for utt in train_utts]
     baselinesegs_train = baseline_segs(train_tokenized)
  
-    test_utts = data.read_file("Ko/Ko_test_unseg.txt")
+    test_utts = data.read_file("Korean_test_unseg.txt")
     test_tokenized = [data.tokenize_syllables(utt) for utt in test_utts]
     baselinesegs_test = baseline_segs(test_tokenized)
 
-    goldsegs_train = data.get_goldsegs("Ko/Ko_train_gold.txt")
-    goldsegs_test = data.get_goldsegs("Ko/Ko_test_gold.txt")
+    goldsegs_train = data.get_goldsegs("Korean_train_gold.txt")
+    goldsegs_test = data.get_goldsegs("Korean_test_gold.txt")
 
     for basesegs, goldsegs, title in ((baselinesegs_train, goldsegs_train, "Training"), (baselinesegs_test, goldsegs_test, "Testing")):
         stats = data.evaluate(goldsegs, basesegs)

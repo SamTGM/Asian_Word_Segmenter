@@ -5,6 +5,8 @@ before = []
 after = []
 pindex = -1;
 vowel = ['a','e','i','o','u','A','E','I','O','U']
+numbers = ['0','1','2','3','4','5','6','7','8','9']
+exclude = '''-{};'"\/@#$%^&_~+'''
 #lowercase all te capital letters
 
 def tokenize_syllables():
@@ -12,7 +14,8 @@ def tokenize_syllables():
         for lines in data:
             # if 'wanwan' not in lines:
             #     continue
-            if lines.startswith("*MOT:") and lines.find('[/]') == -1 and lines.find('[+') == -1 and lines.find('(') == -1 and lines.find('[:') == -1 and lines.find('[?]') == -1 and lines.find('@') == -1:
+            actual = lines[lines.find(':')+1:]
+            if lines.startswith("*MOT:") and lines.find('[/]') == -1 and lines.find('[+') == -1 and lines.find('(') == -1 and lines.find('[:') == -1 and lines.find('[?]') == -1 and lines.find('@') == -1 and actual.find(':') == -1 and all(elem not in lines for elem in numbers) and all(elem not in lines for elem in exclude):
                 lines = lines.replace("*MOT:\t","")
                 lines = lines.replace(' \u2021 ',' ')
                 lines = lines.replace('mb','nb')
@@ -29,7 +32,7 @@ def tokenize_syllables():
                 lines = lines[:pindex]
                 lines = lines[:lines.find(':')]
                 
-        
+                lines = lines.lower()
                 before.append(lines)
 
                 lines = lines.strip()
@@ -68,7 +71,7 @@ def tokenize_syllables():
                     # print(lines[-1])
                     index +=1
                  
-                list.append(lines)
+                list.append(lines.lower())
                 #print("something")
                 
                 
@@ -95,3 +98,6 @@ if __name__ == "__main__":
 #wanwan ga oru naa	wan.wa.n|ga|o.ru|naa
 #Oneechan konna kiree no motte haru no	O.nee.chan|ko.nna|ki.ree|no|mo.tte|ha.ru|no
 #Fukuchan Obaachan ni moota no to Oneechan ni itta no	Fu.ku.chan|O.baa.cha.n|ni|moo.ta|no|to|O.nee.cha.n|ni|i.tta|no
+
+
+#gakkoo iken de	ga.kkoo|i.ken|de
