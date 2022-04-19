@@ -967,7 +967,6 @@ moo ikemasen	moo|i.ke.ma.sen
 dore o	do.re|o
 chiisasugite komaru desho	chii.sa.su.gi.te|ko.ma.ru|de.sho
 supuun de tabenya naran yoo ni natta deshoo ga ne	su.puun|de|ta.ben.ya|na.ran|yoo|ni|na.tta|de.shoo|ga|ne
-スプーンで食べにゃならんようになったでしょうが	スプーンで食べにゃならんようになったでしょうが
 pan tabeta ko ni agemasu	pan|ta.be.ta|ko|ni|a.ge.ma.su
 ikko zenbu desu	i.kko|zen.bu|de.su
 zenbu tabetara kikashite agemasu	zen.bu|ta.be.ta.ra|ki.ka.shi.te|a.ge.ma.su
@@ -5907,7 +5906,6 @@ ohayoo junchan	o.ha.yoo|jun.chan
 nenne shinasai	nen.ne|shi.na.sa.i
 guzuguzu ni nuretoru	gu.zu.gu.zu|ni|nu.re.to.ru
 kono ko wa aho ya naa	ko.no|ko|wa|a.ho|ya|naa
-ゆうべ 夜店で何を買った	ゆうべ|夜店で何を買った
 jitto shitorinasai	ji.tto|shi.to.ri.na.sa.i
 sonna tsurigata to chigau	son.na|tsu.ri.ga.ta|to|chi.ga.u
 pan o tabenasai	pan|o|ta.be.na.sa.i
@@ -8015,7 +8013,6 @@ kyoo wa dare to asobu no	kyoo|wa|da.re|to|a.so.bu|no
 ouchi de asobu no	o.u.chi|de|a.so.bu|no
 saki ochawan motte	sa.ki|o.cha.wan|mo.tte
 sonna mon bakari tabetetara gohan taberen yoo ni naru no	son.na|mon|ba.ka.ri|ta.be.te.ta.ra|go.han|ta.be.ren|yoo|ni|na.ru|no
-そんなもんばかり食べてたら御飯食べれんようになる	そんなもんばかり食べてたら御飯食べれんようになる
 hayaku ochawan mochinasai	ha.ya.ku|o.cha.wan|mo.chi.na.sa.i
 toshihikochan	to.shi.hi.ko.chan
 kore kirai	ko.re|ki.ra.i
@@ -9567,7 +9564,6 @@ ara kondo wa ichiban joozu ni kaketa wa ne	a.ra|kon.do|wa|i.chi.ban|joo.zu|ni|ka
 saa kaite gorannasai	saa|ka.i.te|go.ran.na.sa.i
 kore nan tte iu ji	ko.re|nan|tte|i.u|ji
 fuun	fuun
-ふーん	ふーん
 oneechan ga kita toki doo shita no	o.nee.chan|ga|ki.ta|to.ki|doo|shi.ta|no
 itsu nani shi ni kita no	i.tsu|na.ni|shi|ni|ki.ta|no
 ano toki akai gohan tabeta ne	a.no|to.ki|a.ka.i|go.han|ta.be.ta|ne
@@ -11348,10 +11344,6 @@ wanko no esa yatte kuru wa naa okaachan	wan.ko|no|e.sa|ya.tte|ku.ru|wa|naa|o.kaa
 shima no toko made naa	shi.ma|no|to.ko|ma.de|naa
 un	un
 pa	pa
-犬のことは何やったかな うちの	犬のことは何やったかな|うちの
-そ	そ
-ウオッチマン言うねん	ウオッチマン言うねん
-何やらのことギョウザいうたやん	何やらのことギョウザいうたやん
 joozai no koto ya naa	joo.za.i|no|ko.to|ya|naa
 soo	soo
 kyoo yumichan kite yatta n	kyoo|yu.mi.chan|ki.te|ya.tta|n
@@ -18317,7 +18309,6 @@ moo ikemasen	moo|i.ke.ma.sen
 dore o	do.re|o
 chiisasugite komaru desho	chii.sa.su.gi.te|ko.ma.ru|de.sho
 supuun de tabenya naran yoo ni natta deshoo ga ne	su.puun|de|ta.ben.ya|na.ran|yoo|ni|na.tta|de.shoo|ga|ne
-スプーンで食べにゃならんようになったでしょうが	スプーンで食べにゃならんようになったでしょうが
 pan tabeta ko ni agemasu	pan|ta.be.ta|ko|ni|a.ge.ma.su
 ikko zenbu desu	i.kko|zen.bu|de.su
 zenbu tabetara kikashite agemasu	zen.bu|ta.be.ta.ra|ki.ka.shi.te|a.ge.ma.su
@@ -23257,7 +23248,6 @@ ohayoo junchan	o.ha.yoo|jun.chan
 nenne shinasai	nen.ne|shi.na.sa.i
 guzuguzu ni nuretoru	gu.zu.gu.zu|ni|nu.re.to.ru
 kono ko wa aho ya naa	ko.no|ko|wa|a.ho|ya|naa
-ゆうべ 夜店で何を買った	ゆうべ|夜店で何を買った
 jitto shitorinasai	ji.tto|shi.to.ri.na.sa.i
 sonna tsurigata to chigau	son.na|tsu.ri.ga.ta|to|chi.ga.u
 pan o tabenasai	pan|o|ta.be.na.sa.i
@@ -25365,7 +25355,6 @@ kyoo wa dare to asobu no	kyoo|wa|da.re|to|a.so.bu|no
 ouchi de asobu no	o.u.chi|de|a.so.bu|no
 saki ochawan motte	sa.ki|o.cha.wan|mo.tte
 sonna mon bakari tabetetara gohan taberen yoo ni naru no	son.na|mon|ba.ka.ri|ta.be.te.ta.ra|go.han|ta.be.ren|yoo|ni|na.ru|no
-そんなもんばかり食べてたら御飯食べれんようになる	そんなもんばかり食べてたら御飯食べれんようになる
 hayaku ochawan mochinasai	ha.ya.ku|o.cha.wan|mo.chi.na.sa.i
 toshihikochan	to.shi.hi.ko.chan
 kore kirai	ko.re|ki.ra.i
@@ -26917,7 +26906,6 @@ ara kondo wa ichiban joozu ni kaketa wa ne	a.ra|kon.do|wa|i.chi.ban|joo.zu|ni|ka
 saa kaite gorannasai	saa|ka.i.te|go.ran.na.sa.i
 kore nan tte iu ji	ko.re|nan|tte|i.u|ji
 fuun	fuun
-ふーん	ふーん
 oneechan ga kita toki doo shita no	o.nee.chan|ga|ki.ta|to.ki|doo|shi.ta|no
 itsu nani shi ni kita no	i.tsu|na.ni|shi|ni|ki.ta|no
 ano toki akai gohan tabeta ne	a.no|to.ki|a.ka.i|go.han|ta.be.ta|ne
@@ -28698,10 +28686,6 @@ wanko no esa yatte kuru wa naa okaachan	wan.ko|no|e.sa|ya.tte|ku.ru|wa|naa|o.kaa
 shima no toko made naa	shi.ma|no|to.ko|ma.de|naa
 un	un
 pa	pa
-犬のことは何やったかな うちの	犬のことは何やったかな|うちの
-そ	そ
-ウオッチマン言うねん	ウオッチマン言うねん
-何やらのことギョウザいうたやん	何やらのことギョウザいうたやん
 joozai no koto ya naa	joo.za.i|no|ko.to|ya|naa
 soo	soo
 kyoo yumichan kite yatta n	kyoo|yu.mi.chan|ki.te|ya.tta|n
@@ -35667,7 +35651,6 @@ moo ikemasen	moo|i.ke.ma.sen
 dore o	do.re|o
 chiisasugite komaru desho	chii.sa.su.gi.te|ko.ma.ru|de.sho
 supuun de tabenya naran yoo ni natta deshoo ga ne	su.puun|de|ta.ben.ya|na.ran|yoo|ni|na.tta|de.shoo|ga|ne
-スプーンで食べにゃならんようになったでしょうが	スプーンで食べにゃならんようになったでしょうが
 pan tabeta ko ni agemasu	pan|ta.be.ta|ko|ni|a.ge.ma.su
 ikko zenbu desu	i.kko|zen.bu|de.su
 zenbu tabetara kikashite agemasu	zen.bu|ta.be.ta.ra|ki.ka.shi.te|a.ge.ma.su
@@ -40607,7 +40590,6 @@ ohayoo junchan	o.ha.yoo|jun.chan
 nenne shinasai	nen.ne|shi.na.sa.i
 guzuguzu ni nuretoru	gu.zu.gu.zu|ni|nu.re.to.ru
 kono ko wa aho ya naa	ko.no|ko|wa|a.ho|ya|naa
-ゆうべ 夜店で何を買った	ゆうべ|夜店で何を買った
 jitto shitorinasai	ji.tto|shi.to.ri.na.sa.i
 sonna tsurigata to chigau	son.na|tsu.ri.ga.ta|to|chi.ga.u
 pan o tabenasai	pan|o|ta.be.na.sa.i
@@ -42715,7 +42697,6 @@ kyoo wa dare to asobu no	kyoo|wa|da.re|to|a.so.bu|no
 ouchi de asobu no	o.u.chi|de|a.so.bu|no
 saki ochawan motte	sa.ki|o.cha.wan|mo.tte
 sonna mon bakari tabetetara gohan taberen yoo ni naru no	son.na|mon|ba.ka.ri|ta.be.te.ta.ra|go.han|ta.be.ren|yoo|ni|na.ru|no
-そんなもんばかり食べてたら御飯食べれんようになる	そんなもんばかり食べてたら御飯食べれんようになる
 hayaku ochawan mochinasai	ha.ya.ku|o.cha.wan|mo.chi.na.sa.i
 toshihikochan	to.shi.hi.ko.chan
 kore kirai	ko.re|ki.ra.i
@@ -44267,7 +44248,6 @@ ara kondo wa ichiban joozu ni kaketa wa ne	a.ra|kon.do|wa|i.chi.ban|joo.zu|ni|ka
 saa kaite gorannasai	saa|ka.i.te|go.ran.na.sa.i
 kore nan tte iu ji	ko.re|nan|tte|i.u|ji
 fuun	fuun
-ふーん	ふーん
 oneechan ga kita toki doo shita no	o.nee.chan|ga|ki.ta|to.ki|doo|shi.ta|no
 itsu nani shi ni kita no	i.tsu|na.ni|shi|ni|ki.ta|no
 ano toki akai gohan tabeta ne	a.no|to.ki|a.ka.i|go.han|ta.be.ta|ne

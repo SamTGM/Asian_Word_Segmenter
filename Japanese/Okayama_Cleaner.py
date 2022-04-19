@@ -7,6 +7,7 @@ pindex = -1;
 vowel = ['a','e','i','o','u','A','E','I','O','U']
 numbers = ['0','1','2','3','4','5','6','7','8','9']
 exclude = '''-{};'"\/@#$%^&_~+'''
+jap = '犬のことは何やったかなうちの犬そやウオッチマン言うねんな何やらのことギョウザいうたやんか'
 #lowercase all te capital letters
 
 def tokenize_syllables():
@@ -15,7 +16,7 @@ def tokenize_syllables():
             # if 'wanwan' not in lines:
             #     continue
             actual = lines[lines.find(':')+1:]
-            if lines.startswith("*MOT:") and lines.find('[/]') == -1 and lines.find('[+') == -1 and lines.find('(') == -1 and lines.find('[:') == -1 and lines.find('[?]') == -1 and lines.find('@') == -1 and actual.find(':') == -1 and all(elem not in lines for elem in numbers) and all(elem not in lines for elem in exclude):
+            if lines.startswith("*MOT:") and lines.find('[/]') == -1 and lines.find('[+') == -1 and lines.find('(') == -1 and lines.find('[:') == -1 and lines.find('[?]') == -1 and lines.find('@') == -1 and actual.find(':') == -1 and all(elem not in lines for elem in numbers) and all(elem not in lines for elem in exclude) and all(elem not in lines for elem in jap):
                 lines = lines.replace("*MOT:\t","")
                 lines = lines.replace(' \u2021 ',' ')
                 lines = lines.replace('mb','nb')
@@ -101,3 +102,9 @@ if __name__ == "__main__":
 
 
 #gakkoo iken de	ga.kkoo|i.ken|de
+#ウオッチマン言うねん
+
+#犬のことは何やったかな , うちの犬.
+#そや.
+#ウオッチマン言うねんな.
+# 何やらのことギョウザいうたやんか.
