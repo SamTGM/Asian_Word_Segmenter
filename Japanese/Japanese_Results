@@ -12,3 +12,27 @@ P: 60.23        R: 39.63        F1: 47.8
 
 Testing
 P: 60.5         R: 39.35        F1: 47.69
+
+
+**NEW**
+
+Computer-2:Japanese SamuelHu$ python3 subtractive.py 
+Training
+P: 39.52        R: 95.85                F1: 55.96
+
+Testing
+P: 39.86        R: 95.51                F1: 56.25
+
+Computer-2:Japanese SamuelHu$ python3 transprob.py
+Training
+P: 59.44        R: 39.09                F1: 47.16
+
+Testing
+P: 59.75        R: 38.69                F1: 46.96
+
+Baseline
+Training
+P: 38.96	R: 100.0		F1: 56.07
+
+Testing
+P: 39.26	R: 100.0		F1: 56.38
