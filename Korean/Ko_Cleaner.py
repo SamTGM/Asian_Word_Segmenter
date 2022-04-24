@@ -6,7 +6,7 @@ after = []
 pindex = -1
 exclude = ['ads','@','[/]','(','x','<','[','=']
 alpha = string.ascii_lowercase + string.ascii_uppercase
-punc = '''!-{};:'"\./?@#$%^&*_~'''
+punc = '''!-{};:'"\./?@#$?%^&_~�'''
 def tokenize_syllables():
     with open("/Users/SamuelHu/Desktop/Computational_Linguistics_Research/DataCleaner/Korean/Ko/Ko_train.txt") as data:
         for lines in data:

@@ -10,11 +10,12 @@ my_dir = os.getcwd()
 list= []
 before = []
 after = []
+exclude = '''-{};()[]<>„'"\/@#$?,^&_~+‡'''
 
 
 
 def tokenize_syllables():
-    infname = os.path.join(my_dir,"Tsay/Tsay_test.txt")
+    infname = os.path.join(my_dir,"Tsay/Tsay_train.txt")
     with open(infname, "r") as fin:
         for line in fin:
             if "%ort:" in line and "&DIM" not in line:
@@ -37,7 +38,7 @@ def tokenize_syllables():
                             #print(basewordform)
                             continue
                     cleanedline.append(basewordform)
-                    basewordform = re.sub(r"([1234])",r"\1.",basewordform).replace(" ",".")
+                    basewordform = re.sub(r"([01234])",r"\1.",basewordform).replace(" ",".")
                     if basewordform[-1] == '.':
                         basewordform = basewordform[:-1]
                     basewordform = basewordform.replace(".|","|")
@@ -55,7 +56,7 @@ def tokenize_syllables():
         #     print(e)
 
 def generate_file():
-    f = open("Tsay/Tsay_test_gold.txt","w")
+    f = open("Tsay/Tsay_train_gold.txt","w")
     for e in after:
         if e.strip():
             f.write(e+"\n")

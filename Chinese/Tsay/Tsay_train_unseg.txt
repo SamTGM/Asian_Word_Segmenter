@@ -175,7 +175,7 @@ cit4 siang1 siunn1 se3 siang1	cit4.siang1.siunn1.se3.siang1
 li2	li2
 li2	li2
 khong1khong1	khong1.khong1
-he1 tan2le0 cin1ciann3 li2 kok0loh8khi3	he1.tan2.le0.cin1.ciann3.li2.kok0loh8khi3
+he1 tan2le0 cin1ciann3 li2 kok0loh8khi3	he1.tan2.le0.cin1.ciann3.li2.kok0.loh8khi3
 li2 beh4 pang3sai2	li2.beh4.pang3.sai2
 kin2	kin2
 pang3ho2	pang3.ho2
@@ -1152,7 +1152,7 @@ pin1nng5	pin1.nng5
 ce1	ce1
 hia1	hia1
 li2 kong2 hia1 ah4bi5bi5	li2.kong2.hia1.ah4.bi5bi5
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
 kha1tah8chia1	kha1.tah8chia1
 kha1tah8chia1	kha1.tah8chia1
 siann2mih8	siann2.mih8
@@ -1251,7 +1251,7 @@ kuah4 chau2	kuah4.chau2
 kuah4 chau2	kuah4.chau2
 i1 bat4	i1.bat4
 he1	he1
-a1pu0e0 hia1 a1pu0	a1.pu0e0.hia1.a1.pu0
+a1pu0e0 hia1 a1pu0	a1.pu0.e0.hia1.a1.pu0
 ho2	ho2
 beh4bo5	beh4.bo5
 beh4	beh4
@@ -1568,9 +1568,9 @@ ce1 siann2mih8	ce1.siann2.mih8
 ian1tang5kong2	ian1.tang5kong2
 ce1	ce1
 li2 kong2 a1i5 tam3 cia1 ho2	li2.kong2.a1.i5.tam3.cia1.ho2
-kok0ke1	kok0ke1
+kok0ke1	kok0.ke1
 kong2	kong2
-khah4 a1i5 khi3 khuann3 kok0ke1 ho2	khah4.a1.i5.khi3.khuann3.kok0ke1.ho2
+khah4 a1i5 khi3 khuann3 kok0ke1 ho2	khah4.a1.i5.khi3.khuann3.kok0.ke1.ho2
 cit4 ciah4 siann2mih8	cit4.ciah4.siann2.mih8
 cit4 ciah4 siann2mih8	cit4.ciah4.siann2.mih8
 sai1	sai1
@@ -1641,10 +1641,10 @@ ce1 siann2mih8	ce1.siann2.mih8
 hun2ciau2	hun2.ciau2
 he1	he1
 a1kong1 li2 kong2	a1.kong1.li2.kong2
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
 ah4bi5bi5	ah4.bi5bi5
 ah4bi5bi5	ah4.bi5bi5
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
 be7sai2 jip8khi3	be7sai2.jip8khi3
 a1i5 li2 chat4 kue3 li2 be7ki3cit4	a1.i5.li2.chat4.kue3.li2.be7ki3.cit4
 siann2mih8 sik4	siann2.mih8.sik4
@@ -1730,8 +1730,8 @@ he1 kak4	he1.kak4
 kak4	kak4
 chiunn1ge5	chiunn1.ge5
 he1 chiunn1ge5	he1.chiunn1.ge5
-kok0kok0ke1	kok0kok0ke1
-kok0kok0ke1 ai3 sann2	kok0kok0ke1.ai3.sann2
+kok0kok0ke1	kok0.kok0.ke1
+kok0kok0ke1 ai3 sann2	kok0.kok0.ke1.ai3.sann2
 kha1ciah4phiann1	kha1.ciah4.phiann1
 hue2ke1	hue2.ke1
 li2 kio3 hue2ke1 a1i5 thiann1	li2.kio3.hue2.ke1.a1.i5.thiann1
@@ -2059,7 +2059,7 @@ cim2a2 cau2khi3 tueh4	cim2.a2.cau2.khi3.tueh4
 tueh4 cau2khi3 cau3kha1	tueh4.cau2.khi3.cau3.kha1
 cim2a2 cai1 pue1khi3 tueh4	cim2.a2.cai1.pue1.khi3.tueh4
 thau5a2 pue1chut4lai5	thau5a2.pue1.chut4.lai5
-phok0phok0thiau3	phok0phok0thiau3
+phok0phok0thiau3	phok0.phok0.thiau3
 siann2mih8	siann2.mih8
 thiau3khi3 a1ma2 tau1 chenn1chau1	thiau3.khi3.a1.ma2.tau1.chenn1.chau1
 thiau3khi3 a1ma2 tau1 chenn1chau1	thiau3.khi3.a1.ma2.tau1.chenn1.chau1
@@ -2244,7 +2244,7 @@ ai3	ai3
 se2 kah4 cok4 huann1hi2	se2.kah4.cok4.huann1.hi2
 ce1 siann2mih8	ce1.siann2.mih8
 ce1 siann2mih8	ce1.siann2.mih8
-kok0ke1	kok0ke1
+kok0ke1	kok0.ke1
 ce1 ku1	ce1.ku1
 ku1	ku1
 li2 khuann3	li2.khuann3
@@ -2509,8 +2509,8 @@ ce1	ce1
 ce1	ce1
 niau1mi1	niau1.mi1
 cit4 ciah4	cit4.ciah4
-kok0kok0ke1	kok0kok0ke1
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
+kok0kok0ke1	kok0.kok0.ke1
 u7kau3 sui2	u7kau3.sui2
 ce1 siann2mih8	ce1.siann2.mih8
 ce1 hue1	ce1.hue1
@@ -2649,8 +2649,8 @@ li2 kong2 ping2chia1	li2.kong2.ping2.chia1
 ping2chia1	ping2.chia1
 ping2chia1	ping2.chia1
 he1 sann2	he1.sann2
-kok0kok0ke1	kok0kok0ke1
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
+kok0kok0ke1	kok0.kok0.ke1
 chiu2	chiu2
 chiu2	chiu2
 chiu2	chiu2
@@ -2675,8 +2675,8 @@ i1 giu2khi2lai5	i1.giu2.khi2.lai5
 kin1cio1	kin1.cio1
 li2 kong2 kin1cio1	li2.kong2.kin1.cio1
 ce1 sann2	ce1.sann2
-kok0kok0ke1	kok0kok0ke1
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
+kok0kok0ke1	kok0.kok0.ke1
 ce1 sann2	ce1.sann2
 li2 khoo3 tueh4	li2.khoo3.tueh4
 hia1	hia1
@@ -2917,8 +2917,8 @@ khoo1khoo1	khoo1.khoo1
 khoo1khoo1	khoo1.khoo1
 khoo1khoo1	khoo1.khoo1
 khoo1khoo1	khoo1.khoo1
-kok0kok0ke1	kok0kok0ke1
-a1ma2 kok0kok0ke1	a1.ma2.kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
+a1ma2 kok0kok0ke1	a1.ma2.kok0.kok0.ke1
 li2 niau1mi1	li2.niau1.mi1
 pau1	pau1
 hia1	hia1
@@ -2989,18 +2989,18 @@ ce1 ho2ciah8	ce1.ho2.ciah8
 ho2ciah8	ho2.ciah8
 kue1	kue1
 si1kue1	si1.kue1
-kok0kok0ke1	kok0kok0ke1
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
+kok0kok0ke1	kok0.kok0.ke1
 tueh4	tueh4
 hia1	hia1
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
 khi3 kio3 a1ma2	khi3.kio3.a1.ma2
 ho2	ho2
 ho2	ho2
 a1ma2 hia1 ho2	a1.ma2.hia1.ho2
 m7bian2 koo3	m7bian2.koo3
-gua2 khuann3 cia1 kok0kok0ke1	gua2.khuann3.cia1.kok0kok0ke1
-cia1 kok0ke1	cia1.kok0ke1
+gua2 khuann3 cia1 kok0kok0ke1	gua2.khuann3.cia1.kok0.kok0.ke1
+cia1 kok0ke1	cia1.kok0.ke1
 ce1 sann2	ce1.sann2
 e7hiau2 chiunn3	e7hiau2.chiunn3
 kin2	kin2
@@ -3112,14 +3112,14 @@ he1	he1
 ce1	ce1
 cia1	cia1
 ce1 sann2	ce1.sann2
-kok0kok0ke1	kok0kok0ke1
-kok0kok0ke1	kok0kok0ke1
-kok0kok0ke1	kok0kok0ke1
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
+kok0kok0ke1	kok0.kok0.ke1
+kok0kok0ke1	kok0.kok0.ke1
+kok0kok0ke1	kok0.kok0.ke1
 hia1	hia1
-a1ma2 kok0kok0ke1	a1.ma2.kok0kok0ke1
+a1ma2 kok0kok0ke1	a1.ma2.kok0.kok0.ke1
 tueh4	tueh4
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
 cia1	cia1
 ce1 sann2	ce1.sann2
 ce1	ce1
@@ -3522,12 +3522,12 @@ long2 phah4	long2.phah4
 khoo3	khoo3
 kiann1kiann1	kiann1.kiann1
 li2 khoo3	li2.khoo3
-a1ma2 kok0kok0ke1	a1.ma2.kok0kok0ke1
+a1ma2 kok0kok0ke1	a1.ma2.kok0.kok0.ke1
 a1ma2 ciah4	a1.ma2.ciah4
 ciah4	ciah4
 a1ma2 liah8khi3	a1.ma2.liah8khi3
 a1ma2 liah8khi3	a1.ma2.liah8khi3
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
 a1ma2 liah8khi3	a1.ma2.liah8khi3
 ke1bah4	ke1.bah4
 li2 ke1bah4	li2.ke1.bah4
@@ -3780,7 +3780,7 @@ ka7lue3	ka7lue3
 cau2	cau2
 cau2	cau2
 khuann3 koh4 kann2 phah4	khuann3.koh4.kann2.phah4
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
 siunn1 phainn2	siunn1.phainn2
 beh4 sann2	beh4.sann2
 a1ki5	a1.ki5
@@ -4041,7 +4041,7 @@ a1po5 li2	a1.po5.li2
 ce1 sann2	ce1.sann2
 thau5khak4 ting2	thau5khak4.ting2
 liah8khi2lai5 cu2cu2 ho2	liah8khi2.lai5.cu2.cu2.ho2
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
 ah4bi5bi5	ah4.bi5bi5
 ce1 hia1 it4tit8	ce1.hia1.it4.tit8
 li2	li2
@@ -4050,7 +4050,7 @@ ko1ko1	ko1.ko1
 li2	li2
 a2be7	a2.be7
 kau2 tueh4	kau2.tueh4
-kok0kok0ke1 li2 tok4	kok0kok0ke1.li2.tok4
+kok0kok0ke1 li2 tok4	kok0.kok0.ke1.li2.tok4
 he1 siann2	he1.siann2
 li2	li2
 he1 sann2	he1.sann2
@@ -4086,10 +4086,10 @@ a1ma2	a1.ma2
 khi3 tueh4	khi3.tueh4
 a1m2 in1 tau1 cing3	a1.m2.in1.tau1.cing3
 a1lin2	a1.lin2
-ko1ko1 khok0khok0be2	ko1.ko1.khok0khok0be2
+ko1ko1 khok0khok0be2	ko1.ko1.khok0.khok0.be2
 ko1ko1	ko1.ko1
 cit8pah4 khoo1	cit8pah4.khoo1
-khok0be2	khok0be2
+khok0be2	khok0.be2
 thak8cheh4	thak8cheh4
 khi3	khi3
 i1 kong2 thiann3	i1.kong2.thiann3
@@ -4158,9 +4158,9 @@ ah4bi5bi5	ah4.bi5bi5
 ah4bi5bi5e0 tueh4	ah4.bi5bi5e0.tueh4
 he1 sann2	he1.sann2
 he1 sann2	he1.sann2
-kok0kok0ke1	kok0kok0ke1
-kok0kok0ke1 kiann2 ah4bi5bi5	kok0kok0ke1.kiann2.ah4.bi5bi5
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
+kok0kok0ke1 kiann2 ah4bi5bi5	kok0.kok0.ke1.kiann2.ah4.bi5bi5
+kok0kok0ke1	kok0.kok0.ke1
 ciah4 ciah4	ciah4.ciah4
 ciau2	ciau2
 ce1 siann2	ce1.siann2
@@ -4179,7 +4179,7 @@ ai3sui2	ai3.sui2
 li2 cau2khi3 tueh4 sng2	li2.cau2.khi3.tueh4.sng2
 cia1 in1 tau1	cia1.in1.tau1
 he1	he1
-chau3me0koh0	chau3.me0koh0
+chau3me0koh0	chau3.me0.koh0
 ko1ko1	ko1.ko1
 ko1ko1	ko1.ko1
 ko1ko1	ko1.ko1
@@ -4225,7 +4225,7 @@ ciah8pa2	ciah8pa2
 gun2 beh4	gun2.beh4
 tang5a2bi2ko1	tang5a2.bi2.ko1
 sann2mih8	sann2.mih8
-khok0khok0be2be2	khok0khok0be2.be2
+khok0khok0be2be2	khok0.khok0.be2.be2
 he1 king2chat4	he1.king2.chat4
 a1ping1ko1	a1.ping1.ko1
 king2chat4	king2.chat4
@@ -4634,7 +4634,7 @@ ce1 siann2mih	ce1.siann2.mih
 li2 ce1 siann2mih	li2.ce1.siann2.mih
 li2 ce1 siann2mih	li2.ce1.siann2.mih
 an3ne1	an3.ne1
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
 cia1	cia1
 a1i5	a1.i5
 cia1 koh4	cia1.koh4
@@ -4675,7 +4675,7 @@ cit4 ciah4 siann2mih	cit4.ciah4.siann2.mih
 li2 kiann1 siann2mih	li2.kiann1.siann2.mih
 ce1	ce1
 ce1	ce1
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
 cia1	cia1
 theh8khi3	theh8khi3
 li2 khuann3	li2.khuann3
@@ -4938,9 +4938,9 @@ kiann1kiann1	kiann1.kiann1
 li2 kiann1kiann1	li2.kiann1.kiann1
 li2 kiann1 ui3 tueh4 khi3	li2.kiann1.ui3.tueh4.khi3
 li2 khuann3tioh8 niau1mi1	li2.khuann3.tioh8.niau1.mi1
-kok0kok0ke1 tueh4	kok0kok0ke1.tueh4
-kok0kok0ke1	kok0kok0ke1
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1 tueh4	kok0.kok0.ke1.tueh4
+kok0kok0ke1	kok0.kok0.ke1
+kok0kok0ke1	kok0.kok0.ke1
 siann2mih8	siann2.mih8
 khuann3tioh8 sann2mih8	khuann3.tioh8.sann2.mih8
 cau2chut4lai5	cau2.chut4.lai5
@@ -4956,8 +4956,8 @@ kuainn1khi2lai5	kuainn1.khi2.lai5
 niau1mi1 koh4 cau2chut4lai5	niau1.mi1.koh4.cau2.chut4.lai5
 cau2chut4lai5	cau2.chut4.lai5
 mai3 phah4	mai3.phah4
-oo1mi0ma0	oo1.mi0ma0
-oo1mi0ma0 khi3	oo1.mi0ma0.khi3
+oo1mi0ma0	oo1.mi0.ma0
+oo1mi0ma0 khi3	oo1.mi0.ma0.khi3
 tan2le0 hit4 te3 khi3 li2 phah4loh8lai5	tan2.le0.hit4.te3.khi3.li2.phah4.loh8lai5
 mai3 khuann3	mai3.khuann3
 mai3 khuann3 niau1mi1	mai3.khuann3.niau1.mi1
@@ -4967,7 +4967,7 @@ beh4 koh4 lok4lue3	beh4.koh4.lok4.lue3
 koh4 lok4lue3 ho2	koh4.lok4.lue3.ho2
 niau1mi1	niau1.mi1
 i1 khi3 tueh4	i1.khi3.tueh4
-li2 khuann3 li2 chiu2 oo1mi0ma0	li2.khuann3.li2.chiu2.oo1.mi0ma0
+li2 khuann3 li2 chiu2 oo1mi0ma0	li2.khuann3.li2.chiu2.oo1.mi0.ma0
 beh4 siu1 uann2	beh4.siu1.uann2
 ce1	ce1
 ce1	ce1
@@ -4993,8 +4993,8 @@ suh4kong2	suh4.kong2
 suh4kong2	suh4.kong2
 an3nua2	an3.nua2
 an3nua2	an3.nua2
-oo1mi0ma0	oo1.mi0ma0
-li2 oo1mi0ma0	li2.oo1.mi0ma0
+oo1mi0ma0	oo1.mi0.ma0
+li2 oo1mi0ma0	li2.oo1.mi0.ma0
 beh4 an3cuann2	beh4.an3.cuann2
 li2 koh4	li2.koh4
 khuann3mai7	khuann3.mai7
@@ -5327,7 +5327,7 @@ li2 be7sai2 hiah4	li2.be7sai2.hiah4
 siann2mih8	siann2.mih8
 li2 i1 kah4 an3ne1	li2.i1.kah4.an3.ne1
 gua2 koh4lai5	gua2.koh4.lai5
-li2 khuann3 he1 oo1mi0ma0	li2.khuann3.he1.oo1.mi0ma0
+li2 khuann3 he1 oo1mi0ma0	li2.khuann3.he1.oo1.mi0.ma0
 koh4	koh4
 li2 beh4 siann2mih8	li2.beh4.siann2.mih8
 li2 kio3 a1i5 lim1	li2.kio3.a1.i5.lim1
@@ -5664,7 +5664,7 @@ li2 khuann3	li2.khuann3
 li2 khuann3	li2.khuann3
 li2 khuann3	li2.khuann3
 he1 sann2mih8	he1.sann2.mih8
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
 cia1 koh4	cia1.koh4
 ki1 i1	ki1.i1
 ki1 cioh4 i1 sng2	ki1.cioh4.i1.sng2
@@ -5689,7 +5689,7 @@ cai1	cai1
 li2 khuann3mai7	li2.khuann3.mai7
 li2 ka1ti7	li2.ka1.ti7
 li2 kong2	li2.kong2
-khok0khi2lai5	khok0khi2.lai5
+khok0khi2lai5	khok0.khi2.lai5
 li2 ce1 long2 ai3 liau2	li2.ce1.long2.ai3.liau2
 a2be7	a2.be7
 be7sai2 an3ne1	be7sai2.an3.ne1
@@ -5825,7 +5825,7 @@ li2 chong3 siann2	li2.chong3.siann2
 cia1	cia1
 khuann3mai7 sui2	khuann3.mai7.sui2
 he1 be7sai2	he1.be7sai2
-he1 oo1mi0ma0	he1.oo1.mi0ma0
+he1 oo1mi0ma0	he1.oo1.mi0.ma0
 be7sai2 cai1	be7sai2.cai1
 li2 chiu2	li2.chiu2
 li2 chiu2	li2.chiu2
@@ -8162,7 +8162,7 @@ ho2	ho2
 ah4bo5 li2 khah4 ho2thiann1	ah4.bo5.li2.khah4.ho2.thiann1
 hia1	hia1
 li2 kong2 he1 siann2	li2.kong2.he1.siann2
-kok0ke1	kok0ke1
+kok0ke1	kok0.ke1
 tian7hong1	tian7hong1
 hong1	hong1
 cit4 ciah4	cit4.ciah4
@@ -8448,7 +8448,7 @@ cit4 siang1 siunn1 se3 siang1	cit4.siang1.siunn1.se3.siang1
 li2	li2
 li2	li2
 khong1khong1	khong1.khong1
-he1 tan2le0 cin1ciann3 li2 kok0loh8khi3	he1.tan2.le0.cin1.ciann3.li2.kok0loh8khi3
+he1 tan2le0 cin1ciann3 li2 kok0loh8khi3	he1.tan2.le0.cin1.ciann3.li2.kok0.loh8khi3
 li2 beh4 pang3sai2	li2.beh4.pang3.sai2
 kin2	kin2
 pang3ho2	pang3.ho2
@@ -9425,7 +9425,7 @@ pin1nng5	pin1.nng5
 ce1	ce1
 hia1	hia1
 li2 kong2 hia1 ah4bi5bi5	li2.kong2.hia1.ah4.bi5bi5
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
 kha1tah8chia1	kha1.tah8chia1
 kha1tah8chia1	kha1.tah8chia1
 siann2mih8	siann2.mih8
@@ -9524,7 +9524,7 @@ kuah4 chau2	kuah4.chau2
 kuah4 chau2	kuah4.chau2
 i1 bat4	i1.bat4
 he1	he1
-a1pu0e0 hia1 a1pu0	a1.pu0e0.hia1.a1.pu0
+a1pu0e0 hia1 a1pu0	a1.pu0.e0.hia1.a1.pu0
 ho2	ho2
 beh4bo5	beh4.bo5
 beh4	beh4
@@ -9841,9 +9841,9 @@ ce1 siann2mih8	ce1.siann2.mih8
 ian1tang5kong2	ian1.tang5kong2
 ce1	ce1
 li2 kong2 a1i5 tam3 cia1 ho2	li2.kong2.a1.i5.tam3.cia1.ho2
-kok0ke1	kok0ke1
+kok0ke1	kok0.ke1
 kong2	kong2
-khah4 a1i5 khi3 khuann3 kok0ke1 ho2	khah4.a1.i5.khi3.khuann3.kok0ke1.ho2
+khah4 a1i5 khi3 khuann3 kok0ke1 ho2	khah4.a1.i5.khi3.khuann3.kok0.ke1.ho2
 cit4 ciah4 siann2mih8	cit4.ciah4.siann2.mih8
 cit4 ciah4 siann2mih8	cit4.ciah4.siann2.mih8
 sai1	sai1
@@ -9914,10 +9914,10 @@ ce1 siann2mih8	ce1.siann2.mih8
 hun2ciau2	hun2.ciau2
 he1	he1
 a1kong1 li2 kong2	a1.kong1.li2.kong2
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
 ah4bi5bi5	ah4.bi5bi5
 ah4bi5bi5	ah4.bi5bi5
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
 be7sai2 jip8khi3	be7sai2.jip8khi3
 a1i5 li2 chat4 kue3 li2 be7ki3cit4	a1.i5.li2.chat4.kue3.li2.be7ki3.cit4
 siann2mih8 sik4	siann2.mih8.sik4
@@ -10003,8 +10003,8 @@ he1 kak4	he1.kak4
 kak4	kak4
 chiunn1ge5	chiunn1.ge5
 he1 chiunn1ge5	he1.chiunn1.ge5
-kok0kok0ke1	kok0kok0ke1
-kok0kok0ke1 ai3 sann2	kok0kok0ke1.ai3.sann2
+kok0kok0ke1	kok0.kok0.ke1
+kok0kok0ke1 ai3 sann2	kok0.kok0.ke1.ai3.sann2
 kha1ciah4phiann1	kha1.ciah4.phiann1
 hue2ke1	hue2.ke1
 li2 kio3 hue2ke1 a1i5 thiann1	li2.kio3.hue2.ke1.a1.i5.thiann1
@@ -10332,7 +10332,7 @@ cim2a2 cau2khi3 tueh4	cim2.a2.cau2.khi3.tueh4
 tueh4 cau2khi3 cau3kha1	tueh4.cau2.khi3.cau3.kha1
 cim2a2 cai1 pue1khi3 tueh4	cim2.a2.cai1.pue1.khi3.tueh4
 thau5a2 pue1chut4lai5	thau5a2.pue1.chut4.lai5
-phok0phok0thiau3	phok0phok0thiau3
+phok0phok0thiau3	phok0.phok0.thiau3
 siann2mih8	siann2.mih8
 thiau3khi3 a1ma2 tau1 chenn1chau1	thiau3.khi3.a1.ma2.tau1.chenn1.chau1
 thiau3khi3 a1ma2 tau1 chenn1chau1	thiau3.khi3.a1.ma2.tau1.chenn1.chau1
@@ -10517,7 +10517,7 @@ ai3	ai3
 se2 kah4 cok4 huann1hi2	se2.kah4.cok4.huann1.hi2
 ce1 siann2mih8	ce1.siann2.mih8
 ce1 siann2mih8	ce1.siann2.mih8
-kok0ke1	kok0ke1
+kok0ke1	kok0.ke1
 ce1 ku1	ce1.ku1
 ku1	ku1
 li2 khuann3	li2.khuann3
@@ -10782,8 +10782,8 @@ ce1	ce1
 ce1	ce1
 niau1mi1	niau1.mi1
 cit4 ciah4	cit4.ciah4
-kok0kok0ke1	kok0kok0ke1
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
+kok0kok0ke1	kok0.kok0.ke1
 u7kau3 sui2	u7kau3.sui2
 ce1 siann2mih8	ce1.siann2.mih8
 ce1 hue1	ce1.hue1
@@ -10922,8 +10922,8 @@ li2 kong2 ping2chia1	li2.kong2.ping2.chia1
 ping2chia1	ping2.chia1
 ping2chia1	ping2.chia1
 he1 sann2	he1.sann2
-kok0kok0ke1	kok0kok0ke1
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
+kok0kok0ke1	kok0.kok0.ke1
 chiu2	chiu2
 chiu2	chiu2
 chiu2	chiu2
@@ -10948,8 +10948,8 @@ i1 giu2khi2lai5	i1.giu2.khi2.lai5
 kin1cio1	kin1.cio1
 li2 kong2 kin1cio1	li2.kong2.kin1.cio1
 ce1 sann2	ce1.sann2
-kok0kok0ke1	kok0kok0ke1
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
+kok0kok0ke1	kok0.kok0.ke1
 ce1 sann2	ce1.sann2
 li2 khoo3 tueh4	li2.khoo3.tueh4
 hia1	hia1
@@ -11190,8 +11190,8 @@ khoo1khoo1	khoo1.khoo1
 khoo1khoo1	khoo1.khoo1
 khoo1khoo1	khoo1.khoo1
 khoo1khoo1	khoo1.khoo1
-kok0kok0ke1	kok0kok0ke1
-a1ma2 kok0kok0ke1	a1.ma2.kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
+a1ma2 kok0kok0ke1	a1.ma2.kok0.kok0.ke1
 li2 niau1mi1	li2.niau1.mi1
 pau1	pau1
 hia1	hia1
@@ -11262,18 +11262,18 @@ ce1 ho2ciah8	ce1.ho2.ciah8
 ho2ciah8	ho2.ciah8
 kue1	kue1
 si1kue1	si1.kue1
-kok0kok0ke1	kok0kok0ke1
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
+kok0kok0ke1	kok0.kok0.ke1
 tueh4	tueh4
 hia1	hia1
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
 khi3 kio3 a1ma2	khi3.kio3.a1.ma2
 ho2	ho2
 ho2	ho2
 a1ma2 hia1 ho2	a1.ma2.hia1.ho2
 m7bian2 koo3	m7bian2.koo3
-gua2 khuann3 cia1 kok0kok0ke1	gua2.khuann3.cia1.kok0kok0ke1
-cia1 kok0ke1	cia1.kok0ke1
+gua2 khuann3 cia1 kok0kok0ke1	gua2.khuann3.cia1.kok0.kok0.ke1
+cia1 kok0ke1	cia1.kok0.ke1
 ce1 sann2	ce1.sann2
 e7hiau2 chiunn3	e7hiau2.chiunn3
 kin2	kin2
@@ -11385,14 +11385,14 @@ he1	he1
 ce1	ce1
 cia1	cia1
 ce1 sann2	ce1.sann2
-kok0kok0ke1	kok0kok0ke1
-kok0kok0ke1	kok0kok0ke1
-kok0kok0ke1	kok0kok0ke1
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
+kok0kok0ke1	kok0.kok0.ke1
+kok0kok0ke1	kok0.kok0.ke1
+kok0kok0ke1	kok0.kok0.ke1
 hia1	hia1
-a1ma2 kok0kok0ke1	a1.ma2.kok0kok0ke1
+a1ma2 kok0kok0ke1	a1.ma2.kok0.kok0.ke1
 tueh4	tueh4
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
 cia1	cia1
 ce1 sann2	ce1.sann2
 ce1	ce1
@@ -11795,12 +11795,12 @@ long2 phah4	long2.phah4
 khoo3	khoo3
 kiann1kiann1	kiann1.kiann1
 li2 khoo3	li2.khoo3
-a1ma2 kok0kok0ke1	a1.ma2.kok0kok0ke1
+a1ma2 kok0kok0ke1	a1.ma2.kok0.kok0.ke1
 a1ma2 ciah4	a1.ma2.ciah4
 ciah4	ciah4
 a1ma2 liah8khi3	a1.ma2.liah8khi3
 a1ma2 liah8khi3	a1.ma2.liah8khi3
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
 a1ma2 liah8khi3	a1.ma2.liah8khi3
 ke1bah4	ke1.bah4
 li2 ke1bah4	li2.ke1.bah4
@@ -12053,7 +12053,7 @@ ka7lue3	ka7lue3
 cau2	cau2
 cau2	cau2
 khuann3 koh4 kann2 phah4	khuann3.koh4.kann2.phah4
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
 siunn1 phainn2	siunn1.phainn2
 beh4 sann2	beh4.sann2
 a1ki5	a1.ki5
@@ -12314,7 +12314,7 @@ a1po5 li2	a1.po5.li2
 ce1 sann2	ce1.sann2
 thau5khak4 ting2	thau5khak4.ting2
 liah8khi2lai5 cu2cu2 ho2	liah8khi2.lai5.cu2.cu2.ho2
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
 ah4bi5bi5	ah4.bi5bi5
 ce1 hia1 it4tit8	ce1.hia1.it4.tit8
 li2	li2
@@ -12323,7 +12323,7 @@ ko1ko1	ko1.ko1
 li2	li2
 a2be7	a2.be7
 kau2 tueh4	kau2.tueh4
-kok0kok0ke1 li2 tok4	kok0kok0ke1.li2.tok4
+kok0kok0ke1 li2 tok4	kok0.kok0.ke1.li2.tok4
 he1 siann2	he1.siann2
 li2	li2
 he1 sann2	he1.sann2
@@ -12359,10 +12359,10 @@ a1ma2	a1.ma2
 khi3 tueh4	khi3.tueh4
 a1m2 in1 tau1 cing3	a1.m2.in1.tau1.cing3
 a1lin2	a1.lin2
-ko1ko1 khok0khok0be2	ko1.ko1.khok0khok0be2
+ko1ko1 khok0khok0be2	ko1.ko1.khok0.khok0.be2
 ko1ko1	ko1.ko1
 cit8pah4 khoo1	cit8pah4.khoo1
-khok0be2	khok0be2
+khok0be2	khok0.be2
 thak8cheh4	thak8cheh4
 khi3	khi3
 i1 kong2 thiann3	i1.kong2.thiann3
@@ -12431,9 +12431,9 @@ ah4bi5bi5	ah4.bi5bi5
 ah4bi5bi5e0 tueh4	ah4.bi5bi5e0.tueh4
 he1 sann2	he1.sann2
 he1 sann2	he1.sann2
-kok0kok0ke1	kok0kok0ke1
-kok0kok0ke1 kiann2 ah4bi5bi5	kok0kok0ke1.kiann2.ah4.bi5bi5
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
+kok0kok0ke1 kiann2 ah4bi5bi5	kok0.kok0.ke1.kiann2.ah4.bi5bi5
+kok0kok0ke1	kok0.kok0.ke1
 ciah4 ciah4	ciah4.ciah4
 ciau2	ciau2
 ce1 siann2	ce1.siann2
@@ -12452,7 +12452,7 @@ ai3sui2	ai3.sui2
 li2 cau2khi3 tueh4 sng2	li2.cau2.khi3.tueh4.sng2
 cia1 in1 tau1	cia1.in1.tau1
 he1	he1
-chau3me0koh0	chau3.me0koh0
+chau3me0koh0	chau3.me0.koh0
 ko1ko1	ko1.ko1
 ko1ko1	ko1.ko1
 ko1ko1	ko1.ko1
@@ -12498,7 +12498,7 @@ ciah8pa2	ciah8pa2
 gun2 beh4	gun2.beh4
 tang5a2bi2ko1	tang5a2.bi2.ko1
 sann2mih8	sann2.mih8
-khok0khok0be2be2	khok0khok0be2.be2
+khok0khok0be2be2	khok0.khok0.be2.be2
 he1 king2chat4	he1.king2.chat4
 a1ping1ko1	a1.ping1.ko1
 king2chat4	king2.chat4
@@ -12907,7 +12907,7 @@ ce1 siann2mih	ce1.siann2.mih
 li2 ce1 siann2mih	li2.ce1.siann2.mih
 li2 ce1 siann2mih	li2.ce1.siann2.mih
 an3ne1	an3.ne1
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
 cia1	cia1
 a1i5	a1.i5
 cia1 koh4	cia1.koh4
@@ -12948,7 +12948,7 @@ cit4 ciah4 siann2mih	cit4.ciah4.siann2.mih
 li2 kiann1 siann2mih	li2.kiann1.siann2.mih
 ce1	ce1
 ce1	ce1
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
 cia1	cia1
 theh8khi3	theh8khi3
 li2 khuann3	li2.khuann3
@@ -13211,9 +13211,9 @@ kiann1kiann1	kiann1.kiann1
 li2 kiann1kiann1	li2.kiann1.kiann1
 li2 kiann1 ui3 tueh4 khi3	li2.kiann1.ui3.tueh4.khi3
 li2 khuann3tioh8 niau1mi1	li2.khuann3.tioh8.niau1.mi1
-kok0kok0ke1 tueh4	kok0kok0ke1.tueh4
-kok0kok0ke1	kok0kok0ke1
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1 tueh4	kok0.kok0.ke1.tueh4
+kok0kok0ke1	kok0.kok0.ke1
+kok0kok0ke1	kok0.kok0.ke1
 siann2mih8	siann2.mih8
 khuann3tioh8 sann2mih8	khuann3.tioh8.sann2.mih8
 cau2chut4lai5	cau2.chut4.lai5

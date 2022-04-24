@@ -1,7 +1,7 @@
 cau2chut4lai5	cau2.chut4.lai5
 mai3 phah4	mai3.phah4
-oo1mi0ma0	oo1.mi0ma0
-oo1mi0ma0 khi3	oo1.mi0ma0.khi3
+oo1mi0ma0	oo1.mi0.ma0
+oo1mi0ma0 khi3	oo1.mi0.ma0.khi3
 tan2le0 hit4 te3 khi3 li2 phah4loh8lai5	tan2.le0.hit4.te3.khi3.li2.phah4.loh8lai5
 mai3 khuann3	mai3.khuann3
 mai3 khuann3 niau1mi1	mai3.khuann3.niau1.mi1
@@ -11,7 +11,7 @@ beh4 koh4 lok4lue3	beh4.koh4.lok4.lue3
 koh4 lok4lue3 ho2	koh4.lok4.lue3.ho2
 niau1mi1	niau1.mi1
 i1 khi3 tueh4	i1.khi3.tueh4
-li2 khuann3 li2 chiu2 oo1mi0ma0	li2.khuann3.li2.chiu2.oo1.mi0ma0
+li2 khuann3 li2 chiu2 oo1mi0ma0	li2.khuann3.li2.chiu2.oo1.mi0.ma0
 beh4 siu1 uann2	beh4.siu1.uann2
 ce1	ce1
 ce1	ce1
@@ -37,8 +37,8 @@ suh4kong2	suh4.kong2
 suh4kong2	suh4.kong2
 an3nua2	an3.nua2
 an3nua2	an3.nua2
-oo1mi0ma0	oo1.mi0ma0
-li2 oo1mi0ma0	li2.oo1.mi0ma0
+oo1mi0ma0	oo1.mi0.ma0
+li2 oo1mi0ma0	li2.oo1.mi0.ma0
 beh4 an3cuann2	beh4.an3.cuann2
 li2 koh4	li2.koh4
 khuann3mai7	khuann3.mai7
@@ -371,7 +371,7 @@ li2 be7sai2 hiah4	li2.be7sai2.hiah4
 siann2mih8	siann2.mih8
 li2 i1 kah4 an3ne1	li2.i1.kah4.an3.ne1
 gua2 koh4lai5	gua2.koh4.lai5
-li2 khuann3 he1 oo1mi0ma0	li2.khuann3.he1.oo1.mi0ma0
+li2 khuann3 he1 oo1mi0ma0	li2.khuann3.he1.oo1.mi0.ma0
 koh4	koh4
 li2 beh4 siann2mih8	li2.beh4.siann2.mih8
 li2 kio3 a1i5 lim1	li2.kio3.a1.i5.lim1
@@ -708,7 +708,7 @@ li2 khuann3	li2.khuann3
 li2 khuann3	li2.khuann3
 li2 khuann3	li2.khuann3
 he1 sann2mih8	he1.sann2.mih8
-kok0kok0ke1	kok0kok0ke1
+kok0kok0ke1	kok0.kok0.ke1
 cia1 koh4	cia1.koh4
 ki1 i1	ki1.i1
 ki1 cioh4 i1 sng2	ki1.cioh4.i1.sng2
@@ -733,7 +733,7 @@ cai1	cai1
 li2 khuann3mai7	li2.khuann3.mai7
 li2 ka1ti7	li2.ka1.ti7
 li2 kong2	li2.kong2
-khok0khi2lai5	khok0khi2.lai5
+khok0khi2lai5	khok0.khi2.lai5
 li2 ce1 long2 ai3 liau2	li2.ce1.long2.ai3.liau2
 a2be7	a2.be7
 be7sai2 an3ne1	be7sai2.an3.ne1
@@ -869,7 +869,7 @@ li2 chong3 siann2	li2.chong3.siann2
 cia1	cia1
 khuann3mai7 sui2	khuann3.mai7.sui2
 he1 be7sai2	he1.be7sai2
-he1 oo1mi0ma0	he1.oo1.mi0ma0
+he1 oo1mi0ma0	he1.oo1.mi0.ma0
 be7sai2 cai1	be7sai2.cai1
 li2 chiu2	li2.chiu2
 li2 chiu2	li2.chiu2
@@ -3206,7 +3206,7 @@ ho2	ho2
 ah4bo5 li2 khah4 ho2thiann1	ah4.bo5.li2.khah4.ho2.thiann1
 hia1	hia1
 li2 kong2 he1 siann2	li2.kong2.he1.siann2
-kok0ke1	kok0ke1
+kok0ke1	kok0.ke1
 tian7hong1	tian7hong1
 hong1	hong1
 cit4 ciah4	cit4.ciah4
