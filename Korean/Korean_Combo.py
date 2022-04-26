@@ -7,7 +7,7 @@ with open(os.path.join(os.getcwd(),'Jiwon/Jiwon_train_gold.txt'), "r", encoding=
         if line.strip():
             trainG.append(line)
 
-with open(os.path.join(os.getcwd(),'Ryu/Ryu_train_gold.txt'), "r", encoding='utf-8', errors='ignore') as fin:
+with open(os.path.join(os.getcwd(),'Ryu_train_gold.txt'), "r", encoding='utf-8', errors='ignore') as fin:
     for line in fin:
         if line.strip():
             trainG.append(line)
@@ -32,7 +32,7 @@ with open(os.path.join(os.getcwd(),'Jiwon/Jiwon_train_unseg.txt'), "r", encoding
         if line.strip():
             trainU.append(line)
 
-with open(os.path.join(os.getcwd(),'Ryu/Ryu_train_unseg.txt'), "r", encoding='utf-8', errors='ignore') as fin:
+with open(os.path.join(os.getcwd(),'Ryu_train_unseg.txt'), "r", encoding='utf-8', errors='ignore') as fin:
     for line in fin:
         if line.strip():
             trainU.append(line)
@@ -54,7 +54,7 @@ with open(os.path.join(os.getcwd(),'Jiwon/Jiwon_test_gold.txt'), "r", encoding='
         if line.strip():
             testG.append(line)
 
-with open(os.path.join(os.getcwd(),'Ryu/Ryu_test_gold.txt'), "r", encoding='utf-8', errors='ignore') as fin:
+with open(os.path.join(os.getcwd(),'Ryu_test_gold.txt'), "r", encoding='utf-8', errors='ignore') as fin:
     for line in fin:
         if line.strip():
             testG.append(line)
@@ -79,7 +79,7 @@ with open(os.path.join(os.getcwd(),'Jiwon/Jiwon_test_unseg.txt'), "r", encoding=
         if line.strip():
             testU.append(line)
 
-with open(os.path.join(os.getcwd(),'Ryu/Ryu_test_unseg.txt'), "r", encoding='utf-8', errors='ignore') as fin:
+with open(os.path.join(os.getcwd(),'Ryu_test_unseg.txt'), "r", encoding='utf-8', errors='ignore') as fin:
     for line in fin:
         if line.strip():
             testU.append(line)

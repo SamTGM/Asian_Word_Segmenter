@@ -11,8 +11,8 @@ list = []
 total_num_of_syll_in_unique_words = 0
 
 my_dir = os.getcwd()
-pNameG = "English/Brown_test_gold.txt"
-pNameU = "English/Brown_test_unseg.txt"
+pNameG = "Korean/Korean_train_gold.txt"
+pNameU = "Korean/Korean_train_unseg.txt"
 with open(os.path.join(my_dir,pNameU)) as data:
     for lines in data:
         total_lines +=1
@@ -24,7 +24,7 @@ with open(os.path.join(my_dir,pNameU)) as data:
         #     print(syll.strip())
         #     sylls_in_line = set([syll.strip()])
         unique_syll = unique_syll.union(sylls_in_line)
-    #print(unique_syll)
+    print(unique_syll)
     #print()
 
 with open(os.path.join(my_dir,pNameG)) as data:

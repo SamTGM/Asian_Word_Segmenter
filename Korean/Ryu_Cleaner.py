@@ -7,12 +7,13 @@ list= []
 before = []
 after = []
 pindex = -1
-punc = '''!-{};:'"\./?@#$?%^&_~�'''
+punc = '-{}();\/@#$%^&_~�'
 alpha = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
 def tokenize_syllables():
-    with open(os.path.join(my_dir,"Ryu/Ryu_train.txt")) as data:
+    with open(os.path.join(my_dir,"Ryu_train.txt")) as data:
         for lines in data:
-            if lines.startswith("*MOT") and lines.find('[/]') == -1 and all(elem not in lines for elem in punc)and all(elem not in lines[lines.find('*MOT')+1:] for elem in alpha):
+            if lines.startswith("*MOT") and lines.find('[/]') == -1:
+            #and all(elem not in lines[lines.find('*MOT')+1:] for elem in punc) and all(elem not in lines[lines.find('*MOT')+1:] for elem in alpha)
                 lines = lines.replace("*MOT:\t","")
                 for charac in lines:
                     if(charac == ','):
@@ -33,7 +34,7 @@ def tokenize_syllables():
         #     print(e)
 
 def generate_file():
-    f = open("Ryu/Ryu_train_gold.txt","w")
+    f = open("Ryu_train_gold.txt","w")
     for e in after:
         if e.strip():
             f.write(e+"\n")
