@@ -1,0 +1,1550 @@
+@UTF8
+@PID:	11312/c-00015573-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Sheri Mother
+@ID:	eng|Brent|MOT||female|||Mother|||
+@Media:	001128, audio
+@Date:	08-JUN-2000
+@Types:	long, preverbal, TD
+*MOT:	abcdefg@k[=! sung] . 15980_19967
+%mor:	n:let|abcdefg .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hijklmnop@k [=! sung] . 20567_24583
+%mor:	n:let|hijklmnop .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	q@l r@l s@l [=! sung] . 25497_26890
+%mor:	n:let|q n:let|r n:let|s .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*MOT:	t@l u@l v@l [=! sung] . 27820_29420
+%mor:	n:let|t n:let|u n:let|v .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*MOT:	w@l x@l [=! sung] . 30097_31570
+%mor:	n:let|w n:let|x .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*MOT:	y@l and z@l [=! sung] . 32377_34273
+%mor:	n:let|y coord|and n:let|z .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*MOT:	now I know my abcs [=! sung] . 34837_39427
+%mor:	adv|now pro:sub|I v|know det:poss|my n|abc-PL .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	next time won't you sing with me [=! sung] ? 39847_44077
+%mor:	adj|next n|time mod|will~neg|not pro:per|you v|sing prep|with
+	pro:obj|me ?
+%gra:	1|2|MOD 2|6|SUBJ 3|6|AUX 4|3|NEG 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|PUNCT
+*MOT:	yeah . 48640_49863
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	one . 78453_79243
+%mor:	det:num|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	that's one . 79250_80273
+%mor:	pro:dem|that~cop|be&3S pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	can you show me one ? 80290_81437
+%mor:	mod|can pro:per|you v|show pro:obj|me pro:indef|one ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|OBJ 6|3|PUNCT
+*MOT:	one . 82340_83240
+%mor:	det:num|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	one . 84453_85347
+%mor:	det:num|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	come on ! 86803_87160
+%mor:	v|come adv|on !
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	do one for Mommy ! 87160_88163
+%mor:	mod|do pro:indef|one prep|for n:prop|Mommy !
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|NJCT 4|3|POBJ 5|1|PUNCT
+*MOT:	one . 88417_89127
+%mor:	det:num|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	come on , man ! 92163_92747
+%mor:	v|come adv|on cm|cm n|man !
+%gra:	1|0|ROOT 2|1|JCT 3|1|LP 4|1|ENUM 5|1|PUNCT
+*MOT:	one . 93590_94393
+%mor:	det:num|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	one . 94830_96277
+%mor:	det:num|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	(s)ay yeah@q ! 96303_98887
+%mor:	co|say meta|yeah !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	you did one . 99993_101560
+%mor:	pro:per|you v|do&PAST pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	let's say [?] one@q ! 101633_102490
+%mor:	v|let~pro:obj|us v|say meta|one !
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ 5|1|PUNCT
+*MOT:	one . 103207_104010
+%mor:	det:num|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	let's see eye ! 107810_109327
+%mor:	v|let~pro:obj|us v|see n|eye !
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|OBJ 5|1|PUNCT
+*MOT:	can you show me your eye ? 109370_110613
+%mor:	mod|can pro:per|you v|show pro:obj|me det:poss|your n|eye ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|DET 6|3|OBJ 7|3|PUNCT
+*MOT:	oh good boy . 110703_113007
+%mor:	co|oh adj|good n|boy .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*MOT:	good boy . 113063_113833
+%mor:	adj|good n|boy .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	you are such a good boy . 113847_115750
+%mor:	pro:per|you cop|be&PRES qn|such det:art|a adj|good n|boy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|QUANT 4|6|DET 5|6|MOD 6|2|PRED 7|2|PUNCT
+*MOT:	you did eye . 116143_117453
+%mor:	pro:per|you v|do&PAST n|eye .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	can you show me nose ? 117813_119573
+%mor:	mod|can pro:per|you v|show pro:obj|me n|nose ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|3|PUNCT
+*MOT:	nose . 120600_121780
+%mor:	n|nose .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	nose . 123170_124047
+%mor:	n|nose .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	nose . 125803_127043
+%mor:	n|nose .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	nose . 130913_131757
+%mor:	n|nose .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	let Mommy see your nose ! 131767_133013
+%mor:	v|let&ZERO n:prop|Mommy v|see det:poss|your n|nose !
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*MOT:	nose . 133853_134803
+%mor:	n|nose .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	eye . 137467_137897
+%mor:	n|eye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	nose . 138703_139913
+%mor:	n|nose .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	that's your nose . 153747_155453
+%mor:	pro:dem|that~cop|be&3S det:poss|your n|nose .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	nose . 169047_170230
+%mor:	n|nose .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	let Mommy see your no(se) ! 170233_171723
+%mor:	v|let&ZERO n:prop|Mommy v|see det:poss|your n|nose !
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*MOT:	let Mommy see you touch your nose ! 172430_174420
+%mor:	v|let&ZERO n:prop|Mommy v|see pro:per|you v|touch det:poss|your
+	n|nose !
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*MOT:	ball . 183637_184260
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	yeah you throw the ball . 185663_187200
+%mor:	co|yeah pro:per|you v|throw det:art|the n|ball .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	you like that ball ? 197090_198200
+%mor:	pro:per|you v|like det:dem|that n|ball ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	can you say ball@q ? 199467_200583
+%mor:	mod|can pro:per|you v|say meta|ball ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	do you say ball@q ? 221507_222620
+%mor:	mod|do pro:per|you v|say meta|ball ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	Allen . 223857_224260
+%mor:	n:prop|Allen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	can you [=! voice] ? 226223_226717
+%mor:	mod|can pro:per|you ?
+%gra:	1|2|AUX 2|0|INCROOT 3|2|PUNCT
+*MOT:	(e)xcuse me ! 227110_227580
+%mor:	v|excuse pro:obj|me !
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	can you show Mommy your nose ? 227603_229403
+%mor:	mod|can pro:per|you v|show n:prop|Mommy det:poss|your n|nose ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|DET 6|4|OBJ 7|3|PUNCT
+*MOT:	nose . 229777_230830
+%mor:	n|nose .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	nose . 231733_233533
+%mor:	n|nose .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	nose . 234067_235293
+%mor:	n|nose .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you like that ball don't you ? 235333_236650
+%mor:	pro:per|you v|like det:dem|that n|ball mod|do~neg|not pro:per|you ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|7|SUBJ 5|7|AUX 6|5|NEG 7|2|OBJ 8|2|PUNCT
+*MOT:	go get it ! 265893_266390
+%mor:	v|go v|get pro:per|it !
+%gra:	1|2|SRL 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	go get your ball ! 267517_268360
+%mor:	v|go v|get det:poss|your n|ball !
+%gra:	1|2|SRL 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	go get your ball ! 271057_271923
+%mor:	v|go v|get det:poss|your n|ball !
+%gra:	1|2|SRL 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	yeah . 284873_286520
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	yeah . 287713_289073
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you get your ball ? 290663_291793
+%mor:	pro:per|you v|get det:poss|your n|ball ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	you can't pick it up with one hand can you ? 297500_299853
+%mor:	pro:per|you mod|can~neg|not v|pick pro:per|it adv|up prep|with
+	det:num|one n|hand n|can pro:per|you ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|JCT 8|10|QUANT
+	9|10|MOD 10|7|POBJ 11|10|OBJ 12|4|PUNCT
+*MOT:	you're try(ing) . 300667_301697
+%mor:	pro:per|you~aux|be&PRES part|try-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*MOT:	can you throw it to Mommy ? 303350_304510
+%mor:	mod|can pro:per|you v|throw pro:per|it prep|to n:prop|Mommy ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*MOT:	can you throw it to Mommy ? 313373_314753
+%mor:	mod|can pro:per|you v|throw pro:per|it prep|to n:prop|Mommy ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*MOT:	look , Allen ! 317963_318570
+%mor:	v|look cm|cm n:prop|Allen !
+%gra:	1|0|ROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+*MOT:	xxx yeah . 336177_337573
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Allen . 340553_340957
+%mor:	n:prop|Allen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	I got your ball . 341880_342913
+%mor:	pro:sub|I v|get&PAST det:poss|your n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	www . 343500_344460
+%add:	not CHI
+*MOT:	the ball went way over there . 359157_361333
+%mor:	det:art|the n|ball v|go&PAST adv|way prep|over n|there .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*MOT:	can you go get the ball ? 361333_362470
+%mor:	mod|can pro:per|you v|go v|get det:art|the n|ball ?
+%gra:	1|4|AUX 2|3|SUBJ 3|4|SRL 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*MOT:	go get the ball ! 362823_363623
+%mor:	v|go v|get det:art|the n|ball !
+%gra:	1|2|SRL 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	go get your ball ! 365150_366027
+%mor:	v|go v|get det:poss|your n|ball !
+%gra:	1|2|SRL 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	go get it ! 368637_369220
+%mor:	v|go v|get pro:per|it !
+%gra:	1|2|SRL 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	go get it ! 371803_372340
+%mor:	v|go v|get pro:per|it !
+%gra:	1|2|SRL 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	go get the ball ! 373933_374703
+%mor:	v|go v|get det:art|the n|ball !
+%gra:	1|2|SRL 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	one . 379547_380480
+%mor:	det:num|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	one . 381870_382767
+%mor:	det:num|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	he said “wait a minute now” &=laugh . 386493_388293
+%mor:	pro:sub|he v|say&PAST v|wait det:art|a n|minute adv|now .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|5|DET 5|3|OBJ 6|3|JCT 7|2|PUNCT
+*MOT:	you are funny , Allen . 389327_390830
+%mor:	pro:per|you cop|be&PRES adj|fun&dn-Y cm|cm n:prop|Allen .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|LP 5|2|ENUM 6|2|PUNCT
+*MOT:	okay . 412470_414057
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Allen Allen [=! sung] . 414980_416657
+%mor:	n:prop|Allen n:prop|Allen .
+%gra:	1|2|NAME 2|0|INCROOT 3|2|PUNCT
+*MOT:	he's our man [=! sung] . 416683_417980
+%mor:	pro:sub|he~cop|be&3S det:poss|our n|man .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	if he can do it anyone can [=! sung] . 417987_421927
+%mor:	conj|if pro:sub|he mod|can v|do pro:per|it pro:indef|anyone mod|can
+	.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT 7|6|INCROOT
+	8|7|PUNCT
+*MOT:	oh , Allen , we really have so many things to do &=noise . 427023_431197
+%mor:	co|oh cm|cm n:prop|Allen cm|cm pro:sub|we adv|really v|have adv|so
+	qn|many n|thing-PL inf|to v|do .
+%gra:	1|7|COM 2|1|LP 3|1|ENUM 4|3|LP 5|7|SUBJ 6|7|JCT 7|0|ROOT 8|9|JCT
+	9|10|QUANT 10|7|OBJ 11|12|INF 12|10|XMOD 13|7|PUNCT
+*MOT:	so little time to do it in &=noise . 431393_433660
+%mor:	adv|so adj|little n|time inf|to v|do pro:per|it adv|in .
+%gra:	1|2|JCT 2|3|MOD 3|0|INCROOT 4|5|INF 5|3|XMOD 6|5|OBJ 7|5|JCT 8|3|PUNCT
+*MOT:	let's go , buddy ! 453133_453867
+%mor:	v|let~pro:obj|us v|go cm|cm n|buddy !
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|LP 5|3|ENUM 6|1|PUNCT
+*MOT:	come on ! 454647_455283
+%mor:	v|come adv|on !
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	come on ! 456743_457357
+%mor:	v|come adv|on !
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	come on , buddy ! 465603_467407
+%mor:	v|come adv|on cm|cm n|buddy !
+%gra:	1|0|ROOT 2|1|JCT 3|1|LP 4|1|ENUM 5|1|PUNCT
+*MOT:	come on , buddy oh buddy oh buddy oh pal ! 468567_472523
+%mor:	v|come adv|on cm|cm n|buddy co|oh n|buddy co|oh n|buddy co|oh n|pal
+	!
+%gra:	1|0|ROOT 2|1|JCT 3|1|LP 4|10|MOD 5|10|COM 6|10|MOD 7|10|COM 8|10|MOD
+	9|10|COM 10|1|JCT 11|1|PUNCT
+*MOT:	hi [?] . 473547_474643
+%mor:	co|hi .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	come on , Allen ! 489043_490513
+%mor:	v|come adv|on cm|cm n:prop|Allen !
+%gra:	1|0|ROOT 2|1|JCT 3|1|LP 4|1|ENUM 5|1|PUNCT
+*MOT:	Mommy (i)s waiting for you . 491490_494347
+%mor:	n:prop|Mommy aux|be&3S part|wait-PRESP prep|for pro:per|you .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*MOT:	you are my sunshine [=! sung] . 500777_503957
+%mor:	pro:per|you cop|be&PRES det:poss|my n|sunshine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	my only sunshine [=! sung] . 504357_507360
+%mor:	det:poss|my qn|only n|sunshine .
+%gra:	1|3|DET 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*MOT:	you make me happy [=! sung] . 507760_510933
+%mor:	pro:per|you v|make pro:obj|me adj|happy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*MOT:	yes you do [=! sung] . 511357_513540
+%mor:	co|yes pro:per|you v|do .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	you ever notice how much I love you [=! sung] . 514240_520713
+%mor:	pro:per|you adv|ever n|notice pro:rel|how adv|much pro:sub|I v|love
+	pro:per|you .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|7|LINK 5|7|JCT 6|7|SUBJ 7|3|CMOD 8|7|OBJ
+	9|3|PUNCT
+*MOT:	please don't take [=! sung] ! 521707_523807
+%mor:	co|please mod|do~neg|not v|take !
+%gra:	1|4|COM 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*MOT:	my sunshine away [=! sung] . 524487_527173
+%mor:	det:poss|my n|sunshine adv|away .
+%gra:	1|2|DET 2|0|INCROOT 3|2|JCT 4|2|PUNCT
+*MOT:	you are my sunshine [=! sung] . 528097_531070
+%mor:	pro:per|you cop|be&PRES det:poss|my n|sunshine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	my only [=! sung] . 531490_532710
+%mor:	det:poss|my adv|only .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	when you're not happy [=! sung] . 535163_537527
+%mor:	conj|when pro:per|you~cop|be&PRES neg|not adj|happy .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PRED 6|3|PUNCT
+*MOT:	my skies are grey [=! sung] . 537987_540157
+%mor:	det:poss|my n|sky-PL cop|be&PRES adj|grey .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*MOT:	you never know [=! sung] . 541290_542847
+%mor:	pro:per|you adv|never v|know .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*MOT:	ah is that funny , Allen ? 548070_549617
+%mor:	co|ah cop|be&3S det:dem|that adj|fun&dn-Y cm|cm n:prop|Allen ?
+%gra:	1|2|COM 2|0|ROOT 3|4|DET 4|2|PRED 5|2|LP 6|2|ENUM 7|2|PUNCT
+*MOT:	your Mommy doesn't know all the words to the song today . 550087_554510
+%mor:	det:poss|your n:prop|Mommy mod|do&3S~neg|not v|know qn|all
+	det:art|the n|word-PL prep|to det:art|the n|song adv:tem|today .
+%gra:	1|2|DET 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|8|QUANT 7|8|DET 8|5|OBJ
+	9|5|JCT 10|11|DET 11|9|POBJ 12|5|JCT 13|5|PUNCT
+*MOT:	oh , Allen . 592260_593207
+%mor:	co|oh cm|cm n:prop|Allen .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+*MOT:	oh your mommy . 594173_595027
+%mor:	co|oh det:poss|your n|mommy .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*MOT:	your mommy . 595197_595760
+%mor:	det:poss|your n|mommy .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	your mommy has so many things to do [=! sung] . 595927_597733
+%mor:	det:poss|your n|mommy aux|have&3S adv|so qn|many n|thing-PL inf|to
+	v|do .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|6|QUANT 6|3|PRED 7|8|INF 8|6|COMP
+	9|3|PUNCT
+*MOT:	to do . 598043_598463
+%mor:	inf|to v|do .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*MOT:	to do . 598760_599143
+%mor:	inf|to v|do .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*MOT:	huh ? 607003_607370
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	huh ? 615250_615537
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what do you say , sonny ? 624423_625377
+%mor:	pro:int|what mod|do pro:per|you v|say cm|cm n|sonny ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|LP 6|4|ENUM 7|4|PUNCT
+*MOT:	wow . 626410_627360
+%mor:	co|wow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	peekaboo . 629907_630440
+%mor:	co|peekaboo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	peekaboo . 631813_633197
+%mor:	co|peekaboo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	I see you . 633537_635333
+%mor:	pro:sub|I v|see pro:per|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	I see you . 636227_637733
+%mor:	pro:sub|I v|see pro:per|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	yes , sir . 655207_656447
+%mor:	co|yes cm|cm n|sir .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+*MOT:	yes , sir . 656463_657467
+%mor:	co|yes cm|cm n|sir .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+*MOT:	three bags full . 657550_659027
+%mor:	det:num|three n|bag-PL adj|full .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|POSTMOD 4|2|PUNCT
+*MOT:	one for the master . 660580_662693
+%mor:	det:num|one prep|for det:art|the n|master .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*MOT:	one for the dame . 662733_664427
+%mor:	det:num|one prep|for det:art|the n|dame .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*MOT:	one for the little girl who lives down the lane . 665037_669010
+%mor:	pro:indef|one prep|for det:art|the adj|little n|girl pro:rel|who
+	n|life-PL adv|down det:art|the n|lane .
+%gra:	1|0|INCROOT 2|1|NJCT 3|5|DET 4|5|MOD 5|2|POBJ 6|7|LINK 7|5|CMOD
+	8|7|NJCT 9|10|DET 10|8|POBJ 11|1|PUNCT
+*MOT:	what are you doing , Allen ? 673373_674480
+%mor:	pro:int|what aux|be&PRES pro:per|you part|do-PRESP cm|cm
+	n:prop|Allen ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|LP 6|4|ENUM 7|4|PUNCT
+*MOT:	you're too quiet . 675527_676563
+%mor:	pro:per|you~cop|be&PRES adv|too adj|quiet .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*MOT:	say Mommy@q ! 679370_680140
+%mor:	co|say meta|Mommy !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	Mommy . 681600_682117
+%mor:	n:prop|Mommy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	say Mommy@q ! 684023_684640
+%mor:	co|say meta|Mommy !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	Mama . 687467_688043
+%mor:	n:prop|Mama .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Mama . 689173_689863
+%mor:	n:prop|Mama .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	I know I'm your Dada and your Mama . 692077_694527
+%mor:	pro:sub|I v|know pro:sub|I~cop|be&1S det:poss|your n:prop|Dada
+	coord|and det:poss|your n:prop|Mama .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|DET 6|4|PRED 7|6|CONJ 8|9|DET
+	9|7|COORD 10|2|PUNCT
+*MOT:	can you say Mama@q ? 694533_695787
+%mor:	mod|can pro:per|you v|say meta|Mama ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	huh ? 697257_697693
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Mama . 698200_698763
+%mor:	n:prop|Mama .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Mama . 700277_700780
+%mor:	n:prop|Mama .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Mama . 702700_703427
+%mor:	n:prop|Mama .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Mama . 704727_705367
+%mor:	n:prop|Mama .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Mama . 710457_711090
+%mor:	n:prop|Mama .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Mama . 714550_715230
+%mor:	n:prop|Mama .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Mama . 722627_723373
+%mor:	n:prop|Mama .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Mama . 727147_727810
+%mor:	n:prop|Mama .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Allen , talk to me [=! voice] ! 732210_734200
+%mor:	n:prop|Allen cm|cm n|talk prep|to pro:obj|me !
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|3|NJCT 5|4|POBJ 6|1|PUNCT
+*MOT:	talk to your Mommy &=noise ! 735823_737627
+%mor:	n|talk prep|to det:poss|your n:prop|Mommy !
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*MOT:	hm: ? 769167_769670
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Allen . 849477_850823
+%mor:	n:prop|Allen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you're much too quiet . 852200_854587
+%mor:	pro:per|you~cop|be&PRES adv|much adv|too adj|quiet .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|JCT 5|2|PRED 6|2|PUNCT
+*MOT:	Allen . 860860_862477
+%mor:	n:prop|Allen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you're much too quiet . 863620_866390
+%mor:	pro:per|you~cop|be&PRES adv|much adv|too adj|quiet .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|JCT 5|2|PRED 6|2|PUNCT
+*MOT:	Allen . 880120_882130
+%mor:	n:prop|Allen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you're much too quiet . 883030_885823
+%mor:	pro:per|you~cop|be&PRES adv|much adv|too adj|quiet .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|JCT 5|2|PRED 6|2|PUNCT
+*MOT:	not so big ! 908927_909780
+%mor:	neg|not adv|so adj|big !
+%gra:	1|2|NEG 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*MOT:	so you don't choke . 909873_911123
+%mor:	co|so pro:per|you mod|do~neg|not v|choke .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*MOT:	get out o(f) there ! 940260_940950
+%mor:	v|get adv|out prep|of adv|there !
+%gra:	1|0|ROOT 2|1|JCT 3|2|JCT 4|3|POBJ 5|1|PUNCT
+*MOT:	get out o(f) there ! 942607_943923
+%mor:	v|get adv|out prep|of adv|there !
+%gra:	1|0|ROOT 2|1|JCT 3|2|JCT 4|3|POBJ 5|1|PUNCT
+*MOT:	get out o(f) there ! 950770_952323
+%mor:	v|get adv|out prep|of adv|there !
+%gra:	1|0|ROOT 2|1|JCT 3|2|JCT 4|3|POBJ 5|1|PUNCT
+*MOT:	okay . 1044253_1045827
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Allen . 1048287_1048893
+%mor:	n:prop|Allen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	come (h)ere , Allen ! 1052507_1053270
+%mor:	v|come adv|here cm|cm n:prop|Allen !
+%gra:	1|0|ROOT 2|1|JCT 3|1|LP 4|1|ENUM 5|1|PUNCT
+*MOT:	www . 1055703_1057143
+%add:	not CHI
+*MOT:	www . 1060207_1061527
+%add:	not CHI
+*MOT:	come on , Allen ! 1063227_1065010
+%mor:	v|come adv|on cm|cm n:prop|Allen !
+%gra:	1|0|ROOT 2|1|JCT 3|1|LP 4|1|ENUM 5|1|PUNCT
+*MOT:	come on , pumpkin &=noise ! 1066840_1068527
+%mor:	v|come adv|on cm|cm n|pumpkin !
+%gra:	1|0|ROOT 2|1|JCT 3|1|LP 4|1|ENUM 5|1|PUNCT
+*MOT:	come on , pumpkin &=noise ! 1070450_1072260
+%mor:	v|come adv|on cm|cm n|pumpkin !
+%gra:	1|0|ROOT 2|1|JCT 3|1|LP 4|1|ENUM 5|1|PUNCT
+*MOT:	come on , pumpkin ! 1075783_1077587
+%mor:	v|come adv|on cm|cm n|pumpkin !
+%gra:	1|0|ROOT 2|1|JCT 3|1|LP 4|1|ENUM 5|1|PUNCT
+*MOT:	come on , pumpkin ! 1082280_1084427
+%mor:	v|come adv|on cm|cm n|pumpkin !
+%gra:	1|0|ROOT 2|1|JCT 3|1|LP 4|1|ENUM 5|1|PUNCT
+*MOT:	what are you doing , Allen ? 1130417_1131587
+%mor:	pro:int|what aux|be&PRES pro:per|you part|do-PRESP cm|cm
+	n:prop|Allen ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|LP 6|4|ENUM 7|4|PUNCT
+*MOT:	Allen . 1209823_1211293
+%mor:	n:prop|Allen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what are you doing &=noise ? 1212850_1215530
+%mor:	pro:int|what aux|be&PRES pro:per|you part|do-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	gimme that ! 1261647_1262150
+%mor:	v|give~pro:obj|me pro:dem|that !
+%gra:	1|0|ROOT 2|1|OBJ 3|1|OBJ 4|1|PUNCT
+*MOT:	thank_you . 1268563_1269370
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hm: ? 1279120_1279500
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hm: ? 1283890_1284177
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hm: ? 1303280_1303563
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hm: ? 1332480_1332883
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hm: ? 1338743_1339087
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you like to throw . 1359077_1360190
+%mor:	pro:per|you v|like inf|to v|throw .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|2|PUNCT
+*MOT:	(le)t's get us some clothes on ! 1368187_1370243
+%mor:	v|let~pro:obj|us v|get pro:obj|us qn|some n:pt|clothes adv|on !
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ 5|6|QUANT 6|3|OBJ 7|6|JCT 8|1|PUNCT
+*MOT:	so late in the day getting [=! voice] . 1372430_1374337
+%mor:	adv|so adj|late prep|in det:art|the n|day part|get-PRESP .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|XJCT 7|2|PUNCT
+*MOT:	your clothes on . 1375157_1376370
+%mor:	det:poss|your n:pt|clothes adv|on .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MOT:	hi , handsome &=noise . 1404550_1405410
+%mor:	co|hi cm|cm adj|handsome .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+*MOT:	hi , handsome &=noise . 1407660_1408597
+%mor:	co|hi cm|cm adj|handsome .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+*MOT:	hi &=noise . 1411983_1412307
+%mor:	co|hi .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hi &=noise . 1413983_1414360
+%mor:	co|hi .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hey [?] . 1416047_1416410
+%mor:	co|hey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	say Mama@q &=noise ! 1419177_1420177
+%mor:	co|say meta|Mama !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	Mama &=noise . 1421560_1422247
+%mor:	n:prop|Mama .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Mama &=noise . 1423633_1424303
+%mor:	n:prop|Mama .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	can you say Mama@q &=noise ? 1426853_1428047
+%mor:	mod|can pro:per|you v|say meta|Mama ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	Mama loves me &=noise . 1430243_1431577
+%mor:	n:prop|Mama v|love-3S pro:obj|me .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	I know &=noise . 1433317_1434087
+%mor:	pro:sub|I v|know .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	you wanna get down &=noise . 1434090_1435140
+%mor:	pro:per|you v|want~inf|to v|get adv|down .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|2|PUNCT
+*MOT:	I know I know I know &=noise . 1435140_1436517
+%mor:	pro:sub|I v|know pro:sub|I v|know pro:sub|I v|know .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|SUBJ 6|2|CJCT 7|2|PUNCT
+*MOT:	there you go &=noise . 1452267_1453110
+%mor:	adv|there pro:per|you v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	Allen &=noise . 1462133_1463113
+%mor:	n:prop|Allen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	oh , Allen &=noise . 1463557_1464740
+%mor:	co|oh cm|cm n:prop|Allen .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+*MOT:	Allen &=noise . 1465560_1466583
+%mor:	n:prop|Allen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	oh oh oh , Allen &=noise . 1466777_1468267
+%mor:	co|oh co|oh co|oh cm|cm n:prop|Allen .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|LP 5|3|ENUM 6|3|PUNCT
+*MOT:	can Mommy see it &=noise ? 1474950_1475897
+%mor:	mod|can n:prop|Mommy v|see pro:per|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	can you hold that &=noise ? 1476157_1477127
+%mor:	mod|can pro:per|you v|hold pro:dem|that ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	you don't wanna eat the brush &=noise . 1502517_1504393
+%mor:	pro:per|you mod|do~neg|not v|want~inf|to v|eat det:art|the n|brush
+	.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+*MOT:	you don't wanna eat the brush &=noise . 1505200_1507213
+%mor:	pro:per|you mod|do~neg|not v|want~inf|to v|eat det:art|the n|brush
+	.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+*MOT:	like that brush don't you &=noise ? 1585770_1587100
+%mor:	prep|like pro:dem|that v|brush mod|do~neg|not pro:per|you ?
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|CPOBJ 4|6|AUX 5|4|NEG 6|3|OBJ 7|1|PUNCT
+*MOT:	you like that water &=noise ? 1589183_1590447
+%mor:	pro:per|you v|like det:dem|that n|water ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	Allen . 1654283_1654603
+%mor:	n:prop|Allen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what are you doing ? 1655190_1655897
+%mor:	pro:int|what aux|be&PRES pro:per|you part|do-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	hm: ? 1657107_1657297
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what are you doing [=! whispered] ? 1657937_1658517
+%mor:	pro:int|what aux|be&PRES pro:per|you part|do-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	huh ? 1660113_1660287
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hm: ? 1662167_1662363
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	oh no no no no no no . 1751370_1753880
+%mor:	co|oh co|no co|no co|no co|no co|no co|no .
+%gra:	1|3|COM 2|3|COM 3|7|COM 4|5|COM 5|7|COM 6|7|COM 7|0|INCROOT 8|7|PUNCT
+*MOT:	you are so handsome , man . 1763577_1765343
+%mor:	pro:per|you cop|be&PRES adv|so adj|handsome cm|cm n|man .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|LP 6|2|ENUM 7|2|PUNCT
+*MOT:	you are such a little handsome man . 1766667_1768933
+%mor:	pro:per|you cop|be&PRES qn|such det:art|a adj|little adj|handsome
+	n|man .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|QUANT 4|7|DET 5|7|MOD 6|7|MOD 7|2|PRED 8|2|PUNCT
+*MOT:	you know that ? 1770200_1770767
+%mor:	pro:per|you v|know pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	yeah you are . 1773420_1774037
+%mor:	co|yeah pro:per|you cop|be&PRES .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	say “bless you” ! 1783460_1784110
+%mor:	co|say v|bless pro:per|you !
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	bless you . 1786073_1786553
+%mor:	v|bless pro:per|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	say “God bless us” ! 1790270_1792420
+%mor:	v|say n:prop|God v|bless pro:obj|us !
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	say <“Jesus loves the little children”> [=! sung] ! 1793197_1797203
+%mor:	v|say n:prop|Jesus v|love-3S det:art|the adj|little n|child&PL !
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*MOT:	all the little children in the world [=! sung] . 1797940_1801333
+%mor:	qn|all det:art|the adj|little n|child&PL prep|in det:art|the
+	n|world .
+%gra:	1|4|QUANT 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*MOT:	red and yellow black and white [=! sung] . 1801760_1803827
+%mor:	adj|red coord|and n|yellow n|black coord|and adj|white .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|MOD 4|2|COORD 5|1|CONJ 6|5|COORD 7|1|PUNCT
+*MOT:	they are precious in his sight [=! sung] . 1804153_1806043
+%mor:	pro:sub|they cop|be&PRES adj|precious prep|in det:poss|his n|sight
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*MOT:	Jesus loves the little children in the world [=! sung] . 1806360_1810367
+%mor:	n:prop|Jesus v|love-3S det:art|the adj|little n|child&PL prep|in
+	det:art|the n|world .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*MOT:	yes Jesus loves me [=! sung] . 1811510_1814920
+%mor:	co|yes n:prop|Jesus v|love-3S pro:obj|me .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	yes Jesus loves me [=! sung] . 1815830_1819233
+%mor:	co|yes n:prop|Jesus v|love-3S pro:obj|me .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	yes Jesus loves me [=! sung] . 1820250_1823487
+%mor:	co|yes n:prop|Jesus v|love-3S pro:obj|me .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	for the bible tells me so [=! sung] . 1824140_1828310
+%mor:	prep|for det:art|the n|bible v|tell-3S pro:obj|me adv|so .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*MOT:	Jesus loves me [=! sung] . 1829277_1831490
+%mor:	n:prop|Jesus v|love-3S pro:obj|me .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	this I know [=! sung] . 1831603_1833077
+%mor:	pro:dem|this pro:sub|I v|know .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	for the bible tells me so [=! sung] . 1833803_1837587
+%mor:	prep|for det:art|the n|bible v|tell-3S pro:obj|me adv|so .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*MOT:	little ones to him below [=! sung] . 1838263_1841910
+%mor:	adj|little n|one-PL prep|to pro:obj|him adv|below .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|JCT 6|2|PUNCT
+*MOT:	they are weak but he is strong [=! sung] . 1842910_1846643
+%mor:	pro:sub|they cop|be&PRES adj|weak conj|but pro:sub|he cop|be&3S
+	adj|strong .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|LINK 5|6|SUBJ 6|2|CJCT 7|6|PRED
+	8|2|PUNCT
+*MOT:	yes Jesus loves me [=! sung] . 1847220_1850557
+%mor:	co|yes n:prop|Jesus v|love-3S pro:obj|me .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	yes Jesus loves me [=! sung] . 1851647_1854697
+%mor:	co|yes n:prop|Jesus v|love-3S pro:obj|me .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	yes Jesus loves me [=! sung] . 1855803_1858873
+%mor:	co|yes n:prop|Jesus v|love-3S pro:obj|me .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	for the bible tells me so [=! sung] . 1859693_1863870
+%mor:	prep|for det:art|the n|bible v|tell-3S pro:obj|me adv|so .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*MOT:	peekaboo . 1900550_1901310
+%mor:	co|peekaboo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	peekaboo . 1903177_1904160
+%mor:	co|peekaboo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	peekaboo . 1906740_1907577
+%mor:	co|peekaboo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	come on ! 1913637_1913957
+%mor:	v|come adv|on !
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	hm: ? 1922080_1922400
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you hold this one too ! 1973423_1974420
+%mor:	pro:per|you v|hold det:dem|this pro:indef|one adv|too !
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|PUNCT
+*MOT:	that's a comb . 1987377_1988367
+%mor:	pro:dem|that~cop|be&3S det:art|a n|comb .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	you (.) you know you don't throw it . 1988380_1989983
+%mor:	pro:per|you pro:per|you v|know pro:per|you mod|do~neg|not v|throw
+	pro:per|it .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|7|SUBJ 5|7|AUX 6|5|NEG 7|3|COMP 8|7|OBJ
+	9|3|PUNCT
+*MOT:	you comb your hair . 1991157_1992040
+%mor:	pro:per|you v|comb det:poss|your n|hair .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	there you go . 1996917_1997860
+%mor:	adv|there pro:per|you v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	no comb your hair &=noise ! 2003490_2004547
+%mor:	qn|no n|comb det:poss|your n|hair !
+%gra:	1|2|QUANT 2|0|INCROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	xxx comb your hair . 2007313_2008157
+%mor:	v|comb det:poss|your n|hair .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	xxx xxx . 2011717_2012207
+*MOT:	big boy . 2013410_2014450
+%mor:	adj|big n|boy .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	a [?] big boy . 2015070_2016357
+%mor:	det:art|a adj|big n|boy .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*MOT:	you comb Mommy's hair ? 2016960_2017997
+%mor:	pro:per|you v|comb adj|Mommy&dn-POSS n|hair ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*MOT:	here . 2018663_2018910
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	comb Mommy's hair ! 2019673_2020430
+%mor:	n|comb adj|Mommy&dn-POSS n|hair !
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*MOT:	thank_you . 2023683_2024990
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you comb Mommy's hair ? 2025003_2026297
+%mor:	pro:per|you v|comb adj|Mommy&dn-POSS n|hair ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*MOT:	comb Mommy's hair ! 2027700_2028390
+%mor:	n|comb adj|Mommy&dn-POSS n|hair !
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*MOT:	comb Mommy's hair ! 2029693_2030487
+%mor:	n|comb adj|Mommy&dn-POSS n|hair !
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*MOT:	comb Mommy's hair ! 2032113_2033067
+%mor:	n|comb adj|Mommy&dn-POSS n|hair !
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*MOT:	hair . 2033983_2034447
+%mor:	n|hair .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	not my face . 2034527_2035470
+%mor:	neg|not det:poss|my n|face .
+%gra:	1|3|NEG 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*MOT:	you comb my hair ? 2036317_2037213
+%mor:	pro:per|you v|comb det:poss|my n|hair ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	xxx look ! 2040940_2041437
+%mor:	co|look !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	look , Allen ! 2042263_2042787
+%mor:	v|look cm|cm n:prop|Allen !
+%gra:	1|0|ROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+*MOT:	look ! 2042983_2043197
+%mor:	co|look !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	xxx . 2043690_2043900
+*MOT:	will you comb Mommy's hair ? 2046600_2048027
+%mor:	mod|will pro:per|you v|comb adj|Mommy&dn-POSS n|hair ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*MOT:	that's how you do it . 2049413_2050493
+%mor:	pro:dem|that~cop|be&3S pro:int|how pro:per|you v|do pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CPRED 6|5|OBJ 7|2|PUNCT
+*MOT:	thank_you . 2055123_2056107
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	xxx xxx . 2063033_2063880
+*MOT:	thank_you . 2064253_2064750
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	it doesn't go on your mouth . 2064933_2066630
+%mor:	pro:per|it mod|do&3S~neg|not v|go prep|on det:poss|your n|mouth .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*MOT:	so you think you should throw it on the floor okay . 2067577_2070367
+%mor:	co|so pro:per|you v|think pro:per|you mod|should v|throw pro:per|it
+	prep|on det:art|the n|floor adj|okay .
+%gra:	1|3|COM 2|3|SUBJ 3|6|SUBJ 4|3|OBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|10|DET 10|8|POBJ 11|10|POSTMOD 12|6|PUNCT
+*MOT:	just give Mommy a second ! 2073267_2074503
+%mor:	adv|just v|give n:prop|Mommy det:art|a n|second !
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ2 4|5|DET 5|2|OBJ 6|2|PUNCT
+*MOT:	you get (.) both of (th)em ? 2093273_2094480
+%mor:	pro:per|you v|get qn|both prep|of pro:obj|them ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|JCT 5|4|POBJ 6|2|PUNCT
+*MOT:	you wanna get both of (th)em ? 2095740_2096900
+%mor:	pro:per|you v|want~inf|to v|get qn|both prep|of pro:obj|them ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|PRED 6|5|JCT 7|6|POBJ 8|2|PUNCT
+*MOT:	hm: ? 2097490_2097817
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	okay . 2099857_2100680
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	thank_you &=noise . 2101377_2102060
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	gonna sit a minute [?] &=noise ? 2103220_2104080
+%mor:	part|go-PRESP~inf|to v|sit det:art|a n|minute ?
+%gra:	1|0|INCROOT 2|3|INF 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*MOT:	there you go . 2125093_2125807
+%mor:	adv|there pro:per|you v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	(ex)cuse me ! 2131050_2131513
+%mor:	v|excuse pro:obj|me !
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	why you gonna put it up under the bed [?] &=noise ? 2225100_2226897
+%mor:	pro:int|why pro:per|you part|go-PRESP~inf|to v|put&ZERO pro:per|it
+	adv|up prep|under det:art|the n|bed ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|5|JCT 8|5|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*MOT:	&a:h . 2252767_2253387
+*MOT:	so you're gonna be into hiding things from Mommy I see . 2254343_2259260
+%mor:	adv|so pro:per|you~aux|be&PRES part|go-PRESP~inf|to cop|be
+	prep|into part|hide-PRESP n|thing-PL prep|from n:prop|Mommy
+	pro:sub|I v|see .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|13|XJCT 5|6|INF 6|4|COMP 7|6|JCT 8|7|POBJ
+	9|8|OBJ 10|9|NJCT 11|10|POBJ 12|13|SUBJ 13|0|ROOT 14|13|PUNCT
+*MOT:	take (...) your brush ! 2295077_2296510
+%mor:	v|take det:poss|your n|brush !
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	brush your hair ! 2296877_2297930
+%mor:	v|brush det:poss|your n|hair !
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	thank_you . 2318933_2319937
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	thank_you . 2322827_2323920
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	can you walk for Mommy ? 2337673_2338830
+%mor:	mod|can pro:per|you v|walk prep|for n:prop|Mommy ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*MOT:	what ? 2357843_2358400
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what ? 2359967_2360380
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you sleepy ? 2366253_2366973
+%mor:	pro:per|you adj|sleep&dn-Y ?
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*MOT:	are you pretty sleepy , pumpkin pumpkin pumpkin &=noise ? 2368750_2371347
+%mor:	cop|be&PRES pro:per|you adv|pretty adj|sleep&dn-Y cm|cm n|pumpkin
+	n|pumpkin n|pumpkin ?
+%gra:	1|0|ROOT 2|8|MOD 3|4|JCT 4|8|MOD 5|4|LP 6|8|MOD 7|8|MOD 8|1|PRED
+	9|1|PUNCT
+*MOT:	I don't want you to go to sleep yet &=noise . 2374993_2376553
+%mor:	pro:sub|I mod|do~neg|not v|want pro:per|you inf|to v|go prep|to
+	n|sleep adv|yet .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|SUBJ 6|7|INF 7|4|COMP 8|7|JCT
+	9|8|POBJ 10|7|JCT 11|4|PUNCT
+*MOT:	you can't go to sleep yet [=! voice] . 2377637_2379713
+%mor:	pro:per|you mod|can~neg|not v|go prep|to n|sleep adv|yet .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|JCT 8|4|PUNCT
+*MOT:	hm: ? 2382623_2382967
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hm: ? 2391037_2391510
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	was that funny ? 2497100_2498120
+%mor:	cop|be&PAST&13S det:dem|that adj|fun&dn-Y ?
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|1|PUNCT
+*MOT:	hm: ? 2499550_2499833
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	was that funny ? 2502620_2503693
+%mor:	cop|be&PAST&13S det:dem|that adj|fun&dn-Y ?
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|1|PUNCT
+*MOT:	was that funny money money bunny honey [=! voice] ? 2511863_2514777
+%mor:	cop|be&PAST&13S det:dem|that adj|fun&dn-Y n|money n|money n|bunny
+	n|honey ?
+%gra:	1|0|ROOT 2|7|DET 3|7|MOD 4|7|MOD 5|7|MOD 6|7|MOD 7|1|PRED 8|1|PUNCT
+*MOT:	all of those rhyme with funny honey bunny . 2515033_2517627
+%mor:	pro:indef|all prep|of det:dem|those n|rhyme prep|with adj|fun&dn-Y
+	n|honey n|bunny .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|1|JCT 6|8|MOD 7|8|MOD 8|5|POBJ
+	9|1|PUNCT
+*MOT:	hm: ? 2522497_2522903
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Allen . 2568237_2568867
+%mor:	n:prop|Allen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Allen . 2568880_2569423
+%mor:	n:prop|Allen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Allen . 2569467_2569893
+%mor:	n:prop|Allen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Allen . 2570937_2571493
+%mor:	n:prop|Allen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Allen . 2571570_2572073
+%mor:	n:prop|Allen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	here . 2574900_2575140
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	come (h)ere ! 2575407_2575753
+%mor:	v|come adv|here !
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	hm: ? 2580093_2580343
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	come (h)ere ! 2580943_2581290
+%mor:	v|come adv|here !
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	Allen . 2583723_2584200
+%mor:	n:prop|Allen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Allen . 2584657_2585420
+%mor:	n:prop|Allen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	here . 2586163_2586420
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	come (h)ere ! 2586680_2586987
+%mor:	v|come adv|here !
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	what is it ? 2597990_2599107
+%mor:	pro:int|what cop|be&3S pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	huh ? 2643710_2643937
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	huh ? 2645600_2645790
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hm: ? 2683463_2683823
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hm: ? 2685790_2686080
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hm: ? 2688347_2688590
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hm: ? 2692043_2692373
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hm: ? 2695447_2695763
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	here . 2707780_2707947
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	say thank_you@q ! 2709790_2710697
+%mor:	co|say meta|thank_you !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	thank_you . 2711750_2712540
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	thank_you . 2714573_2715523
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	say [?] thank_you@q ! 2719437_2720410
+%mor:	co|say meta|thank_you !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	you do hafta say it . 2723697_2724790
+%mor:	pro:per|you v|do mod|have~inf|to v|say pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|AUX 4|5|INF 5|2|COMP 6|5|OBJ 7|2|PUNCT
+*MOT:	it sound like you said +"/. 2734783_2735933
+%mor:	pro:per|it v|sound prep|like pro:per|you v|say&PAST +"/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|SUBJ 5|3|POBJ 6|2|PUNCT
+*MOT:	I don't hafta say it . 2736450_2737563
+%mor:	pro:sub|I mod|do~neg|not mod|have~inf|to v|say pro:per|it .
+%gra:	1|6|SUBJ 2|6|AUX 3|2|NEG 4|6|AUX 5|6|INF 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*MOT:	byebye [=! voice] . 2746767_2747363
+%mor:	co|byebye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	byebye [=! voice] . 2750377_2751193
+%mor:	co|byebye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	byebye [=! voice] . 2752927_2753763
+%mor:	co|byebye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	oh , Allen . 2755877_2756643
+%mor:	co|oh cm|cm n:prop|Allen .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+*MOT:	hi . 2757740_2759343
+%mor:	co|hi .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	look ! 2762090_2762440
+%mor:	co|look !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	those guys are saying hi@q to you over there . 2762450_2764927
+%mor:	det:dem|those n|guy-PL aux|be&PRES part|say-PRESP meta|hi prep|to
+	pro:per|you prep|over n|there .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|5|JCT 7|6|POBJ 8|7|NJCT
+	9|8|POBJ 10|4|PUNCT
+*MOT:	look ! 2764920_2765157
+%mor:	co|look !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	xxx &=noise . 2765563_2766507
+*MOT:	hi . 2767057_2768670
+%mor:	co|hi .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	look up there ! 2768753_2769407
+%mor:	co|look prep|up n|there !
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MOT:	hi , Allen [=! voice] . 2770167_2771107
+%mor:	co|hi cm|cm n:prop|Allen .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+*MOT:	hi &=noise . 2771817_2772717
+%mor:	co|hi .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Allen , your little hair is getting long . 2796573_2798613
+%mor:	n:prop|Allen cm|cm det:poss|your adj|little n|hair aux|be&3S
+	part|get-PRESP adv|long .
+%gra:	1|7|SUBJ 2|1|LP 3|5|DET 4|5|MOD 5|1|APP 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|7|PUNCT
+*MOT:	okay . 2850713_2851787
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	I need that out_of your hand , Allen . 2852780_2854560
+%mor:	pro:sub|I v|need pro:dem|that prep|out_of det:poss|your n|hand
+	cm|cm n:prop|Allen .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|2|LP 8|2|ENUM
+	9|2|PUNCT
+*MOT:	can Mommy have it ? 2861617_2862533
+%mor:	mod|can n:prop|Mommy v|have pro:per|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	huh ? 2865367_2865760
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	can Mommy have it ? 2874700_2875690
+%mor:	mod|can n:prop|Mommy v|have pro:per|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	(e)xcuse me ! 2886363_2887013
+%mor:	v|excuse pro:obj|me !
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	www . 2948313_2948943
+%add:	not CHI
+*MOT:	www . 2960287_2961220
+%add:	not CHI
+*MOT:	let's take a walk , little man little man little man [=! sung] ! 2965687_2969290
+%mor:	v|let~pro:obj|us v|take det:art|a n|walk cm|cm adj|little n|man
+	adj|little n|man adj|little n|man !
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|5|DET 5|3|OBJ 6|1|LP 7|8|MOD 8|1|OBJ
+	9|10|MOD 10|12|MOD 11|12|MOD 12|8|APP 13|1|PUNCT
+*MOT:	let's take a walk , Allen [=! sung] ! 2969813_2971843
+%mor:	v|let~pro:obj|us v|take det:art|a n|walk cm|cm n:prop|Allen !
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|5|DET 5|3|OBJ 6|5|LP 7|5|ENUM 8|1|PUNCT
+*MOT:	Allen . 2972020_2972857
+%mor:	n:prop|Allen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	let's take a walk , little man little man [=! sung] ! 2973367_2976333
+%mor:	v|let~pro:obj|us v|take det:art|a n|walk cm|cm adj|little n|man
+	adj|little n|man !
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|5|DET 5|3|OBJ 6|1|LP 7|8|MOD 8|10|MOD
+	9|10|MOD 10|1|JCT 11|1|PUNCT
+*MOT:	oh she's giving her birdie something to eat . 2993233_2995907
+%mor:	co|oh pro:sub|she~aux|be&3S part|give-PRESP det:poss|her n|bird-DIM
+	pro:indef|something inf|to v|eat .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|POSTMOD 8|9|INF
+	9|7|COMP 10|4|PUNCT
+*MOT:	xxx xxx [=! whispered] . 3019927_3020883
+*MOT:	don't lose that okay ? 3028157_3029687
+%mor:	mod|do~neg|not v|lose adv|that adj|okay ?
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|5|JCT 5|3|JCT 6|3|PUNCT
+*MOT:	little man little man [=! sung] . 3063120_3064843
+%mor:	adj|little n|man adj|little n|man .
+%gra:	1|2|MOD 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*MOT:	I want Allen [?] . 3065717_3067293
+%mor:	pro:sub|I v|want n:prop|Allen .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	Allen . 3100933_3102273
+%mor:	n:prop|Allen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you wanna ride in your little car &=noise ? 3104703_3106317
+%mor:	pro:per|you v|want~inf|to v|ride prep|in det:poss|your adj|little
+	n|car ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|2|PUNCT
+*MOT:	huh ? 3108747_3109053
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	wanna go for a ride in your little automobile &=noise ? 3110770_3113603
+%mor:	v|want~inf|to v|go prep|for det:art|a n|ride prep|in det:poss|your
+	adj|little n|automobile ?
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|1|PUNCT
+*MOT:	automobile &=noise . 3114760_3115883
+%mor:	n|automobile .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	(au)tomobile [=! voice] . 3116113_3116867
+%mor:	n|automobile .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	huh ? 3120067_3120420
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hm: ? 3131440_3131823
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	mhm . 3134157_3134963
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	huh ? 3142613_3142987
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	put that down ! 3148113_3148627
+%mor:	v|put&ZERO pro:dem|that adv|down !
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*MOT:	no . 3148623_3148827
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	don't put that in your mouth ! 3149083_3149817
+%mor:	mod|do~neg|not v|put&ZERO pro:dem|that prep|in det:poss|your
+	n|mouth !
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*MOT:	no . 3150873_3151097
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	no . 3156047_3156627
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Allen . 3172220_3172690
+%mor:	n:prop|Allen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	don't put that in your mouth , sweetie ! 3173620_3175990
+%mor:	mod|do~neg|not v|put&ZERO pro:dem|that prep|in det:poss|your
+	n|mouth cm|cm co|sweetie !
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|LP
+	9|3|COM 10|3|PUNCT
+*MOT:	it's dirty . 3178817_3180393
+%mor:	pro:per|it~cop|be&3S adj|dirt&dn-Y .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	you wanna ride your car ? 3214913_3215967
+%mor:	pro:per|you v|want~inf|to v|ride det:poss|your n|car ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+*MOT:	hm: ? 3218057_3218627
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	wanna ride your car ? 3219953_3221087
+%mor:	v|want~inf|to v|ride det:poss|your n|car ?
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*MOT:	hold on ! 3226513_3227280
+%mor:	n|hold adv|on !
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*MOT:	do you like that little horn ? 3229297_3230613
+%mor:	mod|do pro:per|you v|like det:dem|that adj|little n|horn ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*MOT:	hi . 3230753_3231593
+%mor:	co|hi .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hi . 3233650_3234613
+%mor:	co|hi .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	say “hi , Mommy” ! 3234773_3235810
+%mor:	co|say co|hi cm|cm n:prop|Mommy !
+%gra:	1|4|COM 2|4|COM 3|2|LP 4|0|ROOT 5|4|PUNCT
+*MOT:	hm: ? 3266073_3266493
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	let's do this so we can go upstairs ! 3272083_3274453
+%mor:	v|let~pro:obj|us v|do pro:dem|this conj|so pro:sub|we mod|can v|go
+	adv|upstairs !
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ 5|8|LINK 6|8|SUBJ 7|8|AUX 8|1|CJCT
+	9|8|JCT 10|1|PUNCT
+*MOT:	you like that &=noise ? 3301030_3301927
+%mor:	pro:per|you v|like pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	huh &=noise ? 3303730_3304140
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	how do you make that sound ? 3347463_3348710
+%mor:	pro:int|how mod|do pro:per|you v|make adv|that n|sound ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|JCT 7|4|PUNCT
+*MOT:	let's go , little one little one little one [=! sung] ! 3364653_3368347
+%mor:	v|let~pro:obj|us v|go cm|cm adj|little pro:indef|one adj|little
+	pro:indef|one adj|little pro:indef|one !
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|1|LP 5|1|JCT 6|5|CONJ 7|8|MOD 8|6|COORD
+	9|10|MOD 10|8|PRED 11|1|PUNCT
+*MOT:	let's go , little one ! 3368887_3370740
+%mor:	v|let~pro:obj|us v|go cm|cm adj|little pro:indef|one !
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|LP 5|6|MOD 6|3|OBJ 7|1|PUNCT
+*MOT:	okay . 3375293_3376057
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	www . 3376163_3377470
+%add:	not CHI
+*MOT:	say thank_you@q ! 3380183_3381467
+%mor:	co|say meta|thank_you !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	come on ! 3382603_3383093
+%mor:	v|come adv|on !
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	come on ! 3389190_3389730
+%mor:	v|come adv|on !
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	let's tie up your shoe ! 3393360_3394483
+%mor:	v|let~pro:obj|us v|tie prep|up det:poss|your n|shoe !
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*MOT:	xxx xxx xxx . 3396183_3397120
+*MOT:	you like that car ? 3400370_3401493
+%mor:	pro:per|you v|like det:dem|that n|car ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	xxx xxx [=! whispered] . 3402743_3403703
+*MOT:	wanna ride some more ? 3404640_3405690
+%mor:	v|want~inf|to v|ride qn|some pro:indef|more ?
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|5|QUANT 5|3|OBJ 6|1|PUNCT
+*MOT:	got another car out here . 3406730_3407970
+%mor:	v|get&PAST qn|another n|car prep|out n|here .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|3|NJCT 5|4|POBJ 6|1|PUNCT
+*MOT:	got two cars out here . 3408947_3410630
+%mor:	v|get&PAST det:num|two n|car-PL prep|out n|here .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|3|NJCT 5|4|POBJ 6|1|PUNCT
+*MOT:	wanna ride [?] ? 3413620_3414220
+%mor:	v|want~inf|to v|ride ?
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|1|PUNCT
+*MOT:	you gonna [?] ride your car ? 3415370_3416703
+%mor:	pro:per|you part|go-PRESP~inf|to v|ride det:poss|your n|car ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+*MOT:	hm: ? 3418223_3418447
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	oh , Allen . 3426760_3427880
+%mor:	co|oh cm|cm n:prop|Allen .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+*MOT:	xxx xxx . 3433923_3434680
+*MOT:	can you sit right here (un)til Mommy comes back ? 3439503_3442040
+%mor:	mod|can pro:per|you v|sit adv|right adv|here prep|until
+	n:prop|Mommy v|come-3S adv|back ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|JCT 6|8|LINK 7|8|SUBJ 8|3|CJCT
+	9|8|JCT 10|3|PUNCT
+*MOT:	well you don't hafta sit . 3442047_3443077
+%mor:	co|well pro:per|you mod|do~neg|not mod|have~inf|to v|sit .
+%gra:	1|7|COM 2|7|SUBJ 3|7|AUX 4|3|NEG 5|7|AUX 6|7|INF 7|0|ROOT 8|7|PUNCT
+*MOT:	you can stand . 3443510_3444600
+%mor:	pro:per|you mod|can v|stand .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*MOT:	(be)cause Mommy wants you to walk . 3445100_3446967
+%mor:	conj|because n:prop|Mommy v|want-3S pro:per|you inf|to v|walk .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|COMP 7|3|PUNCT
+*MOT:	come on ! 3489797_3490150
+%mor:	v|come adv|on !
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	come on ! 3491737_3492227
+%mor:	v|come adv|on !
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	come on ! 3493640_3493923
+%mor:	v|come adv|on !
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	don't you wanna sit in your chair ? 3493937_3495830
+%mor:	mod|do~neg|not pro:per|you v|want~inf|to v|sit prep|in
+	det:poss|your n|chair ?
+%gra:	1|4|AUX 2|1|NEG 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*MOT:	whoa . 3495893_3496280
+%mor:	co|whoa .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	chair . 3497330_3498063
+%mor:	n|chair .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	come on ! 3534190_3534570
+%mor:	v|come adv|on !
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	you are my sunshine [=! sung] . 3550470_3553573
+%mor:	pro:per|you cop|be&PRES det:poss|my n|sunshine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	come on , Allen ! 3564017_3564867
+%mor:	v|come adv|on cm|cm n:prop|Allen !
+%gra:	1|0|ROOT 2|1|JCT 3|1|LP 4|1|ENUM 5|1|PUNCT
+*MOT:	come in and talk to me ! 3567173_3568440
+%mor:	v|come adv|in coord|and n|talk prep|to pro:obj|me !
+%gra:	1|0|ROOT 2|1|JCT 3|1|CONJ 4|3|COORD 5|4|NJCT 6|5|POBJ 7|1|PUNCT
+*MOT:	can you come and talk to your mommy &=noise ? 3569903_3571773
+%mor:	mod|can pro:per|you v|come coord|and n|talk prep|to det:poss|your
+	n|mommy ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*MOT:	hm: ? 3578667_3579097
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	whatcha doing with that little high pitched scream ? 3658433_3660310
+%mor:	pro:int|what~aux|are~pro|you part|do-PRESP prep|with det:dem|that
+	adj|little n|high v|pitch-PAST n|scream ?
+%gra:	1|4|LINK 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|9|SUBJ
+	9|5|POBJ 10|9|OBJ 11|4|PUNCT
+*MOT:	huh ? 3661913_3662263
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hm: ? 3666840_3667407
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hm: ? 3669403_3670380
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hm: ? 3672433_3673290
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what ? 3694913_3695220
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hm: ? 3747883_3748243
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hm: ? 3750820_3751247
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hm: ? 3798480_3798780
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Allen . 3848557_3849673
+%mor:	n:prop|Allen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	where are you going ? 3851460_3853130
+%mor:	pro:int|where aux|be&PRES pro:per|you part|go-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	Allen , can I sit in your chair ? 4011043_4013127
+%mor:	n:prop|Allen cm|cm mod|can pro:sub|I v|sit prep|in det:poss|your
+	n|chair ?
+%gra:	1|5|SUBJ 2|1|LP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*MOT:	huh ? 4015687_4016063
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	say fish@q ! 4019030_4019660
+%mor:	co|say meta|fish !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	say fish@q ! 4020343_4021250
+%mor:	co|say meta|fish !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	where's the fish ? 4021987_4022763
+%mor:	pro:int|where~cop|be&3S det:art|the n|fish ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	can you show Mommy the fish ? 4022850_4024413
+%mor:	mod|can pro:per|you v|show n:prop|Mommy det:art|the n|fish ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|DET 6|4|APP 7|3|PUNCT
+*MOT:	what are you doing ? 4055747_4056533
+%mor:	pro:int|what aux|be&PRES pro:per|you part|do-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	say fish@q ! 4058797_4059557
+%mor:	co|say meta|fish !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	oh I'm sorry . 4130143_4131540
+%mor:	co|oh pro:sub|I~cop|be&1S adj|sorry .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*MOT:	who is that ? 4403987_4404617
+%mor:	pro:int|who cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	who is that [=! whispered] ? 4408503_4408993
+%mor:	pro:int|who cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	who is that [=! whispered] ? 4412027_4412457
+%mor:	pro:int|who cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	hm: ? 4414663_4414910
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	who is that [=! whispered] ? 4415210_4415657
+%mor:	pro:int|who cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	that Allen ? 4417277_4417947
+%mor:	comp|that n:prop|Allen ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*MOT:	that Allen ? 4419197_4419873
+%mor:	comp|that n:prop|Allen ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*MOT:	say “hi , Allen” ! 4420043_4421070
+%mor:	co|say co|hi cm|cm n:prop|Allen !
+%gra:	1|4|COM 2|4|COM 3|2|LP 4|0|ROOT 5|4|PUNCT
+*MOT:	who is that ? 4421390_4421857
+%mor:	pro:int|who cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	who is that [=! whispered] ? 4423833_4424267
+%mor:	pro:int|who cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	who is that [=! whispered] ? 4425950_4426420
+%mor:	pro:int|who cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	that Allen [=! whispered] ? 4427173_4427703
+%mor:	comp|that n:prop|Allen ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*MOT:	that's the baby . 4427730_4428607
+%mor:	pro:dem|that~cop|be&3S det:art|the n|baby .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	is that the baby ? 4428780_4429787
+%mor:	cop|be&3S comp|that det:art|the n|baby ?
+%gra:	1|0|ROOT 2|1|PRED 3|4|DET 4|2|OM 5|1|PUNCT
+*MOT:	that Allen ? 4431157_4431767
+%mor:	comp|that n:prop|Allen ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*MOT:	see Kayla ? 4432260_4432907
+%mor:	v|see n:prop|Kayla ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	say “hi , Kayla” ! 4433327_4434190
+%mor:	co|say co|hi cm|cm n:prop|Kayla !
+%gra:	1|4|COM 2|4|COM 3|2|LP 4|0|ROOT 5|4|PUNCT
+*MOT:	say “hi , Kayla” ! 4435310_4436210
+%mor:	co|say co|hi cm|cm n:prop|Kayla !
+%gra:	1|4|COM 2|4|COM 3|2|LP 4|0|ROOT 5|4|PUNCT
+*MOT:	that Kayla ? 4436563_4437247
+%mor:	comp|that n:prop|Kayla ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*MOT:	hm: ? 4439103_4439357
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	that Kayla ? 4440250_4441060
+%mor:	comp|that n:prop|Kayla ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*MOT:	hm: ? 4443367_4443630
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	yeah . 4446760_4447020
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	can't eat (th)em . 4449527_4450693
+%mor:	mod|can~neg|not v|eat pro:obj|them .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	what's that ? 4454487_4455017
+%mor:	pro:int|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	what's that ? 4459480_4459983
+%mor:	pro:int|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	what's that ? 4462853_4463290
+%mor:	pro:int|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	that Allen ? 4465080_4465760
+%mor:	comp|that n:prop|Allen ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*MOT:	is that the baby ? 4466003_4467337
+%mor:	cop|be&3S comp|that det:art|the n|baby ?
+%gra:	1|0|ROOT 2|1|PRED 3|4|DET 4|2|OM 5|1|PUNCT
+*MOT:	is that ? 4467523_4467867
+%mor:	cop|be&3S pro:dem|that ?
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*MOT:	guess I better [?] . 4477243_4477977
+%mor:	n|guess pro:sub|I adv|good&CP .
+%gra:	1|0|INCROOT 2|1|CMOD 3|2|JCT 4|1|PUNCT
+*MOT:	what's that ? 4479597_4480147
+%mor:	pro:int|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	hm: ? 4483533_4483757
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	that Allen ? 4484357_4484940
+%mor:	comp|that n:prop|Allen ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*MOT:	that the Easter_bunny ? 4485463_4486503
+%mor:	comp|that det:art|the n:prop|Easter_bunny ?
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*MOT:	hm: ? 4488240_4488440
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you can't kiss (h)im . 4491413_4492467
+%mor:	pro:per|you mod|can~neg|not v|kiss pro:obj|him .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*MOT:	xxx . 4499557_4499993
+@End

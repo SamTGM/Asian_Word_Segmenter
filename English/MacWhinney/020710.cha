@@ -1,0 +1,252 @@
+@UTF8
+@PID:	11312/c-00016460-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Ross Target_Child , MOT Mary Mother
+@ID:	eng|MacWhinney|CHI|2;07.10|male|TD||Target_Child|||
+@ID:	eng|MacWhinney|MOT||female|||Mother|||
+@Media:	020710, audio
+@Date:	04-AUG-1980
+@Types:	long, toyplay, TD
+*MOT:	okay you talk to Daddy . 0_21177
+%mor:	co|okay pro:per|you v|talk prep|to n:prop|Daddy .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	<is Daddy with you> [/] is Daddy with you ? 21177_24637
+%mor:	cop|be&3S n:prop|Daddy prep|with pro:per|you ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|NJCT 4|3|POBJ 5|1|PUNCT
+*MOT:	you talk to Daddy on the phone . 24637_26123
+%mor:	pro:per|you v|talk prep|to n:prop|Daddy prep|on det:art|the n|phone
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*MOT:	no that phone . 26123_27121
+%mor:	qn|no det:dem|that n|phone .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*CHI:	is Daddy ? 27121_27221
+%mor:	cop|be&3S n:prop|Daddy ?
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*MOT:	no this is not Daddy , that's Daddy . 27221_28940
+%mor:	qn|no pro:dem|this cop|be&3S neg|not n:prop|Daddy cm|cm
+	pro:rel|that~cop|be&3S n:prop|Daddy .
+%gra:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PRED 6|5|LP 7|8|LINK 8|5|CMOD
+	9|8|PRED 10|3|PUNCT
+*CHI:	is that yours ? 28940_30936
+%mor:	cop|be&3S comp|that pro:poss|yours ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OM 4|1|PUNCT
+*MOT:	this is a tape recorder , that is Daddy . 30936_32910
+%mor:	pro:dem|this cop|be&3S det:art|a n|tape n|record&dv-AGT cm|cm
+	pro:rel|that cop|be&3S n:prop|Daddy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|LP 7|8|LINK 8|5|CMOD
+	9|8|PRED 10|2|PUNCT
+*MOT:	talk to Daddy on the telephone . 32910_35239
+%mor:	n|talk prep|to n:prop|Daddy prep|on det:art|the n|telephone .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|NJCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*MOT:	that's right . 35239_35726
+%mor:	pro:dem|that~cop|be&3S co|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	that yours ? 35726_37700
+%mor:	comp|that pro:poss|yours ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*MOT:	yes this is mine . 37700_38831
+%mor:	co|yes pro:dem|this cop|be&3S pro:poss|mine .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@New Episode
+@Tape Location:	tape21 , side a , 010
+@Date:	04-AUG-1980
+*CHI:	you &ge yeah . 38831_42762
+%mor:	pro:per|you co|yeah .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*CHI:	yeah I pway [: play] baskpots [: basketball] [?] . 42762_50564
+%mor:	co|yeah pro:sub|I n|play n|+n|basket+n|ball .
+%gra:	1|4|COM 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*CHI:	pway [: play] backpots [: basketball] [?] . 50564_54465
+%mor:	n|play n|+n|basket+n|ball .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	yeah . 54465_56137
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	I go down in the water . 56137_66454
+%mor:	pro:sub|I v|go adv|down prep|in det:art|the n|water .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*CHI:	yeah (.) yeah . 66454_71926
+%mor:	co|yeah co|yeah .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	Eric goey@n [: go] [*] . 71926_75910
+%mor:	n:prop|Eric v|go .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	my knee not hurt . 75910_83981
+%mor:	det:poss|my n|knee neg|not part|hurt&PASTP .
+%gra:	1|2|DET 2|4|SUBJ 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*CHI:	yeah (.) yeah . 83981_95146
+%mor:	co|yeah co|yeah .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	my tiger right there . 95146_98861
+%mor:	det:poss|my n|tiger adv|right adv|there .
+%gra:	1|2|DET 2|0|INCROOT 3|4|JCT 4|2|NJCT 5|2|PUNCT
+*CHI:	fine . 98366_103939
+%mor:	adv|fine .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	huh ? 103939_105425
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	uhhuh . 105425_107282
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	no . 107282_110709
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	I'm gonna go go swimming . 110709_115642
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|go v|go part|swim-PRESP
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|INF 5|6|SRL 6|3|COMP 7|6|COMP 8|3|PUNCT
+*CHI:	now watch . 115642_119354
+%mor:	adv|now v|watch .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	I go watch . 119354_122038
+%mor:	pro:sub|I v|go n|watch .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	I'm gonna go go swimming . 122038_125196
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|go v|go part|swim-PRESP
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|INF 5|6|SRL 6|3|COMP 7|6|COMP 8|3|PUNCT
+*CHI:	yeah (.) yeah . 125196_129097
+%mor:	co|yeah co|yeah .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	okay go bye . 129097_134670
+%mor:	co|okay v|go co|bye .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	yeah ? 134670_136425
+%mor:	co|yeah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	that Daddy . 136425_139768
+%mor:	comp|that n:prop|Daddy .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*CHI:	that you Daddy , that your Daddy ? 139825_143112
+%mor:	comp|that pro:per|you n:prop|Daddy cm|cm pro:rel|that det:poss|your
+	n:prop|Daddy ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|LP 5|7|LINK 6|7|DET 7|3|APP 8|3|PUNCT
+*MOT:	yeah this is my Daddy . 143112_143855
+%mor:	co|yeah pro:dem|this cop|be&3S co|my n:prop|Daddy .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|COM 5|3|PRED 6|3|PUNCT
+*MOT:	I hafta go turn off the other phone . 143855_145796
+%mor:	pro:sub|I mod|have~inf|to v|go n|turn prep|off det:art|the qn|other
+	n|phone .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|OBJ 6|4|JCT 7|9|DET 8|9|QUANT
+	9|6|POBJ 10|4|PUNCT
+@New Episode
+@Tape Location:	tape21 , side a , 010
+@Date:	04-AUG-1980
+*CHI:	that's a d@l is for cereal . 145796_152381
+%mor:	pro:dem|that~cop|be&3S det:art|a n:let|d cop|be&3S prep|for
+	n|cereal .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|PRED 6|5|JCT 7|6|POBJ 8|2|PUNCT
+*MOT:	that's a d@l ? 152381_154610
+%mor:	pro:dem|that~cop|be&3S det:art|a n:let|d ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	that's a d@l is for cereal . 154610_160183
+%mor:	pro:dem|that~cop|be&3S det:art|a n:let|d cop|be&3S prep|for
+	n|cereal .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|PRED 6|5|JCT 7|6|POBJ 8|2|PUNCT
+*MOT:	is that a letter d@l ? 160183_164352
+%mor:	cop|be&3S comp|that det:art|a n|letter n:let|d ?
+%gra:	1|0|ROOT 2|5|LINK 3|4|DET 4|5|SUBJ 5|1|PRED 6|1|PUNCT
+*CHI:	yeah (.) for a cereal . 164352_167510
+%mor:	co|yeah prep|for det:art|a n|cereal .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*CHI:	&deah (.) the other d@l . 167510_171039
+%mor:	det:art|the qn|other n:let|d .
+%gra:	1|2|DET 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*MOT:	this is cereal . 171039_173268
+%mor:	pro:dem|this cop|be&3S n|cereal .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	dis [: this] is cereal ? 173268_175312
+%mor:	pro:dem|this cop|be&3S n|cereal ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	yeah (.) have you &-um (.) do you have alphabits at school ? 175312_182185
+%mor:	co|yeah v|have pro:per|you v|do pro:per|you v|have n|alphabit-PL
+	prep|at n|school ?
+%gra:	1|2|COM 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|SUBJ 6|4|COMP 7|6|OBJ 8|7|NJCT
+	9|8|POBJ 10|2|PUNCT
+*CHI:	mhm . 182185_183011
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	alphabits cereal ? 183011_185343
+%mor:	n|alphabit-PL n|cereal ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	mhm . 185343_186000
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you do ? 186000_187284
+%mor:	pro:per|you v|do ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	what did you do at school ? 187284_192485
+%mor:	pro:int|what mod|do&PAST pro:per|you v|do prep|at n|school ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*CHI:	I play jumprope . 192485_195251
+%mor:	pro:sub|I n|play n|+n|jump+n|rope .
+%gra:	1|2|SUBJ 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*MOT:	yeah . 195251_197377
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and raceo@c . 197377_200349
+%mor:	coord|and chi|raceo .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*MOT:	at school ? 200349_201175
+%mor:	prep|at n|school ?
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*CHI:	no . 201175_202578
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	no . 202578_203590
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	at school . 203590_205819
+%mor:	prep|at n|school .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*MOT:	yeah . 205819_207305
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and I ate some Mommy . 207305_210649
+%mor:	coord|and pro:sub|I v|eat&PAST qn|some n:prop|Mommy .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*CHI:	and tayfuff@b Daddy . 210649_215004
+%mor:	coord|and bab|tayfuff n:prop|Daddy .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CHI:	and my daddy at Albuquerque . 215004_219648
+%mor:	coord|and det:poss|my n|daddy prep|at n:prop|Albuquerque .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|3|PUNCT
+*CHI:	and your daddy Albuquerque . 219648_223818
+%mor:	coord|and det:poss|your n|daddy n:prop|Albuquerque .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|APP 5|3|PUNCT
+*MOT:	well did you go swimming today . 223818_229019
+%mor:	co|well mod|do&PAST pro:per|you v|go part|swim-PRESP adv:tem|today
+	.
+%gra:	1|4|COM 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|5|JCT 7|4|PUNCT
+*CHI:	uhhuh Daddy wan(t) go swimmin(g) (.) with me . 229019_234963
+%mor:	co|uhhuh n:prop|Daddy v|want v|go part|swim-PRESP prep|with
+	pro:obj|me .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|SRL 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*MOT:	Daddy go go swimming with you ? 234963_238678
+%mor:	n:prop|Daddy v|go v|go part|swim-PRESP prep|with pro:per|you ?
+%gra:	1|4|SUBJ 2|4|SRL 3|4|SRL 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*CHI:	yeah . 238678_239335
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	when ? 239335_241378
+%mor:	pro:rel|when ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	at preschool . 241378_243876
+%mor:	prep|at pre#n|school .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*MOT:	yeah . 243876_244619
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	yeah . 244619_245362
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	where ? 245362_246002
+%mor:	pro:rel|where ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	&-um at [/] at swimming . 246002_251286
+%mor:	prep|at n:gerund|swim-PRESP .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+@End

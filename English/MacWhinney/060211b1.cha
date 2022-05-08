@@ -1,0 +1,3032 @@
+@UTF8
+@PID:	11312/a-00012753-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Ross Target_Child , MAR Mark Target_Child , FAT Brian Father
+@ID:	eng|MacWhinney|MAR|4;03.17||||Target_Child|||
+@ID:	eng|MacWhinney|CHI|6;02.11||||Target_Child|||
+@ID:	eng|MacWhinney|FAT|||||Father|||
+@Media:	060211b1, audio
+@G:	New Episode
+@Types:	long, toyplay, TD
+*FAT:	xxx could start . 0_1587
+%mor:	mod|could v|start .
+%gra:	1|2|AUX 2|0|ROOT 3|2|PUNCT
+*FAT:	&+r Ross said +"/. 1587_3204
+%mor:	n:prop|Ross v|say&PAST +"/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*FAT:	+" infinity is forever . 3204_5894
+%mor:	n|infinity cop|be&3S adv:tem|forever .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*FAT:	oh ‡ no . 5894_6405
+%mor:	co|oh beg|beg co|no .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*FAT:	+" infinity is forever . 6405_8918
+%mor:	n|infinity cop|be&3S adv:tem|forever .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*FAT:	&+a and Marky said +"/. 8918_9982
+%mor:	coord|and n:prop|Marky v|say&PAST +"/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*FAT:	+" I wonder how the world could start . 9982_12526
+%mor:	pro:sub|I v|wonder pro:int|how det:art|the n|world mod|could
+	v|start .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|LINK 4|5|DET 5|7|SUBJ 6|7|AUX 7|2|COMP 8|2|PUNCT
+*FAT:	+" it's so silly . 12526_13664
+%mor:	pro:per|it~cop|be&3S adv|so adj|silly .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*FAT:	+" I mean forever and forever . 13664_16242
+%mor:	pro:sub|I v|mean adv:tem|forever coord|and adv:tem|forever .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|CONJ 5|4|COORD 6|2|PUNCT
+*MAR:	xxx . 16242_18903
+*FAT:	+" I mean how can it +/? 18903_20122
+%mor:	pro:sub|I v|mean pro:int|how mod|can pro:per|it +/?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|JCT 4|5|AUX 5|2|OBJ 6|2|PUNCT
+*FAT:	+" doesn't it hafta grow some ? 20122_21910
+%mor:	mod|do&3S~neg|not pro:per|it mod|have~inf|to v|grow qn|some ?
+%gra:	1|6|AUX 2|1|NEG 3|6|SUBJ 4|6|AUX 5|6|INF 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*FAT:	+" it can't [/] can't just be infinity forever . 21910_25554
+%mor:	pro:per|it mod|can~neg|not adv|just cop|be n|infinity
+	adv:tem|forever .
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|JCT 5|0|ROOT 6|7|MOD 7|5|PRED 8|5|PUNCT
+*MAR:	+< it hasta grow xxx forever . 21910_25554
+%mor:	pro:per|it mod|have&3S~inf|to v|grow adv:tem|forever .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*MAR:	it hasta go for infinity days . 25554_29373
+%mor:	pro:per|it mod|have&3S~inf|to v|go prep|for n|infinity n|day-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|4|PUNCT
+*FAT:	+" it hasta go for infinity days not forever days . 29373_33170
+%mor:	pro:per|it mod|have&3S~inf|to v|go prep|for n|infinity n|day-PL
+	neg|not adv:tem|forever n|day-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|9|NEG
+	9|4|JCT 10|9|OBJ 11|4|PUNCT
+*MAR:	and that is forever days . 33170_36626
+%mor:	coord|and pro:dem|that cop|be&3S adv:tem|forever n|day-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|PUNCT
+*FAT:	+" I mean that is forever days . 36626_38835
+%mor:	pro:sub|I v|mean adv|that aux|be&3S adv:tem|forever n|day-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|6|MOD 6|2|OBJ 7|2|PUNCT
+*FAT:	this is Mark talking . 38835_42294
+%mor:	pro:dem|this aux|be&3S n:prop|Mark part|talk-PRESP .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*FAT:	they're brushing their teeth in the bathroom . 42294_45664
+%mor:	pro:sub|they~aux|be&PRES part|brush-PRESP det:poss|their n|tooth&PL
+	prep|in det:art|the n|+n|bath+n|room .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*FAT:	Ross I don't think is &+resp +/. 45664_47568
+%mor:	n:prop|Ross pro:sub|I mod|do~neg|not v|think aux|be&3S +/.
+%gra:	1|6|SUBJ 2|5|SUBJ 3|5|AUX 4|3|NEG 5|1|CMOD 6|0|ROOT 7|6|PUNCT
+*FAT:	Ross is not responding to all this . 47568_49284
+%mor:	n:prop|Ross aux|be&3S neg|not part|respond-PRESP prep|to adv|all
+	det:dem|this .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|JCT 7|5|POBJ 8|4|PUNCT
+*FAT:	0 . 49284_58642
+*CHI:	hi . 60042_60460
+%mor:	co|hi .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	hi ‡ cutie . 60460_61538
+%mor:	co|hi beg|beg n|cute&dadj-DIM .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*CHI:	hi . 61538_63050
+%mor:	co|hi .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	what did Mark figure out about infinity ? 63050_66039
+%mor:	pro:int|what mod|do&PAST n:prop|Mark v|figure adv|out prep|about
+	n|infinity ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*CHI:	it's forever . 66039_68383
+%mor:	pro:per|it~cop|be&3S adv:tem|forever .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*FAT:	well ‡ did he figure it out „ I mean . 68383_70182
+%mor:	co|well beg|beg mod|do&PAST pro:sub|he v|figure pro:per|it adv|out
+	end|end pro:sub|I v|mean .
+%gra:	1|0|BEG 2|1|BEGP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|JCT 8|10|ENDP
+	9|10|SUBJ 10|5|END 11|5|PUNCT
+*CHI:	yeah . 70182_71108
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	why don't you get on the other side ? 71108_72269
+%mor:	pro:int|why mod|do~neg|not pro:per|you v|get prep|on det:art|the
+	qn|other n|side ?
+%gra:	1|5|JCT 2|5|AUX 3|2|NEG 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|9|DET 8|9|QUANT
+	9|6|POBJ 10|5|PUNCT
+*CHI:	what ? 72269_72687
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	quiet <by the> [//] &+i over on this side here . 72687_74594
+%mor:	n|quiet adv|over prep|on det:dem|this n|side adv|here .
+%gra:	1|0|INCROOT 2|1|NJCT 3|1|NJCT 4|5|DET 5|3|POBJ 6|1|JCT 7|1|PUNCT
+*FAT:	0 . 74594_87501
+@G:	New Episode
+*FAT:	and what was that question ? 87501_88712
+%mor:	coord|and pro:int|what cop|be&PAST&13S pro:dem|that v|question ?
+%gra:	1|3|LINK 2|3|SUBJ 3|5|SUBJ 4|3|PRED 5|0|ROOT 6|5|PUNCT
+*CHI:	xxx +//. 88712_89269
+*FAT:	+< ask the question again . 89012_90186
+%mor:	v|ask det:art|the n|question adv|again .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|1|PUNCT
+*CHI:	+< there might not even be us . 90086_93379
+%mor:	adv|there n|might neg|not adv|even cop|be pro:obj|us .
+%gra:	1|5|JCT 2|5|SUBJ 3|2|NEG 4|5|JCT 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*MAR:	I know that . 93379_94937
+%mor:	pro:sub|I v|know pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MAR:	but +... 94937_95271
+%mor:	conj|but +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	&-um I mean there might not even be xxx . 95271_99227
+%mor:	pro:sub|I v|mean adv|there n|might neg|not adv|even cop|be .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|7|SUBJ 5|4|NEG 6|7|JCT 7|2|COMP 8|2|PUNCT
+*MAR:	yeah ‡ there might be creatures . 99227_101620
+%mor:	co|yeah beg|beg pro:exist|there mod|might cop|be n|creature-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*MAR:	kind_of one eyed . 101620_103584
+%mor:	adv|kind_of pro:indef|one v|eye-PAST .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	+< <like the> [//] like [/] like the gentle mystics . 102084_106572
+%mor:	prep|like det:art|the adj|gentle n|mystic-PL .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|POBJ 5|1|PUNCT
+*MAR:	+< one eyed . 104384_105406
+%mor:	pro:indef|one part|eye-PASTP .
+%gra:	1|0|INCROOT 2|1|XMOD 3|1|PUNCT
+*FAT:	yeah . 106572_106920
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	+< they might be one eyed . 106572_108414
+%mor:	pro:sub|they mod|might cop|be pro:indef|one v|eye-PAST .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|SUBJ 5|3|PRED 6|3|PUNCT
+*FAT:	uhhuh . 108414_109111
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	like the mystics . 109111_110806
+%mor:	prep|like det:art|the n|mystic-PL .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*MAR:	+< or they be &+na +/. 109111_110806
+%mor:	coord|or pro:sub|they cop|be +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MAR:	they might be not . 110806_112315
+%mor:	pro:sub|they mod|might cop|be neg|not .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|NEG 5|3|PUNCT
+*CHI:	or Chewbacca . 112315_115216
+%mor:	coord|or n:prop|Chewbacca .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*CHI:	and Wookie . 115216_116249
+%mor:	coord|and n:prop|Wookie .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*MAR:	<they might be> [//] they might be five eyeded [: eyed] [* m:++ed]
+	. 115216_119060
+%mor:	pro:sub|they mod|might cop|be det:num|five part|eye-PASTP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|PRED 6|3|PUNCT
+*FAT:	+< what xxx ? 115816_117140
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	five eyeded@c ? 119060_120442
+%mor:	det:num|five chi|eyeded ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*MAR:	yeah ‡ they'd have five &+ey +/. 120242_121949
+%mor:	co|yeah beg|beg pro:sub|they~mod|genmod v|have det:num|five +/.
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*MAR:	they might have five eyes . 121949_123913
+%mor:	pro:sub|they mod|might v|have det:num|five n|eye-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*CHI:	+< two here one [//] &=mumbles and two here and one up here . 123513_130053
+%mor:	det:num|two adv|here coord|and det:num|two adv|here coord|and
+	pro:indef|one prep|up n|here .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|CONJ 4|5|QUANT 5|3|COORD 6|2|CONJ 7|6|COORD
+	8|7|NJCT 9|8|POBJ 10|2|PUNCT
+*MAR:	no ‡ and that like two there and two there and one there . 130053_134372
+%mor:	co|no beg|beg coord|and comp|that co|like det:num|two adv|there
+	coord|and det:num|two adv|there coord|and pro:indef|one adv|there .
+%gra:	1|0|BEG 2|1|BEGP 3|7|LINK 4|6|LINK 5|6|COM 6|7|QUANT 7|0|INCROOT
+	8|7|CONJ 9|8|COORD 10|9|JCT 11|7|CONJ 12|11|COORD 13|12|NJCT 14|7|PUNCT
+*FAT:	uhhuh . 134372_135029
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	that'd be disgusting . 135029_136591
+%mor:	pro:rel|that~mod|genmod aux|be part|disgust-PRESP .
+%gra:	1|4|LINK 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*FAT:	that would be disgusting . 136591_138307
+%mor:	pro:dem|that mod|will&COND aux|be part|disgust-PRESP .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*FAT:	and when would this happen Mark ? 138307_140738
+%mor:	coord|and conj|when mod|will&COND pro:dem|this v|happen n:prop|Mark
+	?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	and if the world would split up and get together again there might
+	be different people in this earth . 140738_148782
+%mor:	coord|and conj|if det:art|the n|world mod|will&COND n|split adv|up
+	coord|and v|get adv|together adv|again pro:exist|there mod|might
+	cop|be adj|different n|person&PL prep|in det:dem|this n|earth .
+%gra:	1|0|INCROOT 2|6|LINK 3|4|DET 4|6|SUBJ 5|6|AUX 6|1|COORD 7|6|JCT
+	8|6|CONJ 9|8|COORD 10|9|JCT 11|9|JCT 12|14|SUBJ 13|14|AUX 14|9|COMP 15|16|MOD
+	16|14|PRED 17|14|JCT 18|19|DET 19|17|POBJ 20|1|PUNCT
+*MAR:	+< and [/] and we +... 143544_144844
+%mor:	coord|and pro:sub|we +...
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*MAR:	uhhuh . 148782_149873
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	mhm . 149873_150488
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	+< &+a and and we might not be in any of those ɝθəz@u [: earths]
+	[* p:n] . 150288_156398
+%mor:	coord|and coord|and pro:sub|we mod|might neg|not cop|be prep|in
+	qn|any prep|of det:dem|those n|earth-PL .
+%gra:	1|6|LINK 2|6|LINK 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|6|PUNCT
+*FAT:	hmhm ‡ no ‡ &+k this would all be +/. 156398_158917
+%mor:	co|no beg|beg co|no beg|beg pro:dem|this mod|will&COND adv|all
+	cop|be +/.
+%gra:	1|0|BEG 2|1|BEGP 3|0|BEG 4|3|BEGP 5|8|SUBJ 6|8|AUX 7|8|JCT 8|0|ROOT
+	9|8|PUNCT
+*FAT:	or it could be a whole bunch of very smart worms . 158917_162760
+%mor:	coord|or pro:per|it mod|could cop|be det:art|a adj|whole n|bunch
+	prep|of adv|very v|smart n|worm-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|7|NJCT
+	9|10|JCT 10|8|POBJ 11|10|OBJ 12|4|PUNCT
+*MAR:	yeah . 162760_163886
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	book worms . 163886_165000
+%mor:	n|book n|worm-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*FAT:	yeah ‡ book worms or +... 165000_166336
+%mor:	co|yeah beg|beg n|book n|worm-PL coord|or +...
+%gra:	1|0|BEG 2|1|BEGP 3|4|MOD 4|0|INCROOT 5|4|CONJ 6|4|PUNCT
+*MAR:	what could they do ? 166336_167625
+%mor:	pro:int|what mod|could pro:sub|they v|do ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*FAT:	or it might be a whole planet full of pigs . 167625_171234
+%mor:	coord|or pro:per|it mod|might cop|be det:art|a adj|whole n|planet
+	adj|full prep|of n|pig-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|7|POSTMOD
+	9|8|JCT 10|9|POBJ 11|4|PUNCT
+*CHI:	huh ? 171234_171664
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	no . 171664_172488
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	+< pigs . 171664_172697
+%mor:	n|pig-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	a planet of a &+p +//. 172697_174009
+%mor:	det:art|a n|planet prep|of det:art|a +//.
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*CHI:	+< something like pigs . 172697_175462
+%mor:	pro:indef|something prep|like n|pig-PL .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+*FAT:	planet of the pigs . 175462_176948
+%mor:	n|planet prep|of det:art|the n|pig-PL .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*CHI:	no ‡ like &+some a creature like a pig . 176948_180721
+%mor:	co|no beg|beg prep|like det:art|a n|creature prep|like det:art|a
+	n|pig .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|5|DET 5|3|POBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*FAT:	+< yeah ‡ a creature like a pig . 180321_181635
+%mor:	co|yeah beg|beg det:art|a n|creature prep|like det:art|a n|pig .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|0|INCROOT 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*CHI:	like the pig guard . 181635_183040
+%mor:	prep|like det:art|the n|pig n|guard .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|POBJ 5|1|PUNCT
+*MAR:	+< a pig . 181635_182355
+%mor:	det:art|a n|pig .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*FAT:	right ‡ the pig guard . 183040_184390
+%mor:	co|right beg|beg det:art|the n|pig n|guard .
+%gra:	1|0|BEG 2|1|BEGP 3|5|DET 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*MAR:	+< I know . 183640_184590
+%mor:	pro:sub|I v|know .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MAR:	there might be a pig with [/] with five eyes . 184590_191228
+%mor:	adv|there mod|might cop|be det:art|a n|pig prep|with det:num|five
+	n|eye-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|8|QUANT 8|6|POBJ
+	9|3|PUNCT
+*CHI:	+< hog guard . 187567_188720
+%mor:	n|hog n|guard .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*FAT:	yeah ‡ a pig with five eyes . 191228_192869
+%mor:	co|yeah beg|beg det:art|a n|pig prep|with det:num|five n|eye-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|0|INCROOT 5|4|NJCT 6|7|QUANT 7|5|POBJ
+	8|4|PUNCT
+*FAT:	wouldn't that be yucko@wp [: yucky] ? 192869_194281
+%mor:	mod|will&COND~neg|not pro:dem|that cop|be adj|yuck&dn-Y ?
+%gra:	1|4|AUX 2|1|NEG 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*MAR:	+< yeah . 192869_193217
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	yeah . 194281_194694
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	yeah . 194694_196128
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	&+w &+d why [/] &+d why do you want this to happen ? 196128_198345
+%mor:	pro:int|why mod|do pro:per|you v|want det:dem|this inf|to v|happen
+	?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|INF 7|4|COMP 8|4|PUNCT
+*CHI:	we don't . 198345_199599
+%mor:	pro:sub|we mod|do~neg|not .
+%gra:	1|0|INCROOT 2|4|AUX 3|2|NEG 4|1|PUNCT
+*MAR:	right . 199599_200226
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	do you think it will happen ? 200226_201607
+%mor:	mod|do pro:per|you v|think pro:per|it mod|will v|happen ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|3|PUNCT
+*CHI:	it might . 201607_202513
+%mor:	pro:per|it mod|might .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*MAR:	yeah . 202513_203279
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	but it might not . 203279_205012
+%mor:	conj|but pro:per|it mod|might neg|not .
+%gra:	1|0|INCROOT 2|1|PUNCT 3|2|INCROOT 4|3|NEG 5|3|PUNCT
+*FAT:	what if the world just goes on with people forever ? 205012_208575
+%mor:	pro:int|what comp|if det:art|the n|world adv|just v|go-3S adv|on
+	prep|with n|person&PL adv:tem|forever ?
+%gra:	1|6|LINK 2|6|LINK 3|4|DET 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|6|JCT 8|6|JCT
+	9|10|MOD 10|8|POBJ 11|6|PUNCT
+*CHI:	it [/] it could . 208575_210141
+%mor:	pro:per|it mod|could .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*FAT:	it could have people just forever . 210141_212068
+%mor:	pro:per|it mod|could v|have n|person&PL adj|just adv:tem|forever .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|4|POSTMOD 6|5|JCT 7|3|PUNCT
+*CHI:	if we have all [//] astronauts (.) that [/] &+k that keep going out
+	okay . 212068_219066
+%mor:	conj|if pro:sub|we v|have n|astronaut-PL pro:rel|that v|keep
+	part|go-PRESP prep|out adj|okay .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|LINK 6|4|CMOD 7|6|COMP 8|7|JCT
+	9|8|POBJ 10|3|PUNCT
+*FAT:	+< uhhuh . 214959_215493
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	uhhuh . 218602_219066
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	+< it could like stay out there and see if we're coming near a
+	planet . 218602_223968
+%mor:	pro:per|it mod|could v|like v|stay prep|out n|there coord|and v|see
+	conj|if pro:sub|we~aux|be&PRES part|come-PRESP prep|near det:art|a
+	n|planet .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|CONJ 8|7|COORD
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|COMP 13|12|JCT 14|15|DET 15|13|POBJ
+	16|3|PUNCT
+*FAT:	yeah . 223968_224398
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and tell everybody . 224398_227172
+%mor:	coord|and v|tell pro:indef|everybody .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*FAT:	what would they save us from ? 227172_229775
+%mor:	pro:int|what mod|will&COND pro:sub|they v|save pro:obj|us prep|from
+	?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*CHI:	well ‡ we could &+y you know &+b build this like real big &-um
+	thing to hold &+t planets from colliding together . 229775_241643
+%mor:	co|well beg|beg pro:sub|we mod|could pro:per|you v|know v|build
+	det:dem|this prep|like adj|real adj|big n|thing prep|to n|hold
+	n|planet-PL prep|from part|collide-PRESP adv|together .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|COMP 8|7|OBJ
+	9|8|JCT 10|12|MOD 11|12|MOD 12|9|POBJ 13|12|NJCT 14|15|MOD 15|13|POBJ
+	16|8|JCT 17|16|POBJ 18|17|JCT 19|6|PUNCT
+*FAT:	yeah . 241643_241968
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	what would happen if they collide together ? 241968_245505
+%mor:	pro:int|what mod|will&COND v|happen comp|if pro:sub|they v|collide
+	adv|together ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|6|JCT 8|3|PUNCT
+*CHI:	they'd [/] they'd &+k &-um blow up . 245505_250978
+%mor:	pro:sub|they~mod|genmod v|blow adv|up .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*MAR:	and it would +//. 250978_251814
+%mor:	coord|and pro:per|it mod|will&COND +//.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*CHI:	+< smash . 251514_253190
+%mor:	n|smash .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	and what would the +//? 253190_254223
+%mor:	coord|and pro:int|what mod|will&COND det:art|the +//?
+%gra:	1|0|INCROOT 2|5|OBJ 3|5|AUX 4|5|DET 5|1|PUNCT
+*CHI:	+< flitter to pieces . 253590_256257
+%mor:	v|flitter prep|to n|piece-PL .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MAR:	&+w and we would die too . 256257_258125
+%mor:	coord|and pro:sub|we mod|will&COND v|die adv|too .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	yeah . 258125_258694
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	yeah ‡ that's right . 258694_260562
+%mor:	co|yeah beg|beg pro:dem|that~cop|be&3S co|right .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*FAT:	let's not think about it „ okay ? 260562_262018
+%mor:	v|let~pro:obj|us neg|not v|think prep|about pro:per|it end|end
+	co|okay ?
+%gra:	1|0|ROOT 2|1|OBJ 3|4|NEG 4|1|COMP 5|4|JCT 6|5|POBJ 7|8|ENDP 8|1|END
+	9|1|PUNCT
+*MAR:	hm . 262018_262448
+%mor:	co|hm .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	do you wanna all go to sleep ? 262448_264022
+%mor:	mod|do pro:per|you v|want~inf|to post|all v|go prep|to n|sleep ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|INF 5|4|PQ 6|3|COMP 7|6|JCT 8|7|POBJ
+	9|3|PUNCT
+*MAR:	mhm . 264022_265333
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	I gotta go turn that light off . 265333_266745
+%mor:	pro:sub|I mod|got~inf|to v|go v|turn det:dem|that n|light adv|off .
+%gra:	1|5|SUBJ 2|5|AUX 3|5|INF 4|5|SRL 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|5|PUNCT
+*FAT:	let's [//] that light is much too +... 266745_270096
+%mor:	det:dem|that n|light cop|be&3S adv|much adv|too +...
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|3|PUNCT
+*FAT:	oh ‡ we won't hafta die . 270096_271569
+%mor:	co|oh beg|beg pro:sub|we mod|will~neg|not mod|have~inf|to v|die .
+%gra:	1|0|BEG 2|1|BEGP 3|8|SUBJ 4|8|AUX 5|4|NEG 6|8|AUX 7|8|INF 8|0|ROOT
+	9|8|PUNCT
+*FAT:	0 . 271569_273578
+@G:	New Episode
+*FAT:	Mark was &-uh saying +"/. 273578_275035
+%mor:	n:prop|Mark aux|be&PAST&13S part|say-PRESP +"/.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*FAT:	+" next time when I see you guys and it's my birthday what do you
+	think a picture of should be on my cake ? 275035_281391
+%mor:	adj|next n|time conj|when pro:sub|I v|see pro:per|you n|guy-PL
+	coord|and pro:per|it~cop|be&3S det:poss|my n|+n|birth+n|day
+	pro:int|what mod|do pro:per|you v|think det:art|a n|picture prep|of
+	mod|should cop|be prep|on det:poss|my n|cake ?
+%gra:	1|2|MOD 2|0|INCROOT 3|5|LINK 4|5|SUBJ 5|2|CJCT 6|7|SUBJ 7|5|OBJ
+	8|10|LINK 9|10|SUBJ 10|7|CMOD 11|12|DET 12|21|SUBJ 13|16|LINK 14|16|AUX
+	15|16|SUBJ 16|21|PRED 17|18|DET 18|21|SUBJ 19|21|JCT 20|21|AUX 21|10|PRED
+	22|21|JCT 23|24|DET 24|22|POBJ 25|2|PUNCT
+*FAT:	which is a nice violation of constraint . 281391_284839
+%mor:	pro:rel|which cop|be&3S det:art|a adj|nice n|violation prep|of
+	n|constraint .
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|6|POBJ 8|2|PUNCT
+*MAR:	the picture xxx with face on it . 284839_289030
+%mor:	det:art|the n|picture prep|with n|face prep|on pro:per|it .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+*FAT:	okay . 289030_291249
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	I'm pretty sure I want my calendar with a face on it . 291249_293721
+%mor:	pro:sub|I~cop|be&1S adv|pretty adv|sure pro:sub|I v|want
+	det:poss|my n|calendar prep|with det:art|a n|face prep|on pro:per|it
+	.
+%gra:	1|2|SUBJ 2|6|CJCT 3|2|JCT 4|2|JCT 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|JCT 10|11|DET 11|9|POBJ 12|6|JCT 13|12|POBJ 14|6|PUNCT
+*FAT:	sounds good Mark . 293721_295416
+%mor:	v|sound-3S adj|good n:prop|Mark .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*FAT:	0 . 295416_297248
+@G:	New Episode
+*FAT:	how could little people ever make toys these days ? 297248_299825
+%mor:	pro:int|how mod|could adj|little n|person&PL adv|ever v|make
+	n|toy-PL det:dem|these n|day-PL ?
+%gra:	1|4|JCT 2|4|AUX 3|4|MOD 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|9|MOD 8|9|DET
+	9|6|OBJ 10|6|PUNCT
+*MAR:	yeah . 299825_301335
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	oh ‡ (..) not easy . 301335_304715
+%mor:	co|oh beg|beg neg|not adj|ease&dn-Y .
+%gra:	1|0|BEG 2|1|BEGP 3|4|NEG 4|0|INCROOT 5|4|PUNCT
+*FAT:	it's not easy to do . 304715_305679
+%mor:	pro:per|it~cop|be&3S neg|not adj|ease&dn-Y inf|to v|do .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|6|INF 6|4|XMOD 7|2|PUNCT
+*MAR:	+< with their [: the] [*] help of their dad . 305213_307339
+%mor:	prep|with det:art|the n|help prep|of det:poss|their n|dad .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*FAT:	yeah ‡ with the help of their dad . 307339_308433
+%mor:	co|yeah beg|beg prep|with det:art|the n|help prep|of det:poss|their
+	n|dad .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|5|DET 5|3|POBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*FAT:	that's how they do it . 308433_309269
+%mor:	pro:dem|that~cop|be&3S pro:int|how pro:sub|they v|do pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CPRED 6|5|OBJ 7|2|PUNCT
+*MAR:	+< well ‡ can (..) you (.) xxx ? 308733_316291
+%mor:	co|well beg|beg mod|can pro:per|you ?
+%gra:	1|0|BEG 2|1|BEGP 3|4|AUX 4|0|INCROOT 5|4|PUNCT
+*FAT:	+< do you wanna do it right now ? 314921_316291
+%mor:	mod|do pro:per|you v|want~inf|to v|do pro:per|it adv|right adv|now
+	?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|8|JCT 8|5|JCT
+	9|3|PUNCT
+*FAT:	what ? 316291_317707
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	like me . 317707_318553
+%mor:	prep|like pro:obj|me .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*FAT:	what do you need Love ? 318553_320023
+%mor:	pro:int|what mod|do pro:per|you v|need n:prop|Love ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*MAR:	build xxx . 320023_322710
+%mor:	v|build .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	sure ‡ I can build things with you . 322710_325062
+%mor:	co|sure beg|beg pro:sub|I mod|can v|build n|thing-PL prep|with
+	pro:per|you .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|5|PUNCT
+*MAR:	I like that now . 325062_326670
+%mor:	pro:sub|I v|like comp|that adv|now .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|JCT 5|2|PUNCT
+*FAT:	+< what do you needta build ? 325062_328070
+%mor:	pro:int|what mod|do pro:per|you v|need~inf|to v|build ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+*FAT:	right now ? 328070_329143
+%mor:	adv|right adv|now ?
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*MAR:	+< &-um +... 328070_329143
+*MAR:	yeah . 329143_330554
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	that's hard . 330554_332876
+%mor:	pro:dem|that~cop|be&3S adv|hard .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MAR:	no ‡ I meant (.) build a block thing . 332876_336237
+%mor:	co|no beg|beg pro:sub|I v|mean&PAST v|build det:art|a n|block
+	n|thing .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|8|DET 7|8|MOD 8|5|OBJ
+	9|4|PUNCT
+*MAR:	0 . 336237_339186
+*MAR:	build a little blocky thing . 339186_341345
+%mor:	v|build det:art|a adj|little adj|block&dn-Y n|thing .
+%gra:	1|0|ROOT 2|5|DET 3|5|MOD 4|5|MOD 5|1|OBJ 6|1|PUNCT
+*FAT:	mkay . 341345_343882
+%mor:	co|mkay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	because men do know most of building buildings „ don't they ? 343882_350297
+%mor:	conj|because n|man&PL mod|do v|know qn|most prep|of n|building
+	n|building-PL end|end mod|do~neg|not pro:sub|they ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|5|NJCT 7|8|MOD 8|6|POBJ
+	9|12|ENDP 10|12|AUX 11|10|NEG 12|4|END 13|4|PUNCT
+*FAT:	mhm . 350297_351266
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	so ‡ (..) you could help with me . 351266_354883
+%mor:	co|so beg|beg pro:per|you mod|could n|help prep|with pro:obj|me .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|INCROOT 6|5|JCT 7|6|POBJ
+	8|5|PUNCT
+*FAT:	okay . 354883_356055
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	0 . 356055_366895
+*MAR:	and anyway it is their job . 366895_369906
+%mor:	coord|and adv|anyway pro:per|it cop|be&3S det:poss|their n|job .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+*FAT:	&=coughs . 369906_371694
+*MAR:	and women don't hafta do that job . 371694_376106
+%mor:	coord|and n|woman&PL mod|do~neg|not mod|have~inf|to v|do
+	det:dem|that n|job .
+%gra:	1|7|LINK 2|7|SUBJ 3|7|AUX 4|3|NEG 5|7|AUX 6|7|INF 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|7|PUNCT
+*FAT:	you mean the building ? 376106_377822
+%mor:	pro:per|you v|mean det:art|the n|building ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MAR:	yeah . 377822_378461
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	no ‡ you're right . 378461_379786
+%mor:	co|no beg|beg pro:per|you~cop|be&PRES co|right .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*FAT:	women don't hafta do it . 379786_381647
+%mor:	n|woman&PL mod|do~neg|not mod|have~inf|to v|do pro:per|it .
+%gra:	1|6|SUBJ 2|6|AUX 3|2|NEG 4|6|AUX 5|6|INF 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*MAR:	sorry . 381647_382158
+%mor:	co|sorry .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	and it is men's job to do that . 382158_383942
+%mor:	coord|and pro:per|it cop|be&3S adj|man&PL&dn-POSS n|job inf|to v|do
+	pro:dem|that .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|7|INF 7|5|XMOD 8|7|OBJ
+	9|3|PUNCT
+*MAR:	yeah . 383942_384586
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	right . 384586_385094
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	women can do that too if they wanna . 385094_387341
+%mor:	n|woman&PL mod|can v|do pro:dem|that adv|too conj|if pro:sub|they
+	v|want~inf|to .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|8|LINK 7|8|SUBJ 8|3|CJCT
+	9|8|OBJ 10|3|PUNCT
+*MAR:	yeah . 387341_387898
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	Daddy does xxx . 387898_389852
+%mor:	n:prop|Daddy v|do&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MAR:	+< <and if> [//] and [/] and if they're strong as like +... 388752_392801
+%mor:	coord|and conj|if pro:sub|they~cop|be&PRES adj|strong prep|as
+	prep|like +...
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|7|COORD 7|5|ENUM
+	8|4|PUNCT
+*FAT:	+< if they're strong just like men . 392201_393776
+%mor:	conj|if pro:sub|they~cop|be&PRES adj|strong adv|just prep|like
+	n|man&PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|JCT 6|5|JCT 7|6|POBJ 8|3|PUNCT
+*MAR:	+< but just like men . 393076_395216
+%mor:	conj|but adv|just prep|like n|man&PL .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|JCT 4|3|POBJ 5|1|PUNCT
+*MAR:	and boys . 395216_396497
+%mor:	coord|and n|boy-PL .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*FAT:	right . 396497_397945
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	well ‡ <what if> [//] (.) guess what ? 397945_400765
+%mor:	co|well beg|beg n|guess pro:int|what ?
+%gra:	1|0|BEG 2|1|BEGP 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*FAT:	+< I'm guessing . 400765_401613
+%mor:	pro:sub|I~aux|be&1S part|guess-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*MAR:	+< did you know Ben's one of his friends ? 401485_405804
+%mor:	mod|do&PAST pro:per|you v|know adj|Ben&dn-POSS det:num|one prep|of
+	det:poss|his n|friend-PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*FAT:	what ? 405804_406326
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	one of Ben's friends . 406326_408739
+%mor:	det:num|one prep|of adj|Ben&dn-POSS n|friend-PL .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*FAT:	yeah . 408739_409261
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	well ‡ his friend he has muscles . 409261_412178
+%mor:	co|well beg|beg det:poss|his n|friend pro:sub|he aux|have&3S
+	n|muscle-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|0|INCROOT 5|7|SUBJ 6|7|AUX 7|4|CMOD
+	8|4|PUNCT
+*FAT:	yeah . 412178_413498
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	did you know that ? 413498_414500
+%mor:	mod|do&PAST pro:per|you v|know pro:dem|that ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*FAT:	yeah ‡ I know . 414500_416052
+%mor:	co|yeah beg|beg pro:sub|I v|know .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MAR:	what ? 416052_416470
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	yeah ‡ I know . 416470_417948
+%mor:	co|yeah beg|beg pro:sub|I v|know .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MAR:	nuhuh you didn't know that . 417948_420633
+%mor:	co|nuhuh pro:per|you mod|do&PAST~neg|not v|know pro:dem|that .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*FAT:	no . 420633_421199
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	no . 421199_423035
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	if you notice that then you would beat him . 423035_426551
+%mor:	conj|if pro:per|you v|notice comp|that adv:tem|then pro:per|you
+	mod|will&COND v|beat&ZERO pro:obj|him .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|8|JCT 6|8|SUBJ 7|8|AUX 8|3|COMP
+	9|8|OBJ 10|3|PUNCT
+*FAT:	+< I thought so xxx . 423035_424242
+%mor:	pro:sub|I v|think&PAST adv|so .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MAR:	and then <you would> [/] &-um you would (.) be one of his friends .
+	426551_434017
+%mor:	coord|and adv:tem|then pro:per|you mod|will&COND cop|be
+	pro:indef|one prep|of det:poss|his n|friend-PL .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PRED 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+*FAT:	+< really ? 426551_427271
+%mor:	adv|really ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	xxx . 434017_436922
+*MAR:	and [/] &+ha and how could a big man &-um make friends with a
+	little man ? 436922_446497
+%mor:	coord|and pro:int|how mod|could det:art|a adj|big n|man v|make
+	n|friend-PL prep|with det:art|a adj|little n|man ?
+%gra:	1|7|LINK 2|7|JCT 3|7|AUX 4|6|DET 5|6|MOD 6|7|SUBJ 7|0|ROOT 8|7|OBJ
+	9|7|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|7|PUNCT
+*FAT:	how could a big man make friends with a little man ? 446497_448773
+%mor:	pro:int|how mod|could det:art|a adj|big n|man v|make n|friend-PL
+	prep|with det:art|a adj|little n|man ?
+%gra:	1|6|JCT 2|6|AUX 3|5|DET 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|6|PUNCT
+*MAR:	yeah ‡ because sometimes big men fight with little men . 448773_453463
+%mor:	co|yeah beg|beg conj|because adv|sometimes adj|big n|man&PL v|fight
+	prep|with adj|little n|man&PL .
+%gra:	1|0|BEG 2|1|BEGP 3|7|LINK 4|5|JCT 5|6|MOD 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|10|MOD 10|8|POBJ 11|7|PUNCT
+*FAT:	+< well ‡ why not ? 450690_451698
+%mor:	co|well beg|beg pro:int|why neg|not ?
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|NEG 5|3|PUNCT
+*FAT:	I wouldn't fight with a little boy . 453463_456830
+%mor:	pro:sub|I mod|will&COND~neg|not v|fight prep|with det:art|a
+	adj|little n|boy .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*FAT:	<I wouldn't> [/] I wouldn't hurt a little boy . 456830_459213
+%mor:	pro:sub|I mod|will&COND~neg|not v|hurt&ZERO det:art|a adj|little
+	n|boy .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*MAR:	don't [/] &+s don't say [//] talk about little boys . 459213_463680
+%mor:	mod|do~neg|not v|talk prep|about adj|little n|boy-PL .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|PUNCT
+*MAR:	he's not a little boy . 463680_465605
+%mor:	pro:sub|he~cop|be&3S neg|not det:art|a adj|little n|boy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|6|DET 5|6|MOD 6|2|PRED 7|2|PUNCT
+*FAT:	Ben ? 465605_466069
+%mor:	n:prop|Ben ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	+< he's a big guy . 465605_466743
+%mor:	pro:sub|he~cop|be&3S det:art|a adj|big n|guy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*MAR:	and he's really musclie . 466743_469357
+%mor:	coord|and pro:sub|he~cop|be&3S adv|real&dadj-LY n|muscle-DIM .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*FAT:	Ben's friend is ? 469357_471040
+%mor:	adj|Ben&dn-POSS n|friend cop|be&3S ?
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MAR:	+< he has muscles . 470040_471166
+%mor:	pro:sub|he aux|have&3S n|muscle-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+*MAR:	&+y yeah ‡ he has about muscles &-uh (.) &+th this big . 471166_478749
+%mor:	co|yeah beg|beg pro:sub|he aux|have&3S prep|about n|muscle-PL
+	det:dem|this adj|big .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|INCROOT 7|8|DET 8|6|JCT
+	9|6|PUNCT
+*FAT:	more muscles than you have ? 478749_481086
+%mor:	qn|more n|muscle-PL prep|than pro:per|you v|have ?
+%gra:	1|2|QUANT 2|5|SUBJ 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|5|PUNCT
+*MAR:	&+th the [//] he has muscles this big . 481086_484067
+%mor:	pro:sub|he aux|have&3S v|muscle-3S det:dem|this adj|big .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|JCT 6|3|PUNCT
+*FAT:	does he have more than you do ? 484067_485979
+%mor:	mod|do&3S pro:sub|he v|have adv|more prep|than pro:per|you v|do ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|JCT 6|7|SUBJ 7|3|CJCT 8|3|PUNCT
+*MAR:	Dad ‡ he has muscles this big . 485979_488212
+%mor:	n:prop|Dad beg|beg pro:sub|he aux|have&3S v|muscle-3S det:dem|this
+	adj|big .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|JCT 8|5|PUNCT
+*FAT:	+< watch out . 485979_486420
+%mor:	v|watch adv|out .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*FAT:	+< that's not very big „ is it ? 488012_489556
+%mor:	pro:dem|that~cop|be&3S neg|not adv|very adj|big end|end aux|be&3S
+	pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|JCT 5|2|PRED 6|8|ENDP 7|8|AUX 8|2|END
+	9|2|PUNCT
+*MAR:	uhhuh . 489556_490534
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	it is ? 490534_491497
+%mor:	pro:per|it cop|be&3S ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MAR:	they're even bigger than your muscles . 491497_493982
+%mor:	pro:sub|they~cop|be&PRES adv|even adj|big-CP prep|than
+	det:poss|your n|muscle-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*FAT:	oh ‡ really ? 493982_494620
+%mor:	co|oh beg|beg adv|really ?
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*MAR:	uhhuh . 494620_495735
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	oh ‡ that's pretty big „ huh ? 495735_500265
+%mor:	co|oh beg|beg pro:dem|that~cop|be&3S adv|pretty adj|big end|end
+	co|huh ?
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|8|ENDP 8|4|END
+	9|4|PUNCT
+*FAT:	and what does he do with those muscles ? 500265_503340
+%mor:	coord|and pro:int|what v|do&3S pro:sub|he v|do prep|with
+	det:dem|those n|muscle-PL ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*MAR:	well ‡ if he needs to be a toughy he does something with the
+	muscles . 503340_508691
+%mor:	co|well beg|beg conj|if pro:sub|he v|need-3S inf|to cop|be
+	det:art|a n|toughy pro:sub|he v|do&3S pro:indef|something prep|with
+	det:art|the n|muscle-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|11|CJCT 6|7|INF 7|5|COMP 8|9|DET
+	9|7|PRED 10|11|SUBJ 11|0|ROOT 12|11|OBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|11|PUNCT
+*FAT:	+< he uses . 506809_508691
+%mor:	pro:sub|he v|use-3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*FAT:	what do toughies do with their big muscles ? 508691_512128
+%mor:	pro:int|what mod|do n|toughy-PL v|do prep|with det:poss|their
+	adj|big n|muscle-PL ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*MAR:	well ‡ I'm sure to tell you but they hurt people . 512128_516334
+%mor:	co|well beg|beg pro:sub|I~cop|be&1S adj|sure inf|to v|tell
+	pro:per|you conj|but pro:sub|they v|hurt&ZERO n|person&PL .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|7|INF 7|5|XMOD 8|7|OBJ
+	9|11|LINK 10|11|SUBJ 11|4|CJCT 12|11|OBJ 13|4|PUNCT
+*FAT:	you're sure to tell me ? 516334_517879
+%mor:	pro:per|you~cop|be&PRES adj|sure inf|to v|tell pro:obj|me ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|INF 5|3|XMOD 6|5|OBJ 7|2|PUNCT
+*MAR:	yeah . 517879_518877
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	I see &=coughs . 518877_520424
+%mor:	pro:sub|I v|see .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MAR:	and when they're fighting they hurt some people . 520424_524302
+%mor:	coord|and conj|when pro:sub|they~aux|be&PRES part|fight-PRESP
+	pro:sub|they v|hurt&ZERO qn|some n|person&PL .
+%gra:	1|7|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|7|CJCT 6|7|SUBJ 7|0|ROOT 8|9|QUANT
+	9|7|OBJ 10|7|PUNCT
+*FAT:	they do ? 524302_525364
+%mor:	pro:sub|they v|do ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MAR:	mhm . 525364_526379
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	are you sad to tell me that ? 526379_528032
+%mor:	cop|be&PRES pro:per|you adj|sad inf|to v|tell pro:obj|me comp|that
+	?
+%gra:	1|0|ROOT 2|1|PRED 3|2|PRED 4|5|INF 5|3|XMOD 6|5|OBJ 7|5|OBJ 8|1|PUNCT
+*MAR:	no ! 528032_529483
+%mor:	co|no !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	are you afraid to tell me that ? 529483_530751
+%mor:	cop|be&PRES pro:per|you adj|afraid inf|to v|tell pro:obj|me
+	comp|that ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|PRED 4|5|INF 5|3|XMOD 6|5|OBJ 7|5|OBJ 8|1|PUNCT
+*MAR:	+< he doesn't kill people . 530051_532237
+%mor:	pro:sub|he mod|do&3S~neg|not v|kill n|person&PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*FAT:	what ? 532237_533623
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	he doesn't kill people . 533623_535418
+%mor:	pro:sub|he mod|do&3S~neg|not v|kill n|person&PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*FAT:	oh ‡ he doesn't . 535418_536463
+%mor:	co|oh beg|beg pro:sub|he mod|do&3S~neg|not .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|6|AUX 5|4|NEG 6|3|PUNCT
+*MAR:	he just hurts people . 536463_538758
+%mor:	pro:sub|he adv|just v|hurt-3S n|person&PL .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*FAT:	well ‡ is it good to hurt people ? 538758_540548
+%mor:	co|well beg|beg aux|be&3S pro:per|it adj|good inf|to v|hurt&ZERO
+	n|person&PL ?
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PRED 5|4|PRED 6|7|INF 7|5|XMOD 8|7|OBJ
+	9|3|PUNCT
+*MAR:	no ! 540548_542318
+%mor:	co|no !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	then why should we do it ? 542318_544880
+%mor:	adv:tem|then pro:int|why mod|should pro:sub|we v|do pro:per|it ?
+%gra:	1|5|JCT 2|5|JCT 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*MAR:	you don't hafta . 544880_547005
+%mor:	pro:per|you mod|do~neg|not mod|have~inf|to .
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*FAT:	I see . 547005_547875
+%mor:	pro:sub|I v|see .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*FAT:	okay . 547875_548874
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	he [//] it's just that if he was going to fight he would hurt them
+	. 548874_555143
+%mor:	pro:per|it~cop|be&3S adj|just pro:rel|that conj|if pro:sub|he
+	aux|be&PAST&13S part|go-PRESP prep|to n|fight pro:sub|he
+	mod|will&COND v|hurt&ZERO pro:obj|them .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|13|LINK 5|8|LINK 6|8|SUBJ 7|8|AUX
+	8|13|CJCT 9|8|JCT 10|9|POBJ 11|13|SUBJ 12|13|AUX 13|3|CMOD 14|13|OBJ 15|2|PUNCT
+*FAT:	okay . 555143_557139
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	and if Dracula was real +... 557139_562376
+%mor:	coord|and conj|if n:prop|Dracula cop|be&PAST&13S adj|real +...
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*FAT:	yeah . 562376_563189
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	then if was xxx then [/] (.) then he would die . 563189_570190
+%mor:	adv:tem|then conj|if aux|be&PAST&13S adv:tem|then pro:sub|he
+	mod|will&COND v|die .
+%gra:	1|7|JCT 2|7|SUBJ 3|7|AUX 4|7|JCT 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|PUNCT
+*FAT:	okay . 570190_571397
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	you know who would die ? 571397_573185
+%mor:	pro:per|you v|know pro:rel|who mod|will&COND v|die ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|AUX 5|2|COMP 6|2|PUNCT
+*FAT:	who would die ? 573185_574575
+%mor:	pro:int|who mod|will&COND v|die ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*MAR:	guess who it is . 574575_575646
+%mor:	n|guess pro:rel|who pro:per|it cop|be&3S .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CMOD 5|1|PUNCT
+*FAT:	Dracula ? 575646_576993
+%mor:	n:prop|Dracula ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	no . 576993_577864
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	who ? 577864_579083
+%mor:	pro:rel|who ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	the Muscle_Man . 579083_580418
+%mor:	det:art|the n:prop|Muscle_Man .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*FAT:	who ? 580418_581045
+%mor:	pro:rel|who ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	Aquaman ? 581045_581939
+%mor:	n:prop|Aquaman ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	Muscle_Man . 581939_583321
+%mor:	n:prop|Muscle_Man .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	Muscle_Man . 583321_584098
+%mor:	n:prop|Muscle_Man .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	uhhuh . 584098_584749
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	+< he got a_lots_of [: a_lot_of] [*] . 584349_585684
+%mor:	pro:sub|he v|get&PAST qn|a_lot_of .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*FAT:	yeah . 585684_586125
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	+< do you know why ? 585725_586538
+%mor:	mod|do pro:per|you v|know pro:rel|why ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OM 5|3|PUNCT
+*FAT:	why ? 586538_587338
+%mor:	pro:rel|why ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	(be)cause Dracula <if he's the> [//] if the people don't do what he
+	says xxx . 587338_594283
+%mor:	conj|because n:prop|Dracula comp|if det:art|the n|person&PL
+	mod|do~neg|not v|do pro:int|what pro:sub|he v|say-3S .
+%gra:	1|2|LINK 2|0|ROOT 3|8|LINK 4|5|DET 5|8|SUBJ 6|8|AUX 7|6|NEG 8|2|COMP
+	9|11|LINK 10|11|SUBJ 11|8|COMP 12|2|PUNCT
+*MAR:	and I thrust it through their heart . 594283_597102
+%mor:	coord|and pro:sub|I v|thrust&ZERO pro:per|it prep|through
+	det:poss|their n|heart .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*FAT:	yeah . 597102_598006
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	Dracula's not a very nice guy „ is he ? 598006_600306
+%mor:	adj|Dracula&dn-POSS neg|not det:art|a adv|very adj|nice n|guy
+	end|end cop|be&3S pro:sub|he ?
+%gra:	1|6|MOD 2|1|NEG 3|6|DET 4|5|JCT 5|6|MOD 6|9|SUBJ 7|8|ENDP 8|6|END
+	9|0|ROOT 10|9|PUNCT
+*MAR:	unhunh . 600306_601596
+%mor:	co|unhunh=no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	would you like Dracula to be +//? 601596_603499
+%mor:	mod|will&COND pro:per|you v|like n:prop|Dracula inf|to cop|be +//?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|INF 6|3|COMP 7|3|PUNCT
+*MAR:	+< uhhuh . 601596_603499
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	would you like your [//] &+d Dracula to be your dada . 603499_606471
+%mor:	mod|will&COND pro:per|you v|like n:prop|Dracula inf|to cop|be
+	det:poss|your n|dada .
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|INF 6|3|COMP 7|8|DET 8|6|PRED
+	9|3|PUNCT
+*MAR:	+< uhhuh . 605099_605749
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	+< he's a nice guy . 606071_607504
+%mor:	pro:sub|he~cop|be&3S det:art|a adj|nice n|guy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*FAT:	Dracula's a nice guy ? 607504_609141
+%mor:	adj|Dracula&dn-POSS det:art|a adj|nice n|guy ?
+%gra:	1|4|MOD 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*MAR:	uhhuh . 609141_609826
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	why ? 609826_610372
+%mor:	pro:rel|why ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	+< you know why ? 610123_610773
+%mor:	pro:per|you v|know pro:rel|why ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OM 4|2|PUNCT
+*FAT:	why ? 610773_611747
+%mor:	pro:rel|why ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	he's not as bad as the devils . 611747_614087
+%mor:	pro:sub|he~cop|be&3S neg|not prep|as adj|bad prep|as det:art|the
+	n|devil-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|COORD 5|2|PRED 6|5|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*FAT:	well ‡ that's true . 614087_615481
+%mor:	co|well beg|beg pro:dem|that~cop|be&3S adj|true .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*MAR:	+< they only give you one chance . 615081_617208
+%mor:	pro:sub|they adv|only v|give pro:per|you det:num|one n|chance .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|SUBJ 5|6|QUANT 6|3|OBJ 7|3|PUNCT
+*FAT:	Dracula gives you two chances ? 617208_618917
+%mor:	n:prop|Dracula v|give-3S pro:per|you det:num|two n|chance-PL ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|QUANT 5|2|OBJ 6|2|PUNCT
+*MAR:	no ‡ he gives you (.) like &-um ten or five chances . 618917_623329
+%mor:	co|no beg|beg pro:sub|he v|give-3S pro:per|you co|like det:num|ten
+	coord|or det:num|five n|chance-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|7|SUBJ 6|5|COM 7|4|OBJ 8|7|CONJ
+	9|10|QUANT 10|8|COORD 11|4|PUNCT
+*FAT:	+< I see . 622629_623921
+%mor:	pro:sub|I v|see .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*FAT:	so ‡ the best guy is Dracula ? 623921_626661
+%mor:	co|so beg|beg det:art|the adj|good&SP n|guy cop|be&3S
+	n:prop|Dracula ?
+%gra:	1|0|BEG 2|1|BEGP 3|5|DET 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|PRED 8|6|PUNCT
+*MAR:	uhhuh . 626661_627450
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	how about after Dracula who comes next ? 627450_630074
+%mor:	pro:int|how adv|about adv:tem|after n:prop|Dracula pro:rel|who
+	v|come-3S adv|next ?
+%gra:	1|3|LINK 2|3|JCT 3|0|INCROOT 4|3|APP 5|6|LINK 6|4|CMOD 7|6|JCT
+	8|3|PUNCT
+*MAR:	Frankenstein . 630074_632745
+%mor:	n:prop|Frankenstein .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	is Frankenstein a real +//? 632745_634382
+%mor:	cop|be&3S n:prop|Frankenstein det:art|a adj|real +//?
+%gra:	1|0|ROOT 2|1|PRED 3|4|DET 4|2|OM 5|1|PUNCT
+*MAR:	+< but for sure . 633445_634509
+%mor:	conj|but prep|for adj|sure .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MAR:	he never tries to get anybody . 634509_638387
+%mor:	pro:sub|he adv|never v|try-3S inf|to v|get pro:indef|anybody .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|3|PUNCT
+*MAR:	<he's a> [/] he's a good guy . 638387_640988
+%mor:	pro:sub|he~cop|be&3S det:art|a adj|good n|guy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*FAT:	+< he's a +//. 639509_640368
+%mor:	pro:sub|he~cop|be&3S det:art|a +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PUNCT
+*MAR:	he doesn't do anything wrong . 640988_642938
+%mor:	pro:sub|he mod|do&3S~neg|not v|do pro:indef|anything n|wrong .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+*FAT:	he's just a_little ugly „ right ? 642338_644741
+%mor:	pro:sub|he~cop|be&3S adv|just adv|a_little adj|ugly end|end
+	co|right ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|5|JCT 5|2|PRED 6|7|ENDP 7|2|END 8|2|PUNCT
+*MAR:	no ‡ he's not ugly . 644741_646285
+%mor:	co|no beg|beg pro:sub|he~cop|be&3S neg|not adj|ugly .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|4|PRED 7|4|PUNCT
+*MAR:	he's nice . 646285_647489
+%mor:	pro:sub|he~cop|be&3S adj|nice .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*FAT:	Frankenstein has a scar on his face . 647489_650032
+%mor:	n:prop|Frankenstein v|have&3S det:art|a n|scar prep|on det:poss|his
+	n|face .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*MAR:	yeah ‡ but he's nice . 650032_651797
+%mor:	co|yeah beg|beg conj|but pro:sub|he~cop|be&3S adj|nice .
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*FAT:	he's a nice fellow „ isn't he ? 651797_653097
+%mor:	pro:sub|he~cop|be&3S det:art|a adj|nice adj|fellow end|end
+	cop|be&3S~neg|not pro:sub|he ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|7|ENDP 7|2|END 8|2|NEG
+	9|2|PUNCT 10|9|PUNCT
+*MAR:	yeah . 653097_653944
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	yeah . 653944_654641
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	and he still knocks down doors . 654641_657544
+%mor:	coord|and pro:sub|he adv|still v|knock-3S prep|down n|door-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*FAT:	he still knocks down doors . 657544_658647
+%mor:	pro:sub|he adv|still v|knock-3S prep|down n|door-PL .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*FAT:	he's just a_little rough „ right ? 658647_660202
+%mor:	pro:sub|he~cop|be&3S adv|just adv|a_little adj|rough end|end
+	co|right ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|5|JCT 5|2|PRED 6|7|ENDP 7|2|END 8|2|PUNCT
+*FAT:	not a really nasty guy just a_little rough . 660202_664045
+%mor:	neg|not det:art|a adv|really adj|nasty n|guy adv|just adv|a_little
+	adj|rough .
+%gra:	1|5|NEG 2|5|DET 3|4|JCT 4|5|MOD 5|0|INCROOT 6|7|JCT 7|8|JCT 8|5|POSTMOD
+	9|5|PUNCT
+*MAR:	+< no ‡ right . 663745_665647
+%mor:	co|no beg|beg co|right .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*FAT:	right . 665647_666727
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	+< <but after> [//] but if he gets killed . 665647_669688
+%mor:	conj|but conj|if pro:sub|he v|get-3S part|kill-PASTP .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CJCT 5|4|COMP 6|1|PUNCT
+*FAT:	yeah . 669688_670640
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	then all xxx comes all the goons . 670640_675242
+%mor:	adv:tem|then pro:indef|all v|come-3S adv|all det:art|the n|goon-PL
+	.
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|JCT 5|6|DET 6|3|OBJ 7|3|PUNCT
+*FAT:	all the goons ? 675242_676166
+%mor:	qn|all det:art|the n|goon-PL ?
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*MAR:	yeah . 676166_676871
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	&=gasps I don't wanna see those goons . 676871_679992
+%mor:	pro:sub|I mod|do~neg|not v|want~inf|to v|see det:dem|those
+	n|goon-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+*FAT:	do you like goons ? 679992_680984
+%mor:	mod|do pro:per|you co|like n|goon-PL ?
+%gra:	1|4|AUX 2|4|SUBJ 3|4|COM 4|0|INCROOT 5|4|PUNCT
+*MAR:	no . 680984_682145
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	I don't like the goons . 682145_684351
+%mor:	pro:sub|I mod|do~neg|not v|like det:art|the n|goon-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*FAT:	neither do I . 684351_687508
+%mor:	coord|neither mod|do pro:sub|I .
+%gra:	1|3|LINK 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+*FAT:	I could do without the goons . 687508_689239
+%mor:	pro:sub|I mod|could v|do prep|without det:art|the n|goon-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*MAR:	+< you know who is the baddest one ? 688839_691700
+%mor:	pro:per|you v|know pro:int|who cop|be&3S det:art|the adj|bad-SP
+	pro:indef|one ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|7|DET 6|7|MOD 7|4|PRED 8|2|PUNCT
+*FAT:	who ? 691700_694013
+%mor:	pro:rel|who ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	well ‡ I'll tell you . 694013_698234
+%mor:	co|well beg|beg pro:sub|I~mod|will v|tell pro:per|you .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*MAR:	the baddest one about xxx is (...) the devil . 698234_709359
+%mor:	det:art|the adj|bad-SP pro:indef|one prep|about cop|be&3S
+	det:art|the n|devil .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|7|DET 7|5|PRED 8|5|PUNCT
+*FAT:	+< &-uh a one . 700276_701545
+%mor:	det:art|a pro:indef|one .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*FAT:	+< yeah . 701545_701893
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	the devil . 709359_710241
+%mor:	det:art|the n|devil .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*FAT:	huh . 710241_711886
+%mor:	co|huh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	I_mean not the devils xxx . 711886_714827
+%mor:	co|I_mean neg|not det:art|the n|devil-PL .
+%gra:	1|4|COM 2|1|NEG 3|4|DET 4|0|INCROOT 5|4|PUNCT
+*MAR:	&-uh +... 714827_718381
+*FAT:	+< what ? 714827_715338
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	hm +... 718381_725891
+%mor:	co|hm +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	robbers . 725891_728412
+%mor:	n|rob&dv-AGT-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	you know why ? 728412_729305
+%mor:	pro:per|you v|know pro:rel|why ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OM 4|2|PUNCT
+*FAT:	why ? 729305_730713
+%mor:	pro:rel|why ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	because they just try to kill people . 730713_735899
+%mor:	conj|because pro:sub|they adv|just v|try inf|to v|kill n|person&PL
+	.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|4|PUNCT
+*FAT:	that's good . 735899_737711
+%mor:	pro:dem|that~cop|be&3S adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MAR:	why do you say good ? 737711_739185
+%mor:	pro:int|why mod|do pro:per|you v|say adj|good ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*MAR:	anyway they're in real life . 739185_742169
+%mor:	co|anyway pro:sub|they~cop|be&PRES prep|in adj|real n|life .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|PUNCT
+*FAT:	robbers ? 742169_743039
+%mor:	n|rob&dv-AGT-PL ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	yeah . 743039_743906
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	mhm . 743906_744920
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	that's not good . 744920_746104
+%mor:	pro:dem|that~cop|be&3S neg|not adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|2|PUNCT
+*MAR:	+< and they try to kill people . 745804_747370
+%mor:	coord|and pro:sub|they v|try inf|to v|kill n|person&PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|3|PUNCT
+*FAT:	that's not so good „ is it ? 747370_749568
+%mor:	pro:dem|that~cop|be&3S neg|not adv|so adj|good end|end aux|be&3S
+	pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|JCT 5|2|PRED 6|8|ENDP 7|8|AUX 8|2|END
+	9|2|PUNCT
+*MAR:	because once in my dream he almost tried to kill me . 749568_753906
+%mor:	conj|because adv|once prep|in det:poss|my n|dream pro:sub|he
+	adv|almost part|try-PASTP inf|to v|kill pro:obj|me .
+%gra:	1|8|LINK 2|8|JCT 3|8|JCT 4|5|DET 5|3|POBJ 6|8|SUBJ 7|8|JCT 8|0|ROOT
+	9|10|INF 10|8|COMP 11|10|OBJ 12|8|PUNCT
+*FAT:	really ? 753906_754649
+%mor:	adv|really ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	yeah . 754649_755474
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	hm I guess that's not so good . 755474_759433
+%mor:	co|hm pro:sub|I n|guess pro:rel|that~cop|be&3S neg|not adv|so
+	adj|good .
+%gra:	1|3|COM 2|3|SUBJ 3|0|INCROOT 4|5|LINK 5|3|CMOD 6|5|NEG 7|8|JCT 8|5|PRED
+	9|3|PUNCT
+*MAR:	but I got away . 759433_760675
+%mor:	conj|but pro:sub|I v|get&PAST adv|away .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*MAR:	and here's what happened to him . 760675_762637
+%mor:	coord|and pro:exist|here~cop|be&3S pro:int|what v|happen-PAST
+	prep|to pro:obj|him .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|CPRED 6|5|JCT 7|6|POBJ
+	8|3|PUNCT
+*FAT:	what ? 762637_763218
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	<he ran out the window , the window , the second story window>
+	[=! singing] . 763218_770625
+%mor:	pro:sub|he v|run&PAST prep|out det:art|the n|window cm|cm
+	det:art|the n|window cm|cm det:art|the adj|second n|story n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|LP 7|8|DET 8|2|ENUM
+	9|8|LP 10|13|DET 11|13|MOD 12|13|MOD 13|8|APP 14|2|PUNCT
+*FAT:	really ? 770625_771054
+%mor:	adv|really ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	yeah . 771054_772006
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	remarkable . 772006_774563
+%mor:	adj|remark&dv-ABLE .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	because I ducked the knife . 774563_776592
+%mor:	conj|because pro:sub|I part|duck-PASTP det:art|the n|knife .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*FAT:	uhhuh . 776592_777812
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	and he [//] you were in the room . 777812_780029
+%mor:	coord|and pro:per|you cop|be&PAST prep|in det:art|the n|room .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*MAR:	and I ducked . 780029_780946
+%mor:	coord|and pro:sub|I part|duck-PASTP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MAR:	then he went out the window . 780946_783152
+%mor:	adv:tem|then pro:sub|he v|go&PAST prep|out det:art|the n|window .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*FAT:	the second story window ? 783152_784150
+%mor:	det:art|the adj|second n|story n|window ?
+%gra:	1|4|DET 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*MAR:	yeah . 784150_784905
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	yeah . 784905_785602
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	&-um <he went out the window> [=! singing] . 785202_788620
+%mor:	pro:sub|he v|go&PAST prep|out det:art|the n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*MAR:	xxx . 788620_789247
+*FAT:	yeah . 789247_790083
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	hold that Mark . 790083_791128
+%mor:	v|hold comp|that n:prop|Mark .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|APP 4|1|PUNCT
+*MAR:	+< <I throw him out the window , the window , the second story
+	window> [=! singing] . 790164_799439
+%mor:	pro:sub|I v|throw pro:obj|him adv|out det:art|the n|window cm|cm
+	det:art|the n|window cm|cm det:art|the adj|second n|story n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|2|LP 8|9|DET
+	9|2|OBJ 10|9|LP 11|14|DET 12|14|MOD 13|14|MOD 14|9|APP 15|2|PUNCT
+*FAT:	watch out kitty . 799439_801374
+%mor:	v|watch prep|out n|kitty .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MAR:	but I didn't throw him out the window . 801374_803534
+%mor:	conj|but pro:sub|I mod|do&PAST~neg|not v|throw pro:obj|him adv|out
+	det:art|the n|window .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+*MAR:	I ducked them out the window . 803534_805524
+%mor:	pro:sub|I part|duck-PASTP pro:obj|them prep|out det:art|the
+	n|window .
+%gra:	1|0|INCROOT 2|1|XMOD 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*FAT:	okay ‡ thank_you so much . 805524_806998
+%mor:	co|okay beg|beg co|thank_you adv|so adv|much .
+%gra:	1|0|BEG 2|1|BEGP 3|5|COM 4|5|JCT 5|0|INCROOT 6|5|PUNCT
+*MAR:	+< &=laughs . 806298_808588
+*FAT:	Ross ‡ you gave Name an awful lot of food . 808588_810783
+%mor:	n:prop|Ross beg|beg pro:per|you v|give&PAST n:prop|Name det:art|a
+	adj|awful n|lot prep|of n|food .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|8|DET 7|8|MOD 8|4|OBJ
+	9|8|NJCT 10|9|POBJ 11|4|PUNCT
+*FAT:	0 . 810783_818404
+*MAR:	that means that we can't feed him tonight . 818404_823345
+%mor:	pro:rel|that v|mean-3S comp|that pro:sub|we mod|can~neg|not v|feed
+	pro:obj|him adv:tem|tonight .
+%gra:	1|2|LINK 2|0|ROOT 3|7|LINK 4|7|SUBJ 5|7|AUX 6|5|NEG 7|2|COMP 8|7|OBJ
+	9|7|JCT 10|2|PUNCT
+*FAT:	right . 823345_824111
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	0 . 824111_830534
+*MAR:	not you Dad either . 830534_832914
+%mor:	neg|not pro:per|you n:prop|Dad adv|either .
+%gra:	1|2|NEG 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*MAR:	that means you can't feed him either . 832914_835222
+%mor:	pro:rel|that v|mean-3S pro:per|you mod|can~neg|not v|feed
+	pro:obj|him adv|either .
+%gra:	1|2|LINK 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|2|COMP 7|6|OBJ 8|6|JCT
+	9|2|PUNCT
+*FAT:	+< I won't feed him tonight either . 834522_837165
+%mor:	pro:sub|I mod|will~neg|not v|feed pro:obj|him adv:tem|tonight
+	adv|either .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|JCT 8|4|PUNCT
+*FAT:	how many sausages do you want Mark ? 837165_838798
+%mor:	pro:int|how qn|many n|sausage-PL v|do pro:per|you v|want
+	n:prop|Mark ?
+%gra:	1|3|LINK 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|OBJ
+	8|4|PUNCT
+*MAR:	&-um &-uh let's see . 838798_844267
+%mor:	v|let~pro:obj|us v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
+*MAR:	five . 844267_845044
+%mor:	det:num|five .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	mkay . 845044_845926
+%mor:	co|mkay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	0 . 845926_868443
+*MAR:	but now if the good thing about robbers . 868443_872479
+%mor:	conj|but adv|now comp|if det:art|the adj|good n|thing prep|about
+	n|rob&dv-AGT-PL .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|6|DET 5|6|MOD 6|3|OBJ 7|6|NJCT 8|7|POBJ
+	9|1|PUNCT
+*FAT:	yeah ? 872479_872966
+%mor:	co|yeah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	one good thing about robbers is if they steal something from you
+	(.) you [//] &+k and it's &+k not so much money then you can buy it
+	again . 872966_888595
+%mor:	det:num|one adj|good n|thing prep|about n|rob&dv-AGT-PL cop|be&3S
+	conj|if pro:sub|they v|steal pro:indef|something prep|from
+	pro:per|you coord|and pro:per|it~cop|be&3S neg|not adv|so qn|much
+	n|money adv:tem|then pro:per|you mod|can v|buy pro:per|it adv|again
+	.
+%gra:	1|3|QUANT 2|3|MOD 3|6|SUBJ 4|3|NJCT 5|4|POBJ 6|0|ROOT 7|9|LINK 8|9|SUBJ
+	9|6|CJCT 10|9|OBJ 11|9|JCT 12|11|POBJ 13|15|LINK 14|15|SUBJ 15|9|CJCT
+	16|15|NEG 17|18|JCT 18|19|QUANT 19|15|PRED 20|23|JCT 21|23|SUBJ 22|23|AUX
+	23|19|CMOD 24|23|OBJ 25|23|JCT 26|6|PUNCT
+*FAT:	+< yeah ? 879781_880455
+%mor:	co|yeah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	they what ? 888595_889394
+%mor:	pro:sub|they pro:int|what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MAR:	then you can buy it again . 889394_891368
+%mor:	adv:tem|then pro:per|you mod|can v|buy pro:per|it adv|again .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*FAT:	you can . 891368_892134
+%mor:	pro:per|you mod|can .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*FAT:	that's right . 892134_893235
+%mor:	pro:dem|that~cop|be&3S co|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*FAT:	your insurance will pay for it „ right ? 893235_895873
+%mor:	det:poss|your n|insurance mod|will v|pay prep|for pro:per|it
+	end|end co|right ?
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|8|ENDP 8|4|END
+	9|4|PUNCT
+*MAR:	yeah . 895873_896709
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	so ‡ you shouldn't worry too much . 896709_898659
+%mor:	co|so beg|beg pro:per|you mod|should~neg|not v|worry adv|too
+	adv|much .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|8|JCT 8|6|JCT
+	9|6|PUNCT
+*MAR:	yeah . 898659_899969
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	don't worry too much about not very much paying things . 899969_904499
+%mor:	mod|do~neg|not v|worry adv|too adv|much adv|about neg|not adv|very
+	adv|much part|pay-PRESP n|thing-PL .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|5|JCT 5|3|JCT 6|9|JCT 7|6|NEG 8|9|JCT
+	9|3|JCT 10|3|XJCT 11|10|OBJ 12|3|PUNCT
+*FAT:	+< no ‡ (.) no ‡ don't worry too much . 901799_905776
+%mor:	co|no beg|beg co|no beg|beg mod|do~neg|not v|worry adv|too adv|much
+	.
+%gra:	1|0|BEG 2|1|BEGP 3|0|BEG 4|3|BEGP 5|7|AUX 6|5|NEG 7|0|ROOT 8|9|JCT
+	9|7|JCT 10|7|PUNCT
+*MAR:	(be)cause you can always find them again . 905776_909073
+%mor:	conj|because pro:per|you mod|can adv|always v|find pro:obj|them
+	adv|again .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|JCT 8|5|PUNCT
+*FAT:	+< right . 908873_909677
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	always . 909677_911256
+%mor:	adv|always .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	+< right . 911056_912010
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	if they always get captured (.) by a robber . 912010_916457
+%mor:	comp|if pro:sub|they adv|always v|get v|capture-PAST prep|by
+	det:art|a n|rob&dv-AGT .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|JCT 4|5|SRL 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*FAT:	+< right . 914704_915552
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	that's right . 916457_917251
+%mor:	pro:dem|that~cop|be&3S co|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MAR:	Dad ? 917251_917890
+%mor:	n:prop|Dad ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	yes . 917890_918512
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	how come robbers have never tried to rob our house ? 918512_924294
+%mor:	pro:int|how v|come n|rob&dv-AGT-PL v|have adv|never part|try-PASTP
+	inf|to v|rob det:poss|our n|house ?
+%gra:	1|2|JCT 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|JCT 6|4|COMP 7|8|INF 8|6|COMP
+	9|10|DET 10|8|OBJ 11|2|PUNCT
+*FAT:	try to rob our house ? 924294_925466
+%mor:	v|try inf|to v|rob det:poss|our n|house ?
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*MAR:	yeah . 925466_926151
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	&-uh because we don't leave the door open . 926151_931784
+%mor:	conj|because pro:sub|we mod|do~neg|not v|leave det:art|the n|door
+	adj|open .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|5|PUNCT
+*MAR:	you mean xxx is where they rob peoples houses ? 931784_937413
+%mor:	pro:per|you v|mean aux|be&3S pro:rel|where pro:sub|they v|rob
+	n|person&PL-PL n|house-PL ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|AUX 4|6|LINK 5|6|SUBJ 6|2|COMP 7|8|MOD 8|6|OBJ
+	9|2|PUNCT
+*FAT:	door open . 937413_939530
+%mor:	n|door adj|open .
+%gra:	1|0|INCROOT 2|1|POSTMOD 3|1|PUNCT
+*MAR:	you mean we don't ever have our door open ? 939530_942498
+%mor:	pro:per|you adj|mean pro:sub|we mod|do~neg|not adv|ever v|have
+	det:poss|our n|door adj|open ?
+%gra:	1|7|SUBJ 2|7|JCT 3|7|SUBJ 4|7|AUX 5|4|NEG 6|7|JCT 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|9|POSTMOD 11|7|PUNCT
+*FAT:	no Mar . 942498_943914
+%mor:	co|no n:prop|Mar .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MAR:	<or it> [//] <and we> [//] yeah ‡ but what if they throw &+s some
+	[//] something [//] a rock out the window ? 943474_952111
+%mor:	co|yeah beg|beg conj|but pro:int|what conj|if pro:sub|they v|throw
+	det:art|a n|rock prep|out det:art|the n|window ?
+%gra:	1|0|BEG 2|1|BEGP 3|7|LINK 4|7|LINK 5|7|LINK 6|7|SUBJ 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|7|JCT 11|12|DET 12|10|POBJ 13|7|PUNCT
+*MAR:	rocks <in the> [//] &-um over in the window . 952111_957371
+%mor:	v|rock-3S prep|over prep|in det:art|the n|window .
+%gra:	1|0|ROOT 2|1|JCT 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*FAT:	you mean break the window with a rock ? 957371_958950
+%mor:	pro:per|you adj|mean n|break det:art|the n|window prep|with
+	det:art|a n|rock ?
+%gra:	1|3|SUBJ 2|3|MOD 3|0|INCROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*MAR:	yeah . 958950_960023
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	with rocks . 960023_961573
+%mor:	prep|with n|rock-PL .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*FAT:	uhhuh . 961573_963014
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	well ‡ ten [: then] [* p:w] they could get in . 963014_965451
+%mor:	co|well beg|beg adv:tem|then pro:sub|they mod|could v|get adv|in .
+%gra:	1|0|BEG 2|1|BEGP 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|6|PUNCT
+*FAT:	+< and then they could get in . 964251_965366
+%mor:	coord|and adv:tem|then pro:sub|they mod|could v|get adv|in .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*FAT:	they could get in yeah . 965366_966446
+%mor:	pro:sub|they mod|could v|get prep|in co|yeah .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*MAR:	yeah . 966446_968223
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	but the police might find them . 968223_971095
+%mor:	conj|but det:art|the n|police mod|might v|find pro:obj|them .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*MAR:	yeah ‡ but what if they get the stuff before the police find them ?
+	971095_975238
+%mor:	co|yeah beg|beg conj|but pro:int|what conj|if pro:sub|they v|get
+	det:art|the n|stuff prep|before det:art|the n|police v|find
+	pro:obj|them ?
+%gra:	1|0|BEG 2|1|BEGP 3|13|LINK 4|13|LINK 5|7|LINK 6|7|SUBJ 7|13|CJCT
+	8|9|DET 9|7|OBJ 10|7|JCT 11|12|DET 12|10|POBJ 13|0|ROOT 14|13|OBJ 15|13|PUNCT
+*MAR:	and xxx . 975238_977363
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	they're free . 977363_978594
+%mor:	pro:sub|they~cop|be&PRES adv|free .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MAR:	free ? 978594_979818
+%mor:	adv|free ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	<then we're> [//] then we got stolen from . 979818_983019
+%mor:	adv:tem|then pro:sub|we aux|get&PAST part|steal&PASTP prep|from .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*MAR:	yeah ‡ but (..) &+w what if he's on the place <and there's a> [/]
+	and there's a cop ? 983019_992050
+%mor:	co|yeah beg|beg conj|but pro:int|what conj|if pro:sub|he~cop|be&3S
+	prep|on det:art|the n|place coord|and pro:exist|there~cop|be&3S
+	det:art|a n|cop ?
+%gra:	1|0|BEG 2|1|BEGP 3|7|LINK 4|7|LINK 5|7|LINK 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|13|LINK 12|13|SUBJ 13|7|CJCT 14|15|DET 15|13|PRED
+	16|7|PUNCT
+*MAR:	uhoh for him . 992050_994014
+%mor:	co|uhoh prep|for pro:obj|him .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*FAT:	yeah ‡ that's the problem . 994014_996372
+%mor:	co|yeah beg|beg pro:dem|that~cop|be&3S det:art|the n|problem .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+*FAT:	okay ‡ Mark ‡ I'm going to go downstairs +//. 996372_998493
+%mor:	co|okay beg|beg n:prop|Mark beg|beg pro:sub|I~aux|be&1S
+	part|go-PRESP inf|to v|go adv|downstairs +//.
+%gra:	1|0|BEG 2|1|BEGP 3|0|BEG 4|3|BEGP 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|9|INF
+	9|7|COMP 10|9|JCT 11|7|PUNCT
+*FAT:	0 . 998493_1000263
+@G:	New Episode
+*FAT:	I told Mar not to terrorize the cat . 1000263_1001912
+%mor:	pro:sub|I v|tell&PAST n:prop|Mar neg|not inf|to v|terrorize
+	det:art|the n|cat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|NEG 5|6|INF 6|2|COMP 7|8|DET 8|6|OBJ
+	9|2|PUNCT
+*FAT:	and Mark said +"/. 1001912_1002318
+%mor:	coord|and n:prop|Mark v|say&PAST +"/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*FAT:	+" I terrorized him next to the car . 1002318_1005044
+%mor:	pro:sub|I v|terrorize-PAST pro:obj|him adv|next prep|to det:art|the
+	n|car .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*FAT:	to make him terrorize is a xxx verb . 1005044_1007560
+%mor:	inf|to v|make pro:obj|him v|terrorize aux|be&3S det:art|a n|verb .
+%gra:	1|2|INF 2|0|ROOT 3|2|OBJ 4|2|COMP 5|7|AUX 6|7|DET 7|4|OBJ 8|2|PUNCT
+*FAT:	I love the [/] &-um the fact there xxx . 1007560_1014224
+%mor:	pro:sub|I v|love det:art|the n|fact adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|PUNCT
+*FAT:	+" I'm terrorizing the cat . 1014224_1015455
+%mor:	pro:sub|I~aux|be&1S part|terrorize-PRESP det:art|the n|cat .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*FAT:	+" no ‡ don't take the cat somewhere . 1015455_1016941
+%mor:	co|no beg|beg mod|do~neg|not v|take det:art|the n|cat adv|somewhere
+	.
+%gra:	1|0|BEG 2|1|BEGP 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|5|PUNCT
+*FAT:	+" did I terrorize xxx car ? 1016941_1019461
+%mor:	mod|do&PAST pro:sub|I v|terrorize n|car ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*FAT:	0 . 1019461_1021235
+@G:	New Episode
+*FAT:	he said +"/. 1021235_1022003
+%mor:	pro:sub|he v|say&PAST +"/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*FAT:	+" I'll finish this paper until I'm done . 1022003_1023814
+%mor:	pro:sub|I~mod|will v|finish det:dem|this n|paper conj|until
+	pro:sub|I~aux|be&1S part|do&PASTP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|3|CJCT 10|3|PUNCT
+*FAT:	+" and then you can get the right paper „ okay Dad ? 1023814_1026113
+%mor:	coord|and adv:tem|then pro:per|you mod|can v|get det:art|the
+	adj|right n|paper end|end co|okay n:prop|Dad ?
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|11|ENDP 10|11|COM 11|5|END 12|5|PUNCT
+*FAT:	this is referring to a (.) discussion we've been having about &-uh
+	his [//] fact that he wanted white paper instead of colored paper
+	for his drawing paper . 1026113_1035529
+%mor:	pro:dem|this aux|be&3S part|refer-PRESP prep|to det:art|a
+	n|discussion pro:sub|we~aux|have cop|be&PASTP part|have-PRESP
+	prep|about n|fact pro:rel|that pro:sub|he part|want-PASTP adj|white
+	n|paper adv|instead prep|of part|color-PASTP n|paper prep|for
+	det:poss|his n|drawing n|paper .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|9|SUBJ 8|9|AUX
+	9|3|CJCT 10|9|PRED 11|10|JCT 12|11|POBJ 13|14|LINK 14|12|CMOD 15|14|XMOD
+	16|17|MOD 17|15|OBJ 18|17|NJCT 19|18|JCT 20|19|POBJ 21|20|OBJ 22|21|NJCT
+	23|25|DET 24|25|MOD 25|22|POBJ 26|3|PUNCT
+*FAT:	and he's [/] &+bi he's given in to me . 1035529_1038025
+%mor:	coord|and pro:sub|he~aux|be&3S part|give&PASTP adv|in inf|to
+	pro:obj|me .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|INF 7|4|XJCT 8|4|PUNCT
+*FAT:	+< or not really . 1038025_1038598
+%mor:	coord|or neg|not adv|really .
+%gra:	1|3|LINK 2|3|NEG 3|0|INCROOT 4|3|PUNCT
+*FAT:	he [/] he sort_of made an offer . 1038598_1039689
+%mor:	pro:sub|he adv|sort_of v|make&PAST det:art|a n|offer .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*FAT:	he said +"/. 1039689_1040150
+%mor:	pro:sub|he v|say&PAST +"/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*FAT:	+" I'll finish this paper until I'm done . 1040150_1042054
+%mor:	pro:sub|I~mod|will v|finish det:dem|this n|paper conj|until
+	pro:sub|I~aux|be&1S part|do&PASTP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|3|CJCT 10|3|PUNCT
+*FAT:	and so he will use this paper up is what he's saying . 1042054_1044956
+%mor:	coord|and co|so pro:sub|he mod|will v|use det:dem|this n|paper
+	adv|up cop|be&3S pro:int|what pro:sub|he~aux|be&3S part|say-PRESP .
+%gra:	1|5|LINK 2|5|COM 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|9|JCT
+	9|5|COMP 10|13|LINK 11|13|SUBJ 12|13|AUX 13|9|CPRED 14|5|PUNCT
+*FAT:	0 . 1044956_1047423
+@G:	New Episode
+*FAT:	okay . 1047423_1048056
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	&-um +... 1048056_1049571
+*CHI:	whose toothbrush ? 1049571_1051834
+%mor:	pro:rel|whose n|+n|tooth+n|brush ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*MAR:	mine . 1051834_1052665
+%mor:	pro:poss|mine .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	okay ‡ hop to . 1052665_1053503
+%mor:	co|okay beg|beg n|hop inf|to .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|OM 5|3|PUNCT
+*CHI:	no ‡ it's +//. 1053503_1054130
+%mor:	co|no beg|beg pro:per|it~cop|be&3S +//.
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*FAT:	put it away where it's sposta be . 1054130_1055103
+%mor:	v|put&ZERO pro:per|it adv|away pro:rel|where pro:per|it~aux|be&3S
+	part|suppose-PASTP~inf|to cop|be .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|1|COMP 8|9|INF
+	9|7|COMP 10|1|PUNCT
+*MAR:	+< yeah . 1054703_1055444
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	put it back where it's sposta be Mark . 1055444_1056789
+%mor:	v|put&ZERO pro:per|it adv|back pro:rel|where pro:per|it~aux|be&3S
+	part|suppose-PASTP~inf|to cop|be n:prop|Mark .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|1|COMP 8|9|INF
+	9|7|COMP 10|9|PRED 11|1|PUNCT
+*CHI:	xxx . 1055889_1060119
+*FAT:	yeah ‡ I bought him one because his other one was kind_of funny . 1060119_1062499
+%mor:	co|yeah beg|beg pro:sub|I v|buy&PAST pro:obj|him pro:indef|one
+	conj|because det:poss|his qn|other pro:indef|one cop|be&PAST&13S
+	adv|kind_of adj|fun&dn-Y .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|OBJ 7|11|LINK 8|10|DET
+	9|10|QUANT 10|11|SUBJ 11|6|CMOD 12|13|JCT 13|11|PRED 14|4|PUNCT
+*FAT:	you know what I mean ? 1062499_1063799
+%mor:	pro:per|you v|know pro:int|what pro:sub|I v|mean ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|2|PUNCT
+*CHI:	+< that [//] his bendy one . 1063399_1065483
+%mor:	det:poss|his adj|bend&dv-Y pro:indef|one .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*FAT:	his bendy one . 1064399_1065142
+%mor:	det:poss|his adj|bend&dv-Y pro:indef|one .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*FAT:	<he didn't> [/] he didn't really like it . 1065142_1066203
+%mor:	pro:sub|he mod|do&PAST~neg|not adv|real&dadj-LY v|like pro:per|it .
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*FAT:	and I didn't like it either . 1066203_1067166
+%mor:	coord|and pro:sub|I mod|do&PAST~neg|not v|like pro:per|it
+	adv|either .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|JCT 8|5|PUNCT
+*CHI:	I could take it . 1067166_1068478
+%mor:	pro:sub|I mod|could v|take pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*FAT:	well ‡ what do you think Ross [//] Mark ? 1068478_1072057
+%mor:	co|well beg|beg pro:int|what mod|do pro:per|you v|think n:prop|Mark
+	?
+%gra:	1|0|BEG 2|1|BEGP 3|6|OBJ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*MAR:	this one doesn't bend . 1072057_1073853
+%mor:	pro:dem|this pro:indef|one mod|do&3S~neg|not n|bend .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|INCROOT 6|5|PUNCT
+*CHI:	can I have yours ? 1073853_1075084
+%mor:	mod|can pro:sub|I v|have pro:poss|yours ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*FAT:	Mark ? 1075084_1076326
+%mor:	n:prop|Mark ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	huh ? 1076326_1078613
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	come on . 1078613_1079844
+%mor:	v|come adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MAR:	I like it . 1079844_1081287
+%mor:	pro:sub|I v|like pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*FAT:	he likes it . 1081287_1081728
+%mor:	pro:sub|he v|like-3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*FAT:	why don't you like it ? 1081728_1082459
+%mor:	pro:int|why mod|do~neg|not pro:per|you v|like pro:per|it ?
+%gra:	1|5|JCT 2|5|AUX 3|2|NEG 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	+< well ‡ how come you have that one „ huh ? 1082271_1085035
+%mor:	co|well beg|beg pro:int|how v|come pro:per|you v|have det:dem|that
+	pro:indef|one end|end co|huh ?
+%gra:	1|0|BEG 2|1|BEGP 3|4|JCT 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|8|DET 8|6|OBJ
+	9|10|ENDP 10|4|END 11|4|PUNCT
+*MAR:	I like it . 1085035_1086113
+%mor:	pro:sub|I v|like pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	okay ‡ I'll take the bendy one . 1086113_1088226
+%mor:	co|okay beg|beg pro:sub|I~mod|will v|take det:art|the adj|bend&dv-Y
+	pro:indef|one .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|5|PUNCT
+*FAT:	+< hey ‡ Mark ‡ where's your coat ? 1087113_1088226
+%mor:	co|hey beg|beg n:prop|Mark beg|beg pro:int|where~cop|be&3S
+	det:poss|your n|coat ?
+%gra:	1|0|BEG 2|1|BEGP 3|0|BEG 4|3|BEGP 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|PRED
+	9|6|PUNCT
+*FAT:	where's your coat Mark „ huh ? 1088226_1089213
+%mor:	pro:int|where~cop|be&3S det:poss|your n|coat n:prop|Mark end|end
+	co|huh ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|APP 6|7|ENDP 7|2|END 8|2|PUNCT
+*MAR:	xxx . 1089213_1089666
+*FAT:	hey ‡ Marky ‡ do you wear this coat all the time or do you wear
+	that other one ? 1089666_1092557
+%mor:	co|hey beg|beg n:prop|Marky beg|beg mod|do pro:per|you v|wear
+	det:dem|this n|coat qn|all det:art|the n|time coord|or v|do
+	pro:per|you v|wear adv|that qn|other pro:indef|one ?
+%gra:	1|0|BEG 2|1|BEGP 3|0|BEG 4|3|BEGP 5|7|AUX 6|7|SUBJ 7|0|ROOT 8|9|DET
+	9|16|JCT 10|12|QUANT 11|12|DET 12|9|OBJ 13|12|CONJ 14|13|COORD 15|16|SUBJ
+	16|7|COMP 17|19|JCT 18|19|QUANT 19|16|OBJ 20|7|PUNCT
+*FAT:	didn't we useta have another coat ? 1092557_1094090
+%mor:	mod|do&PAST~neg|not pro:sub|we mod|used~inf|to v|have qn|another
+	n|coat ?
+%gra:	1|6|AUX 2|1|NEG 3|6|SUBJ 4|6|AUX 5|6|INF 6|0|ROOT 7|8|QUANT 8|6|OBJ
+	9|6|PUNCT
+*CHI:	no . 1094090_1094809
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	is this the coat he wears ? 1094809_1095842
+%mor:	cop|be&3S pro:dem|this det:art|the n|coat pro:sub|he v|wear-3S ?
+%gra:	1|0|ROOT 2|1|PRED 3|4|DET 4|2|OBJ 5|6|SUBJ 6|4|CMOD 7|1|PUNCT
+*MAR:	look . 1095842_1096260
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	+< yeah . 1096042_1096376
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	okay . 1096376_1097897
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	if I don't want it to get on my tongue see what I do ? 1097897_1101315
+%mor:	conj|if pro:sub|I mod|do~neg|not v|want pro:per|it inf|to v|get
+	prep|on det:poss|my n|tongue v|see pro:int|what pro:sub|I v|do ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|8|INF 8|5|COMP
+	9|8|JCT 10|11|DET 11|9|POBJ 12|8|XJCT 13|15|LINK 14|15|SUBJ 15|12|COMP
+	16|5|PUNCT
+*FAT:	Mark ‡ put that back . 1101315_1102714
+%mor:	n:prop|Mark beg|beg v|put&ZERO pro:dem|that adv|back .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*FAT:	yes ‡ I know . 1102714_1103749
+%mor:	co|yes beg|beg pro:sub|I v|know .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*FAT:	but put it back where it's sposta go „ okay ? 1103749_1106176
+%mor:	conj|but v|put&ZERO pro:per|it adv|back pro:rel|where
+	pro:per|it~aux|be&3S part|suppose-PASTP~inf|to v|go end|end co|okay
+	?
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|2|COMP
+	9|10|INF 10|8|COMP 11|12|ENDP 12|2|END 13|2|PUNCT
+*FAT:	what'd you wanna know about how the world was formed Honey ? 1106176_1109953
+%mor:	pro:int|what~mod|genmod pro:per|you v|want~inf|to v|know prep|about
+	pro:int|how det:art|the n|world aux|be&PAST&13S part|form-PASTP
+	n:prop|Honey ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|12|LINK
+	9|10|DET 10|12|SUBJ 11|12|AUX 12|7|CPOBJ 13|12|OBJ 14|4|PUNCT
+*CHI:	what happened to xxx ? 1109953_1112873
+%mor:	pro:int|what v|happen-PAST inf|to ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OM 4|2|PUNCT
+*FAT:	to what Love ? 1112873_1113826
+%mor:	inf|to pro:int|what n:prop|Love ?
+%gra:	1|3|INF 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CHI:	his toothbrush . 1113826_1115715
+%mor:	det:poss|his n|+n|tooth+n|brush .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*FAT:	we threw away the old bendy one away . 1115715_1117995
+%mor:	pro:sub|we v|throw&PAST adv|away det:art|the adj|old adj|bend&dv-Y
+	det:num|one adv|away .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|2|JCT 6|7|MOD 7|5|CMOD 8|7|JCT
+	9|2|PUNCT
+*CHI:	why ? 1117995_1118703
+%mor:	pro:rel|why ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	you said I could have it . 1118703_1120467
+%mor:	pro:per|you v|say&PAST pro:sub|I mod|could v|have pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|5|OBJ 7|2|PUNCT
+*FAT:	no ‡ I didn't say that . 1120467_1121803
+%mor:	co|no beg|beg pro:sub|I mod|do&PAST~neg|not v|say comp|that .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*CHI:	you said . 1121803_1123463
+%mor:	pro:per|you v|say&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*FAT:	I don't remember any saying such thing . 1123463_1125088
+%mor:	pro:sub|I mod|do~neg|not v|remember qn|any part|say-PRESP qn|such
+	n|thing .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|QUANT 6|4|COMP 7|8|QUANT 8|6|OBJ
+	9|4|PUNCT
+*CHI:	because you probably were on the wrong track . 1125088_1129593
+%mor:	conj|because pro:per|you adv|probable&dadj-LY cop|be&PAST prep|on
+	det:art|the adj|wrong n|track .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*FAT:	I was on the wrong track ? 1129593_1130770
+%mor:	pro:sub|I cop|be&PAST&13S prep|on det:art|the adj|wrong n|track ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|PUNCT
+*FAT:	sometimes you're on the wrong track my dear . 1130770_1132611
+%mor:	adv|sometimes pro:per|you~cop|be&PRES adv|on det:art|the adj|wrong
+	n|track det:poss|my co|dear .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|3|PRED 8|9|DET
+	9|7|CMOD 10|3|PUNCT
+*FAT:	come on Mark and Ross . 1132611_1133923
+%mor:	v|come prep|on n:prop|Mark coord|and n:prop|Ross .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|CONJ 5|4|COORD 6|1|PUNCT
+*FAT:	Mark ‡ put that brush back . 1133923_1138009
+%mor:	n:prop|Mark beg|beg v|put&ZERO pro:dem|that v|brush adv|back .
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*MAR:	okay . 1138009_1138927
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	hey ‡ what are you doing with those ? 1139327_1142125
+%mor:	co|hey beg|beg pro:int|what aux|be&PRES pro:per|you part|do-PRESP
+	prep|with pro:dem|those ?
+%gra:	1|0|BEG 2|1|BEGP 3|6|LINK 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|PUNCT
+*CHI:	what ? 1142125_1142956
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	xxx . 1142956_1146344
+*FAT:	oh ‡ it's [//] I'm [/] I'm glueing it down . 1146344_1148542
+%mor:	co|oh beg|beg pro:sub|I~aux|be&1S part|glue-PRESP pro:per|it
+	adv|down .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|JCT 8|5|PUNCT
+*FAT:	I'll put it away in a +//. 1148542_1149250
+%mor:	pro:sub|I~mod|will v|put&ZERO pro:per|it adv|away prep|in det:art|a
+	+//.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|JCT 7|6|POBJ 8|3|PUNCT
+*FAT:	you can get it away in a second Honey . 1149250_1152093
+%mor:	pro:per|you mod|can aux|get pro:per|it adv|away prep|in det:art|a
+	n|second n:prop|Honey .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|8|APP 10|4|PUNCT
+@G:	New Episode
+*FAT:	+" beated you to the car . 1152093_1153933
+%mor:	v|beat-PAST pro:per|you prep|to det:art|the n|car .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*FAT:	+" and I [/] I &+s +... 1153933_1156211
+%mor:	coord|and pro:sub|I +...
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*FAT:	and he sure said +"/. 1156211_1156850
+%mor:	coord|and pro:sub|he adv|sure v|say&PAST +"/.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*FAT:	+" I beat you to the car . 1156850_1157875
+%mor:	pro:sub|I v|beat&ZERO pro:per|you prep|to det:art|the n|car .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*FAT:	to Ross . 1157875_1158664
+%mor:	prep|to n:prop|Ross .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*MAR:	say I beat you up . 1158664_1160808
+%mor:	v|say pro:sub|I v|beat&ZERO pro:per|you adv|up .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*FAT:	and he said +"/. 1160808_1161133
+%mor:	coord|and pro:sub|he v|say&PAST +"/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*FAT:	+" I beat you up . 1161133_1161996
+%mor:	pro:sub|I v|beat&ZERO pro:per|you adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*FAT:	did you beat your brother up Mark ? 1161996_1163482
+%mor:	mod|do&PAST pro:per|you n|beat det:poss|your n|brother adv|up
+	n:prop|Mark ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|INCROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|6|POBJ
+	8|3|PUNCT
+*FAT:	did you really beat your brother up ? 1163482_1165386
+%mor:	v|do&PAST pro:per|you adv|really n|beat det:poss|your n|brother
+	adv|up ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|JCT 5|6|DET 6|4|OBJ 7|6|NJCT 8|1|PUNCT
+*MAR:	no . 1165386_1166129
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	why did you say it ? 1166129_1167360
+%mor:	pro:int|why mod|do&PAST pro:per|you v|say pro:per|it ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	+< if it happened I'll beat you up . 1166860_1168463
+%mor:	conj|if pro:per|it v|happen-PAST pro:sub|I~mod|will v|beat&ZERO
+	pro:per|you adv|up .
+%gra:	1|3|LINK 2|3|SUBJ 3|6|CJCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|6|PUNCT
+*FAT:	why did you say you beat him up Mark ? 1168463_1169694
+%mor:	pro:int|why mod|do&PAST pro:per|you v|say pro:per|you v|beat&ZERO
+	pro:obj|him adv|up n:prop|Mark ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|OBJ 8|6|JCT
+	9|8|POBJ 10|4|PUNCT
+*MAR:	+< xxx . 1169394_1171410
+*MAR:	Ross was talking rude to me . 1171410_1173885
+%mor:	n:prop|Ross aux|be&PAST&13S part|talk-PRESP adj|rude prep|to
+	pro:obj|me .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|4|JCT 6|5|POBJ 7|3|PUNCT
+*CHI:	(be)cause you said you xxx [=! mumbling] . 1173885_1176102
+%mor:	conj|because pro:per|you v|say&PAST pro:per|you .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MAR:	nuhuh . 1176102_1176659
+%mor:	co|nuhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	Lover_Darlings ‡ if there's any rude +/. 1176659_1178168
+%mor:	n:prop|Lover_Darlings beg|beg conj|if pro:exist|there~cop|be&3S
+	qn|any adj|rude +/.
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|7|QUANT 7|5|PRED
+	8|5|PUNCT
+*MAR:	+< nuhuh [=! whining] . 1177659_1179064
+%mor:	co|nuhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	+< okay . 1178168_1178889
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	I guess we can forget McDonald's . 1179064_1180430
+%mor:	pro:sub|I v|guess pro:sub|we mod|can v|forget adj|McDonald&dn-POSS
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|5|JCT 7|2|PUNCT
+*MAR:	oh . 1180430_1181464
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	no . 1181464_1182360
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	shall we cool it ? 1182360_1183753
+%mor:	mod|shall pro:sub|we v|cool pro:per|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MAR:	yeah . 1183753_1185065
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	cool it ? 1185065_1185402
+%mor:	v|cool pro:per|it ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*FAT:	everybody cool ? 1185402_1186633
+%mor:	pro:indef|everybody adj|cool ?
+%gra:	1|0|INCROOT 2|1|OM 3|1|PUNCT
+*MAR:	+< yeah ‡ I'm coo(l) +//. 1185833_1188865
+%mor:	co|yeah beg|beg pro:sub|I~cop|be&1S adj|cool +//.
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+@G:	New Episode
+*MAR:	0 . 1188865_1192954
+%com:	audio muffled
+*FAT:	can't understand you Mark when you say miɹid@u [: married] . 1192954_1195329
+%mor:	mod|can~neg|not v|understand pro:per|you n:prop|Mark conj|when
+	pro:per|you v|say part|marry-PASTP .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|5|SUBJ 5|3|OBJ 6|8|LINK 7|8|SUBJ 8|5|CJCT
+	9|8|COMP 10|3|PUNCT
+*FAT:	and [/] and I said +"/. 1195729_1197412
+%mor:	coord|and pro:sub|I v|say&PAST +"/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*FAT:	+" what does that mean ? 1197412_1198037
+%mor:	pro:int|what mod|do&3S pro:dem|that adj|mean ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|DET 4|0|ROOT 5|4|PUNCT
+*FAT:	he says +"/. 1198037_1198654
+%mor:	pro:sub|he v|say-3S +"/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*FAT:	+" married . 1198654_1200029
+%mor:	part|marry-PASTP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	that's why I said +"/. 1200029_1200737
+%mor:	pro:dem|that~cop|be&3S pro:int|why pro:sub|I v|say&PAST +"/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CPRED 6|2|PUNCT
+*FAT:	+" is that how you say it in Pittsburgh ? 1200737_1202051
+%mor:	cop|be&3S comp|that pro:int|how pro:per|you v|say pro:per|it
+	prep|in n:prop|Pittsburgh ?
+%gra:	1|0|ROOT 2|5|LINK 3|5|LINK 4|5|SUBJ 5|1|CPRED 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|1|PUNCT
+*FAT:	Mark said +"/. 1202051_1202492
+%mor:	n:prop|Mark v|say&PAST +"/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*FAT:	+" yeah . 1202492_1203221
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	say [//] how do you say married@q ? 1203221_1204767
+%mor:	pro:int|how mod|do pro:per|you v|say meta|married ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*MAR:	+< I'm going dɑntɑn@u [: downtown] . 1203521_1205334
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP n|downtown .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*FAT:	+< <how do you> [/] how do you say +/? 1204767_1205591
+%mor:	pro:int|how mod|do pro:per|you v|say +/?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*FAT:	you're going dɑntɑn@u [: downtown] ? 1205591_1206764
+%mor:	pro:per|you~aux|be&PRES part|go-PRESP n|downtown ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MAR:	yeah . 1206764_1207658
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	aren't we going dɑntɑn@u [: downtown] ? 1207658_1209086
+%mor:	aux|be&PRES~neg|not pro:sub|we part|go-PRESP n|downtown ?
+%gra:	1|5|CJCT 2|1|NEG 3|5|SUBJ 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*FAT:	yeah ‡ we're gonna go dɑntɑn@u [: downtown] and get mɛɹid@u
+	[: married] . 1209086_1211095
+%mor:	co|yeah beg|beg pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|go
+	n|downtown coord|and aux|get part|marry-PASTP .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|7|CONJ 10|11|AUX 11|9|COORD 12|5|PUNCT
+*MAR:	no ‡ we aren't . 1211095_1212894
+%mor:	co|no beg|beg pro:sub|we cop|be&PRES~neg|not .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|4|PUNCT
+*FAT:	we're gonna get dɑn@u [: down] [//] dɑntɑn@u [: downtown] . 1212894_1214938
+%mor:	pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|get adv|downtown .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|3|PUNCT
+*MAR:	we're not gonna go dɑntɑn@u [: downtown] . 1214938_1217190
+%mor:	pro:sub|we~aux|be&PRES neg|not part|go-PRESP~inf|to v|go
+	adv|downtown .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|4|PUNCT
+*FAT:	you're not gonna go &+deh +/. 1217190_1218003
+%mor:	pro:per|you~aux|be&PRES neg|not part|go-PRESP~inf|to v|go +/.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+*FAT:	0 . 1218003_1220003
+@G:	New Episode
+*FAT:	+" (be)cause unless you have a dime . 1220003_1221310
+%mor:	conj|because conj|unless pro:per|you v|have det:art|a n|dime .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*FAT:	and I said +"/. 1221310_1221631
+%mor:	coord|and pro:sub|I v|say&PAST +"/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*FAT:	+" oh ‡ you do „ do you ? 1221631_1222600
+%mor:	co|oh beg|beg pro:per|you v|do end|end v|do pro:per|you ?
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|ENDP 6|4|END 7|4|OBJ 8|4|PUNCT
+*FAT:	and he said +"/. 1222600_1223204
+%mor:	coord|and pro:sub|he v|say&PAST +"/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*FAT:	+" yeah ‡ because I always carry around some places a little bit of
+	money . 1223204_1228463
+%mor:	co|yeah beg|beg conj|because pro:sub|I adv|always v|carry
+	prep|around qn|some n|place-PL det:art|a adj|little n|bit prep|of
+	n|money .
+%gra:	1|0|BEG 2|1|BEGP 3|6|LINK 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|6|JCT 8|9|QUANT
+	9|7|POBJ 10|12|DET 11|12|MOD 12|6|JCT 13|12|NJCT 14|13|POBJ 15|6|PUNCT
+*CHI:	+< no ‡ I'm gonna look for one . 1223704_1225700
+%mor:	co|no beg|beg pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|look
+	prep|for pro:indef|one .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|7|JCT
+	9|8|POBJ 10|5|PUNCT
+*MAR:	+< look for what ? 1226747_1228463
+%mor:	v|look prep|for pro:int|what ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CHI:	a dime . 1228463_1229067
+%mor:	det:art|a n|dime .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*FAT:	how much do you have Ross ? 1229067_1229984
+%mor:	pro:int|how adv|much v|do pro:per|you v|have n:prop|Ross ?
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|OBJ 7|3|PUNCT
+*CHI:	thirty cents . 1229984_1232055
+%mor:	det:num|thirty n|cent-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*FAT:	is it true that you always carry around money with you ? 1232055_1233634
+%mor:	aux|be&3S pro:per|it adj|true comp|that pro:per|you adv|always
+	v|carry prep|around n|money prep|with pro:per|you ?
+%gra:	1|0|INCROOT 2|1|PRED 3|2|PRED 4|7|LINK 5|7|SUBJ 6|7|JCT 7|3|CMOD
+	8|7|JCT 9|8|POBJ 10|7|JCT 11|10|POBJ 12|1|PUNCT
+*CHI:	yeah . 1233634_1234261
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	aren't you afraid of it being stolen or something ? 1234261_1236207
+%mor:	aux|be&PRES~neg|not pro:per|you adj|afraid prep|of pro:per|it
+	n|being part|steal&PASTP coord|or pro:indef|something ?
+%gra:	1|0|INCROOT 2|1|NEG 3|1|PRED 4|3|PRED 5|4|JCT 6|7|MOD 7|5|POBJ 8|7|XMOD
+	9|8|CONJ 10|9|COORD 11|1|PUNCT
+*CHI:	+< no ! 1235707_1236624
+%mor:	co|no !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	no ? 1236624_1237054
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	it's always in my pockets . 1237054_1238982
+%mor:	pro:per|it~cop|be&3S adv|always prep|in det:poss|my n|pocket-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*FAT:	do you keep any money with you Mark ? 1238982_1240747
+%mor:	mod|do pro:per|you v|keep qn|any n|money prep|with pro:per|you
+	n:prop|Mark ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|JCT 7|8|SUBJ 8|6|POBJ
+	9|3|PUNCT
+*MAR:	hmhm . 1240747_1241494
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	would you like a little bit to carry ? 1241494_1242906
+%mor:	mod|will&COND pro:per|you v|like det:art|a adj|little n|bit inf|to
+	v|carry ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|8|INF 8|6|XMOD
+	9|3|PUNCT
+*MAR:	yeah . 1242906_1243638
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	okay ‡ I'm gonna give you +//. 1243638_1245727
+%mor:	co|okay beg|beg pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|give
+	pro:per|you +//.
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|5|PUNCT
+*CHI:	+< xxx . 1245127_1246323
+*FAT:	+< no ‡ Mark [: Ross] [* s:r] you've got enough . 1246027_1247480
+%mor:	co|no beg|beg n:prop|Ross pro:per|you~aux|have part|get&PASTP
+	adv|enough .
+%gra:	1|0|BEG 2|1|BEGP 3|6|LINK 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|6|PUNCT
+*FAT:	here . 1247380_1248095
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	you carry a quarter with you . 1248095_1249314
+%mor:	pro:per|you v|carry det:art|a n|quarter prep|with pro:per|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|5|POBJ 7|2|PUNCT
+*FAT:	keep it somewhere safe Mark . 1249314_1250801
+%mor:	v|keep pro:per|it adv|somewhere adj|safe n:prop|Mark .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|MOD 5|3|POBJ 6|1|PUNCT
+*MAR:	+< xxx . 1250201_1252380
+*FAT:	+< no ‡ you don't need it Mark . 1251201_1252380
+%mor:	co|no beg|beg pro:per|you mod|do~neg|not v|need pro:per|it
+	n:prop|Mark .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|OBJ
+	9|6|PUNCT
+*FAT:	you don't need it Ross . 1252380_1253227
+%mor:	pro:per|you mod|do~neg|not v|need pro:per|it n:prop|Ross .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|OBJ 7|4|PUNCT
+*CHI:	come on . 1253227_1253749
+%mor:	v|come adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*FAT:	unhunh . 1253749_1254376
+%mor:	co|unhunh=no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	please . 1254376_1255026
+%mor:	co|please .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	<not a> [//] no chance . 1255026_1256141
+%mor:	qn|no n|chance .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*CHI:	+< I'll give you a nickel for it . 1255841_1257075
+%mor:	pro:sub|I~mod|will v|give pro:per|you det:art|a n|nickel prep|for
+	pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ2 5|6|DET 6|3|OBJ 7|6|NJCT 8|7|POBJ
+	9|3|PUNCT
+*FAT:	not a chance . 1257075_1257581
+%mor:	neg|not det:art|a n|chance .
+%gra:	1|3|NEG 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*FAT:	what a deal . 1257581_1258452
+%mor:	pro:int|what det:art|a n|deal .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*CHI:	+< a quarter . 1257752_1258565
+%mor:	det:art|a n|quarter .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*FAT:	what a deal . 1258565_1259241
+%mor:	pro:int|what det:art|a n|deal .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*FAT:	oh ‡ that's a bad deal for you . 1259241_1260795
+%mor:	co|oh beg|beg pro:dem|that~cop|be&3S det:art|a adj|bad n|deal
+	prep|for pro:per|you .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|7|NJCT
+	9|8|POBJ 10|4|PUNCT
+*CHI:	what ? 1260795_1261108
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	that's a bad deal for you . 1261108_1262469
+%mor:	pro:dem|that~cop|be&3S det:art|a adj|bad n|deal prep|for
+	pro:per|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|6|POBJ 8|2|PUNCT
+*CHI:	who cares ? 1262469_1263907
+%mor:	pro:rel|who n|care-PL ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*FAT:	you oughta care . 1263907_1264988
+%mor:	pro:per|you mod|ought~inf|to v|care .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|PUNCT
+*CHI:	what ? 1264988_1265418
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	you oughta care . 1265418_1266231
+%mor:	pro:per|you mod|ought~inf|to v|care .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|PUNCT
+*FAT:	you shouldn't trade little money for big money . 1266231_1268645
+%mor:	pro:per|you mod|should~neg|not v|trade adj|little n|money prep|for
+	adj|big n|money .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|MOD 6|4|OBJ 7|6|NJCT 8|9|MOD
+	9|7|POBJ 10|4|PUNCT
+*FAT:	0 . 1268645_1272954
+*FAT:	I mean you shouldn't trade big money for little money . 1272954_1275399
+%mor:	pro:sub|I v|mean pro:per|you mod|should~neg|not v|trade adj|big
+	n|money prep|for adj|little n|money .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|2|COMP 7|8|MOD 8|6|OBJ
+	9|6|JCT 10|11|MOD 11|9|POBJ 12|2|PUNCT
+*CHI:	xxx come one . 1275399_1277245
+%mor:	v|come pro:indef|one .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*FAT:	+< if you trade little money for big money that's the other
+	person's problem . 1276459_1279199
+%mor:	conj|if pro:per|you v|trade adj|little n|money prep|for adj|big
+	n|money pro:rel|that~cop|be&3S det:art|the qn|other
+	adj|person&dn-POSS n|problem .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|5|NJCT 7|8|MOD 8|6|POBJ
+	9|10|LINK 10|8|CMOD 11|14|DET 12|14|QUANT 13|14|MOD 14|10|PRED 15|3|PUNCT
+*CHI:	Dad ‡ come on . 1279199_1280882
+%mor:	n:prop|Dad beg|beg v|come adv|on .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*FAT:	you don't wanna lose your money Lover . 1280882_1282496
+%mor:	pro:per|you mod|do~neg|not v|want~inf|to v|lose det:poss|your
+	n|money n:prop|Lover .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|8|APP 10|4|PUNCT
+*CHI:	<I was> [//] I don't care about my xxx . 1282496_1286107
+%mor:	pro:sub|I mod|do~neg|not v|care prep|about det:poss|my .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*FAT:	+< you should care about your money . 1285807_1287163
+%mor:	pro:per|you mod|should v|care prep|about det:poss|your n|money .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*FAT:	you should be careful with your money . 1287163_1289114
+%mor:	pro:per|you mod|should cop|be adj|care&dn-FULL prep|with
+	det:poss|your n|money .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*CHI:	+< I don't care about my money . 1288714_1292057
+%mor:	pro:sub|I mod|do~neg|not v|care prep|about det:poss|my n|money .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+@G:	New Episode
+*FAT:	Ross <is telling> [//] &-uh Mark are telling us what they remember
+	from when they were little . 1292057_1295581
+%mor:	n:prop|Ross n:prop|Mark aux|be&PRES part|tell-PRESP pro:obj|us
+	pro:int|what pro:sub|they v|remember prep|from pro:int|when
+	pro:sub|they cop|be&PAST adj|little .
+%gra:	1|2|NAME 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|LINK 7|8|SUBJ 8|4|COMP
+	9|8|JCT 10|12|LINK 11|12|SUBJ 12|9|CPOBJ 13|12|PRED 14|4|PUNCT
+*MAR:	and then we say it into the tape recorder . 1295581_1298658
+%mor:	coord|and adv:tem|then pro:sub|we v|say pro:per|it prep|into
+	det:art|the n|tape n|record&dv-AGT .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|4|PUNCT
+*FAT:	+< Ross . 1297088_1297715
+%mor:	n:prop|Ross .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	and then you can hear it . 1298658_1300376
+%mor:	coord|and adv:tem|then pro:per|you mod|can v|hear pro:per|it .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*FAT:	what's that ? 1300376_1301351
+%mor:	pro:int|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MAR:	I'm just doing a joke . 1301351_1303696
+%mor:	pro:sub|I~aux|be&1S adv|just part|do-PRESP det:art|a n|joke .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*MAR:	0 . 1303696_1307016
+*FAT:	what was this joke Mark ? 1307016_1308491
+%mor:	pro:int|what cop|be&PAST&13S det:dem|this n|joke n:prop|Mark ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|4|APP 6|2|PUNCT
+*MAR:	oh ‡ I know that (.) (be)cause those work . 1308491_1313785
+%mor:	co|oh beg|beg pro:sub|I v|know adv|that conj|because det:dem|those
+	n|work .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*FAT:	huh . 1313785_1316074
+%mor:	co|huh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	twelve . 1316074_1316769
+%mor:	det:num|twelve .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	talking to him . 1316769_1318696
+%mor:	part|talk-PRESP prep|to pro:obj|him .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MAR:	&+i if you haven't been talking to him . 1318696_1321448
+%mor:	conj|if pro:per|you aux|have~neg|not aux|be&PASTP part|talk-PRESP
+	prep|to pro:obj|him .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|AUX 4|3|NEG 5|6|AUX 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|PUNCT
+*MAR:	and God hasta remember them . 1321448_1324710
+%mor:	coord|and n:prop|God mod|have&3S~inf|to v|remember pro:obj|them .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*FAT:	+< yeah . 1321448_1321970
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	mhm . 1324710_1325260
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	and he says them into his wire . 1325260_1328300
+%mor:	coord|and pro:sub|he v|say-3S pro:obj|them prep|into det:poss|his
+	n|wire .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*FAT:	mhm . 1328300_1328820
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	+< and it goes over to a tape recorder . 1328620_1331189
+%mor:	coord|and pro:per|it v|go-3S adv|over prep|to det:art|a n|tape
+	n|record&dv-AGT .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|3|PUNCT
+*FAT:	+< mhm . 1330989_1331795
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	every tape recorder . 1331795_1333411
+%mor:	qn|every n|tape n|record&dv-AGT .
+%gra:	1|2|QUANT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*FAT:	mhm . 1333411_1334456
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	and then people can listen to the people saying . 1334456_1338898
+%mor:	coord|and adv:tem|then n|person&PL mod|can v|listen prep|to
+	det:art|the n|person&PL part|say-PRESP .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|XJCT 10|5|PUNCT
+*FAT:	mhm . 1338898_1341228
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	<but the> [//] but some people listen . 1341228_1346302
+%mor:	conj|but qn|some n|person&PL v|listen .
+%gra:	1|4|LINK 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MAR:	sometimes other people listen to the wrong person . 1346302_1352655
+%mor:	adv|sometimes qn|other n|person&PL v|listen prep|to det:art|the
+	n|wrong n|person .
+%gra:	1|2|JCT 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*FAT:	mhm . 1352655_1356420
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	so ‡ does God have a wire ? 1356420_1358566
+%mor:	co|so beg|beg mod|do&3S n:prop|God v|have det:art|a n|wire ?
+%gra:	1|0|BEG 2|1|BEGP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*MAR:	mhm . 1358566_1359308
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	where does the wire go ? 1359308_1361429
+%mor:	pro:int|where v|do&3S det:art|the n|wire v|go ?
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|2|PUNCT
+*MAR:	in [/] &-uh in only one wire . 1361429_1364289
+%mor:	prep|in qn|only det:num|one n|wire .
+%gra:	1|0|INCROOT 2|4|QUANT 3|4|QUANT 4|1|POBJ 5|1|PUNCT
+*MAR:	and [/] and it goes every way . 1364289_1368068
+%mor:	coord|and pro:per|it v|go-3S qn|every n|way .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*FAT:	all the tape recorders ? 1368068_1370107
+%mor:	qn|all det:art|the n|tape n|record&dv-AGT-PL ?
+%gra:	1|4|QUANT 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*MAR:	hmhm . 1370107_1371283
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	it has tape recorders stuck to it . 1371283_1373965
+%mor:	pro:per|it aux|have&3S n|tape n|record&dv-AGT-PL v|stick&PAST
+	prep|to pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*FAT:	oh ‡ I see . 1373965_1374912
+%mor:	co|oh beg|beg pro:sub|I v|see .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MAR:	and it's only one . 1374912_1376932
+%mor:	coord|and pro:per|it~cop|be&3S adv|only pro:indef|one .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*FAT:	mhm . 1376932_1377989
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	and +//. 1377989_1378593
+%mor:	coord|and +//.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	you mean God hears everything . 1378593_1381018
+%mor:	pro:per|you v|mean n:prop|God v|hear-3S pro:indef|everything .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|2|PUNCT
+*MAR:	yeah . 1381018_1382492
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	where did you learn that ? 1382492_1386070
+%mor:	pro:int|where mod|do&PAST pro:per|you v|learn pro:dem|that ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*MAR:	nowhere . 1386070_1387217
+%mor:	n|nowhere .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	he hasta hear it . 1387217_1389924
+%mor:	pro:sub|he mod|have&3S~inf|to v|hear pro:per|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*MAR:	for [//] the few sakes . 1389924_1391840
+%mor:	det:art|the qn|few n|sake-PL .
+%gra:	1|3|DET 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*MAR:	it [/] <it can't> [/] it can't +/. 1391840_1395056
+%mor:	pro:per|it mod|can~neg|not +/.
+%gra:	1|0|INCROOT 2|4|AUX 3|2|NEG 4|1|PUNCT
+*MAR:	Dad . 1395056_1397797
+%mor:	n:prop|Dad .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	oh ‡ just in their mind . 1397797_1399599
+%mor:	co|oh beg|beg adv|just prep|in det:poss|their n|mind .
+%gra:	1|0|BEG 2|1|BEGP 3|4|JCT 4|0|INCROOT 5|6|DET 6|4|POBJ 7|4|PUNCT
+*CHI:	ugh . 1399599_1400423
+%mor:	co|ugh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	now ‡ Ross what do you remember from when you were really little .
+	1400423_1402625
+%mor:	adv|now beg|beg n:prop|Ross pro:int|what mod|do pro:per|you
+	v|remember prep|from conj|when pro:per|you cop|be&PAST adv|really
+	adj|little .
+%gra:	1|0|BEG 2|1|BEGP 3|7|LINK 4|7|SUBJ 5|7|AUX 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|11|LINK 10|11|SUBJ 11|8|POBJ 12|13|JCT 13|11|PRED 14|7|PUNCT
+*CHI:	hm: . 1402625_1403809
+%mor:	co|hm .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	+< <you remember> [/] you remember from Denver Matt and folk
+	dancing . 1402825_1406990
+%mor:	pro:per|you v|remember prep|from n:prop|Denver n:prop|Matt
+	coord|and n|folk part|dance-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|NAME 5|3|POBJ 6|2|CONJ 7|6|COORD 8|7|XMOD
+	9|2|PUNCT
+*FAT:	and what was the other thing you remembered ? 1406990_1408925
+%mor:	coord|and pro:int|what cop|be&PAST&13S det:art|the qn|other n|thing
+	pro:per|you v|remember-PAST ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|QUANT 6|3|PRED 7|8|SUBJ 8|6|CMOD
+	9|3|PUNCT
+*CHI:	&-um that big party „ you know ? 1408925_1412598
+%mor:	det:dem|that adj|big n|party end|end pro:per|you v|know ?
+%gra:	1|3|DET 2|3|MOD 3|6|SUBJ 4|5|ENDP 5|3|END 6|0|ROOT 7|6|PUNCT
+*FAT:	oh ‡ you mean the one we had &-uh at folk dancing and one for
+	Marky's birthday . 1412598_1418269
+%mor:	co|oh beg|beg pro:per|you v|mean det:art|the pro:indef|one
+	pro:sub|we v|have&PAST prep|at n|folk part|dance-PRESP coord|and
+	pro:indef|one prep|for adj|Marky&dn-POSS n|+n|birth+n|day .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|SUBJ 8|4|CJCT
+	9|8|JCT 10|9|POBJ 11|4|XJCT 12|11|CONJ 13|12|COORD 14|13|NJCT 15|16|MOD
+	16|14|POBJ 17|4|PUNCT
+*CHI:	no ! 1418269_1419314
+%mor:	co|no !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	the one with all our friends . 1419314_1421758
+%mor:	det:art|the pro:indef|one prep|with qn|all det:poss|our n|friend-PL
+	.
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|6|QUANT 5|6|DET 6|3|POBJ 7|2|PUNCT
+*FAT:	oh ‡ the one where we went back to Denver . 1421758_1424264
+%mor:	co|oh beg|beg det:art|the pro:indef|one pro:rel|where pro:sub|we
+	v|go&PAST adv|back prep|to n:prop|Denver .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|0|INCROOT 5|7|LINK 6|7|SUBJ 7|4|CMOD 8|7|JCT
+	9|7|JCT 10|9|POBJ 11|4|PUNCT
+*FAT:	+< that's the one +//. 1424264_1425460
+%mor:	pro:dem|that~cop|be&3S det:art|the pro:indef|one +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	+< didn't we have many parties ? 1424264_1426244
+%mor:	mod|do&PAST~neg|not pro:sub|we v|have qn|many n|party-PL ?
+%gra:	1|4|AUX 2|1|NEG 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|PUNCT
+*FAT:	yeah ‡ when we went we had a big party (.) when we went back to
+	Denver . 1426244_1430083
+%mor:	co|yeah beg|beg conj|when pro:sub|we v|go&PAST pro:sub|we
+	v|have&PAST det:art|a adj|big n|party conj|when pro:sub|we v|go&PAST
+	adv|back prep|to n:prop|Denver .
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|7|CJCT 6|7|SUBJ 7|0|ROOT 8|10|DET
+	9|10|MOD 10|7|OBJ 11|13|LINK 12|13|SUBJ 13|7|CJCT 14|13|JCT 15|13|JCT
+	16|15|POBJ 17|7|PUNCT
+*CHI:	+< yeah . 1429362_1430083
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	<that was> [/] that was when we came back . 1430083_1431859
+%mor:	pro:dem|that cop|be&PAST&13S conj|when pro:sub|we v|come&PAST
+	adv|back .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CJCT 6|5|JCT 7|2|PUNCT
+*FAT:	and we stayed over at Fred and Susie's . 1431859_1434394
+%mor:	coord|and pro:sub|we v|stay-PAST adv|over prep|at n:prop|Fred
+	coord|and adj|Susie&dn-POSS .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|CONJ 8|7|COORD
+	9|3|PUNCT
+*CHI:	yeah . 1434394_1434807
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	oh ‡ yeah . 1434807_1435724
+%mor:	co|oh beg|beg co|yeah .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*FAT:	but that was during the time before Hungary . 1435724_1438339
+%mor:	conj|but pro:dem|that cop|be&PAST&13S prep|during det:art|the
+	n|time conj|before n:prop|Hungary .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|JCT 8|7|POBJ
+	9|3|PUNCT
+*FAT:	that was after Hungary . 1438339_1441429
+%mor:	pro:dem|that cop|be&PAST&13S adv:tem|after n:prop|Hungary .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+*CHI:	I thought you just meant in it . 1441429_1444537
+%mor:	pro:sub|I v|think&PAST pro:per|you adv|just part|mean&PASTP prep|in
+	pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|JCT 5|2|COMP 6|5|JCT 7|6|POBJ 8|2|PUNCT
+*FAT:	unhunh no . 1444537_1445734
+%mor:	co|unhunh=no co|no .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	just any old time . 1445734_1447749
+%mor:	adv|just qn|any adj|old n|time .
+%gra:	1|2|JCT 2|4|QUANT 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*FAT:	hmhm . 1447749_1448884
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	now ‡ (.) <do you remember> [/] (.) what else do you remember from
+	Hungary ? 1448884_1453639
+%mor:	adv|now beg|beg pro:int|what post|else v|do pro:per|you v|remember
+	prep|from n:prop|Hungary ?
+%gra:	1|0|BEG 2|1|BEGP 3|5|JCT 4|3|PQ 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|7|JCT
+	9|8|POBJ 10|5|PUNCT
+*FAT:	0 . 1453639_1457039
+*FAT:	naked [//] swimming naked with the little kids . 1457039_1459361
+%mor:	part|swim-PRESP adj|naked prep|with det:art|the adj|little n|kid-PL
+	.
+%gra:	1|0|INCROOT 2|1|JCT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|1|PUNCT
+*FAT:	what else ? 1459361_1460283
+%mor:	pro:int|what post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*MAR:	what ? 1460283_1461712
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	yeah . 1461712_1462323
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	&-um +... 1462323_1463240
+*FAT:	fighting [/] fighting with Name on the +//. 1463240_1465643
+%mor:	part|fight-PRESP prep|with n:prop|Name prep|on det:art|the +//.
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|3|NJCT 5|4|POBJ 6|1|PUNCT
+*CHI:	+< &+pl playing Star_Wars . 1465343_1467548
+%mor:	part|play-PRESP n:prop|Star_Wars .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*FAT:	uhhuh yeah . 1467548_1469069
+%mor:	co|uhhuh co|yeah .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	+< growing up in that big buildings . 1468769_1471159
+%mor:	part|grow-PRESP adv|up prep|in det:dem|that adj|big n|building-PL .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|1|PUNCT
+*MAR:	what ? 1471159_1471890
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	you mean the Kings [//] Old_Kings_Cross ? 1471890_1474097
+%mor:	pro:per|you v|mean det:art|the n:prop|Old_Kings_Cross ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*FAT:	the huge one ? 1474097_1476329
+%mor:	det:art|the adj|huge pro:indef|one ?
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*FAT:	with the big stairs in it ? 1476329_1477463
+%mor:	prep|with det:art|the adj|big n|stair-PL prep|in pro:per|it ?
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|POBJ 5|4|NJCT 6|5|POBJ 7|1|PUNCT
+*MAR:	+< yeah . 1477029_1477463
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	okay . 1477463_1478718
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	just a minute . 1478718_1479599
+%mor:	adv|just det:art|a n|minute .
+%gra:	1|3|JCT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*CHI:	and &-um (.) going to the (.) stone things . 1479099_1483384
+%mor:	coord|and part|go-PRESP prep|to det:art|the n|stone n|thing-PL .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|PUNCT
+*FAT:	+< yeah ‡ with a castle xxx . 1479099_1480910
+%mor:	co|yeah beg|beg prep|with det:art|a n|castle .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|5|DET 5|3|POBJ 6|3|PUNCT
+*CHI:	stepping up . 1483384_1485079
+%mor:	n:gerund|step-PRESP adv|up .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*FAT:	oh ‡ you mean the one in Czechoslovakia ? 1485079_1487169
+%mor:	co|oh beg|beg pro:per|you v|mean det:art|the det:num|one prep|in
+	n:prop|Czechoslovakia ?
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|7|POBJ
+	9|4|PUNCT
+*MAR:	+< hey ‡ Dad ‡ (..) I remember when we were still at home . 1486869_1491871
+%mor:	co|hey beg|beg n:prop|Dad beg|beg pro:sub|I v|remember conj|when
+	pro:sub|we cop|be&PAST adv|still prep|at n|home .
+%gra:	1|0|BEG 2|1|BEGP 3|0|BEG 4|3|BEGP 5|6|SUBJ 6|0|ROOT 7|9|LINK 8|9|SUBJ
+	9|6|CJCT 10|9|JCT 11|9|JCT 12|11|POBJ 13|6|PUNCT
+*CHI:	it had the graveyard . 1491871_1493776
+%mor:	pro:per|it v|have&PAST det:art|the n|graveyard .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*FAT:	oh ‡ the graveyard at Prague . 1493776_1495598
+%mor:	co|oh beg|beg det:art|the n|graveyard prep|at n:prop|Prague .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|0|INCROOT 5|4|NJCT 6|5|POBJ 7|4|PUNCT
+*CHI:	&+n with &-um xxx . 1495598_1500300
+%mor:	prep|with .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	+< that was in Czechoslovakia . 1495598_1498372
+%mor:	pro:dem|that cop|be&PAST&13S prep|in n:prop|Czechoslovakia .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*FAT:	and [/] and János uhhuh . 1498772_1500300
+%mor:	coord|and n:prop|János co|uhhuh .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*FAT:	that was in Prague . 1500300_1502053
+%mor:	pro:dem|that cop|be&PAST&13S prep|in n:prop|Prague .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*CHI:	Prague . 1502053_1502564
+%mor:	n:prop|Prague .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	remember that's when we brought you to the +/. 1502564_1503804
+%mor:	co|remember pro:dem|that~cop|be&3S conj|when pro:sub|we
+	v|bring&PAST pro:per|you prep|to det:art|the +/.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|ROOT 7|6|OBJ 8|6|JCT
+	9|10|DET 10|8|POBJ
+*FAT:	that's in Czechoslovakia . 1503804_1504814
+%mor:	pro:dem|that~cop|be&3S prep|in n:prop|Czechoslovakia .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*FAT:	that's another country <next to it> [//] next to Hungary . 1504814_1506975
+%mor:	pro:dem|that~cop|be&3S qn|another n|country adv|next prep|to
+	n:prop|Hungary .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|NJCT 6|4|NJCT 7|6|POBJ
+	8|2|PUNCT
+*CHI:	oh . 1506975_1510269
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	did you remember anything else ? 1510269_1511794
+%mor:	mod|do&PAST pro:per|you co|remember pro:indef|anything post|else ?
+%gra:	1|3|AUX 2|3|SUBJ 3|4|COM 4|0|ROOT 5|4|PQ 6|4|PUNCT
+*MAR:	+< Dad [x 4] . 1511094_1512653
+%mor:	n:prop|Dad .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	+< did you remember the [/] &-uh the place we lived in Hungary ? 1512353_1514476
+%mor:	mod|do&PAST pro:per|you co|remember det:art|the n|place pro:sub|we
+	v|live-PAST prep|in n:prop|Hungary ?
+%gra:	1|7|AUX 2|7|SUBJ 3|7|COM 4|5|DET 5|7|JCT 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|8|POBJ 10|7|PUNCT
+*MAR:	+< Dad . 1513053_1513773
+%mor:	n:prop|Dad .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	Dad ! 1514476_1516058
+%mor:	n:prop|Dad !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	what ? 1516058_1516783
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	remember the place we lived in Hungary and all of the kids would
+	play bicycle outside ? 1516783_1520350
+%mor:	v|remember det:art|the n|place pro:sub|we v|live-PAST prep|in
+	n:prop|Hungary coord|and pro:indef|all prep|of det:art|the n|kid-PL
+	mod|will&COND v|play v|bicycle adv|outside ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|SUBJ 5|1|CJCT 6|5|JCT 7|6|POBJ 8|14|LINK
+	9|14|SUBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|14|AUX 14|5|CJCT 15|14|OBJ
+	16|14|JCT 17|1|PUNCT
+*MAR:	+< Dad (.) dad . 1516783_1520350
+%mor:	n:prop|Dad n|dad .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MAR:	Dad . 1520350_1521859
+%mor:	n:prop|Dad .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	remember they useta ride their bicycles out where the cars were ? 1521859_1524507
+%mor:	co|remember pro:sub|they mod|used~inf|to v|ride det:poss|their
+	v|bicycle-3S adv|out pro:int|where det:art|the n|car-PL cop|be&PAST
+	?
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|12|LINK 10|11|DET 11|12|SUBJ 12|5|COMP 13|5|PUNCT
+*MAR:	+< Dad . 1523707_1524507
+%mor:	n:prop|Dad .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	can I be excused please ? 1524507_1526411
+%mor:	mod|can pro:sub|I aux|be part|excuse-PASTP co|please ?
+%gra:	1|4|AUX 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|COM 6|4|PUNCT
+*FAT:	+< yes ‡ you may be excused . 1525374_1526465
+%mor:	co|yes beg|beg pro:per|you mod|may aux|be part|excuse-PASTP .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|6|AUX 6|0|ROOT 7|6|PUNCT
+*MAR:	+< Dad . 1526165_1527104
+%mor:	n:prop|Dad .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	+< Mark ‡ do you remember Hungary ? 1527104_1528199
+%mor:	n:prop|Mark beg|beg mod|do pro:per|you v|remember n:prop|Hungary ?
+%gra:	1|0|BEG 2|1|BEGP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*MAR:	&=sighs . 1528199_1529705
+*MAR:	unhunh . 1529705_1530320
+%mor:	co|unhunh=no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	you don't remember anything in Hungary ? 1530320_1531983
+%mor:	pro:per|you mod|do~neg|not v|remember pro:indef|anything prep|in
+	n:prop|Hungary ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|5|NJCT 7|6|POBJ 8|4|PUNCT
+*CHI:	+< &=makes_noise . 1530320_1533932
+*MAR:	+< Dad [x 3] . 1532583_1533632
+%mor:	n:prop|Dad .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	remember Madman_Mark when you useta come running down the hill ? 1533932_1536523
+%mor:	v|remember n:prop|Madman_Mark conj|when pro:per|you mod|used~inf|to
+	v|come part|run-PRESP prep|down det:art|the n|hill ?
+%gra:	1|0|ROOT 2|1|OBJ 3|7|LINK 4|7|SUBJ 5|7|AUX 6|7|INF 7|1|CJCT 8|7|COMP
+	9|8|JCT 10|11|DET 11|9|POBJ 12|1|PUNCT
+*MAR:	oh ‡ yeah . 1536523_1538268
+%mor:	co|oh beg|beg co|yeah .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*MAR:	I [/] I like that . 1538268_1540225
+%mor:	pro:sub|I v|like pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*FAT:	and we useta go walking around that area . 1540225_1542223
+%mor:	coord|and pro:sub|we mod|used~inf|to v|go part|walk-PRESP
+	prep|around det:dem|that n|area .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|5|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+*MAR:	uhhuh . 1542223_1543706
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	do you remember when you were Madman ? 1543706_1544716
+%mor:	mod|do pro:per|you v|remember conj|when pro:per|you cop|be&PAST
+	n:prop|Madman ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CJCT 7|6|PRED 8|3|PUNCT
+*FAT:	what'd you do when you were Madman_Mark Marky ? 1544716_1546879
+%mor:	pro:int|what~mod|genmod pro:per|you v|do conj|when pro:per|you
+	cop|be&PAST n:prop|Madman_Mark n:prop|Marky ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|9|NAME
+	9|7|PRED 10|4|PUNCT
+*MAR:	hm hm . 1546879_1548202
+%mor:	co|hm co|hm .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*FAT:	you don't remember ? 1548202_1548817
+%mor:	pro:per|you mod|do~neg|not v|remember ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*CHI:	hmhm he doesn't . 1548817_1550757
+%mor:	co|no pro:sub|he mod|do&3S~neg|not .
+%gra:	1|0|INCROOT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|1|PUNCT
+*FAT:	he doesn't remember that „ does he ? 1550757_1551872
+%mor:	pro:sub|he mod|do&3S~neg|not v|remember pro:dem|that end|end
+	v|do&3S pro:sub|he ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|7|ENDP 7|4|COMP 8|7|OBJ
+	9|4|PUNCT
+*FAT:	he was too little . 1551872_1552394
+%mor:	pro:sub|he cop|be&PAST&13S adv|too adj|little .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*MAR:	+< I'm going to eat with the same xxx . 1552094_1554206
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|eat prep|with
+	det:art|the adj|same .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*CHI:	+< you know what ? 1552394_1553009
+%mor:	pro:per|you v|know pro:int|what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*FAT:	okay . 1554206_1555019
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	<what is> [//] the earliest thing Mark remembers is when little
+	Name useta scratch him . 1555019_1559318
+%mor:	det:art|the adj|early-SP n|thing n:prop|Mark v|remember-3S
+	cop|be&3S pro:int|when adj|little n:prop|Name mod|used~inf|to
+	v|scratch pro:obj|him .
+%gra:	1|3|DET 2|3|MOD 3|6|SUBJ 4|5|SUBJ 5|3|CMOD 6|0|ROOT 7|12|LINK 8|9|MOD
+	9|12|SUBJ 10|12|AUX 11|12|INF 12|6|CPRED 13|12|OBJ 14|6|PUNCT
+*FAT:	that's when he was about two years and three months . 1559318_1561845
+%mor:	pro:dem|that~cop|be&3S conj|when pro:sub|he cop|be&PAST&13S
+	prep|about det:num|two n|year-PL coord|and det:num|three n|month-PL
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CJCT 6|7|JCT 7|8|QUANT 8|5|PRED
+	9|8|CONJ 10|11|QUANT 11|9|COORD 12|2|PUNCT
+*CHI:	I remember +//. 1561845_1562867
+%mor:	pro:sub|I v|remember +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*FAT:	which is very early . 1562867_1564132
+%mor:	pro:rel|which cop|be&3S adv|very adv|early .
+%gra:	1|2|LINK 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*CHI:	I remember . 1564132_1566030
+%mor:	pro:sub|I v|remember .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	mhm . 1566030_1569321
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	after lunch after (.) &-um the cat (.) &-um was dead . 1569321_1575929
+%mor:	prep|after n|lunch prep|after det:art|the n|cat cop|be&PAST&13S
+	adj|dead .
+%gra:	1|0|INCROOT 2|1|POBJ 3|6|LINK 4|5|DET 5|6|SUBJ 6|2|CMOD 7|6|PRED
+	8|1|PUNCT
+*FAT:	+< mhm . 1573321_1574499
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	mhm . 1575929_1577008
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	after that . 1577008_1579376
+%mor:	prep|after pro:dem|that .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*FAT:	you were very sad „ weren't you ? 1579376_1580646
+%mor:	pro:per|you cop|be&PAST adv|very adj|sad end|end
+	cop|be&PAST~neg|not pro:per|you ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|6|ENDP 6|2|END 7|2|NEG 8|2|SUBJ
+	9|2|PUNCT
+*MAR:	no [x 5] ‡ one of those times (.) we put animals on the stairs . 1580646_1590359
+%mor:	co|no beg|beg det:num|one prep|of det:dem|those n|time-PL
+	pro:sub|we v|put&ZERO n|animal-PL prep|on det:art|the n|stair-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|8|LINK 4|3|JCT 5|6|DET 6|4|POBJ 7|8|SUBJ 8|0|ROOT
+	9|8|OBJ 10|8|JCT 11|12|DET 12|10|POBJ 13|8|PUNCT
+*FAT:	yes ‡ I remember that . 1590359_1592007
+%mor:	co|yes beg|beg pro:sub|I v|remember pro:dem|that .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*FAT:	because you wanted to have animals because you missed your kitty „
+	right ? 1592007_1595212
+%mor:	conj|because pro:per|you v|want-PAST inf|to v|have n|animal-PL
+	conj|because pro:per|you v|miss-PAST det:poss|your n|kitty end|end
+	co|right ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|9|LINK 8|9|SUBJ
+	9|3|CJCT 10|11|DET 11|9|OBJ 12|13|ENDP 13|3|END 14|3|PUNCT
+*MAR:	mhm . 1595212_1596233
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	hmhm . 1596233_1599037
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	you didn't miss your kitty ? 1599037_1600378
+%mor:	pro:per|you mod|do&PAST~neg|not v|miss det:poss|your n|kitty ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*MAR:	mm . 1600378_1601191
+%mor:	co|mm .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	and when did you get another cat ? 1601191_1604335
+%mor:	coord|and pro:int|when mod|do&PAST pro:per|you v|get qn|another
+	n|cat ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|5|PUNCT
+*CHI:	last year . 1604335_1605452
+%mor:	adj|last n|year .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MAR:	last year ? 1605452_1606211
+%mor:	adj|last n|year ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*FAT:	<on what day did we> [//] what day did we get it on ? 1606211_1610308
+%mor:	pro:int|what n|day mod|do&PAST pro:sub|we v|get pro:per|it adv|on ?
+%gra:	1|2|MOD 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|JCT 8|5|PUNCT
+*MAR:	+< the &-uh twenty third . 1610308_1611756
+%mor:	det:art|the det:num|twenty adj|third .
+%gra:	1|3|DET 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*FAT:	twenty third of July ? 1611756_1613312
+%mor:	det:num|twenty n|third prep|of n:prop|July ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*MAR:	yeah . 1613312_1613625
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	no ‡ we bought him on the day +//. 1613625_1614844
+%mor:	co|no beg|beg pro:sub|we v|buy&PAST pro:obj|him prep|on det:art|the
+	n|day +//.
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*CHI:	+< twenty fifth . 1614612_1616260
+%mor:	det:num|twenty adj|fifth .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*FAT:	a day of independence of the United_States . 1616260_1619035
+%mor:	det:art|a n|day prep|of in#n|dependence prep|of det:art|the
+	n:prop|United_States .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|2|PUNCT
+*CHI:	twenty [//] fourth ! 1619035_1621021
+%mor:	adj|fourth !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	the forth of July . 1621021_1623459
+%mor:	det:art|the adv|forth prep|of n:prop|July .
+%gra:	1|2|DET 2|0|INCROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*FAT:	very good . 1623459_1623970
+%mor:	adv|very adj|good .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*FAT:	that's the day we got sparkler . 1623970_1625595
+%mor:	pro:dem|that~cop|be&3S det:art|the n|day pro:sub|we v|get&PAST
+	n|sparkle&dv-AGT .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|SUBJ 6|4|CMOD 7|6|OBJ 8|2|PUNCT
+*MAR:	mhm . 1625595_1626396
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	and Mommy calls him what ? 1626396_1628598
+%mor:	coord|and n:prop|Mommy v|call-3S pro:obj|him pro:int|what ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|COMP 6|3|PUNCT
+*CHI:	Cobweb . 1628598_1629891
+%mor:	n:prop|Cobweb .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	okay ‡ Ross you go xxx . 1629891_1631423
+%mor:	co|okay beg|beg n:prop|Ross pro:per|you v|go .
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*FAT:	you're finished . 1631423_1632131
+%mor:	pro:per|you~aux|be&PRES part|finish-PASTP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	+< oh ‡ sorry . 1631423_1632131
+%mor:	co|oh beg|beg co|sorry .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*FAT:	you hafta go . 1632131_1633652
+%mor:	pro:per|you mod|have~inf|to v|go .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|PUNCT
+*CHI:	maybe I should +//. 1633652_1634674
+%mor:	adv|maybe pro:sub|I mod|should +//.
+%gra:	1|3|JCT 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*FAT:	+< you're finished „ no no . 1634267_1636017
+%mor:	pro:per|you~aux|be&PRES part|finish-PASTP end|end co|no co|no .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|ENDP 5|3|END 6|3|COM 7|3|PUNCT
+*FAT:	what does Mommy call him ? 1636017_1637089
+%mor:	pro:int|what mod|do&3S n:prop|Mommy v|call pro:obj|him ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*MAR:	Cobweb . 1637089_1638099
+%mor:	n:prop|Cobweb .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	uhhuh . 1638099_1638505
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	and what do you call him ? 1638505_1641560
+%mor:	coord|and pro:int|what mod|do pro:per|you v|call pro:obj|him ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*MAR:	one second &-um +... 1641560_1644305
+%mor:	det:num|one n|second +...
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*FAT:	what's your name for the Kitty ? 1644305_1645218
+%mor:	pro:int|what~cop|be&3S det:poss|your n|name prep|for det:art|the
+	n:prop|Kitty ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*MAR:	&-um Speedy . 1645218_1647027
+%mor:	n:prop|Speedy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	Speedy . 1647027_1648002
+%mor:	n:prop|Speedy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	and what's Ross's name ? 1648002_1650256
+%mor:	coord|and pro:int|what~cop|be&3S adj|Ross&dn-POSS n|name ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|PUNCT
+*MAR:	Spike . 1650256_1651225
+%mor:	n:prop|Spike .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	Spike . 1651225_1652211
+%mor:	n:prop|Spike .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	no ‡ no ‡ for the Kitty . 1652211_1653691
+%mor:	co|no beg|beg co|no beg|beg prep|for det:art|the n:prop|Kitty .
+%gra:	1|0|BEG 2|1|BEGP 3|0|BEG 4|3|BEGP 5|0|INCROOT 6|7|DET 7|5|POBJ
+	8|5|PUNCT
+*MAR:	&-uh . 1653691_1654711
+*FAT:	what's your name for the Kitty ? 1654711_1656336
+%mor:	pro:int|what~cop|be&3S det:poss|your n|name prep|for det:art|the
+	n:prop|Kitty ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*MAR:	Spike . 1656336_1657731
+%mor:	n:prop|Spike .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	Spike the Kitty is Spike ? 1657731_1659231
+%mor:	n:prop|Spike det:art|the n:prop|Kitty cop|be&3S n:prop|Spike ?
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*MAR:	mhm . 1659231_1659858
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	your name or Ross's name . 1659858_1661412
+%mor:	det:poss|your n|name coord|or adj|Ross&dn-POSS n|name .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|5|MOD 5|3|COORD 6|2|PUNCT
+*FAT:	0 . 1661412_1664148
+*FAT:	Ross calls the kitty Spike ? 1664148_1665518
+%mor:	n:prop|Ross v|call-3S det:art|the n|kitty n:prop|Spike ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|APP 6|2|PUNCT
+*MAR:	&+go +//. 1664148_1664473
+*MAR:	mhm . 1665518_1666736
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	Ross do you call the kitty Spike ? 1666736_1668896
+%mor:	n:prop|Ross v|do pro:per|you v|call det:art|the n|kitty
+	n:prop|Spike ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|OBJ 7|6|APP 8|2|PUNCT
+*CHI:	what ? 1668896_1669318
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	do you call the kitty Spike ? 1669318_1671187
+%mor:	mod|do pro:per|you v|call det:art|the n|kitty n:prop|Spike ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|APP 7|3|PUNCT
+*CHI:	yeah ! 1671187_1672146
+%mor:	co|yeah !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	the cat ? 1672146_1673303
+%mor:	det:art|the n|cat ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	yes ! 1673303_1675536
+%mor:	co|yes !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	I can't believe that . 1675536_1677767
+%mor:	pro:sub|I mod|can~neg|not v|believe pro:dem|that .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*FAT:	I thought you were Spike . 1677767_1680443
+%mor:	pro:sub|I v|think&PAST pro:per|you cop|be&PAST n:prop|Spike .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|PRED 6|2|PUNCT
+*FAT:	wait [x 3] . 1680443_1681857
+%mor:	co|wait .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	&-uh Dad . 1681857_1682867
+%mor:	n:prop|Dad .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	mhm . 1683267_1683685
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MAR:	he and the cat are Spike . 1683685_1685276
+%mor:	pro:sub|he coord|and det:art|the n|cat cop|be&PRES n:prop|Spike .
+%gra:	1|5|SUBJ 2|1|CONJ 3|4|DET 4|2|COORD 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*FAT:	oh ‡ Spike the kitty . 1685276_1686576
+%mor:	co|oh beg|beg n:prop|Spike det:art|the n|kitty .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MAR:	+< and me and cat are Speedy . 1686376_1689678
+%mor:	coord|and pro:obj|me coord|and n|cat cop|be&PRES n:prop|Speedy .
+%gra:	1|5|LINK 2|5|SUBJ 3|2|CONJ 4|3|COORD 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*FAT:	I see . 1689678_1690332
+%mor:	pro:sub|I v|see .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MAR:	xxx . 1690332_1691249
+*MAR:	that means +//. 1691549_1692188
+%mor:	pro:rel|that v|mean-3S +//.
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*FAT:	+< that is very confusing . 1691849_1693130
+%mor:	pro:rel|that aux|be&3S adv|very part|confuse-PRESP .
+%gra:	1|4|LINK 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*MAR:	+< <that mean> [//] that means Speedy_Dum_Dum . 1692930_1696578
+%mor:	pro:rel|that v|mean-3S n:prop|Speedy_Dum_Dum .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*FAT:	how about Speedy_Meows and Spiky_Meows (.) „ okay ? 1696278_1702720
+%mor:	pro:int|how prep|about n:prop|Speedy_Meows coord|and
+	n:prop|Spiky_Meows end|end co|okay ?
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|CONJ 5|4|COORD 6|7|ENDP 7|3|END 8|3|PUNCT
+@End

@@ -1,0 +1,218 @@
+@UTF8
+@PID:	11312/c-00016466-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Ross Target_Child , FAT Brian Father
+@ID:	eng|MacWhinney|CHI|2;08.05|male|TD||Target_Child|||
+@ID:	eng|MacWhinney|FAT||male|||Father|||
+@Media:	020805b, audio
+@Situation:	Ross wanted Mary to come in and look at his spaceship
+@Types:	long, toyplay, TD
+*CHI:	come in and see . 0_9454
+%mor:	v|come adv|in coord|and v|see .
+%gra:	1|0|ROOT 2|1|JCT 3|1|CONJ 4|3|COORD 5|1|PUNCT
+*CHI:	come on in and see . 9454_12055
+%mor:	v|come prep|on adv|in coord|and v|see .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*CHI:	come in and watch . 12055_14822
+%mor:	v|come adv|in coord|and n|watch .
+%gra:	1|0|ROOT 2|1|JCT 3|1|CONJ 4|3|COORD 5|1|PUNCT
+@New Episode
+*CHI:	not macaroni (.) spaghetti . 43429_52307
+%mor:	neg|not n|macaroni n|spaghetti .
+%gra:	1|2|NEG 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CHI:	he meant that's not macaroni (.) that's spaghetti . 52307_57918
+%mor:	pro:sub|he v|mean&PAST pro:dem|that~cop|be&3S neg|not n|macaroni
+	pro:rel|that~cop|be&3S n|spaghetti .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|NEG 6|4|PRED 7|8|LINK 8|6|CMOD
+	9|8|PRED 10|2|PUNCT
+@New Episode
+@Situation:	Brian was loading boxes into the back of the Toyota
+*CHI:	I wanna get out . 133708_146134-
+%mor:	pro:sub|I v|want~inf|to v|get adv|out .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|2|PUNCT
+%sit:	then Brian rearranged the boxes so that he wasn't so crowded
+*CHI:	I'm feeling better . 146134_153071
+%mor:	pro:sub|I~aux|be&1S part|feel-PRESP adj|good&CP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@New Episode
+*FAT:	nagyon@s:hun jo@s:hun . 194886_200459-
+%mor:	L2|nagyon L2|jo .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+%com:	referring to wine
+*CHI:	that's your nagyon@s:hun jo@s:hun . 200459_202483
+%mor:	pro:dem|that~cop|be&3S det:poss|your L2|nagyon L2|jo .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|ENUM 6|2|PUNCT
+@New Episode
+*CHI:	down there up over here way up high . 421269_426720-
+%mor:	prep|down n|there adv|up adv|over adv|here adv|way adv|up n|high .
+%gra:	1|0|INCROOT 2|1|POBJ 3|4|JCT 4|2|NJCT 5|1|JCT 6|7|JCT 7|5|JCT 8|7|POBJ
+	9|1|PUNCT
+@New Episode
+*CHI:	I'm going to take these to Susie's (.) shoes . 484306_489014
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|take det:dem|these
+	inf|to adj|Susie&dn-POSS n|shoe-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|9|DET 7|9|INF 8|9|MOD
+	9|5|OBJ 10|3|PUNCT
+@New Episode
+*CHI:	I put my (.) daddy did it . 550808_566002-
+%mor:	pro:sub|I v|put&ZERO det:poss|my n|daddy v|do&PAST pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|5|OBJ 7|2|PUNCT
+%com:	Ross was going to say I put my decal on my trike .
+@New Episode
+@Situation:	Ross was in Marky's crib
+*FAT:	tell Marky not to cry . 584085_596307-
+%mor:	v|tell n:prop|Marky neg|not inf|to v|cry .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|NEG 4|5|INF 5|1|COMP 6|1|PUNCT
+*CHI:	not to cry Marky . 596307_598702
+%mor:	neg|not inf|to v|cry n:prop|Marky .
+%gra:	1|2|NEG 2|3|INF 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+@New Episode
+@Situation:	questioning him about where he had been when he came back
+*FAT:	what did you do ? 598702_610136
+%mor:	pro:int|what mod|do&PAST pro:per|you v|do ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	I went to Susie's . 610136_610879
+%mor:	pro:sub|I v|go&PAST prep|to adj|Susie&dn-POSS .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*FAT:	yeah ? 610879_611622
+%mor:	co|yeah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	yes (.) I did . 611622_614390
+%mor:	co|yes pro:sub|I v|do&PAST .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+@New Episode
+*FAT:	we're going to go to Jan's now where they have a swimming pool . 614390_623799
+%mor:	pro:sub|we~aux|be&PRES part|go-PRESP inf|to v|go prep|to
+	adj|Jan&dn-POSS adv|now pro:rel|where pro:sub|they v|have det:art|a
+	n:gerund|swim-PRESP n|pool .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|6|POBJ 8|7|JCT
+	9|11|LINK 10|11|SUBJ 11|7|CMOD 12|14|DET 13|14|MOD 14|11|OBJ 15|3|PUNCT
+*CHI:	let's to see the swimming pool . 623799_626112
+%mor:	v|let~pro:obj|us inf|to v|see det:art|the n:gerund|swim-PRESP
+	n|pool .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|INF 4|1|COMP 5|7|DET 6|7|MOD 7|4|OBJ 8|1|PUNCT
+@New Episode
+*FAT:	the car popped . 671725_682006-
+%mor:	det:art|the n|car v|pop-PAST .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%com:	it had backfired
+*CHI:	it might pop again . 682006_688405
+%mor:	pro:per|it mod|might v|pop adv|again .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%com:	seeing another truck
+*FAT:	no (.) that's another truck . 688405_692159
+%mor:	co|no pro:dem|that~cop|be&3S qn|another n|truck .
+%gra:	1|2|COM 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|3|PUNCT
+*CHI:	where's the balloon truck ? 692159_695092
+%mor:	pro:int|where~cop|be&3S det:art|the n|balloon n|truck ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+@New Episode
+@Situation:	playing with my swimming goggles
+*CHI:	those are nice goggles glasses . 713668_730181-
+%mor:	pro:dem|those cop|be&PRES adj|nice n|goggle-PL n|glass-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|PRED 6|2|PUNCT
+@New Episode
+@Situation:	Talking about birthdays
+*CHI:	Celia's going come down and I'm going to have the birthday hat on .
+	764732_791276-
+%mor:	n:prop|Celia~aux|be&3S part|go-PRESP v|come adv|down coord|and
+	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|have det:art|the
+	n|+n|birth+n|day n|hat adv|on .
+%gra:	1|3|SUBJ 2|3|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|4|CJCT 10|11|INF 11|9|COMP 12|14|DET 13|14|MOD 14|11|OBJ 15|11|JCT
+	16|4|PUNCT
+*FAT:	right . 791276_791747
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	right . 791747_792474
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	and Celia's going to come see us . 792474_794620
+%mor:	coord|and n:prop|Celia~aux|be&3S part|go-PRESP inf|to v|come v|see
+	pro:obj|us .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|INF 6|7|SRL 7|4|COMP 8|7|OBJ
+	9|4|PUNCT
+*CHI:	yeah (.) and happy birthday cake . 794620_799245
+%mor:	co|yeah coord|and adj|happy n|+n|birth+n|day n|cake .
+%gra:	1|0|INCROOT 2|1|CONJ 3|5|MOD 4|5|MOD 5|2|COORD 6|1|PUNCT
+*FAT:	&-um: . 799245_800398
+*CHI:	yeah (.) and the candles and the new candles . 800398_805022
+%mor:	co|yeah coord|and det:art|the n|candle-PL coord|and det:art|the
+	adj|new n|candle-PL .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|1|CONJ 6|8|DET 7|8|MOD
+	8|5|COORD 9|1|PUNCT
+*CHI:	where's my happy birthday hat ? 805022_812824
+%mor:	pro:int|where~cop|be&3S det:poss|my adj|happy n|+n|birth+n|day
+	n|hat ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|2|PRED 7|2|PUNCT
+*FAT:	&-um: (.) I think it's in the party supplies . 812824_816995
+%mor:	pro:sub|I v|think pro:per|it~cop|be&3S prep|in det:art|the n|party
+	n|supply-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|2|PUNCT
+*CHI:	oh (.) let go get it . 816995_820543
+%mor:	co|oh part|let&PASTP v|go v|get pro:per|it .
+%gra:	1|4|COM 2|4|SUBJ 3|4|SRL 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+@New Episode
+@Situation:	Ross is looking at the pictures
+*CHI:	I wanna see pumpkin . 912474_925189
+%mor:	pro:sub|I v|want~inf|to co|see n|pumpkin .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|5|COM 5|2|OBJ 6|2|PUNCT
+%com:	he was trying to get Brian to look at the pictures
+*CHI:	I wanna see Kermit the Fron and you come with me . 925189_928987
+%mor:	pro:sub|I v|want~inf|to v|see n:prop|Kermit det:art|the n:prop|Fron
+	coord|and pro:per|you v|come prep|with pro:obj|me .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|7|DET 7|5|APP 8|10|LINK
+	9|10|SUBJ 10|2|CJCT 11|10|JCT 12|11|POBJ 13|2|PUNCT
+*FAT:	I've never heard him say that before . 928987_935303
+%mor:	pro:sub|I~aux|have adv|never part|hear&PASTP pro:obj|him v|say
+	comp|that adv|before .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|COMP 7|6|OBJ 8|7|JCT
+	9|4|PUNCT
+@New Episode
+@Situation:	Mary was salting peas
+*CHI:	not on my peas (.) not my peas . 949254_952764
+%mor:	neg|not prep|on det:poss|my n|pea-PL neg|not det:poss|my n|pea-PL .
+%gra:	1|2|NEG 2|0|INCROOT 3|4|DET 4|2|POBJ 5|4|NEG 6|7|DET 7|4|OBJ 8|2|PUNCT
+*CHI:	in other words you can salt your peas (.) but don't do mine . 952764_955836
+%mor:	prep|in qn|other n|word-PL pro:per|you mod|can v|salt det:poss|your
+	n|pea-PL conj|but mod|do~neg|not v|do pro:poss|mine .
+%gra:	1|6|JCT 2|3|QUANT 3|1|POBJ 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|CONJ 10|12|AUX 11|10|NEG 12|9|COORD 13|12|OBJ 14|6|PUNCT
+@New Episode
+*FAT:	damn it is not a nice word . 1013322_1025954
+%mor:	v|damn pro:per|it cop|be&3S neg|not det:art|a adj|nice n|word .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|7|DET 6|7|MOD 7|3|PRED 8|3|PUNCT
+*FAT:	your mommy doesn't say damn it . 1025954_1027977
+%mor:	det:poss|your n|mommy mod|do&3S~neg|not v|say v|damn pro:per|it .
+%gra:	1|2|DET 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|COMP 7|6|OBJ 8|5|PUNCT
+*CHI:	do you say damn it ? 1027977_1030578
+%mor:	mod|do pro:per|you v|say v|damn pro:per|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|OBJ 6|3|PUNCT
+*FAT:	no (.) I don't say damn it ? 1030578_1031776
+%mor:	co|no pro:sub|I mod|do~neg|not v|say v|damn pro:per|it ?
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|COMP 7|6|OBJ 8|5|PUNCT
+*CHI:	oh . 1031776_1032435
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	does mommy say damn it ? 1032435_1033717
+%mor:	mod|do&3S n|mommy v|say v|damn pro:per|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|OBJ 6|3|PUNCT
+*CHI:	no . 1033717_1034127
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	okay . 1034127_1035036
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	who says damn it ? 1035036_1035779
+%mor:	pro:int|who v|say-3S n|damn pro:per|it ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|3|OBJ 5|2|PUNCT
+*CHI:	I say yikes . 1035779_1038835
+%mor:	pro:sub|I v|say co|yikes .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@New Episode
+*CHI:	Marky is get [= has gotten] his bottle [= an apple] . 1168512_1180212-
+%mor:	n:prop|Marky cop|be&3S v|get det:poss|his n|bottle .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CPRED 4|5|DET 5|3|OBJ 6|2|PUNCT
+@End

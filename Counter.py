@@ -11,8 +11,8 @@ list = []
 total_num_of_syll_in_unique_words = 0
 
 my_dir = os.getcwd()
-pNameG = "Korean/Korean_train_gold.txt"
-pNameU = "Korean/Korean_train_unseg.txt"
+pNameG = "Korean/Korean_test_gold.txt"
+pNameU = "Korean/Korean_test_unseg.txt"
 with open(os.path.join(my_dir,pNameU)) as data:
     for lines in data:
         total_lines +=1
@@ -32,7 +32,7 @@ with open(os.path.join(my_dir,pNameG)) as data:
         num_words += lines[lines.find('\t')+1:].count('|')+1
         words_in_line = set([word.strip() for word in lines[lines.find('\t')+1:].split("|")])
         unique_words = unique_words.union(words_in_line)
-    #print(unique_words)
+    print(unique_words)
     
 
 for e in unique_words:
@@ -48,6 +48,13 @@ for num in list:
 #         print(b,a)
 
 
+# wordlens = [len_in_sylls(word) for word in unique_words]
+
+sorted_wordlen = list
+sorted_wordlen.sort()
+median_wordlen = sorted_wordlen[int(len(list)/2)]
+
+
 print("Total lines: ",total_lines,
 "\nNum syllables: ",num_syll, 
 "\nUnique syllables: ", len(unique_syll)-1, 
@@ -56,7 +63,8 @@ print("Total lines: ",total_lines,
 "\nTotal syllables in unique words: ",total_num_of_syll_in_unique_words, 
 "\nMean utterance length in syllable: ",num_syll/total_lines,
 "\nMean utterance length in words: ",num_words/total_lines,
-"\nMean word length in syllable: ", total_num_of_syll_in_unique_words/len(unique_words))
+"\nMean word length in syllable: ", total_num_of_syll_in_unique_words/len(unique_words),
+"\nMedian word length in syllable: ", median_wordlen)
 
 print(
 num_syll, 
@@ -65,6 +73,6 @@ num_words,
 len(unique_words)-1,
 num_syll/total_lines,
 num_words/total_lines,
-total_num_of_syll_in_unique_words/len(unique_words))
+total_num_of_syll_in_unique_words/len(unique_words),
+median_wordlen)
 
-#Korean dataset contains chinese and japanese characters

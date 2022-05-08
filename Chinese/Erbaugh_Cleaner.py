@@ -13,7 +13,7 @@ exclude = '''-{};()[]<>„'"\/@#$^&_~+‡'''
 
 
 def tokenize_syllables():
-    infname = os.path.join(my_dir,"Erbaugh/Erbaugh_test.txt")
+    infname = os.path.join(my_dir,"Erbaugh/Erbaugh_train.txt")
     with open(infname, "r") as fin:
         for line in fin:
             if "%mor:" in line and "&DIM" not in line and all(elem not in line for elem in exclude):
@@ -49,7 +49,7 @@ def tokenize_syllables():
         #     print(e)
 
 def generate_file():
-    f = open("Erbaugh/Erbaugh_test_gold.txt","w")
+    f = open("Erbaugh/Erbaugh_train_gold.txt","w")
     for e in after:
         f.write(e+"\n")
 
